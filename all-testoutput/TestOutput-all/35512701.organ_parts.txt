@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "zebrafish embryo sections" directly indicates the organ part involved, which is 'Embryo'.
+### Verify ###
+The abstract mentions "91 zebrafish embryo sections" and "zebrafish embryogenesis," which clearly verifies that the organ part being studied is 'Embryo'.
+### Context ###
+Not required in this case as the Keywords and Verify steps align well and provide sufficient evidence.
+### Conclusion ###
+Since the keywords and the context in the abstract both confirm the organ part, we can conclude that 'Embryo' is the correct result.
+### Result ###
+['Embryo']

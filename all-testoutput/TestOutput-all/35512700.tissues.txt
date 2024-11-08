@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "Drosophila embryos and larvae" and "embryonic and larval midguts" are prominent, indicating that 'Embryo' and 'Larva' may be relevant tissues. However, 'Larva' is not directly listed in the schema, so we focus on 'Embryo'.
+### Verify ###
+The abstract mentions "spatial transcriptomes of Drosophila embryos and larvae" and "functional subregions in embryonic and larval midguts," which further verifies that the study is focused on the 'Embryo' tissue.
+### Context ###
+Since the abstract is consistently discussing Drosophila development, particularly focusing on embryos and larvae, and given that 'Larva' is not an option in the schema, the context supports the focus on 'Embryo'.
+### Conclusion ###
+Consequently, we confirm 'Embryo' as the final result based on the clear and consistent focus on Drosophila embryos in the abstract.
+### Result ###
+['Embryo']

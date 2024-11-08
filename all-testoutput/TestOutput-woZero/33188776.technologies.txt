@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "deterministic barcoding in tissue for spatial omics sequencing (DBiT-seq)" stands out as a specific technology mentioned.
+### Verify ###
+The abstract explicitly describes the use of DBiT-seq for co-mapping of mRNAs and proteins in tissue slides, confirming that DBiT-seq is indeed a technology employed in the study.
+### Conclusion ###
+Given the clear mention and detailed description of DBiT-seq in the abstract, it is evident that DBiT-seq is the technology used.
+### Result ###
+["DBiT-seq"]

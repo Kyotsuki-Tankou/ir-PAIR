@@ -1,0 +1,8 @@
+###Keywords###
+From the Keywords, we have terms like "MEK," "epithelial-mesenchymal transition (EMT)," "gastric cancer," "hypoxia," and "mouse model." These terms suggest a focus on gastric cancer and its progression mechanisms.
+###Verify###
+The Abstract mentions "oncogene-induced gastric tumor progression," "organoid-based model of gastric cancer," "GAN mice," "GAN-p53KO organoids," "GAN-KP organoids," and "KRAS-mutated gastric cancer." These phrases directly verify that the study is focused on gastric cancer.
+###Conclusion###
+Based on the clear and consistent mention of gastric cancer throughout the Abstract and the Keywords, we can conclude that the primary disease relevant to this study is gastric cancer.
+###Result###
+['Gastric cancer']

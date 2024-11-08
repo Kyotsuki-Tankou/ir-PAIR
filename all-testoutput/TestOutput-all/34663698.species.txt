@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the term "wild-type mice" directly indicates the species involved, which is 'Mus musculus'.
+### Verify ###
+The abstract mentions "wild-type mice" and "dorsal root ganglions (DRGs) of wild-type mice," which clearly verifies that the species being studied is 'Mus musculus'.
+### Conclusion ###
+Since the keywords and the context in the abstract both confirm the species, we can conclude that 'Mus musculus' is the correct result.
+### Result ###
+['Mus musculus']

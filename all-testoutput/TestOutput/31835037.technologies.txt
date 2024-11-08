@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the following technologies are mentioned: spatial transcriptomics, single-cell RNA sequencing, and in situ sequencing. These terms suggest the use of 'Spatial Transcriptomics' and 'RNA-seq' as relevant technologies.
+### Verify ###
+The abstract explicitly states, "Here, we present a molecular approach that reveals the comprehensive transcriptional landscape of cell types populating the embryonic heart at three developmental stages and that maps cell-type-specific gene expression to specific anatomical domains." This sentence indicates the application of 'Spatial Transcriptomics'. Additionally, "single-cell RNA sequencing" and "in situ sequencing" are also mentioned as methods used in the study.
+### Conclusion ###
+Based on the keywords and the verify step, the relevant technologies extracted from the abstract are 'Spatial Transcriptomics' and 'RNA-seq'.
+### Result ###
+['Spatial Transcriptomics', 'RNA-seq']

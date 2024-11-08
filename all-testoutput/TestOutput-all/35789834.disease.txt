@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "Neuroendocrine prostate cancer (NEPC)," "prostate cancer," "ADPC," and "treatment-resistance" suggest a focus on prostate cancer and its subtypes. Therefore, 'Prostate Cancer' and 'Prostatic cancer' may be proper results.
+### Verify ###
+The abstract mentions "prostate tumors from 7 patients" and "different paths by which NEPC diverges from the original ADPC," which directly indicates the study's focus on prostate cancer and its specific subtype, NEPC. This further verifies that 'Prostate Cancer' and 'Prostatic cancer' are indeed proper results.
+### Context ###
+Given the detailed description of NEPC and ADPC within the context of prostate tumors, there is no ambiguity that would require additional clarification. The focus on these specific types of prostate cancer solidifies 'Prostate Cancer' and 'Prostatic cancer' as the correct disease types.
+### Conclusion ###
+Consequently, we choose 'Prostate Cancer' and 'Prostatic cancer' as our final results based on the clear and consistent focus on prostate cancer and its subtypes in the abstract.
+### Result ###
+['Prostate Cancer', 'Prostatic cancer']

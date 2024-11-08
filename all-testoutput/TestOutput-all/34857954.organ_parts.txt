@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, key terms include "endometrium," "uterus," "endometrial organoids," "endometrial cancers," and "endometriotic lesions." These terms suggest a focus on the uterus and its components.
+### Verify ###
+The Abstract specifically mentions "the human uterus and three-dimensional endometrial organoid cultures" and "endometrial cancers and endometriotic lesions," which directly verify the focus on the uterus and its lining, the endometrium.
+### Context ###
+The context of the study is clearly centered around the endometrium and uterus, with detailed discussions on endometrial organoids and related diseases. This context further supports the focus on these specific tissues.
+### Conclusion ###
+Based on the clear and consistent information provided in both the Keywords and the Abstract, we can confidently conclude that 'Uterus' and 'Endometrium' are the relevant organ parts.
+### Result ###
+['Uterus', 'Endometrium']

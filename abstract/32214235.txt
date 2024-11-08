@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Kidney"]
+[""]
+["scRNA"]
+["Normal atlas"]
+ Abstract\nSingle-cell analysis is a valuable tool for dissecting cellular heterogeneity in complex systems1. However, a comprehensive single-cell atlas has not been achieved for humans. Here we use single-cell mRNA sequencing to determine the cell-type composition of all major human organs and construct a scheme for the human cell landscape (HCL). We have uncovered a single-cell hierarchy for many tissues that have not been well characterized. We established a 'single-cell HCL analysis' pipeline that helps to define human cell identity. Finally, we performed a single-cell comparative analysis of landscapes from human and mouse to identify conserved genetic networks. We found that stem and progenitor cells exhibit strong transcriptomic stochasticity, whereas differentiated cells are more distinct. Our results provide a useful resource for the study of human biology.

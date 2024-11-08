@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the focus is on "the human uterus" and "endometrial organoids," indicating the species involved is 'Homo sapiens'.
+### Verify ###
+The Abstract explicitly mentions "the human uterus," which directly verifies that the species being studied is 'Homo sapiens'.
+### Context ###
+The context of the study revolves around human reproductive biology, specifically the endometrium and its changes throughout the menstrual cycle. There is no conflicting information that would require additional context to clarify.
+### Conclusion ###
+Given the clear mention of "the human uterus" and the focus on human endometrial tissues, we can confidently conclude that the species involved is 'Homo sapiens'.
+### Result ###
+['Homo sapiens']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keyword "human transcriptome" suggests that the tissue involved is related to human cells. Additionally, the mention of "nine distinct subcellular locales" and "nuclear transcriptome" indicates a focus on cellular and subcellular structures.
+### Verify ###
+The abstract specifically mentions "human transcriptome" and details subcellular locales such as the nuclear pore and mitochondria. These references align with studies typically conducted on human cells or tissues.
+### Context ###
+While the abstract does not explicitly name a specific tissue, the focus on subcellular structures and the human transcriptome strongly suggests that the study is conducted at the cellular level in human tissues. The mention of "nanometer-resolution spatial map" and "comprehensive investigations of the spatial transcriptome" further supports this.
+### Conclusion ###
+Given the emphasis on the human transcriptome and subcellular structures, it is reasonable to conclude that the tissue involved is 'Human' in a broad sense. However, since 'Human' is not a specific tissue type listed in the schema, and the focus is on cellular and subcellular levels, the most appropriate match from the provided schema would be 'Cell line', as it encompasses the cellular context without specifying a particular tissue.
+### Result ###
+['Cell line']

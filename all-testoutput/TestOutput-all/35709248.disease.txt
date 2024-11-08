@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "injury-induced hypoxia," "damaged epithelium," "wound front epithelia," and "epithelial healing" suggest a focus on tissue repair and epithelial injury.
+### Verify ###
+The phrases "injury-induced hypoxia is insufficient to trigger HIF1α in damaged epithelium" and "IL-17A-HIF1α axis drives glycolysis in wound front epithelia" further support the context of epithelial injury and repair.
+### Context ###
+The study emphasizes the role of IL-17A and HIF1α in the repair of damaged epithelium, indicating a focus on the mechanisms of tissue repair and epithelial injury response.
+### Conclusion ###
+Based on the context and specific mentions of epithelial injury and repair, the most relevant disease from the schema is 'Epithelium injury.'
+### Result ###
+['Epithelium injury']

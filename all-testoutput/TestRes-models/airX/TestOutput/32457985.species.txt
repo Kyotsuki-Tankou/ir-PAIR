@@ -1,0 +1,10 @@
+### Keywords ###
+The keywords from the abstract are "zebrafish," "chicken," "mouse," and "human embryos." These suggest that the study involves multiple species.
+### Verify ###
+The abstract explicitly mentions "zebrafish," "chicken," "mouse," and "human embryos," confirming the involvement of these species in the study.
+### Context ###
+The abstract describes a comparative study involving the aortic microenvironment in the development of hematopoietic stem cells across different species, including zebrafish, chicken, mouse, and human embryos.
+### Conclusion ###
+Given the explicit mention of multiple species in the abstract, the conclusion is that the study involves these species, which are all part of the provided schema.
+### Result ###
+['Danio rerio', 'Gallus gallus', 'Mus musculus', 'Homo sapiens']

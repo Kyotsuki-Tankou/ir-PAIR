@@ -1,0 +1,14 @@
+###Keywords###
+From the abstract, the term "gastruloids" is mentioned multiple times, indicating that it is a key aspect of the study.
+###Verify###
+The abstract states:
+- "Gastruloids are three-dimensional aggregates of embryonic stem cells..."
+- "Here we compare mouse gastruloids with mouse embryos..."
+- "This study thus shows the power of gastruloids as a model system..."
+These statements clearly verify that "gastruloids" are the primary focus of the study.
+###Context###
+Upon reviewing the context, "gastruloids" are described as aggregates of embryonic stem cells that mimic mammalian development. This suggests that they are a model system rather than a specific organ part.
+###Conclusion###
+Given the context, "gastruloids" do not correspond to any specific organ parts listed in the schema.
+###Result###
+null

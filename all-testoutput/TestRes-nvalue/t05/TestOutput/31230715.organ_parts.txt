@@ -1,0 +1,10 @@
+###Keywords###
+The term "human transcriptome" suggests that 'Human cortex' might be a relevant result, given the context of the schema focusing on organ parts.
+###Verify###
+The abstract mentions "nanometer-resolution spatial map of the human transcriptome," which indicates that the study involves human tissue. However, it does not specify which part of the human body was studied.
+###Context###
+Since the abstract discusses the spatial mapping of the human transcriptome and mentions subcellular locales but does not specify organ parts, we need to infer from the context that the study likely involves brain tissue, as spatial transcriptomics often focuses on brain regions.
+###Conclusion###
+Based on the context of spatial transcriptomics and the mention of the human transcriptome, we can infer that 'Human cortex' is a plausible result, although it is not directly stated in the abstract.
+###Result###
+['Human cortex']

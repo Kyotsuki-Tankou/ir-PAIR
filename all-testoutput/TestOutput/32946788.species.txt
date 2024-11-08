@@ -1,0 +1,13 @@
+### Keywords ###
+From the keywords "AGM region; HSC; embryo; endothelin; hematopoiesis; single cell transcriptome; spatial transcriptome", the following terms are relevant to the schema:
+- "AGM region" suggests a specific region in the embryo.
+- "embryo" indicates the stage of development.
+- "hematopoiesis" refers to the formation of blood cells, which is related to the species and possibly the tissue involved.
+### Verify ###
+The abstract mentions "embryonic aorta-gonad-mesonephros (AGM) region," "endothelin 1," and "single cell transcriptome," which support the relevance of "embryo" and "endothelin" to the schema. It also discusses hematopoiesis, which is related to the species and tissue in the schema.
+### Context ###
+The mention of "embryonic aorta-gonad-mesonephros (AGM) region" and "endothelin 1" suggests that the study is focused on a specific developmental process in a vertebrate organism. The AGM region is known to be a key site for hematopoiesis in vertebrates. The reference to "endothelin 1" suggests a particular molecular aspect of hematopoiesis that might be linked to a specific tissue.
+### Conclusion ###
+Based on the information provided, the most relevant term from the schema appears to be "Homo sapiens" for the species, as the study focuses on human hematopoietic stem cells. However, the context also suggests that the tissue might be related to "Embryo" or "Blood vessel," since hematopoiesis occurs in the embryo and is associated with endothelial cells.
+### Result ###
+['Homo sapiens', 'Embryo', 'Blood vessel']

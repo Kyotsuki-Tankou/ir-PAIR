@@ -1,0 +1,11 @@
+### Keywords ###
+From the Abstract, the key technologies mentioned are "single-cell RNA sequencing (scRNA-seq)" and "microarray-based spatial transcriptomics method." These suggest potential matches with the technologies listed in the schema.
+### Verify ###
+- "single-cell RNA sequencing (scRNA-seq)" directly matches 'scRNA' and 'RNA-seq' in the schema.
+- "microarray-based spatial transcriptomics method" suggests a match with 'Spatial Transcriptomics' and possibly 'Slide-seq' or '10x Visium' due to the use of an array of spots.
+### Context ###
+The context of the study involves combining scRNA-seq with a spatial transcriptomics method to analyze tissue regions, particularly in primary pancreatic tumors. This further supports the use of technologies related to both single-cell RNA sequencing and spatial transcriptomics.
+### Conclusion ###
+Based on the direct mentions and the context of the study, the relevant technologies from the schema are 'scRNA', 'RNA-seq', and 'Spatial Transcriptomics'.
+### Result ###
+['scRNA', 'RNA-seq', 'Spatial Transcriptomics']

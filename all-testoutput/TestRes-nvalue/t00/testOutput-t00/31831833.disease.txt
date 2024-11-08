@@ -1,0 +1,25 @@
+### Keywords ###
+- Synovial biopsies
+- Rheumatoid arthritis (RA)
+- Spondyloarthritis (SpA)
+- Spatial Transcriptomics (ST)
+- Chronic inflammatory diseases
+- Differential gene expression analysis (DEA)
+- Immune cell type identification
+- T-B cell interactions
+- Tissue repair
+- Central memory T cells
+- Effector memory T cells
+### Verify ###
+- RA and SpA are both chronic inflammatory diseases.
+- ST is used to analyze transcriptomic profiles in tissue sections.
+- DEA and immune cell type identification are methods used in the study.
+- The study focuses on understanding cellular mechanisms and diversity in chronic inflammatory diseases.
+### Context ###
+- The study specifically mentions "chronic inflammatory diseases" and focuses on RA and SpA.
+- The use of ST technology to analyze synovial biopsies indicates a detailed examination of inflammatory processes.
+- The findings highlight differences in immune response profiles between RA and SpA, particularly in terms of T cell subsets.
+### Conclusion ###
+- The study is primarily focused on understanding the cellular mechanisms and immune responses in chronic inflammatory diseases, specifically RA and SpA.
+### Result ###
+- ['Rheumatoid arthritis (RA)', 'Spondyloarthritis (SpA)', 'Chronic Inflammatory Disease']

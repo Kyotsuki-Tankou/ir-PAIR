@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, key terms include "multicellular organisms," "mouse embryo," "photo-isolation chemistry (PIC)," "in situ reverse transcription," "subcellular and subnuclear microstructures," "stress granules," and "nuclear speckles." The term "mouse embryo" directly suggests a specific organ part.
+###Verify###
+The phrase "mouse embryo" in the abstract directly indicates that the study involves the mouse embryo as the primary organ part of interest. This is further supported by the context of developing a method for spatially defined expression profiling in small distinct areas.
+###Conclusion###
+Since both the Keywords and the context in the abstract clearly point to "mouse embryo," we can confidently conclude that "Mouse Embryo" is the correct organ part involved in this study.
+###Result###
+['Mouse Embryo']

@@ -1,0 +1,6 @@
+["Danio rerio"]
+["Skin"]
+null
+["10x Visium"]
+["Cancer"]
+ Abstract\nDuring tumor progression, cancer cells come into contact with various non-tumor cell types, but it is unclear how tumors adapt to these new environments. Here, we integrate spatially resolved transcriptomics, single-cell RNA-seq, and single-nucleus RNA-seq to characterize tumor-microenvironment interactions at the tumor boundary. Using a zebrafish model of melanoma, we identify a distinct "interface" cell state where the tumor contacts neighboring tissues. This interface is composed of specialized tumor and microenvironment cells that upregulate a common set of cilia genes, and cilia proteins are enriched only where the tumor contacts the microenvironment. Cilia gene expression is regulated by ETS-family transcription factors, which normally act to suppress cilia genes outside of the interface. A cilia-enriched interface is conserved in human patient samples, suggesting it is a conserved feature of human melanoma. Our results demonstrate the power of spatially resolved transcriptomics in uncovering mechanisms that allow tumors to adapt to new environments.

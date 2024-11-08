@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords "CRISPR screens; Socs1; TGF beta; cancer immunology; interferon gamma; lung cancer; spatial genomics; spatial transcriptomics; tumor clonality; tumor microenvironment," the term "lung cancer" directly matches one of the disease types in the schema.
+### Verify ###
+The Abstract mentions "in a mouse model of lung cancer" and "Tgfbr2 knockout tumors," which directly verifies that the study is focused on lung cancer. This further supports that 'Lung cancer' is a proper result.
+### Context ###
+Since the verification step directly confirms the presence of lung cancer without ambiguity, there is no need for additional context to clarify the disease type.
+### Conclusion ###
+Consequently, we confirm that 'Lung cancer' is the appropriate disease type based on the given input.
+### Result ###
+['Lung cancer']

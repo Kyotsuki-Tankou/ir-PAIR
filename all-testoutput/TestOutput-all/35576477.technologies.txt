@@ -1,0 +1,8 @@
+### Keywords ###
+From the Abstract, "Tomo-Seq" is mentioned as a technology used in the study.
+### Verify ###
+The phrase "Using Tomo-Seq, genome-wide transcriptional profiling with high spatial resolution" directly verifies the use of Tomo-Seq in the study.
+### Conclusion ###
+Given the clear mention and context, "Tomo-Seq" is confirmed as the relevant technology used.
+### Result ###
+['Tomo-Seq']

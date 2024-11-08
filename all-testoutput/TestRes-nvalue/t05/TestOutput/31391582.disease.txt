@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract focuses on the post-implantation development of the mouse embryo, the transition of cells from naive to primed pluripotent states, and the regionalization of cell fates during gastrulation. The keyword here is "gastrulation," which indicates a stage in embryonic development.
+### Verify ###
+The abstract explicitly mentions "gastrulation" several times and discusses the regionalization of cell fates during this stage, verifying that "gastrulation" is a relevant keyword.
+### Context ###
+The context provided in the abstract is about the molecular annotation of lineage segregation and tissue architecture during the development of the mouse embryo, specifically during the pre- to late-gastrulation stages.
+### Conclusion ###
+Considering the context and the explicit mention of "gastrulation," we can conclude that the study is focused on the process of gastrulation and its role in embryonic development.
+### Result ###
+['Gastrulation']

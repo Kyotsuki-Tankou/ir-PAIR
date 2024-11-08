@@ -1,0 +1,8 @@
+### Keywords ###
+The abstract mentions "primary pancreatic tumors," "ductal cells," "macrophages," "dendritic cells," "cancer cells," and "inflammatory fibroblasts." These indicate that the tissue under study is likely the 'Pancreas'.
+### Verify ###
+The abstract specifically states "Applying multimodal intersection analysis to primary pancreatic tumors," which directly verifies that the tissue being studied is indeed 'Pancreas'.
+### Conclusion ###
+Based on the direct mention of 'primary pancreatic tumors' and the specific mention of cell types found within this tissue, we can confidently conclude that 'Pancreas' is the correct tissue extracted from the input.
+### Result ###
+['Pancreas']

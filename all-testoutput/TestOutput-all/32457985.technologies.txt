@@ -1,0 +1,11 @@
+###Keywords###
+From the abstract, the phrases "genome-wide RNA tomography sequencing" and "interspecies comparative RNA sequencing analyses" suggest that 'RNA-seq' and 'Tomo-seq' might be relevant technologies.
+###Verify###
+1. "genome-wide RNA tomography sequencing" directly implies the use of 'Tomo-seq'.
+2. "interspecies comparative RNA sequencing analyses" suggests the use of 'RNA-seq'.
+###Context###
+The abstract mentions "genome-wide RNA tomography sequencing on zebrafish, chicken, mouse, and human embryos," which confirms the use of 'Tomo-seq'. Additionally, "interspecies comparative RNA sequencing analyses" supports the use of 'RNA-seq'.
+###Conclusion###
+Both 'Tomo-seq' and 'RNA-seq' are confirmed as the technologies used in the study based on the context and verification.
+###Result###
+['Tomo-seq', 'RNA-seq']

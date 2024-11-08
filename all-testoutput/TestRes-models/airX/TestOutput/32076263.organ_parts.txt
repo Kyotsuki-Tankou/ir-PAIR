@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the term "gastruloids" is prominently mentioned, indicating that 'Gastruloids' may be a proper result.
+###Verify###
+The abstract states, "Gastruloids are three-dimensional aggregates of embryonic stem cells that display key features of mammalian development," which directly references the specific organ part under study. This further verifies that 'Gastruloids' is indeed a relevant and proper result.
+###Context###
+Given the direct and clear mention of "Gastruloids" in both the abstract and the result, there is no need for additional context to verify the keyword.
+###Conclusion###
+Consequently, we confirm 'Gastruloids' as our final result based on the clear and consistent references in the abstract.
+###Result###
+['Gastruloids']

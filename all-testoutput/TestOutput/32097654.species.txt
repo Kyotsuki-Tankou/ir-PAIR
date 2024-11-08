@@ -1,0 +1,8 @@
+### Keywords ###
+The abstract mentions "mouse digit tip blastemas," "mouse digit tips," and "cell types participating in digit tip regeneration." These terms suggest that 'Mus musculus' (house mouse) is the species being studied.
+### Verify ###
+The phrase "mouse digit tip blastemas" directly indicates that the species involved is 'Mus musculus'.
+### Conclusion ###
+Given the explicit mention of "mouse" in the context of the digit tip blastemas and digit tips, we can confidently conclude that 'Mus musculus' is the correct species to be extracted.
+### Result ###
+['Mus musculus']

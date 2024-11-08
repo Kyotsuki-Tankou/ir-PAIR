@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, the terms "spatial transcriptomics," "gene expression profiling," and "single cell transcriptome" are mentioned, which suggest the use of specific technologies related to transcriptome analysis. The term "spatial transcriptomics" is directly mentioned, indicating its use in the study.
+### Verify ###
+The abstract specifically states:
+- "combined spatial transcriptomics analysis of dorsoventral polarized signaling in the aorta"
+This directly verifies the presence of "Spatial Transcriptomics" in the context of the study.
+### Context ###
+Given the direct mention of "spatial transcriptomics" in the abstract, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm "Spatial Transcriptomics" as the appropriate result based on the explicit references in the abstract.
+### Result ###
+["Spatial Transcriptomics"]

@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, the terms "bone marrow mesenchymal lineage cells," "osteoblasts," and "adipocytes" suggest that 'Bone marrow' and possibly 'Bone' may be relevant results.
+### Verify ###
+The abstract mentions:
+- "Bone marrow mesenchymal lineage cells"
+- "delineated their bi-lineage differentiation paths into osteoblasts and adipocytes"
+This directly verifies the presence of 'Bone marrow' as it is the primary context of the study. 'Bone' is also relevant due to the mention of osteoblasts, which are bone-forming cells.
+### Context ###
+Given the focus on mesenchymal lineage cells in the bone marrow and their differentiation into osteoblasts and adipocytes, the context supports the relevance of both 'Bone marrow' and 'Bone'.
+### Conclusion ###
+Based on the explicit references to bone marrow and bone-related cell types, we conclude that both 'Bone marrow' and 'Bone' are appropriate results.
+### Result ###
+['Bone marrow', 'Bone']

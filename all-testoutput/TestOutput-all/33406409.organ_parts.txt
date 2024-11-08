@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "human intestine," "intestinal morphogenesis," "crypt-villus axis formation," and "gut-associated lymphoid tissue (GALT)" suggest that 'Intestine' is a relevant organ part.
+###Verify###
+The abstract specifically mentions "human intestine" and details processes related to intestinal development, further verifying that 'Intestine' is indeed a relevant organ part.
+###Context###
+Not required in this case as the Keywords and Verify steps align well and provide sufficient evidence.
+###Conclusion###
+Given the clear and consistent focus on the human intestine throughout the abstract, we can confidently conclude that 'Intestine' is the correct organ part.
+###Result###
+['Intestine']

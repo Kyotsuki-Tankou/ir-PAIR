@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "rheumatoid arthritis (RA)" and "spondyloarthritis (SpA)" as diseases being studied, which are both types of chronic inflammatory diseases.
+### Verify ###
+The abstract explicitly discusses the use of Spatial Transcriptomics (ST) on synovial biopsies from RA and SpA patients, confirming that these are the diseases being investigated.
+### Context ###
+The context provided in the abstract is sufficient to verify the diseases being studied, as it directly references RA and SpA and the use of ST technology on synovial tissue biopsies from affected joints.
+### Conclusion ###
+Based on the information provided in the abstract, we can conclude that RA and SpA are the diseases being studied in this research.
+### Result ###
+['Rheumatoid arthritis (RA) and Spondyloarthritis (SpA)']

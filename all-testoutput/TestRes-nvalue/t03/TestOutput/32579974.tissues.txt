@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract and keywords, the following terms are relevant:
+- "cutaneous squamous cell carcinoma (cSCC)"
+- "human cSCCs and matched normal skin"
+- "skin cancer"
+- "squamous cell carcinoma"
+### Verify ###
+The abstract specifically mentions "human cSCCs and matched normal skin," indicating that the primary tissue analyzed is "Skin." Additionally, the keywords include "skin cancer" and "squamous cell carcinoma," further supporting the focus on "Skin."
+### Context ###
+The context of the study revolves around analyzing cutaneous squamous cell carcinoma, which is a type of skin cancer. The use of both normal skin and cSCC samples for comparison solidifies the focus on "Skin."
+### Conclusion ###
+Based on the explicit mentions and the context of the study, it is clear that "Skin" is the primary tissue analyzed.
+### Result ###
+['Skin']

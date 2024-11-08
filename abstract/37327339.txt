@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Liver", "Colon"]
+["Liver tissue", "Colorectal tissue"]
+["10x Visium", "scRNA"]
+["Liver metastasis cancer"]
+ Abstract\nIn this study, we comprehensively charted the cellular landscape of colorectal cancer (CRC) and well-matched liver metastatic CRC using single-cell and spatial transcriptome RNA sequencing. We generated 41,892 CD45-nonimmune cells and 196,473 CD45+immune cells from 27 samples of six CRC patients, and found that CD8_CXCL13 and CD4_CXCL13 subsets increased significantly in liver metastatic samples that exhibited high proliferation ability and tumor-activating characterization, contributing to better prognosis of patients. Distinct fibroblast profiles were observed in primary and liver metastatic tumors.F3+fibroblasts enriched in primary tumors contributed to worse overall survival by expressing protumor factors. However,MCAM+fibroblasts enriched in liver metastatic tumors might promote generation of CD8_CXCL13 cells through Notch signaling. In summary, we extensively analyzed the transcriptional differences of cell atlas between primary and liver metastatic tumors of CRC by single-cell and spatial transcriptome RNA sequencing, providing different dimensions of the development of liver metastasis in CRC.

@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "spatial transcriptomics" is directly mentioned, which suggests a specific technology used in the study. 
+### Verify ###
+The abstract explicitly states, "The current study represents the first comprehensive approach to spatial transcriptomics of high-grade serous ovarian carcinoma using intact tumor tissue." This directly verifies the use of "Spatial Transcriptomics" technology.
+### Context ###
+Not required in this case as the verification directly supports the keyword.
+### Conclusion ###
+Consequently, we choose 'Spatial Transcriptomics' as our final result.
+### Result ###
+['Spatial Transcriptomics']

@@ -1,0 +1,18 @@
+### Keywords ###
+- "stem cell"
+- "aortic microenvironment"
+- "hematopoietic stem cells"
+- "development"
+- "embryos"
+- "zebrafish, chicken, mouse, and human"
+### Verify ###
+- The abstract mentions "hematopoietic stem cells are generated during development," which suggests a focus on developmental processes.
+- The term "aortic microenvironment" indicates a specific context related to the aorta and its surrounding environment.
+- The study involves "embryos" from multiple species, reinforcing the developmental aspect.
+### Context ###
+- The abstract consistently discusses the generation and regulation of hematopoietic stem cells within the aortic microenvironment during development.
+- The use of terms like "development" and "embryos" aligns with developmental processes rather than a specific disease.
+### Conclusion ###
+- The primary focus is on the development of hematopoietic stem cells within the aortic microenvironment, which aligns with 'Embryo development' from the schema.
+### Result ###
+['Embryo development']

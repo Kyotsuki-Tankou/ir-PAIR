@@ -1,0 +1,13 @@
+### Keywords ###
+From the abstract, the term "human T cell repertoire" suggests that the species involved is 'Homo sapiens'.
+### Verify ###
+The abstract specifically mentions:
+- "localization of infiltrating T cell clones within the tumor microenvironment"
+- "T cell receptor sequences identified by this protocol are readily recapitulated by single-cell sequencing"
+These points verify that the study is focused on human T cells, reinforcing that 'Homo sapiens' is the correct species.
+### Context ###
+Not required in this case as the verification directly supports the keyword.
+### Conclusion ###
+Consequently, we choose 'Homo sapiens' as our final result.
+### Result ###
+['Homo sapiens']

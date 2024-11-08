@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, keywords such as "acne," "lipids," "Cutibacterium acnes," "inflammatory response," "TREM2 macrophages," and "squalene" are prominent. The term "acne" directly matches one of the diseases listed in the schema.
+### Verify ###
+Upon reviewing the abstract, "acne" is explicitly mentioned as the disease being studied, which directly corresponds to the schema provided.
+### Conclusion ###
+Since "acne" is explicitly mentioned in the abstract and matches one of the diseases in the schema, we can conclude that "acne" is the correct disease to extract from the input.
+### Result ###
+['Acne']

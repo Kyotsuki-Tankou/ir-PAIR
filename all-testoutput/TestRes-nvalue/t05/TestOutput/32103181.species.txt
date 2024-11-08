@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the term "patients with different types of cancer" and "humans" is implied, suggesting that 'Homo sapiens' may be the relevant species.
+### Verify ###
+The Abstract specifically mentions "patients with different types of cancer" and "performing deep single-cell sequencing of RNA and T cell receptors in patients," which further verifies that the study is conducted on human subjects, aligning with 'Homo sapiens'.
+### Context ###
+Given the detailed focus on human patients and the clinical context of cancer treatment in humans, there is no need for additional context to confirm the relevance of 'Homo sapiens'.
+### Conclusion ###
+Consequently, we confirm 'Homo sapiens' as the final result based on the clear and consistent focus on human patients throughout the abstract.
+### Result ###
+['Homo sapiens']

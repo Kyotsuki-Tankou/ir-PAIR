@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the key phrases related to technologies are "genome-wide RNA tomography sequencing" and "interspecies comparative RNA sequencing analyses." These phrases suggest the use of specific sequencing technologies.
+### Verify ###
+The abstract explicitly mentions "genome-wide RNA tomography sequencing," which is a specific type of RNA sequencing technology. Additionally, "interspecies comparative RNA sequencing analyses" indicates the use of RNA-seq technology across different species.
+### Context ###
+To further verify, we need to consider the context:
+- "genome-wide RNA tomography sequencing on zebrafish, chicken, mouse, and human embryos" implies a detailed and comprehensive sequencing approach.
+- "interspecies comparative RNA sequencing analyses" suggests a comparative study using RNA-seq technology.
+### Conclusion ###
+Given the explicit mention of "genome-wide RNA tomography sequencing" and "interspecies comparative RNA sequencing analyses," it is clear that the technologies used are related to RNA sequencing. The most relevant entries from the schema that match these descriptions are "RNA-seq" and "RNAseq."
+### Result ###
+['RNA-seq', 'RNAseq']

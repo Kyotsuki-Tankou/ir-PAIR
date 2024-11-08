@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords "adult stem cells; lacrimal gland; organoids; regeneration; single-cell sequencing; swelling assay; tear gland; tear secretion; transplantation," the term "lacrimal gland" directly matches an item in the schema.
+### Verify ###
+In the Abstract, phrases like "The lacrimal gland is essential for lubrication and protection of the eye" and "we describe the establishment of long-term 3D organoid culture conditions for mouse and human lacrimal gland" clearly indicate a focus on the lacrimal gland.
+### Context ###
+The context of the study revolves around the lacrimal gland, its organoid culture, and its functions. There are no mentions of other organ parts from the schema, reinforcing the focus on the lacrimal gland.
+### Conclusion ###
+Given the clear and consistent focus on the lacrimal gland in both the Keywords and the Abstract, it is reasonable to conclude that "lacrimal gland" is the relevant organ part.
+### Result ###
+['Lacrimal Gland']

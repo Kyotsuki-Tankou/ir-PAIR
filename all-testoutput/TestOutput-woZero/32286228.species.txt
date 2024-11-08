@@ -1,0 +1,10 @@
+###Keywords###
+From the Keywords "mouse" and "bone marrow mesenchymal stem cells," it suggests that 'Mus musculus' might be the relevant species.
+###Verify###
+In the Abstract, phrases like "young, adult and aging mice" and "we computationally defined mesenchymal progenitors at different stages and delineated their bi-lineage differentiation paths in young, adult and aging mice" strongly indicate that 'Mus musculus' is the species used in the study.
+###Context###
+Upon reviewing the context, there are no additional clues that would suggest another species as the primary focus. The entire abstract centers around studies conducted on mice.
+###Conclusion###
+Consequently, we choose 'Mus musculus' as our final result.
+###Result###
+['Mus musculus']

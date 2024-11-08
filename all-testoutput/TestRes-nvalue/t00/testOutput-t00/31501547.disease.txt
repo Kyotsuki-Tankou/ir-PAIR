@@ -1,0 +1,20 @@
+### Keywords ###
+- Spatial transcriptomics
+- High-resolution
+- RNA
+- Histological tissue sections
+- Spatially barcoded bead array
+- Mouse brain
+- Primary breast cancer
+### Verify ###
+- Spatial transcriptomics: Mentioned
+- High-resolution: Mentioned
+- RNA: Mentioned
+- Histological tissue sections: Mentioned
+- Spatially barcoded bead array: Mentioned
+- Mouse brain: Mentioned
+- Primary breast cancer: Mentioned
+### Conclusion ###
+The input text mentions "mouse brain" and "primary breast cancer" as specific tissues or diseases studied using the developed high-definition spatial transcriptomics method.
+### Result ###
+['Mouse brain', 'Primary breast cancer']

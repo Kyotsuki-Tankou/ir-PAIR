@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "primary pancreatic tumors" and "cancer cells" are explicitly mentioned, indicating that 'Pancreatic cancer' may be a proper result.
+###Verify###
+- The abstract states: "Applying multimodal intersection analysis to primary pancreatic tumors, we find that subpopulations of ductal cells, macrophages, dendritic cells and cancer cells have spatially restricted enrichments," which directly verifies the presence of 'Pancreatic cancer'.
+###Context###
+- No additional context is needed as the abstract clearly mentions the specific disease context where the study was conducted.
+###Conclusion###
+Consequently, we confirm 'Pancreatic cancer' as our final result based on the explicit mentions in the abstract.
+###Result###
+['Pancreatic cancer']

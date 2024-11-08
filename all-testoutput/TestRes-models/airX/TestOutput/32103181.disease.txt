@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the keyword "cancer treatment" suggests that the disease being studied is related to cancer.
+###Verify###
+The abstract mentions "patients with different types of cancer" and "anti-PDL1 therapy," which confirms that the disease being studied is related to cancer. 
+###Conclusion###
+Given the clear mention of "cancer" in the abstract, we can conclude that the disease is related to cancer.
+###Result###
+["Cancer"]

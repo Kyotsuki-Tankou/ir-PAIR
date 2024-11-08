@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "T cells," "tumour," "normal adjacent tissue," "peripheral blood," and "cancer" are prominent. This suggests that the study is focused on tissues related to cancer and immune response, particularly 'Tumor' and potentially 'Blood.'
+### Verify ###
+The abstract mentions "performing deep single-cell sequencing of RNA and T cell receptors in patients with different types of cancer" and "profiles of various populations of T cells and T cell receptors in tumours, normal adjacent tissue, and peripheral blood." This further verifies that 'Tumor' and 'Blood' are indeed relevant tissues.
+### Context ###
+The study specifically discusses the distribution of T cells in "tumours, normal adjacent tissue, and peripheral blood," indicating a clear focus on these tissues. The context does not suggest any other tissues are primarily involved, reinforcing 'Tumor' and 'Blood' as the correct choices.
+### Conclusion ###
+Consequently, we choose 'Tumor' and 'Blood' as our final results based on the clear and consistent focus on these tissues in the context of cancer and immune response.
+### Result ###
+['Tumor', 'Blood']

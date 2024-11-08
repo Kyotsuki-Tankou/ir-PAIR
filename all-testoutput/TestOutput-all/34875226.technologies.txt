@@ -1,0 +1,11 @@
+### Keywords ###
+From the abstract and keywords, the term "Expansion-Assisted Iterative Fluorescence In Situ Hybridization (EASI-FISH)" is explicitly mentioned, indicating that 'EASI-FISH' is a technology used in the study.
+### Verify ###
+- The abstract states: "We developed Expansion-Assisted Iterative Fluorescence In Situ Hybridization (EASI-FISH) to survey gene expression in brain tissue," which directly verifies the presence of 'EASI-FISH'.
+- Additionally, the abstract mentions "iterative reanalysis of scRNA-seq datasets," indicating the use of 'scRNA-seq' as another technology.
+### Context ###
+- No additional context is needed as the abstract clearly mentions the specific technologies used in the study.
+### Conclusion ###
+Consequently, we confirm 'EASI-FISH' and 'scRNA-seq' as our final results based on the explicit mentions in the abstract.
+### Result ###
+['EASI-FISH', 'scRNA-seq']

@@ -1,0 +1,37 @@
+### Keywords ###
+- Zebrafish
+- Chicken
+- Mouse
+- Human
+- Embryos
+- Aortic microenvironment
+- Hematopoietic stem cells
+- Genome-wide RNA tomography sequencing
+- Transcriptional maps
+- Interspecies comparative RNA sequencing analyses
+- Functional assays
+- ADM-RAMP2
+- SVEP1
+### Verify ###
+- Zebrafish: Mentioned in the input
+- Chicken: Mentioned in the input
+- Mouse: Mentioned in the input
+- Human: Mentioned in the input
+- Embryos: Mentioned in the input
+- Aortic microenvironment: Mentioned in the input
+- Hematopoietic stem cells: Mentioned in the input
+- Genome-wide RNA tomography sequencing: Mentioned in the input
+- Transcriptional maps: Mentioned in the input
+- Interspecies comparative RNA sequencing analyses: Mentioned in the input
+- Functional assays: Mentioned in the input
+- ADM-RAMP2: Mentioned in the input
+- SVEP1: Mentioned in the input
+### Context ###
+- The study focuses on the aortic microenvironment where the first hematopoietic stem cells are generated during development.
+- Genome-wide RNA tomography sequencing was performed on embryos of zebrafish, chicken, mouse, and human.
+- The study aimed to explore the molecular characteristics and key components of the aortic microenvironment.
+- Interspecies comparative RNA sequencing analyses and functional assays were conducted to understand the complexity and regulation of hematopoietic stem cell generation.
+### Conclusion ###
+- The species mentioned in the input that correspond to the schema are: zebrafish (Danio rerio), chicken (Gallus gallus), mouse (Mus musculus), and human (Homo sapiens).
+### Result ###
+['Danio rerio', 'Gallus gallus', 'Mus musculus', 'Homo sapiens']

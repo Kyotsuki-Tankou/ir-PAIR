@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the focus is on "keloid tissue samples" and "normal skin control." This suggests that 'Skin' may be a proper result.
+### Verify ###
+The abstract mentions "keloid tissue samples and normal skin control data were analyzed," which directly indicates the study's focus on skin tissues. This further supports that 'Skin' is likely the correct organ part.
+### Context ###
+Given the specific context of "keloids," which are a type of skin condition characterized by excessive scar tissue, and the use of terms like "normal skin control," there is strong contextual evidence that the study pertains to skin.
+### Conclusion ###
+Consequently, we confirm 'Skin' as the final result based on the keywords, verification, and contextual clues.
+### Result ###
+['Skin']

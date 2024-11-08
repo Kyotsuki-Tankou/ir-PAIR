@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Lung"]
+null
+["scRNA"]
+["Normal atlas"]
+ Abstract\nThe lung contains numerous specialized cell types with distinct roles in tissue function and integrity. To clarify the origins and mechanisms generating cell heterogeneity, we created a comprehensive topographic atlas of early human lung development. Here we report 83 cell states and several spatially resolved developmental trajectories and predict cell interactions within defined tissue niches. We integrated single-cell RNA sequencing and spatially resolved transcriptomics into a web-based, open platform for interactive exploration. We show distinct gene expression programmes, accompanying sequential events of cell differentiation and maturation of the secretory and neuroendocrine cell types in proximal epithelium. We define the origin of airway fibroblasts associated with airway smooth muscle in bronchovascular bundles and describe a trajectory of Schwann cell progenitors to intrinsic parasympathetic neurons controlling bronchoconstriction. Our atlas provides a rich resource for further research and a reference for defining deviations from homeostatic and repair mechanisms leading to pulmonary diseases.

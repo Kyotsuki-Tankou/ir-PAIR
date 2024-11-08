@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "stress granules," "RNA proximity labeling," and "APEX-seq" suggest that the study is focused on subcellular structures and processes. Therefore, 'Stress granules' may be a proper result.
+### Verify ###
+The abstract mentions "transcripts in these complexes localize to specific regions of the cell and can condense into non-membrane-bound structures such as stress granules" and "We therefore developed an RNA proximity labeling technique, APEX-seq, which uses the ascorbate peroxidase APEX2 to probe the spatial organization of the transcriptome." This further verifies that 'Stress granules' is indeed a proper result.
+### Context ###
+Given the detailed description of the localization and composition of stress granules, and the development of APEX-seq to study these structures, there is no ambiguity in the context that would require additional clarification. The focus on stress granules solidifies 'Stress granules' as the correct tissue type.
+### Conclusion ###
+Consequently, we choose 'Stress granules' as our final result based on the clear and consistent focus on stress granules and their spatial organization in the abstract.
+### Result ###
+['Stress granules']

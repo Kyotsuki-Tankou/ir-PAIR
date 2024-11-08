@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "spatially resolved transcriptomics," "single-cell RNA-seq," and "single-nucleus RNA-seq" are prominently mentioned, indicating potential technologies used in the study.
+### Verify ###
+- "spatially resolved transcriptomics" suggests the use of a technology capable of spatially resolving transcriptomic data. From the schema, "Spatial Transcriptomics" is a direct match.
+- "single-cell RNA-seq" directly corresponds to "scRNA" in the schema.
+- "single-nucleus RNA-seq" corresponds to "snRNA" in the schema.
+### Context ###
+The abstract integrates multiple technologies to study tumor-microenvironment interactions. The specific mention of "spatially resolved transcriptomics" alongside "single-cell RNA-seq" and "single-nucleus RNA-seq" confirms the use of these distinct technologies. There is no ambiguity in the terms used, and they directly map to the technologies listed in the schema.
+### Conclusion ###
+Based on the clear and direct mentions of the technologies in the abstract, we can confidently conclude that "Spatial Transcriptomics," "scRNA," and "snRNA" are the relevant technologies used in the study.
+### Result ###
+['Spatial Transcriptomics', 'scRNA', 'snRNA']

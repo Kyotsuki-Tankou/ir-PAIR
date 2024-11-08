@@ -1,0 +1,11 @@
+### Keywords ###
+From the abstract, the terms "Single-cell RNA sequencing" and "spatial transcriptomics" suggest potential matches with the technologies listed in the schema. Specifically, 'scRNA' and 'Spatial Transcriptomics' are directly mentioned.
+### Verify ###
+1. **Single-cell RNA sequencing**: The abstract states, "Single-cell RNA sequencing shows significant clonal overlap between proliferating and exhausted CD8+T cells," which directly aligns with the 'scRNA' technology.
+2. **Spatial transcriptomics**: The abstract mentions, "Using spatial transcriptomics and spatial T cell receptor (TCR) sequencing," which directly corresponds to the 'Spatial Transcriptomics' technology.
+### Context ###
+The context of the study involves analyzing human brain metastases and the infiltration of CD8+T cells, utilizing both single-cell RNA sequencing and spatial transcriptomics to understand the tumor microenvironment. This further supports the use of these technologies as they are appropriate for detailed cellular and spatial analysis.
+### Conclusion ###
+Given the direct mentions and the context of the study, it is clear that both 'scRNA' and 'Spatial Transcriptomics' are the technologies used.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

@@ -1,0 +1,8 @@
+###Keywords###
+The keywords from the abstract are "deep single-cell sequencing", "RNA", "T cell receptors", "cancer", "PD1", "PDL1", "anti-PDL1 therapy", "clonotypic expansion", "effector-like T cells", and "tumour immunity". These suggest a focus on technologies related to single-cell analysis and immunotherapy in the context of cancer.
+###Verify###
+The abstract mentions "deep single-cell sequencing of RNA and T cell receptors" and "quantitative information on the distribution of individual clonotypes of T cells", which indicates a direct use of single-cell sequencing technology. It also discusses "anti-PDL1 therapy" and "clonotypic expansion", which implies the integration of immunological and clinical aspects.
+###Conclusion###
+Given the context and specific mention of deep single-cell sequencing and its application in cancer immunotherapy, it is clear that the technology used in this study is relevant to the schema's list of technologies.
+###Result###
+['RNA-seq']

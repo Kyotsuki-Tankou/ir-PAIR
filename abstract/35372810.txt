@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Kidney"]
+["Renal pelvis", "Medulla", "Cortex"]
+["Slide-seqV2"]
+["Normal atlas"]
+ Abstract\nHigh-resolution spatial transcriptomics enables mapping of RNA expression directly from intact tissue sections; however, its utility for the elucidation of disease processes and therapeutically actionable pathways remains unexplored. We applied Slide-seqV2 to mouse and human kidneys, in healthy and distinct disease paradigms. First, we established the feasibility of Slide-seqV2 in tissue from nine distinct human kidneys, which revealed a cell neighborhood centered around a population ofLYVE1+macrophages. Second, in a mouse model of diabetic kidney disease, we detected changes in the cellular organization of the spatially restricted kidney filter and blood-flow-regulating apparatus. Third, in a mouse model of a toxic proteinopathy, we identified previously unknown, disease-specific cell neighborhoods centered around macrophages. In a spatially restricted subpopulation of epithelial cells, we discovered perturbations in 77 genes associated with the unfolded protein response. Our studies illustrate and experimentally validate the utility of Slide-seqV2 for the discovery of disease-specific cell neighborhoods. \n Keywords:Cell biology; Pathophysiology; Transcriptomics.

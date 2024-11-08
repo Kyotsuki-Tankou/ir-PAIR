@@ -1,0 +1,10 @@
+###Keywords###
+From the keywords, "liver" and "NAFLD" (Non-Alcoholic Fatty Liver Disease) stand out, indicating a focus on liver health and disease.
+###Verify###
+The abstract mentions "a spatial proteogenomic atlas of the healthy and obese human and murine liver," which directly indicates the study's focus on the liver. Additionally, the discussion of "lipid-associated macrophages (LAMs)" and "Kupffer cells" in the context of the liver further supports that the liver is the primary organ being studied.
+###Context###
+Given the detailed focus on the liver, including the mention of specific cell types like Kupffer cells and LAMs, and the context of both healthy and obese states, there is no need for additional context to verify the disease type.
+###Conclusion###
+Consequently, we confirm that 'Liver development' and 'Liver injury regeneration' are appropriate disease types based on the provided abstract, as they encompass the aspects of both healthy and pathological states of the liver.
+###Result###
+['Liver development', 'Liver injury regeneration']

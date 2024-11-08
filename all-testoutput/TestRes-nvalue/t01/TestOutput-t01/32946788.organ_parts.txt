@@ -1,0 +1,11 @@
+###Keywords###
+From the input, the terms "embryonic aorta-gonad-mesonephros (AGM) region" and "embryo" directly indicate that 'Embryo' and 'Mouse Embryo' may be relevant results. Additionally, "dorsal aorta" suggests 'Mouse aorta' and 'Dorsal aorta' could be relevant.
+###Verify###
+- "Hematopoietic stem cells (HSCs) first emerge in the embryonic aorta-gonad-mesonephros (AGM) region" confirms 'Embryo' and 'Mouse Embryo'.
+- "ventral domain of the dorsal aorta" confirms 'Mouse aorta' and 'Dorsal aorta'.
+###Context###
+Not required in this case as the Keywords and Verify steps align well and provide sufficient evidence.
+###Conclusion###
+Consequently, we confirm 'Embryo', 'Mouse Embryo', 'Mouse aorta', and 'Dorsal aorta' as the final results based on the clear and consistent references to these terms in the input.
+###Result###
+['Embryo', 'Mouse Embryo', 'Mouse aorta', 'Dorsal aorta']

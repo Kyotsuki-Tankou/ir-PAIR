@@ -1,0 +1,8 @@
+### Keywords ###
+From the Keywords, we have terms like "human development," "human developmental cell atlas," and "human embryonic cardiac cell types," which strongly suggest that the study is focused on humans.
+### Verify ###
+The Abstract mentions "The process of cardiac morphogenesis in humans" and "Human embryonic cardiac cell types," which directly indicate that the study is conducted on humans.
+### Conclusion ###
+Based on both the Keywords and the Abstract, it is clear that the species of interest in this study is Homo sapiens.
+### Result ###
+['Homo sapiens']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "men" and "prostate cancer" are prominent, indicating that 'Homo sapiens' may be the species involved.
+### Verify ###
+The abstract mentions "men worldwide" and "prostate cancer patients," which clearly verifies that the species being studied is 'Homo sapiens'.
+### Context ###
+The abstract consistently discusses human-related terms such as "men," "patients," and "prostate cancer," which aligns with 'Homo sapiens'. There is no mention of any other species, making the context straightforward.
+### Conclusion ###
+Since the keywords, verification, and context all confirm the species, we can conclude that 'Homo sapiens' is the correct result.
+### Result ###
+['Homo sapiens']

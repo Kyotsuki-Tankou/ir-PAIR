@@ -1,0 +1,10 @@
+### Keywords ###
+From the term "APEX-seq" in both the Abstract and Keywords, it indicates that 'APEX-seq' may be a proper result.
+### Verify ###
+The Abstract mentions "We therefore developed an RNA proximity labeling technique, APEX-seq," and "Our novel technique allows a powerful and general approach to explore the spatial environment of macromolecules," which further verifies that 'APEX-seq' is indeed a proper result.
+### Context ###
+Not required in this case as the verification directly supports the result without ambiguity.
+### Conclusion ###
+Consequently, we confirm 'APEX-seq' as our final result.
+### Result ###
+['APEX-seq']

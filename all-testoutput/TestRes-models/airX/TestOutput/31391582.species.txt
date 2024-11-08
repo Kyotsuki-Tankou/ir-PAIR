@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the keyword "mouse embryo" suggests that 'Mus musculus' may be a proper result.
+###Verify###
+The abstract mentions "the mouse embryo" and discusses its development, which directly verifies that 'Mus musculus' is the species being studied.
+###Conclusion###
+Consequently, we confirm 'Mus musculus' as our final result.
+###Result###
+['Mus musculus']

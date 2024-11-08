@@ -1,0 +1,10 @@
+###Keywords###
+The keywords from the abstract include "mammalian circadian behaviors," "suprachiasmatic nucleus (SCN)," "ventral hypothalamus," "mouse SCN," "single-cell RNA-sequencing," and "circadian gene expression." These keywords suggest that the study is focused on the mouse brain, specifically the SCN.
+###Verify###
+The abstract explicitly mentions "We have used single-cell RNA-sequencing to identify the basic cell types in the mouse SCN." This directly indicates that the species of interest is the mouse, specifically "Mus musculus."
+###Context###
+Given the detailed focus on the mouse SCN and the specific mention of "mouse SCN" multiple times, there is no need for additional context to verify the species type.
+###Conclusion###
+Consequently, we confirm that 'Mus musculus' is the appropriate species based on the provided abstract.
+###Result###
+['Mus musculus']

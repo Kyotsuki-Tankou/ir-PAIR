@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the keyword "humans" indicates that 'Homo sapiens' may be a proper result.
+### Verify ###
+The abstract mentions "a comprehensive single-cell atlas has not been achieved for humans," which further verifies that 'Homo sapiens' is a correct result based on the provided schema.
+### Conclusion ###
+Since the keywords and the verification both point to 'Homo sapiens', we can conclude that it is the correct result.
+### Result ###
+["Homo sapiens"]

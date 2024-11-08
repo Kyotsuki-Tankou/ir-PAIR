@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "heart failure," "circulating proteins," "proteomics," "immunological," "complement," "coagulation," "natriuretic," "matrix remodeling," and "heart transplantation." These keywords suggest that the study is focused on the heart and its associated biological processes.
+### Verify ###
+The abstract mentions "application of aptamer-based proteomics to identify proteins associated with prospective HF incidence" and "coronary sinus samples," which indicates that the study is using proteomics to analyze the heart. Additionally, the reference to "heart failure" and "cardiac and systemic factors associated with HF development" confirms that the heart is the organ of interest.
+### Conclusion ###
+Based on the keywords and verification, we can conclude that the organ part being studied is the 'Heart'.
+### Result ###
+['Heart']

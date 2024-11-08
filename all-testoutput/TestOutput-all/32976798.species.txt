@@ -1,0 +1,10 @@
+###Keywords###
+From the Keywords, we have terms like "HCC," "Hepatocellular carcinoma," "scRNA-seq," "tumor associated macrophages," and "onco-fetal reprogramming." These terms suggest a focus on human liver and its diseases, particularly hepatocellular carcinoma (HCC). However, the Keywords do not explicitly mention any species.
+###Verify###
+The Abstract mentions "human liver," "human fetal," and "mouse liver," indicating that both 'Homo sapiens' and 'Mus musculus' are involved in the study. This is further supported by the cross-species comparative analysis mentioned in the Abstract.
+###Context###
+Given the Abstract's clear mention of both "human liver" and "mouse liver," it is evident that the study involves two species: 'Homo sapiens' and 'Mus musculus'. The Keywords, while detailed about the disease and cellular aspects, do not directly list the species, but the context from the Abstract provides the necessary linkage.
+###Conclusion###
+Based on the context provided by the Abstract, we can conclude that the species involved in this study are 'Homo sapiens' and 'Mus musculus'.
+###Result###
+['Homo sapiens', 'Mus musculus']

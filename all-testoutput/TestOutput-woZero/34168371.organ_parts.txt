@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords "human leprosy granulomas," "macrophages," "lymphocytes," "reversal reactions," "lepromatous leprosy," "tuberculoid leprosy," and "antimicrobial responses," it suggests that 'Human cell lines' or 'Skin' might be relevant organ parts due to the context of leprosy affecting the skin and the use of human biopsy specimens.
+### Verify ###
+In the Abstract, phrases like "human leprosy granulomas," "leprosy biopsy specimens," and "macrophages and lymphocytes" strongly indicate that 'Skin' is a proper result, as leprosy primarily affects the skin and peripheral nerves.
+### Context ###
+Upon reviewing the context, the focus on "leprosy biopsy specimens" and the mention of "keratinocytes" further supports the relevance of 'Skin' as the primary organ part involved in the study.
+### Conclusion ###
+Consequently, we choose 'Skin' as our final result.
+### Result ###
+['Skin']

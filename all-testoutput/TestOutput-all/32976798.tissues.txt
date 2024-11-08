@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "human liver" is prominently mentioned, indicating that 'Liver' may be a proper result. Additionally, "hepatocellular carcinoma (HCC)" is discussed extensively, suggesting a focus on liver-related diseases.
+### Verify ###
+The abstract specifically mentions "characterize the cellular landscape of human liver," "human fetal, hepatocellular carcinoma (HCC), and mouse liver," and "fetal liver and HCC." These references further verify that 'Liver' is indeed a relevant tissue type in this context.
+### Context ###
+Given the detailed focus on human liver, both in healthy and diseased states (HCC), and the comparative analysis with mouse liver, there is no need for additional context to confirm the relevance of 'Liver'.
+### Conclusion ###
+Consequently, we confirm 'Liver' as the final result based on the clear and consistent focus on the liver throughout the abstract.
+### Result ###
+['Liver']

@@ -1,0 +1,12 @@
+### Keywords ###
+From the "Abstract," the mention of "mouse brain and primary breast cancer" suggests that the species involved in the study are likely "Mus musculus" (mouse) and "Homo sapiens" (human).
+### Verify ###
+The Abstract explicitly mentions "mouse brain," which directly corresponds to "Mus musculus." Additionally, "primary breast cancer" typically refers to human samples, corresponding to "Homo sapiens."
+### Context ###
+The context provided in the Abstract supports the identification of these species:
+- "Each experiment recovers several hundred thousand transcript-coupled spatial barcodes at 2-μm resolution, as demonstrated in mouse brain and primary breast cancer."
+This clearly indicates the use of mouse and human tissues for the experiments.
+### Conclusion ###
+Given the explicit mention of "mouse brain" and "primary breast cancer" in the Abstract, it is clear that the species involved are "Mus musculus" and "Homo sapiens."
+### Result ###
+['Mus musculus', 'Homo sapiens']

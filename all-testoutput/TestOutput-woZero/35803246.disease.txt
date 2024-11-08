@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "Melanoma brain metastasis (MBM)," "chromosomal instability," "neuronal-like cell state," and "tumor-microenvironment." These suggest that 'Melanoma metastasis' and 'Brain metastases cancer' may be relevant results.
+### Verify ###
+In the abstract, phrases like "Melanoma brain metastasis (MBM) frequently occurs in patients with advanced melanoma" and "Cancer cells from MBM were more chromosomally unstable" verify that 'Melanoma metastasis' and 'Brain metastases cancer' are indeed relevant and proper results.
+### Context ###
+The abstract consistently focuses on the biology and characteristics of melanoma brain metastasis, providing detailed insights into the cellular and molecular aspects. There is no conflicting information that would necessitate additional context.
+### Conclusion ###
+Consequently, we confirm 'Melanoma metastasis' and 'Brain metastases cancer' as the final results based on the clear and direct references in the abstract.
+### Result ###
+['Melanoma metastasis', 'Brain metastases cancer']

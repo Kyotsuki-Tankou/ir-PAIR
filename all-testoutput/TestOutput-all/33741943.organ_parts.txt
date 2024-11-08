@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "chicken heart," "developing hearts," "cardiac lineages," "epicardial lineage," and "coronary vascular development" suggest that the study is focused on the heart, particularly during its developmental stages. Therefore, 'Heart' may be a proper result.
+### Verify ###
+The abstract mentions "study the development of the chicken heart," "diverse cellular lineages in developing hearts," and "coronary vascular development," which further verifies that 'Heart' is indeed the organ part studied in the research.
+### Context ###
+Given the detailed description of the heart's development, cellular lineages, and specific structures like the epicardial lineage, there is no ambiguity in the context that would require additional clarification. The focus on the heart's development solidifies 'Heart' as the correct organ part.
+### Conclusion ###
+Consequently, we choose 'Heart' as our final result based on the clear and consistent focus on the heart's development and its cellular components in the abstract.
+### Result ###
+['Heart']

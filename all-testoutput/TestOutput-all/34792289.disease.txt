@@ -1,0 +1,8 @@
+### Keywords ###
+The keywords from the abstract suggest that diseases related to the liver might be relevant.
+### Verify ###
+The abstract mentions "human liver" multiple times, which is directly related to liver diseases. This verifies the relevance of diseases like "Hepatocellular Carcinoma" or "Liver development" from the schema.
+### Conclusion ###
+Given the focus on the human liver and its cell populations, we can conclude that liver-related diseases are the focus of this abstract.
+### Result ###
+['Hepatocellular Carcinoma', 'Liver development']

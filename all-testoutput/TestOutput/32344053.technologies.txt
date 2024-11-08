@@ -1,0 +1,11 @@
+Let's think step by step.
+### Keywords
+From the Keywords "atopic dermatitis; single-cell RNA sequencing," there is an indication that the technology 'scRNA' may be used.
+### Verify
+The Abstract states "Using single-cell RNA sequencing, we found comparable transcriptional profiles of key inflammatory pathways between blister and biopsy AD," which confirms the use of 'scRNA' as a technology in the study.
+### Context
+Not required in this case as the verification directly supports the result without ambiguity.
+### Conclusion
+Consequently, we confirm 'scRNA' as our final result.
+### Result
+['scRNA']

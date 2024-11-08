@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the terms "people" and "back skin" suggest the species 'Homo sapiens'.
+### Verify ###
+The abstract mentions "Acne affects 1 in 10 people globally" and "early acne lesions on back skin," which strongly indicate that the study is focused on human subjects, 'Homo sapiens'.
+### Conclusion ###
+Since both the keywords and the context consistently point to 'Homo sapiens', we can confidently conclude that 'Homo sapiens' is the correct species.
+### Result ###
+['Homo sapiens']

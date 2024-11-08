@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the focus is on "deep single-cell sequencing of RNA and T cell receptors," which indicates the use of a single-cell sequencing technology.
+### Verify ###
+The abstract mentions "deep single-cell sequencing," which is a technology used to analyze the transcriptome and T cell receptors at the single-cell level.
+### Context ###
+The context of the study involves understanding T cell dynamics in cancer patients, and the use of deep single-cell sequencing is crucial for this analysis.
+### Conclusion ###
+Based on the keywords and verification, it is clear that the technology used in the study is single-cell sequencing, which is represented in the schema as 'scRNA-seq' (single-cell RNA sequencing).
+### Result ###
+['scRNA-seq']

@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "murine cerebellar cells" and "Math1-GFP; Dcx-DsRed mice" suggest that 'Mus musculus' (house mouse) might be the species used in the study.
+### Verify ###
+The phrases "murine cerebellar cells" and "Math1-GFP; Dcx-DsRed mice" explicitly mention "murine," which is a common term for 'Mus musculus'. This provides strong evidence that 'Mus musculus' is indeed the species involved.
+### Conclusion ###
+Given the clear mention of "murine cerebellar cells" and specific mouse strains like "Math1-GFP; Dcx-DsRed mice" in the abstract, we can confidently conclude that 'Mus musculus' is the correct species to be extracted.
+### Result ###
+['Mus musculus']

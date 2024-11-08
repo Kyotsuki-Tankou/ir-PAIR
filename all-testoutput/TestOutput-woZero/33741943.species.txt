@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the term "chicken heart" is explicitly mentioned, indicating that 'Gallus gallus' (the scientific name for chicken) may be a proper result.
+###Verify###
+- The abstract states: "we combine single-cell and spatial transcriptomics with algorithms for data integration to study the development of the chicken heart," which directly verifies the presence of 'Gallus gallus'.
+###Context###
+- No additional context is needed as the abstract clearly mentions the specific species (chicken) involved in the study.
+###Conclusion###
+Consequently, we confirm 'Gallus gallus' as our final result based on the explicit mention in the abstract.
+###Result###
+['Gallus gallus']

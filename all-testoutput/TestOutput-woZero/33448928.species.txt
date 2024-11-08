@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the keywords "mouse" and "human" are directly mentioned in the context of the study.
+### Verify ###
+- "murine endotoxemia model" directly indicates the use of "Mus musculus."
+- "human sepsis" suggests the involvement of "Homo sapiens."
+### Context ###
+- The study primarily focuses on a murine model to understand the pathophysiology of sepsis, which directly involves "Mus musculus."
+- The findings are intended to be applied to human sepsis, indicating the relevance of "Homo sapiens."
+### Conclusion ###
+The abstract clearly mentions both "Mus musculus" and "Homo sapiens" as relevant species in the context of the study.
+### Result ###
+['Mus musculus', 'Homo sapiens']

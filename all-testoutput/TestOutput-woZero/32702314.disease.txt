@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the primary focus is on "Alzheimer's disease (AD)" and its associated molecular and cellular changes around amyloid plaques. The keywords also include terms like "amyloid plaque," "astrocyte," "complement cascade," "in situ sequencing," "microglia," "myelination," and "oligodendrocyte," which are all related to Alzheimer's disease.
+### Verify ###
+The abstract explicitly mentions "Alzheimer's disease (AD)" as the central focus of the study. The investigation is conducted in an "AD mouse model," which further emphasizes the disease context.
+### Context ###
+The context provided in the abstract and keywords clearly revolves around Alzheimer's disease, with detailed descriptions of the molecular and cellular changes associated with it. There is no ambiguity in the disease being studied.
+### Conclusion ###
+Based on the explicit mentions and the detailed context, we can confidently conclude that the disease studied is "Alzheimer's disease."
+### Result ###
+['Alzheimer disease']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the prominent keywords are "liver," "fetal liver," "erythrocyte," "hepatoblast," "single-cell RNA sequencing," and "spatial transcriptomics." The term "fetal liver" directly matches an item in the schema.
+### Verify ###
+Upon reviewing the abstract, the term "fetal liver" is explicitly mentioned multiple times, emphasizing its role in hematopoiesis and development. This directly corresponds to 'Fetal liver' in the schema.
+### Context ###
+The abstract focuses on the development and gene expression in human fetal livers, providing detailed insights into cell types and pathways. This context further supports the relevance of 'Fetal liver' as the primary organ part discussed.
+### Conclusion ###
+Given the explicit and repeated mention of "fetal liver" and the detailed context provided about its development and gene expression, it is clear that 'Fetal liver' is the correct organ part from the schema that corresponds to the input.
+### Result ###
+['Fetal liver']

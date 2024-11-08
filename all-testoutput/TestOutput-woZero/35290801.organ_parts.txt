@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract and keywords, the relevant organ parts mentioned are "lung cancer" and "tumor microenvironment (TME)."
+### Verify ###
+The abstract specifically mentions "a mouse model of lung cancer" and discusses the tumor microenvironment (TME) in the context of Tgfbr2 knockout tumors. This verifies the presence of "lung cancer" as a key organ part.
+### Conclusion ###
+Based on the clear mention of "lung cancer" and the focus on the tumor microenvironment within the lung cancer context, we can confidently conclude that "lung cancer" is a proper result.
+### Result ###
+['Lung cancer']

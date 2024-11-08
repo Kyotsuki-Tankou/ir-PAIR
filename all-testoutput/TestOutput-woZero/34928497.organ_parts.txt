@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "prostate tissue," "prostate luminal cells," and "prostatic urethra" suggest potential matches like 'Prostate epithelial organoids' and 'Prostatic cancer'.
+### Verify ###
+- "Benign prostatic hyperplasia (BPH)" and "prostate tissue" indicate a focus on the prostate, suggesting 'Prostate epithelial organoids' might be relevant.
+- "prostate secretory luminal cells" and "prostatic urethra" further support the focus on prostate-specific components.
+### Context ###
+- The abstract mentions "5-alpha reductase inhibitors (5ARIs) to shrink prostate volume" and "atrophy and apoptosis of prostate secretory luminal cells," which provides context that the study is deeply involved in the prostate tissue and its cellular components.
+- "We used two spatial profiling approaches to characterize gene expression changes across histologically normal and atrophied regions in prostates from 5ARI-treated men." This emphasizes the detailed analysis of prostate tissue under specific treatment conditions.
+### Conclusion ###
+Given the context and the specific mention of "prostate tissue," "prostate luminal cells," and "prostatic urethra," 'Prostate epithelial organoids' is a highly relevant match. 'Prostatic cancer' is not directly mentioned or implied, as the focus is on benign hyperplasia rather than cancer.
+### Result ###
+['Prostate epithelial organoids']

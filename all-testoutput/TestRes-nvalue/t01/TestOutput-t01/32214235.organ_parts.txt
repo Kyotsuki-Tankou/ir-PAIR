@@ -1,0 +1,10 @@
+###Keywords###
+From the Abstract, the terms "human organs" and "mouse" suggest potential matches with the schema. Specifically, "human organs" could imply various organ parts, and "mouse" directly points to 'Mouse Embryo', 'Mouse aorta', 'Mouse atrium', 'Mouse ventricle', 'Whole Mouse Bladder', etc.
+###Verify###
+The phrase "single-cell comparative analysis of landscapes from human and mouse" in the Abstract confirms the involvement of mouse-related organ parts. Additionally, the focus on "human organs" suggests a broad range of human organ parts.
+###Context###
+The context indicates a comprehensive analysis of human organs and a comparative analysis with mouse organs. This suggests that while specific human organ parts are not explicitly mentioned, the study covers major human organs, and mouse organs are explicitly involved.
+###Conclusion###
+Given the explicit mention of mouse and the comprehensive nature of the study on human organs, we can conclude that 'Mouse Embryo' is a specific and relevant match for the mouse-related parts, and 'Human cell lines' can represent the human aspect, given the broad scope of the study.
+###Result###
+['Mouse Embryo', 'Human cell lines']

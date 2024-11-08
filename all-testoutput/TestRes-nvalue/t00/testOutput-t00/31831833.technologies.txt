@@ -1,0 +1,24 @@
+### Keywords ###
+- Spatial Transcriptomics (ST)
+- synovial biopsies
+- rheumatoid arthritis (RA)
+- spondyloarthritis (SpA)
+- transcriptomic profiles
+- differential gene expression analysis (DEA)
+- pathway analysis
+- immune cell type identification
+- Xcell analysis
+- immunohistochemistry (IHC)
+- mononuclear cell infiltrates
+- adaptive immune response
+- T-B cell interactions
+- tissue repair
+- high-resolution histological images
+- central memory T cells
+- effector memory T cells
+### Verify ###
+- technologies mentioned: ['Spatial Transcriptomics']
+### Conclusion ###
+- The technology used in the study is 'Spatial Transcriptomics'.
+### Result ###
+- ['Spatial Transcriptomics']

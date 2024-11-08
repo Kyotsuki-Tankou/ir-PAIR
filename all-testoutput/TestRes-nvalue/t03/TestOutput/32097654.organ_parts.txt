@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keywords "blastema; digit tip regeneration; fibroblast heterogeneity; mest; single-cell RNA-seq" suggest a focus on the process of digit tip regeneration and the cellular components involved in this process.
+### Verify ###
+The abstract mentions "single-cell RNA sequencing of over 38,000 cells from mouse digit tip blastemas and unamputated control digit tips," which implies that the study is centered around the regeneration process in mammals, specifically mice. This aligns with the concept of "digit tip regeneration."
+### Context ###
+The context provided in the abstract is that the study is investigating the process of digit tip regeneration in mice, which is a form of epimorphic regeneration. The study involves the analysis of blastema, a structure known to be involved in limb regeneration in lower vertebrates.
+### Conclusion ###
+Given the focus on the process of digit tip regeneration and the use of mice as the model organism, "digit tip regeneration" is the most appropriate match from the provided schema.
+### Result ###
+["digit tip regeneration"]

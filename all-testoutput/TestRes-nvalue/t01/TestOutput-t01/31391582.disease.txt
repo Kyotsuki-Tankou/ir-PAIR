@@ -1,0 +1,8 @@
+###Keywords###
+From the phrases "post-implantation development of the mouse embryo," "germ layers," "cell lineages," "gastrulation," and "embryonic programming," it suggests that the study is focused on 'Embryo development'.
+###Verify###
+The text "Here we report a spatially resolved transcriptome of cell populations at defined positions in the germ layers during development from pre- to late-gastrulation stages" further confirms that the study is indeed centered around the development stages of the embryo, specifically during gastrulation, which is a critical phase in 'Embryo development'.
+###Conclusion###
+Given the consistent focus on the developmental stages of the mouse embryo, particularly around germ layer formation and cell lineage specification, 'Embryo development' is the appropriate term to extract.
+###Result###
+['Embryo development']

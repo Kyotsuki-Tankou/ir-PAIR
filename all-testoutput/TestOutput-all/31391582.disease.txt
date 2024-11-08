@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "post-implantation development of the mouse embryo," "embryogenesis," and "gastrulation" are prominently mentioned, indicating that 'Embryo development' may be a relevant result.
+### Verify ###
+The abstract states, "During post-implantation development of the mouse embryo, descendants of the inner cell mass in the early epiblast transit from the naive to primed pluripotent state," and "The regionalization of cell fates preceding the formation of the basic body plan... is conserved in vertebrate embryos." These statements directly reference the process of embryo development, further verifying that 'Embryo development' is indeed a relevant and proper result.
+### Context ###
+Given the direct and clear mention of "post-implantation development," "embryogenesis," and "gastrulation" in both the abstract and the result, there is no need for additional context to verify the keyword.
+### Conclusion ###
+Consequently, we confirm 'Embryo development' as our final result based on the clear and consistent references in the abstract.
+### Result ###
+['Embryo development']

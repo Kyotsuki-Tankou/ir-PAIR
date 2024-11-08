@@ -1,0 +1,8 @@
+### Keywords ###
+The keywords from the input that correspond to the schema are "digit regeneration" and "bone regeneration."
+### Verify ###
+The abstract mentions "De novo limb regeneration after amputation is restricted in mammals to the distal digit tip" and "To investigate skeletal regeneration, we made use of spatial transcriptomics to characterize the transcriptional profile specifically within the blastema." These statements verify that "digit regeneration" and "bone regeneration" are the correct diseases to extract according to the schema.
+### Conclusion ###
+Since the keywords match the diseases mentioned in the abstract, we can conclude that "digit regeneration" and "bone regeneration" are the appropriate results.
+### Result ###
+['digit regeneration', 'bone regeneration']

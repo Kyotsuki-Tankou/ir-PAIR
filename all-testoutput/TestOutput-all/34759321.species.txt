@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "mice" is explicitly mentioned in the context of the study. This indicates that 'Mus musculus' may be a proper result.
+### Verify ###
+The abstract states, "promotes metastasis in oral carcinomas and melanoma in mice," which directly verifies that 'Mus musculus' is indeed a relevant species in the context of the study.
+### Context ###
+Since the verification step directly confirms the presence of 'Mus musculus' in the abstract, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Consequently, we choose 'Mus musculus' as our final result.
+### Result ###
+['Mus musculus']

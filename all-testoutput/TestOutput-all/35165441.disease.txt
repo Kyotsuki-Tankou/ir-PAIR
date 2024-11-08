@@ -1,0 +1,8 @@
+###Keywords###
+From the term "Alzheimer's disease" in the Abstract, it indicates that 'Alzheimer disease' may be a proper result.
+###Verify###
+The Abstract mentions "9 individuals with Alzheimer's disease and 8 individuals with no cognitive impairment" and "In Alzheimer's disease, we observe selective vulnerability of ECM-maintaining pericytes," which further verifies that 'Alzheimer disease' is indeed a proper result.
+###Conclusion###
+Consequently, we choose 'Alzheimer disease' as our final result.
+###Result###
+['Alzheimer disease']

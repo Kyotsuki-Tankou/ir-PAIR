@@ -1,0 +1,6 @@
+["Homo sapiens", "Danio rerio", "Mus musculus", "Gallus gallus"]
+["Embryo"]
+null
+["Tomo-seq"]
+["Normal atlas"]
+ Abstract\nThe defined location of a stem cell within a niche regulates its fate, behavior, and molecular identity via a complex extrinsic regulation that is far from being fully elucidated. To explore the molecular characteristics and key components of the aortic microenvironment, where the first hematopoietic stem cells are generated during development, we performed genome-wide RNA tomography sequencing on zebrafish, chicken, mouse, and human embryos. The resulting anterior-posterior and dorsal-ventral transcriptional maps provided a powerful resource for exploring genes and regulatory pathways active in the aortic microenvironment. By performing interspecies comparative RNA sequencing analyses and functional assays, we explored the complexity of the aortic microenvironment landscape and the fine-tuning of various factors interacting to control hematopoietic stem cell generation, both in time and space in vivo, including the ligand-receptor couple ADM-RAMP2 and SVEP1. Understanding the regulatory function of the local environment will pave the way for improved stem cell production in vitro and clinical cell therapy.

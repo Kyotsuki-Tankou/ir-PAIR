@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the terms "human liver," "mouse liver," and "cross-species comparative analysis" suggest that the species involved are 'Homo sapiens' and 'Mus musculus'.
+###Verify###
+The abstract explicitly mentions "human fetal, hepatocellular carcinoma (HCC), and mouse liver," which directly verifies the involvement of 'Homo sapiens' and 'Mus musculus'.
+###Conclusion###
+Since the keywords and the context in the abstract both point to 'Homo sapiens' and 'Mus musculus', we can confidently conclude that these are the correct species involved in this study.
+###Result###
+['Homo sapiens', 'Mus musculus']

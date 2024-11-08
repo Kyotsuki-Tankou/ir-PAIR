@@ -1,0 +1,14 @@
+###Keywords###
+From the abstract, the terms "single-cell CITE-seq," "single-nuclei sequencing," "spatial transcriptomics," and "spatial proteomics" are prominent. These directly suggest potential matches with the schema.
+###Verify###
+1. **CITE-seq**: The abstract explicitly mentions "single-cell CITE-seq," which directly corresponds to 'CITE-seq' in the schema.
+2. **Single-nuclei sequencing**: This term suggests the use of 'scRNA' or 'snRNA' technologies. Given the context, 'scRNA' is more likely as it is commonly used in single-nucleus RNA sequencing.
+3. **Spatial transcriptomics**: This term directly matches 'Spatial Transcriptomics' in the schema.
+###Context###
+- **CITE-seq**: The abstract clearly states the use of "single-cell CITE-seq," confirming its presence.
+- **Single-nuclei sequencing**: The mention of "single-nuclei sequencing" aligns with 'scRNA' as it is a common technique for this purpose.
+- **Spatial transcriptomics**: The explicit mention of "spatial transcriptomics" directly corresponds to the technology listed in the schema.
+###Conclusion###
+Based on the clear and direct mentions in the abstract, we can confidently conclude that the technologies used include 'CITE-seq,' 'scRNA,' and 'Spatial Transcriptomics.'
+###Result###
+['CITE-seq', 'scRNA', 'Spatial Transcriptomics']

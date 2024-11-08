@@ -1,0 +1,11 @@
+###Keywords###
+From the input, the terms "aortic microenvironment" and "hematopoietic stem cells" suggest a focus on developmental tissues. The mention of "human embryos" directly indicates 'Embryo' as a potential result.
+###Verify###
+- From "human embryos" in the Abstract, we can verify that 'Embryo' is indeed a proper result.
+- The context of "aortic microenvironment" and "hematopoietic stem cells" further supports the relevance of 'Embryo' since these are critical aspects of early development.
+###Context###
+The input mentions "zebrafish, chicken, mouse, and human embryos," indicating a broad study across multiple species but focusing on embryonic tissues. This context reinforces the importance of 'Embryo' as the primary tissue of interest.
+###Conclusion###
+Consequently, we confirm 'Embryo' as the final result based on the clear and consistent references to embryonic tissues in the input.
+###Result###
+['Embryo']

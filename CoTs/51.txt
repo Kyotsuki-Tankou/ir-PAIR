@@ -1,0 +1,14 @@
+###schema###
+species:['Canis lupus familiaris', 'Arabidopsis thaliana', 'Xenopus tropicalis', 'Maize', 'Drosophila melanogaster', 'Danio rerio', 'Ambystoma mexicanum', 'Gallus gallus', 'Homo sapiens', 'Rattus norvegicus', 'Mus musculus', 'Macaca fascicularis', 'Glycine max', 'Xenopus laevis', 'Caenorhabditis elegans', 'Oryctolagus cuniculus', 'Phalaenopsis aphrodite', 'Sus scrofa']
+###input###
+ Abstract
+To advance our understanding of the genetic programs that drive cell and tissue specialization, it is necessary to obtain a comprehensive overview of gene expression patterns. Here, we have used spatial transcriptomics to generate high-resolution, anteroposterior gene expression maps of C. elegans males and hermaphrodites. To explore these maps, we have developed computational methods for discovering region- and tissue-specific genes. We have found extensive sex-specific gene expression differences in the germline and sperm and discovered genes that are specifically expressed in the male reproductive tract. These include a group of uncharacterized genes that encode small secreted proteins that are required for male fertility. We conclude that spatial gene expression maps provide a powerful resource for identifying tissue-specific gene functions in C. elegans. Importantly, we found that expression maps from different animals can be precisely aligned, enabling transcriptome-wide comparisons of gene expression patterns. 
+ Keywords:C.聽elegans; CEL-seq; germline; mRNA sequencing; male fertility; spatial transcriptomics; sperm.Let's think step by step.
+### Keywords ###
+From "C. elegans" in Keywords, it indicates that 'Caenorhabditis elegans' may be a proper result.
+### Verify ###
+From "we have used spatial transcriptomics to generate high-resolution, anteroposterior gene expression maps of C. elegans males and hermaphrodites" in the Abstract, we can further verify that 'Caenorhabditis elegans' is indeed the species studied.
+### Conclusion ###
+Consequently, we choose 'Caenorhabditis elegans' as our final result.
+### Result ###
+['Caenorhabditis elegans']

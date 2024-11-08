@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "humans," "human organs," and "human cell landscape (HCL)" are prominently mentioned, indicating that 'Homo sapiens' may be a proper result.
+### Verify ###
+The abstract specifically mentions "a comprehensive single-cell atlas has not been achieved for humans" and "we use single-cell mRNA sequencing to determine the cell-type composition of all major human organs," which further verifies that 'Homo sapiens' is indeed a relevant species in this context.
+### Context ###
+Given the detailed focus on human cells and organs, and the comparison with mouse cells, there is no need for additional context to confirm the relevance of 'Homo sapiens'. The mention of mouse cells is secondary and serves as a comparative element.
+### Conclusion ###
+Consequently, we confirm 'Homo sapiens' as the final result based on the clear and consistent focus on human biology throughout the abstract.
+### Result ###
+['Homo sapiens']

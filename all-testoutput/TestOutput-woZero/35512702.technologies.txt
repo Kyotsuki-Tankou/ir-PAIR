@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "scStereo-seq" is prominently mentioned, indicating that 'Stereo-Seq' may be a proper result.
+### Verify ###
+The abstract specifically mentions "scStereo-seq (single-cell spatial enhanced resolution omics sequencing)" and its application in characterizing the spatial transcriptome profiles of Arabidopsis leaves. This further verifies that 'Stereo-Seq' is indeed a relevant technology in this context.
+### Context ###
+Given the detailed focus on the use of scStereo-seq to analyze single-cell spatial transcriptome profiles and the discovery of cell-type-specific gene expression gradients, there is no need for additional context to confirm the relevance of 'Stereo-Seq'.
+### Conclusion ###
+Consequently, we confirm 'Stereo-Seq' as the final result based on the clear and consistent focus on this technology throughout the abstract.
+### Result ###
+['Stereo-Seq']

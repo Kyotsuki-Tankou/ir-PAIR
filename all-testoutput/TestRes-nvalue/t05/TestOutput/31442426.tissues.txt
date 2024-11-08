@@ -1,0 +1,8 @@
+### Keywords ###
+The abstract mentions "stress granules" which could be a potential match for the schema.
+### Verify ###
+The abstract states "Transcripts in these complexes localize to specific regions of the cell and can condense into non-membrane-bound structures such as stress granules." This verifies that 'Stress granules' is indeed a relevant term from the schema.
+### Conclusion ###
+Since the term 'Stress granules' is directly mentioned and matches an item in the schema, we can conclude that 'Stress granules' is the correct result.
+### Result ###
+['Stress granules']

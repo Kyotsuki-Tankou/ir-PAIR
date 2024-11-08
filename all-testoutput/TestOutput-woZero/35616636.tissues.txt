@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "blastema," "bone," "digit regeneration," and "mouse" are prominently mentioned, indicating that 'Blastema' and 'Bone' may be relevant tissue types.
+### Verify ###
+The abstract specifically mentions "the blastema, a heterogeneous population of lineage-restricted, dedifferentiated cells that ultimately orchestrates regeneration of the amputated bone and surrounding soft tissue." This verifies that 'Blastema' and 'Bone' are indeed relevant tissue types in this context.
+### Context ###
+Given the detailed focus on the blastema and its role in bone regeneration, there is no need for additional context to confirm the relevance of 'Blastema' and 'Bone'.
+### Conclusion ###
+Consequently, we confirm 'Blastema' and 'Bone' as the final results based on the clear and consistent focus on these tissues throughout the abstract.
+### Result ###
+['Blastema', 'Bone']

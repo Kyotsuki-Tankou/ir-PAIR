@@ -1,0 +1,10 @@
+###Keywords###
+The keywords from the abstract that stand out are "post-implantation development," "mouse embryo," "germ layers," "fate-mapping," "lineage-analysis," "gastrulation," "spatiotemporal transcriptome," and "pluripotency states." These suggest that 'Normal atlas' or 'Embryonic development' might be relevant results.
+###Verify###
+The abstract specifically mentions "post-implantation development of the mouse embryo" and "spatially resolved transcriptome of cell populations at defined positions in the germ layers during development from pre- to late-gastrulation stages," which verifies that 'Normal atlas' or 'Embryonic development' is indeed relevant.
+###Context###
+The abstract does not mention any diseases or pathologies, focusing instead on the normal development of the mouse embryo. This supports the idea that the study is centered around creating a "Normal atlas" rather than investigating a specific disease.
+###Conclusion###
+Given the focus on the normal development of the mouse embryo and the absence of a specific disease context, "Normal atlas" is the most appropriate match from the provided schema.
+###Result###
+["Normal atlas"]

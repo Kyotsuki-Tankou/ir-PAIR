@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "single-cell mRNA sequencing," which suggests that 'scRNA' is a relevant keyword.
+### Verify ###
+The abstract directly states the use of "single-cell mRNA sequencing" to determine the cell-type composition of human organs. This verifies that 'scRNA' is the correct technology used in the study.
+### Context ###
+No additional context is needed as the abstract clearly specifies the technology used.
+### Conclusion ###
+Based on the verification step, we can conclude that 'scRNA' is the technology used in the study.
+### Result ###
+['scRNA']

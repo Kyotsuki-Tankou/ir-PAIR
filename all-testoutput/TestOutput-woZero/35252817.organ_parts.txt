@@ -1,0 +1,13 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "high-grade serous ovarian carcinoma," "tumor tissue," "ovarian carcinoma," and "chemotherapy." These suggest that 'Ovarian carcinoma' or 'Breast Cancer' might be relevant organ parts.
+### Verify ###
+In the abstract, it is mentioned:
+- "spatial transcriptomics of high-grade serous ovarian carcinoma using intact tumor tissue"
+- "patients with highly annotated high-grade serous ovarian carcinoma"
+This directly verifies that 'Ovarian carcinoma' is indeed the relevant organ part.
+### Context ###
+Since the abstract explicitly mentions "high-grade serous ovarian carcinoma" and focuses on tumor tissue from these patients, there is no ambiguity or need for further context to verify this organ part.
+### Conclusion ###
+Consequently, based on the explicit mention in the abstract, we choose 'Ovarian carcinoma' as our final result. The provided result 'Breast Cancer' does not match the context of the abstract.
+### Result ###
+['Ovarian carcinoma']

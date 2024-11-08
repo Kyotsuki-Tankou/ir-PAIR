@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "human distal airways," "terminal and respiratory bronchioles (TRBs)," "lung development," and "lung injury" suggest that the organ parts involved are related to the lung.
+### Verify ###
+The abstract specifically mentions "human distal airways," "terminal and respiratory bronchioles (TRBs)," and "lung development," which align with the organ parts related to the lung.
+### Context ###
+The abstract also mentions "using a non-human primate model of lung injury," which indicates the study involves both human and non-human primate lung tissues. However, the primary focus is on human distal airways and TRBs.
+### Conclusion ###
+Given the consistent focus on human distal airways and TRBs, we can conclude that the relevant organ parts are related to the lung.
+### Result ###
+["Upper pulmonary branches", "Postmortem Lung", "Lung organoid"]

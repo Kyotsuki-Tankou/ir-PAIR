@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the primary focus is on "colorectal cancer (CRC)" and its "liver metastases." The terms "metastasis," "colorectal cancer," and "liver metastases" are directly mentioned.
+### Verify ###
+The abstract specifically discusses "colorectal cancer (CRC)" and its metastasis to the liver. It mentions "the complexity and diversity of stromal context of the tumor microenvironment (TME) in liver metastases of CRC" and "an in-depth analysis of the transcriptional landscape of primary CRC, matched liver metastases and blood at single-cell resolution."
+### Context ###
+Given the detailed discussion on colorectal cancer and its liver metastases, the context strongly supports the focus on these specific conditions. The abstract does not mention any other diseases, reinforcing the primary focus on colorectal cancer and its metastasis.
+### Conclusion ###
+Based on the keywords, verification, and context, the primary disease discussed in the abstract is "colorectal cancer" and its "liver metastasis."
+### Result ###
+['colorectal cancer', 'Liver metastasis cancer']

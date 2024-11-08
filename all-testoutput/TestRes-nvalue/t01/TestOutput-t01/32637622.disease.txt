@@ -1,0 +1,15 @@
+### Keywords ###
+From the input, the terms "brain," "isocortex," "hippocampus," "striatum," and "neuroanatomical organization" are mentioned. This suggests that "Brain Cortex," "Brain Hippocampus," and "Brain development" may be relevant results.
+### Verify ###
+The abstract specifically states:
+- "new area- and layer-specific subregions, for example in isocortex and hippocampus"
+- "new subdivisions of striatum"
+- "characterization of the spatial identity of neurons"
+- "molecular atlas to formally define the spatial organization of brain regions"
+This directly verifies the presence of "Brain Cortex," "Brain Hippocampus," and "Brain development" in the context of the study.
+### Context ###
+Given the direct mention of specific brain regions and the overall focus on the spatial organization and molecular atlas of the brain, there is no need for additional context to verify the results.
+### Conclusion ###
+Consequently, we confirm "Brain Cortex," "Brain Hippocampus," and "Brain development" as the appropriate results based on the explicit references in the abstract.
+### Result ###
+["Brain Cortex", "Brain Hippocampus", "Brain development"]

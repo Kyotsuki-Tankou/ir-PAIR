@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "digit tip blastema" and "mouse digit tip blastemas" are mentioned, indicating that 'Blastema' may be a proper result.
+### Verify ###
+The abstract discusses the "digit tip blastema" and "single-cell RNA sequencing of over 38,000 cells from mouse digit tip blastemas," which confirms that the study is focused on the 'Blastema' tissue.
+### Context ###
+There is no ambiguity or need for additional context to confirm the tissue type, as the abstract explicitly mentions "digit tip blastema" and the study's focus is on mouse cells derived from this tissue.
+### Conclusion ###
+Based on the clear and consistent focus on the digit tip blastema in the abstract, we can conclude that 'Blastema' is the correct tissue type.
+### Result ###
+['Blastema']

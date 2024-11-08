@@ -1,0 +1,12 @@
+### Keywords ###
+The abstract mentions "mouse brain and kidney datasets" and "two ductal carcinoma in situ tissues." This suggests the involvement of species such as 'Mus musculus' (mouse) and potentially 'Homo sapiens' (human) for the ductal carcinoma in situ tissues.
+### Verify ###
+- "mouse brain and kidney datasets" directly indicates 'Mus musculus'.
+- "two ductal carcinoma in situ tissues" could imply human tissues, suggesting 'Homo sapiens'.
+### Context ###
+- The abstract primarily focuses on the development and application of a computational method called CellTrek.
+- The method is benchmarked using mouse datasets and then applied to both mouse and human tissues.
+### Conclusion ###
+Given the explicit mention of "mouse brain and kidney datasets" and the implication of human tissues in "ductal carcinoma in situ tissues," both 'Mus musculus' and 'Homo sapiens' are relevant species mentioned in the context of the study.
+### Result ###
+['Mus musculus', 'Homo sapiens']

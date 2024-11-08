@@ -1,0 +1,10 @@
+###Keywords###
+From the Keywords "brain metastases" and "human brain metastases," it suggests that 'Brain' or 'Human cortex' might be relevant organ parts.
+###Verify###
+In the Abstract, phrases like "Metastatic disease in the brain" and "human brain metastases" strongly indicate that 'Brain' is a proper result.
+###Context###
+Upon reviewing the context, there are no additional clues that would suggest another organ part as the primary focus. The entire abstract centers around brain metastases and the cellular environment within the brain.
+###Conclusion###
+Consequently, we choose 'Brain' as our final result.
+###Result###
+['Brain']

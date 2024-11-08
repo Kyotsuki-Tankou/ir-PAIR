@@ -1,0 +1,10 @@
+###Keywords###
+The keywords from the abstract include "synovial biopsies," "rheumatoid arthritis," "spondyloarthritis," "Spatial Transcriptomics," and "immunohistochemistry." These terms suggest that 'Synovial' and 'Arthritis' could be relevant results.
+###Verify###
+The abstract specifically mentions "Synovial biopsies from affected joints were studied with ST," which confirms that 'Synovial' is a proper result. The diseases 'rheumatoid arthritis' and 'spondyloarthritis' are also mentioned, which may imply 'Arthritis,' but these are not listed in the schema.
+###Context###
+The study focuses on synovial biopsies and the use of Spatial Transcriptomics to analyze them, which directly ties into the 'Synovial' part of the schema. The diseases are not part of the schema and are thus not considered in the verification process.
+###Conclusion###
+Given the direct mention of synovial biopsies and their analysis using Spatial Transcriptomics, 'Synovial' is the appropriate result. 'Arthritis' is not a schema item, so it is not considered in the conclusion.
+###Result###
+['Synovial']

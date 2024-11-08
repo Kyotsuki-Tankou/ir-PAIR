@@ -1,0 +1,28 @@
+### Keywords ###
+- Cancer treatment
+- Antibodies
+- PD1
+- PDL1
+- T cells
+- Clonotypes
+- Deep single-cell sequencing
+- RNA
+- T cell receptors
+- Tumours
+- Normal adjacent tissue
+- Peripheral blood
+- Clonotypic expansion
+- Effector-like T cells
+- Anti-PDL1 therapy
+- Intratumoural T cells
+- Non-exhausted replacement cells
+- Cancer immunity cycle
+### Verify ###
+- **Species Mentioned**: The text does not explicitly mention any species names directly. However, the context implies human subjects are involved due to references to "patients with cancer" and "clinical response."
+### Context ###
+- The study involves "patients with different types of cancer," indicating human subjects.
+- The use of terms like "clinical success," "patients," and "therapy" further supports the involvement of humans.
+### Conclusion ###
+- The species involved in the study is **Homo sapiens**.
+### Result ###
+- ["Homo sapiens"]

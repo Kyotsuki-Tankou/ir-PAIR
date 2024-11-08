@@ -1,0 +1,12 @@
+###Keywords###
+From the abstract, the key terms related to organ parts are "lung fibroblasts," "alveolar epithelial cells," "endothelial cells," and "pulmonary fibrosis." These suggest potential matches like 'Upper pulmonary branches' and 'Lung organoid.'
+###Verify###
+- "lung fibroblasts," "alveolar epithelial cells," and "endothelial cells" are all components of the lung tissue.
+- "pulmonary fibrosis" directly indicates a condition affecting the lung tissue.
+###Context###
+- The abstract focuses on the mechanism of fibroblast activation in pulmonary fibrosis, specifically mentioning "lung fibroblasts," which are a key component of the lung tissue.
+- The study investigates the role of anoikis resistance in pulmonary fibrosis, further emphasizing the focus on lung tissue components.
+###Conclusion###
+Given the specific mention of "lung fibroblasts" and the condition "pulmonary fibrosis," 'Upper pulmonary branches' is a relevant match as it pertains to the lung tissue. 'Lung organoid' is not directly mentioned but could be considered contextually relevant due to the focus on lung tissue components.
+###Result###
+['Upper pulmonary branches', 'Lung organoid']

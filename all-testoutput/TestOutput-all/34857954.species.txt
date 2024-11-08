@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, keywords such as "endometrium," "human uterus," "endometrial organoid cultures," and "endometrial cancers" are prominent. These suggest a focus on human biological tissues.
+###Verify###
+Upon reviewing the abstract, the specific mention of "human uterus" and "endometrial organoids" directly points to the species involved in the study.
+###Context###
+Given the focus on "human uterus" and "endometrial organoids," we need to consider if any of the schema items could be related to humans. The closest and most direct match is 'Homo sapiens'.
+###Conclusion###
+The abstract clearly indicates that the study is focused on human tissues, specifically the uterus and endometrial organoids. Therefore, 'Homo sapiens' is the correct species relevant to this study.
+###Result###
+['Homo sapiens']

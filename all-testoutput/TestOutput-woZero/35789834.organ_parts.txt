@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the keywords that stand out are "Neuroendocrine prostate cancer (NEPC)," "prostate tumors," "scRNA-seq," "ADPC," and "prostate cancer." These keywords suggest that the study is focused on prostate cancer, particularly the NEPC subtype, and involves analysis of prostate tumor tissues.
+###Verify###
+The abstract mentions "prostate tumors from 7 patients" and "characterized ADPC and NEPC in prostate tumors," which directly indicates that the organ part of interest is related to the prostate. Specifically, the terms "prostate tumors" and "prostate cancer" confirm the focus on the prostate.
+###Context###
+Given the detailed focus on prostate tumors and the specific mention of NEPC and ADPC, which are subtypes of prostate cancer, there is no need for additional context to verify the organ part.
+###Conclusion###
+Consequently, we confirm that 'Prostate' is the appropriate organ part based on the provided abstract.
+###Result###
+['Prostate']

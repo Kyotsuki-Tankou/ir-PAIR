@@ -1,0 +1,7 @@
+total_score:49.583333333333336, cnt:100
+average:0.49583333333333335
+type: species, class_score[15.5, 11.5, 4.0, 8.583333333333334, 10.0], class_cnt[19, 19, 20, 19, 20]
+type: tissues, class_score[15.5, 11.5, 4.0, 8.583333333333334, 10.0], class_cnt[19, 19, 20, 19, 20]
+type: organ_parts, class_score[15.5, 11.5, 4.0, 8.583333333333334, 10.0], class_cnt[19, 19, 20, 19, 20]
+type: technologies, class_score[15.5, 11.5, 4.0, 8.583333333333334, 10.0], class_cnt[19, 19, 20, 19, 20]
+type: disease, class_score[15.5, 11.5, 4.0, 8.583333333333334, 10.0], class_cnt[19, 19, 20, 19, 20]

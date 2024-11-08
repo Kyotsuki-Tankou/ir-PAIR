@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "synovial biopsies" indicates that 'Synovial' may be the proper result.
+###Verify###
+The abstract mentions "synovial biopsies from rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients," which directly verifies the focus on 'Synovial' tissue.
+###Conclusion###
+Since the keywords and the abstract both consistently point to 'Synovial', we can confidently conclude that 'Synovial' is the correct tissue.
+###Result###
+['Synovial']

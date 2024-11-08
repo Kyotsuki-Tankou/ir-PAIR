@@ -1,0 +1,10 @@
+###Keywords###
+The abstract mentions "human organs" and "human cell landscape," which implies that the study involves multiple human organ parts.
+###Verify###
+The abstract states, "Here we use single-cell mRNA sequencing to determine the cell-type composition of all major human organs," which directly verifies that the study involves various human organ parts.
+###Context###
+The abstract provides a broad overview of the study's scope, which includes "all major human organs." This suggests that the study encompasses a wide range of organ parts, but does not specify individual organ parts from the schema.
+###Conclusion###
+Given the lack of specific mention of any organ parts from the schema, we cannot conclude that any particular organ part is the focus of the study.
+###Result###
+null

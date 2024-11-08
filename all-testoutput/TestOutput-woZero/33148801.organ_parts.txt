@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the terms "skeletal muscle of mice" and "myofibers" suggest that 'Skeletal muscle (quadriceps)' might be a relevant organ part, given the context of muscle disorder and the mouse model used.
+###Verify###
+The abstract mentions "single-nucleus transcriptomics of skeletal muscle of mice with dystrophin exon 51 deletion," which directly indicates the focus on skeletal muscle, particularly in a mouse model. This verifies that 'Skeletal muscle (quadriceps)' is a relevant organ part, as quadriceps is a common skeletal muscle studied in mouse models.
+###Conclusion###
+Consequently, we choose 'Skeletal muscle (quadriceps)' as our final result.
+###Result###
+['Skeletal muscle (quadriceps)']

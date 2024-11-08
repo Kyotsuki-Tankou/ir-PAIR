@@ -1,0 +1,12 @@
+### Keywords ###
+From the Abstract, keywords such as "adult mouse brain," "whole-brain spatial transcriptomics," "neuroanatomical organization," "isocortex," "hippocampus," and "striatum" indicate potential organ parts related to the brain.
+### Verify ###
+- "adult mouse brain" suggests the study focuses on brain-related structures.
+- "isocortex," "hippocampus," and "striatum" are specific regions within the brain.
+- "whole-brain spatial transcriptomics" implies a comprehensive analysis of the brain's spatial organization.
+### Context ###
+The study involves creating a molecular atlas of the brain, which includes identifying specific subregions such as those in the isocortex, hippocampus, and striatum. These are all parts of the brain, reinforcing the focus on brain-related structures.
+### Conclusion ###
+Based on the keywords and context, the relevant organ parts from the schema that match the study's focus include 'Striatum,' 'Coronal brain section,' 'Hippocampus,' and 'Cortex.'
+### Result ###
+['Striatum', 'Coronal brain section', 'Hippocampus', 'Cortex']

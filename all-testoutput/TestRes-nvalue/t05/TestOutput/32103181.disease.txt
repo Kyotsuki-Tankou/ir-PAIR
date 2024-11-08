@@ -1,0 +1,10 @@
+### Keywords ###
+The keywords "cancer treatment," "PD1," "PDL1," and "T cell receptors" suggest that the disease in focus could be related to cancer, possibly 'Pan cancer' or a specific type of cancer that involves the immune system such as 'Non-small cell lung cancer'.
+### Verify ###
+The abstract mentions "patients with different types of cancer" and "anti-PDL1 therapy," which implies that the study is not limited to one type of cancer but rather looks at the broader context of cancer and its treatment. This aligns with the 'Pan cancer' category.
+### Context ###
+The context provided in the abstract discusses the mechanism of action of anti-PDL1 therapy and the distribution of T cells in various tissues of cancer patients. It does not specify a particular type of cancer but focuses on the general principles of tumor immunity.
+### Conclusion ###
+Given the context and the mention of various cancer types, 'Pan cancer' is the most appropriate disease category to select.
+### Result ###
+['Pan cancer']

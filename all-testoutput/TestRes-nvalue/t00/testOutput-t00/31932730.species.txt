@@ -1,0 +1,20 @@
+### Keywords ###
+- Single-cell RNA sequencing (scRNA-seq)
+- Spatial transcriptomics
+- Multimodal intersection analysis
+- Primary pancreatic tumors
+- Ductal cells
+- Macrophages
+- Dendritic cells
+- Cancer cells
+- Inflammatory fibroblasts
+- Stress-response gene module
+### Verify ###
+- Species mentioned: None explicitly stated in the abstract.
+### Context ###
+- The abstract discusses a method combining scRNA-seq and spatial transcriptomics to analyze tissue samples, specifically primary pancreatic tumors.
+- It mentions various cell types (ductal cells, macrophages, dendritic cells, cancer cells, inflammatory fibroblasts) but does not specify the species from which these cells are derived.
+### Conclusion ###
+- Given the context of primary pancreatic tumors and the common use of human tissue in such studies, it is reasonable to infer that the species is likely Homo sapiens, but this is not explicitly stated.
+### Result ###
+- ['Homo sapiens'] (based on inference from context)

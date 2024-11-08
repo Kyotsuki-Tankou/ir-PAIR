@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "mouse embryos" directly indicates the species involved. Other terms like "microvasculature in a brain" and "pigmented epithelium in an eye field" provide context but do not change the primary species focus.
+### Verify ###
+The abstract explicitly mentions "mouse embryos," which directly corresponds to the species "Mus musculus" in the schema.
+### Context ###
+The study involves the application of DBiT-seq to mouse embryos, focusing on early organogenesis and fine features within these embryos. The context is clearly centered around the mouse model.
+### Conclusion ###
+The direct mention of "mouse embryos" leaves no ambiguity about the species used in the study.
+### Result ###
+['Mus musculus']

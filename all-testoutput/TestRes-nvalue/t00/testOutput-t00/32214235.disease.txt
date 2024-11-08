@@ -1,0 +1,36 @@
+### Keywords ###
+- Single-cell analysis
+- Human cell landscape (HCL)
+- Cell-type composition
+- Major human organs
+- Single-cell mRNA sequencing
+- Human cell identity
+- Comparative analysis
+- Human and mouse
+- Stem and progenitor cells
+- Transcriptomic stochasticity
+- Differentiated cells
+- Human biology
+### Verify ###
+- Single-cell analysis: Mentioned
+- Human cell landscape (HCL): Mentioned
+- Cell-type composition: Mentioned
+- Major human organs: Mentioned
+- Single-cell mRNA sequencing: Mentioned
+- Human cell identity: Mentioned
+- Comparative analysis: Mentioned
+- Human and mouse: Mentioned
+- Stem and progenitor cells: Mentioned
+- Transcriptomic stochasticity: Mentioned
+- Differentiated cells: Mentioned
+- Human biology: Mentioned
+### Context ###
+- The study focuses on creating a comprehensive single-cell atlas for humans.
+- It involves analyzing cell-type composition across major human organs.
+- The research includes a comparative analysis between human and mouse cells.
+- The findings highlight differences in transcriptomic stochasticity between stem/progenitor cells and differentiated cells.
+### Conclusion ###
+- The paper does not explicitly mention any specific diseases from the provided schema.
+- The focus is on general human cell landscape and comparative analysis with mouse cells.
+### Result ###
+null

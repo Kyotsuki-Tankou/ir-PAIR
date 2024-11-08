@@ -1,0 +1,11 @@
+###Keywords###
+From the input, the term "Duchenne muscular dystrophy (DMD)" directly indicates a specific disease. Additionally, phrases like "muscle disorder," "myofibers," and "skeletal muscle" suggest a focus on muscle-related pathology.
+###Verify###
+- The Abstract explicitly mentions "Duchenne muscular dystrophy (DMD)" and describes it as a "fatal muscle disorder," confirming that 'Duchenne muscular dystrophy' is a relevant disease.
+- The context of "muscle disorder," "myofibers," and "skeletal muscle" further supports the focus on muscle-related diseases.
+###Context###
+No additional context is needed as the Keywords and Verify steps align well and provide sufficient evidence.
+###Conclusion###
+Consequently, we confirm 'Duchenne muscular dystrophy' as the final result based on the clear and consistent references to DMD and muscle-related pathology in the input.
+###Result###
+['Duchenne muscular dystrophy']

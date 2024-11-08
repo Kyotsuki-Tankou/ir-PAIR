@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "post-implantation development," "mouse embryo," "epiblast," "germ layers," "gastrulation," and "tissue lineages." These keywords suggest that the study is focused on the early stages of embryonic development, particularly during gastrulation and the formation of germ layers.
+### Verify ###
+The abstract mentions "post-implantation development of the mouse embryo" and "development from pre- to late-gastrulation stages," which directly indicates that the study is focused on the early stages of the mouse embryo. Additionally, the discussion of germ layers and tissue lineages further supports that the study is centered around embryonic development.
+### Context ###
+Given the detailed focus on the early stages of the mouse embryo, particularly during gastrulation, and the specific mention of germ layers and tissue lineages, there is no need for additional context to verify the tissue type.
+### Conclusion ###
+Consequently, we confirm that 'Mouse Embryo' is the appropriate tissue type based on the provided abstract.
+### Result ###
+['Mouse Embryo']

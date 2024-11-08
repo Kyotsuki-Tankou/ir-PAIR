@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract and keywords, the terms "Spatial transcriptomics," "single-cell RNA sequencing," and "in situ sequencing" are explicitly mentioned, indicating that 'Spatial Transcriptomics,' 'scRNA,' and 'in situ sequencing' may be proper results.
+### Verify ###
+- The abstract states: "Spatial transcriptomics identified unique gene profiles," which directly verifies the presence of 'Spatial Transcriptomics.'
+- It also mentions: "Human embryonic cardiac cell types identified by single-cell RNA sequencing," which verifies 'scRNA.'
+- Additionally, "In situ sequencing was then used to refine these results," verifies 'in situ sequencing.'
+### Context ###
+- No additional context is needed as the abstract clearly mentions the specific technologies used in the study.
+### Conclusion ###
+Consequently, we confirm 'Spatial Transcriptomics,' 'scRNA,' and 'in situ sequencing' as our final results based on the explicit mentions in the abstract.
+### Result ###
+['Spatial Transcriptomics', 'scRNA', 'in situ sequencing']

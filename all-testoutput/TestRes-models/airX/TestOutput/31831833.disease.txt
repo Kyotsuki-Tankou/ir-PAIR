@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the phrases "rheumatoid arthritis (RA)" and "spondyloarthritis (SpA)" indicate that 'Rheumatoid arthritis' and 'Spondyloarthritis' may be proper results.
+###Verify###
+The abstract mentions "We aimed to explore synovial biopsies from rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients," which confirms that these diseases are being studied.
+###Conclusion###
+Consequently, we confirm 'Rheumatoid arthritis' and 'Spondyloarthritis' as the final results.
+###Result###
+['Rheumatoid arthritis', 'Spondyloarthritis']

@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "mouse embryos," "early organogenesis," "brain," and "eye field" are prominently mentioned. These suggest a focus on developmental biology and specific tissues within the embryo.
+###Verify###
+The abstract states, "Application to mouse embryos revealed major tissue types in early organogenesis as well as fine features like microvasculature in a brain and pigmented epithelium in an eye field." This directly references the study of mouse embryos and specific tissues such as the brain and eye.
+###Context###
+Given the direct mention of "mouse embryos" and specific tissues like "brain" and "eye field," there is no need for additional context to verify these keywords. However, the overall context of the study is centered around developmental biology and spatial omics sequencing.
+###Conclusion###
+Based on the clear and consistent references in the abstract, we can conclude that the relevant organ parts are 'Mouse Embryo', 'Brain', and 'Eye'.
+###Result###
+['Mouse Embryo', 'Brain', 'Eye']

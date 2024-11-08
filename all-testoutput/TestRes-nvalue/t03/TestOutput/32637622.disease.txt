@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "brain maps," "adult mouse brain," "whole-brain spatial transcriptomics," "neuroanatomical organization," "isocortex," "hippocampus," "striatum," and "molecular atlas." These keywords suggest that the study is focused on the brain, particularly in the context of its spatial organization and molecular characteristics.
+### Verify ###
+The abstract mentions "whole-brain spatial transcriptomics" and the aim to "generate a systematic classification of the adult mouse brain." This directly indicates that the study is focused on the brain. Additionally, the discussion of specific brain regions such as "isocortex," "hippocampus," and "striatum" further supports that the brain is the primary tissue being studied.
+### Context ###
+Given the detailed focus on the adult mouse brain and the specific mention of neuroanatomical organization, there is no need for additional context to verify the tissue type.
+### Conclusion ###
+Consequently, we confirm that 'Brain' is the appropriate tissue type based on the provided abstract.
+### Result ###
+['Brain']

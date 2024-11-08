@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, terms like "pulmonary injury," "lung tissue architecture," and "cardiac systemic output" are mentioned, suggesting potential relevance to diseases such as 'Pulmonary Injury' and 'Heart failure'.
+### Verify ###
+- "vaping-induced pulmonary injury" directly mentions 'Pulmonary Injury'.
+- "Cardiac systemic output is moderately but significantly impaired" suggests potential impact on 'Heart failure'.
+### Context ###
+The abstract focuses primarily on the effects of vaping on the lungs, with secondary mention of cardiac impact. The primary disease discussed is 'Pulmonary Injury', while 'Heart failure' is a secondary concern.
+### Conclusion ###
+Given the primary focus on pulmonary effects, 'Pulmonary Injury' is the most directly relevant disease. 'Heart failure' is mentioned but is not the main focus of the study.
+### Result ###
+['Pulmonary Injury']

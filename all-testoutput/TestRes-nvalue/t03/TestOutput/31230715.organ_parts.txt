@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the term "APEX-seq" is prominently mentioned as the method used for RNA sequencing. The abstract does not explicitly mention any specific organ parts directly related to the schema.
+###Verify###
+The abstract details the application of APEX-seq in "nine distinct subcellular locales," but it does not specify which organ parts these locales belong to. The focus is more on the subcellular resolution and the spatial map of the human transcriptome rather than specific organ parts.
+###Context###
+Given the lack of specific organ parts mentioned in the abstract, we need to infer from the context. The study focuses on subcellular locales and the human transcriptome, which suggests a broad application rather than a focus on a specific organ part listed in the schema.
+###Conclusion###
+Since no specific organ parts from the schema are mentioned or clearly implied in the abstract, we conclude that there are no relevant organ parts to extract based on the provided schema.
+###Result###
+null

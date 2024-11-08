@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the terms "mouse brain" and "primary breast cancer" are explicitly mentioned, indicating that 'Brain' and 'Breast' may be proper results.
+###Verify###
+The abstract states, "as demonstrated in mouse brain and primary breast cancer," which directly verifies the use of 'Brain' and 'Breast' tissues.
+###Conclusion###
+Since the terms 'Brain' and 'Breast' are both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that 'Brain' and 'Breast' are the appropriate tissues involved.
+###Result###
+['Brain', 'Breast']

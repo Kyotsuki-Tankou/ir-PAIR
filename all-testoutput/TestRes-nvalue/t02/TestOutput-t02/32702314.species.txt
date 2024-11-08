@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "AD mouse model" directly indicates the species 'Mus musculus'.
+### Verify ###
+The abstract mentions "transcriptional changes occurring in tissue domains in a 100-μm diameter around amyloid plaques using spatial transcriptomics" and "confirm the majority of the observed alterations at the cellular level using in situ sequencing on mouse and human brain sections," which further confirm that the species used in the study is 'Mus musculus'.
+### Context ###
+While the abstract also mentions human brain sections, the primary focus of the investigation is on the "AD mouse model," indicating that 'Mus musculus' is the primary species of interest. The human brain sections are used for confirmation purposes.
+### Conclusion ###
+Since the keywords and the abstract both consistently point to 'Mus musculus' as the primary species of interest, we can confidently conclude that 'Mus musculus' is the correct species.
+### Result ###
+['Mus musculus']

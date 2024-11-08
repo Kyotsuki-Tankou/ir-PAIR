@@ -1,0 +1,8 @@
+### Keywords ###
+The abstract mentions "primary pancreatic tumors," which suggests that the study is focused on a specific type of cancer.
+### Verify ###
+The term "primary pancreatic tumors" directly corresponds to the disease "Pancreatic cancer" in the schema.
+### Conclusion ###
+Based on the mention of "primary pancreatic tumors" in the abstract, we conclude that the study is related to "Pancreatic cancer."
+### Result ###
+["Pancreatic cancer"]

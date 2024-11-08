@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "single cell RNA-seq" is explicitly mentioned, indicating that 'scRNA' may be a proper result.
+###Verify###
+The abstract states, "Here, by employing large scale single cell transcriptome analysis, we computationally defined mesenchymal progenitors at different stages," which directly verifies the use of 'single cell RNA-seq' technology.
+###Conclusion###
+Since the term 'single cell RNA-seq' is both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that 'scRNA' is the appropriate technology used.
+###Result###
+['scRNA']

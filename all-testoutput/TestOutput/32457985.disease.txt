@@ -1,0 +1,14 @@
+### Keywords ###
+The abstract mentions "zebrafish," "chicken," "mouse," and "human embryos" in the context of the aortic microenvironment and hematopoietic stem cell generation. These are the key species involved in the study.
+### Verify ###
+The study explicitly mentions the use of "zebrafish, chicken, mouse, and human embryos" for genome-wide RNA tomography sequencing, which confirms the involvement of these species in the research.
+### Context ###
+The abstract discusses the aortic microenvironment and hematopoietic stem cell generation, which are topics that do not directly align with any of the diseases listed in the schema. The focus is on the molecular characteristics and key components of the aortic microenvironment across different species.
+### Conclusion ###
+Given the context and the direct mention of the species in the abstract, the result is clear: the study involves the following species from the schema:
+- Zebrafish
+- Chicken
+- Mouse
+- Human
+### Result ###
+['Zebrafish', 'Chicken', 'Mouse', 'Human']

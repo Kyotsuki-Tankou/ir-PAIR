@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, there are no direct mentions of specific organ parts. However, the context clues "stress granules" and "subcellular localization" suggest that the study is focused at the cellular level rather than on specific organ parts.
+### Verify ###
+The phrases "stress granules" and "subcellular localization" indicate a focus on cellular components and processes rather than specific organ parts. There is no explicit mention of any organ parts from the provided schema.
+### Context ###
+Given the focus on cellular mechanisms and the lack of mention of specific organ parts, it is clear that the study is not centered around any particular organ part listed in the schema.
+### Conclusion ###
+Since there are no specific organ parts mentioned or implied in the abstract, we conclude that there are no relevant organ parts to extract according to the schema.
+### Result ###
+null

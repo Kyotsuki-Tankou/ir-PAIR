@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "human HSC development", "spatial transcriptomics", "gene expression profiling", and "single cells". These keywords suggest a focus on human biology and hematopoietic stem cell development.
+### Verify ###
+The abstract specifically mentions:
+- "human HSC development"
+- "spatial transcriptomics analysis of dorsoventral polarized signaling in the aorta"
+- "gene expression profiling of sorted cell populations and single cells"
+These points verify that the study is deeply involved in understanding the molecular mechanisms of human hematopoietic stem cell development.
+### Context ###
+The abstract explicitly mentions "human HSC development" and focuses on human-specific mechanisms, which directly aligns with the species "Homo sapiens".
+### Conclusion ###
+Given the explicit focus on human HSC development and the use of human tissues for spatial transcriptomics and gene expression profiling, "Homo sapiens" is the clear and direct match from the schema.
+### Result ###
+['Homo sapiens']

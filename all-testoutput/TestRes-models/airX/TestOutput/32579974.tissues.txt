@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "cutaneous squamous cell carcinoma (cSCC)" and "matched normal skin" are mentioned, indicating that 'Skin' may be a proper result.
+### Verify ###
+The abstract states "To define the cellular composition and architecture of cutaneous squamous cell carcinoma (cSCC)," which further verifies that the study is focused on the 'Skin' tissue.
+### Context ###
+The abstract consistently discusses the analysis of cutaneous squamous cell carcinoma, which is a type of skin cancer, and its comparison with normal skin. The mention of "matched normal skin" confirms the context is about the skin tissue.
+### Conclusion ###
+Consequently, we confirm 'Skin' as the final result based on the clear and consistent focus on the skin tissue in the abstract.
+### Result ###
+['Skin']

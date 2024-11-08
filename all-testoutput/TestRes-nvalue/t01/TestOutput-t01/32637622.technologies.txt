@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "whole-brain spatial transcriptomics" is explicitly mentioned, which suggests the use of a specific technology for mapping the brain.
+### Verify ###
+The abstract states, "employing whole-brain spatial transcriptomics," which directly verifies the use of "Spatial Transcriptomics" as a technology in the study.
+### Context ###
+Since the verification step directly confirms the presence of "Spatial Transcriptomics" in the abstract, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Consequently, we choose 'Spatial Transcriptomics' as our final result.
+### Result ###
+['Spatial Transcriptomics']

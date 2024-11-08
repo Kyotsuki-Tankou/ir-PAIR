@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the mention of "single-cell and spatially resolved transcriptomics analysis" and "cellular indexing of transcriptomes and epitopes by sequencing (CITE-seq)" directly indicates the technologies used. The keyword here is "CITE-seq."
+###Verify###
+The abstract specifically states "Immunophenotyping using cellular indexing of transcriptomes and epitopes by sequencing (CITE-seq)" which clearly verifies that CITE-seq is a technology used in the study.
+###Conclusion###
+Given the clear mention of "CITE-seq" in both the context and the specific methodology, we can confidently conclude that CITE-seq is a technology involved in the study.
+###Result###
+['CITE-seq']

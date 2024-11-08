@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, the keywords that stand out are "small intestine," "enterocytes," "goblet and tuft cells," and "tumors." These suggest that 'Intestinal development' and 'Tumor' might be relevant diseases.
+### Verify ###
+In the abstract, it is mentioned:
+- "in the small intestine"
+- "reconstructing spatial atlases of rare cell types in other tissues and tumors"
+This directly verifies that 'Intestinal development' and 'Tumor' are indeed relevant diseases.
+### Context ###
+The abstract explicitly mentions the focus on the small intestine and the potential application for reconstructing spatial atlases in tumors. There is no ambiguity or need for further context to verify these diseases.
+### Conclusion ###
+Based on the explicit mention in the abstract, we choose 'Intestinal development' and 'Tumor' as our final results.
+### Result ###
+['Intestinal development', 'Tumor']

@@ -1,0 +1,8 @@
+###Keywords###
+From the keywords "mouse" and the context of the study which mentions "young, adult and aging mice," it indicates that 'Mus musculus' may be a proper result.
+###Verify###
+The abstract mentions "young, adult and aging mice," which directly refers to the species used in the study. Therefore, 'Mus musculus' is verified as the correct species.
+###Conclusion###
+Since the species 'Mus musculus' is both mentioned in the keywords and verified in the abstract, we can confidently conclude that 'Mus musculus' is the appropriate species used in this study.
+###Result###
+['Mus musculus']

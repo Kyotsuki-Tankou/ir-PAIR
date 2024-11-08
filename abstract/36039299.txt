@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Lung"]
+null
+["10x Visium", "scRNA", "scATAC"]
+["Normal atlas"]
+ Abstract\nUnderstanding lung immunity requires an unbiased profiling of tissue-resident T cells at their precise anatomical locations within the lung, but such information has not been characterized in the immunized mouse model. In this pilot study, using 10x Genomics Chromium and Visium platform, we performed an integrative analysis of spatial transcriptome with single-cell RNA-seq and single-cell ATAC-seq on lung cells from mice after immunization using a well-establishedKlebsiella pneumoniaeinfection model. We built an optimized deconvolution pipeline to accurately decipher specific cell-type compositions by anatomic location. We discovered that combining scATAC-seq and scRNA-seq data may provide more robust cell-type identification, especially for lineage-specific T helper cells. Combining all three modalities, we observed a dynamic change in the location of T helper cells as well as their corresponding chemokines. In summary, our proof-of-principle study demonstrated the power and potential of single-cell multi-omics analysis to uncover spatial- and cell-type-dependent mechanisms of lung immunity. \n Keywords:Biological sciences; Immunology; Omics; Transcriptomics.

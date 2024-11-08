@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, terms like "mammalian embryogenesis," "mouse organogenesis," and "dorsal midbrain" suggest that 'Brain' and 'Embryo' may be relevant tissue types.
+### Verify ###
+- The phrase "mouse organogenesis spatiotemporal transcriptomic atlas (MOSTA)" indicates a focus on the development of organs in mice, which includes the brain.
+- "dorsal midbrain" specifically mentions a part of the brain.
+- The context of embryogenesis and development suggests that 'Embryo' is also highly relevant.
+### Context ###
+- The study involves creating a transcriptomic atlas during mouse organogenesis, which inherently includes various developing tissues, but the specific mention of "dorsal midbrain" highlights the brain as a key focus.
+- The term "progenitors" and "cell fate specification" further supports the involvement of embryonic tissues.
+### Conclusion ###
+Based on the specific mentions and the overall context of the study, both 'Brain' and 'Embryo' are confirmed as relevant tissue types.
+### Result ###
+['Brain', 'Embryo']

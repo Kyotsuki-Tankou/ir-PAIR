@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "single-cell RNA-sequencing" is explicitly mentioned, which directly corresponds to a technology in the schema.
+### Verify ###
+The abstract states, "We have used single-cell RNA-sequencing to identify the basic cell types in the mouse SCN and to characterize their circadian and light-induced gene expression patterns." This clearly indicates the use of single-cell RNA-sequencing technology.
+### Conclusion ###
+Based on the explicit mention and verification, it is clear that "single-cell RNA-sequencing" is the technology used in the study.
+### Result ###
+["scRNA"]

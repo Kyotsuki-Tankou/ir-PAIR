@@ -1,0 +1,10 @@
+###Keywords###
+From the Abstract, the key terms related to species are "mouse gastruloids" and "mouse embryos," which directly point to "Mus musculus."
+###Verify###
+The Abstract explicitly mentions "mouse gastruloids" and "mouse embryos," confirming the use of "Mus musculus" as the species under study.
+###Context###
+The context of the study involves comparing mouse gastruloids with mouse embryos, further reinforcing the focus on "Mus musculus." There are no mentions of other species, making the context clear and straightforward.
+###Conclusion###
+Given the direct and consistent mentions of "mouse" throughout the Abstract, it is conclusive that the species involved in the study is "Mus musculus."
+###Result###
+Mus musculus

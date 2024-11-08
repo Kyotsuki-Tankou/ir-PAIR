@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keywords "Left ventricular noncompaction cardiomyopathy (LVNC)" and "cardiomyopathies" suggest a focus on heart-related diseases.
+### Verify ###
+The abstract mentions "LVNC primarily has an effect on left ventricles (LVs) and is often associated with LV dilation and dysfunction," which directly relates to heart conditions. This verifies the relevance of diseases like "Heart development" or "Heart failure" from the schema.
+### Context ###
+The abstract discusses the genetic and molecular mechanisms underlying LVNC, including the role of PRDM16 and its impact on cardiomyocytes. This context further supports the focus on heart-related diseases.
+### Conclusion ###
+Given the consistent focus on LVNC and its impact on the heart, we can confidently conclude that the relevant disease from the schema is related to heart conditions.
+### Result ###
+['Heart development', 'Heart failure', 'Heart regeneration and repair']

@@ -1,0 +1,8 @@
+###Keywords###
+The keywords provided are "gene expression," "heart development," "human development," "human developmental cell atlas," "in situ sequencing," "single-cell RNA-sequencing," and "spatial transcriptomics." These suggest a focus on gene expression technologies and methods, but do not directly specify a particular technology by name.
+###Verify###
+The abstract mentions "single-cell RNA sequencing" and "spatial transcriptomics" as methods used to study the heart. These are both technologies that align with the schema provided.
+###Conclusion###
+Based on the context from the abstract, which specifies the use of "single-cell RNA sequencing" and "spatial transcriptomics," we can conclude that these are the technologies that have been applied in the study.
+###Result###
+['single-cell RNA sequencing', 'spatial transcriptomics']

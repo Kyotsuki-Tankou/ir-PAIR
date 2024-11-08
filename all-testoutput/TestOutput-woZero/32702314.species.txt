@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "AD mouse model" and "mouse and human brain sections" suggest that the species involved could be 'Mus musculus' and 'Homo sapiens'.
+###Verify###
+The abstract states, "We investigate here, in an AD mouse model, the transcriptional changes occurring in tissue domains in a 100-μm diameter around amyloid plaques using spatial transcriptomics," which directly verifies the use of 'Mus musculus'. Additionally, it mentions "We confirm the majority of the observed alterations at the cellular level using in situ sequencing on mouse and human brain sections," which verifies the use of 'Homo sapiens' as well.
+###Context###
+Since both 'Mus musculus' and 'Homo sapiens' are explicitly mentioned in the context of the experiments conducted, there is no need for additional context to verify the results.
+###Conclusion###
+Based on the clear and direct mentions of both 'Mus musculus' and 'Homo sapiens' in the abstract, we can confidently conclude that these are the species involved in the study.
+###Result###
+['Mus musculus', 'Homo sapiens']

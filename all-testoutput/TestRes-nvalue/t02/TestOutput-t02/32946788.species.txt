@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, keywords such as "Hematopoietic stem cells (HSCs)," "embryonic aorta-gonad-mesonephros (AGM) region," "human," "endothelin," "hematopoiesis," "single cell transcriptome," and "spatial transcriptome" are prominent.
+### Verify ###
+The abstract explicitly mentions "human" in the context of studying HSC development. This directly corresponds to the species 'Homo sapiens' in the provided schema.
+### Context ###
+The focus of the study is on human HSC development, particularly in the AGM region, which is a specific embryonic structure. The use of terms like "human HSC development" and "human aorta" further reinforces the involvement of 'Homo sapiens'.
+### Conclusion ###
+The abstract clearly indicates that the study is centered around human subjects, specifically focusing on the development of hematopoietic stem cells in the human embryonic AGM region. This aligns perfectly with the species 'Homo sapiens' from the schema.
+### Result ###
+'Homo sapiens'

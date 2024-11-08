@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "striatum," "brain," "hematoma‒brain interface," and "secondary brain injury." These suggest that 'Striatum' and 'Brain' might be relevant organ parts.
+### Verify ###
+In the abstract, it is mentioned:
+- "We stereotactically injected saline, heme, or heme‒hemopexin into the striatum of C57BL/6J mice."
+- "We defined a cerebral heme-response signature..."
+- "Heme exerted a consistent and dose-dependent proinflammatory activity in the brain..."
+These statements directly verify that 'Striatum' and 'Brain' are indeed relevant organ parts.
+### Context ###
+The abstract explicitly mentions the "striatum" and broader effects on the "brain," indicating a clear focus on these specific regions. There is no ambiguity or need for further context to verify these organ parts.
+### Conclusion ###
+Based on the explicit mention in the abstract, 'Striatum' and 'Brain' are the most appropriate matches from the provided schema.
+### Result ###
+['Striatum', 'Brain']

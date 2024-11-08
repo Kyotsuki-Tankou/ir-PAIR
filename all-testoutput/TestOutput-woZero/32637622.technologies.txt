@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the term "whole-brain spatial transcriptomics" is explicitly mentioned, indicating that 'Spatial Transcriptomics' may be a proper result.
+### Verify ###
+The abstract states, "We aimed to generate a systematic classification of the adult mouse brain based purely on the unbiased identification of spatially defining features by employing whole-brain spatial transcriptomics," which directly verifies the use of 'Spatial Transcriptomics' technology.
+### Conclusion ###
+Since the term 'Spatial Transcriptomics' is both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that 'Spatial Transcriptomics' is the appropriate technology used.
+### Result ###
+['Spatial Transcriptomics']

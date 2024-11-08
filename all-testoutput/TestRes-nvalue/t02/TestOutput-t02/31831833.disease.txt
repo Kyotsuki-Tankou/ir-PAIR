@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "rheumatoid arthritis (RA)" and "spondyloarthritis (SpA)" are directly mentioned, indicating specific diseases. Additionally, "chronic inflammatory diseases" is a broader term that encompasses these conditions.
+###Verify###
+The abstract focuses on analyzing synovial biopsies from RA and SpA patients using Spatial Transcriptomics. The mention of "chronic inflammatory diseases" further supports the context of RA and SpA, which are both known chronic inflammatory conditions.
+###Context###
+Given the specific mention of RA and SpA and the broader context of chronic inflammatory diseases, there is no ambiguity. The focus is clearly on these two specific diseases within the broader category.
+###Conclusion###
+Based on the direct mentions and the context provided, "Rheumatoid arthritis (RA) and Spondyloarthritis (SpA)" and "Chronic Inflammatory Disease" are the appropriate results.
+###Result###
+["Rheumatoid arthritis (RA) and Spondyloarthritis (SpA)", "Chronic Inflammatory Disease"]

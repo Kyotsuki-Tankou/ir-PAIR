@@ -1,0 +1,10 @@
+### Keywords ###
+From the term "mouse embryos" in the Abstract, it indicates that 'Mus musculus' may be a proper result.
+### Verify ###
+The Abstract mentions "Applying sci-Space to developing mouse embryos," which further verifies that 'Mus musculus' is indeed a proper result.
+### Context ###
+Since the abstract is consistently discussing the application of sci-Space to mouse embryos, there is no ambiguity or need for additional context to confirm the species.
+### Conclusion ###
+Consequently, we confirm 'Mus musculus' as the final result based on the clear and consistent focus on mouse embryos in the abstract.
+### Result ###
+['Mus musculus']

@@ -1,0 +1,8 @@
+###Keywords###
+The input abstract mentions "aptamer-based proteomics," "transcriptomic tools," and "RNA sequencing," which are technologies used in the study.
+###Verify###
+The abstract states the use of "aptamer-based proteomics" and "transcriptomic tools" to characterize proteins and describe their origins. This verifies the use of these technologies in the context of the study.
+###Conclusion###
+The technologies mentioned in the abstract, "aptamer-based proteomics" and "transcriptomic tools," do not directly match the provided schema list. However, "RNA sequencing" is mentioned as part of the transcriptomic tools, which is included in the schema.
+###Result###
+["RNA-seq"]

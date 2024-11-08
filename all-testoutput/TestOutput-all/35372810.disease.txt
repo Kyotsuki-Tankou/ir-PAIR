@@ -1,0 +1,13 @@
+### Keywords ###
+From the abstract, the terms "diabetic kidney disease" and "toxic proteinopathy" are directly mentioned, which suggest potential matches in the schema. Additionally, "kidneys" and "disease paradigms" provide context for identifying relevant diseases.
+### Verify ###
+1. **Diabetic Kidney Disease**: The phrase "in a mouse model of diabetic kidney disease" directly indicates the study of diabetic kidney disease.
+2. **Toxic Proteinopathy**: The phrase "in a mouse model of a toxic proteinopathy" directly indicates the study of a toxic proteinopathy.
+### Context ###
+- **Diabetic Kidney Disease**: This is a specific condition that falls under broader categories like "Kidney injury" or "Acute kidney injury" in the schema.
+- **Toxic Proteinopathy**: This is a more specific term that might not directly match any item in the schema but could be related to broader categories like "Kidney injury" or "Proteinopathy" (though "Proteinopathy" is not explicitly listed).
+### Conclusion ###
+- **Diabetic Kidney Disease**: This directly matches with "Acute kidney injury" or "Kidney injury" in the schema.
+- **Toxic Proteinopathy**: Given the context of kidney involvement, it aligns with "Kidney injury".
+### Result ###
+['Acute kidney injury', 'Kidney injury']

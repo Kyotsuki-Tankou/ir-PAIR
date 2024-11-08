@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "human" is explicitly mentioned in the context of studying cutaneous squamous cell carcinoma (cSCC) and matched normal skin. This indicates that 'Homo sapiens' may be the relevant species.
+### Verify ###
+The abstract states, "we combined single-cell RNA sequencing with spatial transcriptomics and multiplexed ion beam imaging from a series of human cSCCs and matched normal skin," which directly verifies that 'Homo sapiens' is indeed the species being studied.
+### Context ###
+Since the verification step directly confirms the presence of 'Homo sapiens' in the abstract, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Consequently, we choose 'Homo sapiens' as our final result.
+### Result ###
+['Homo sapiens']

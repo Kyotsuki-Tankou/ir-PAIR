@@ -1,0 +1,8 @@
+###Keywords###
+The keyword from the input that corresponds to the schema is "human T cell repertoire."
+###Verify###
+The abstract mentions "the spatial organization of the human T cell repertoire," which directly indicates the species involved is "Homo sapiens."
+###Conclusion###
+Since the keyword "human T cell repertoire" clearly points to "Homo sapiens," we can conclude that "Homo sapiens" is the appropriate species to extract according to the schema.
+###Result###
+['Homo sapiens']

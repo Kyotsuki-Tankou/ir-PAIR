@@ -1,0 +1,17 @@
+### Keywords ###
+- adipocyte
+- blood vessel
+- bone marrow mesenchymal stem cells
+- cell biology
+- mouse
+- osteoblast
+- single cell RNA-seq
+### Verify ###
+- **mouse**: The input mentions "young, adult and aging mice," confirming the presence of "mouse" in the study.
+- **Homo sapiens**: Not mentioned explicitly in the input.
+### Context ###
+- The study focuses on bone marrow mesenchymal lineage cells in mice, particularly their differentiation into osteoblasts and adipocytes. There is no mention of human subjects or any other species.
+### Conclusion ###
+- The study is exclusively conducted on mice.
+### Result ###
+- ["Mus musculus"]

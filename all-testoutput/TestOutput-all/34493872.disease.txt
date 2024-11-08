@@ -1,0 +1,8 @@
+### Keywords ###
+From the phrase "Breast cancers" in the Abstract, it indicates that 'Breast cancer' may be a proper result.
+### Verify ###
+The Abstract mentions "Breast cancers are complex cellular ecosystems" and "a single-cell and spatially resolved transcriptomics analysis of human breast cancers," which further verifies that 'Breast cancer' is indeed a proper result.
+### Conclusion ###
+Consequently, we choose 'Breast cancer' as our final result.
+### Result ###
+['Breast cancer']

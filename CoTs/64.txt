@@ -1,0 +1,16 @@
+###schema###
+technologies:['CITE-seq', 'XYZeq', 'CUT&Tag', 'RNA-seq', 'STARmap', 'DBiT-seq', 'scATAC-seq', 'scRNA', 'EASI-FISH', 'PIC-seq', 'sci-Space', 'sciMAP-ATAC-seq', 'Slide-seqV2', 'Spatial Transcriptomics', 'seqFish', 'seqFISH+', 'Stereo-Seq', '10x Visium', ' RNA-seq', 'scATAC', 'LCM-seq', 'Tomo-seq', 'Proximity RNA-seq', 'sci-ATAC-seq', 'ClampFISH', 'VINE-seq', 'snRNA', 'HDST', 'GeoMx DSP', 'Seq-Scope', 'APEX-seq', 'RNAseq', 'MERFISH', 'ClumpSeq', 'Geo-seq', 'Slide-seq']
+###input###
+ Abstract
+Idiopathic pulmonary fibrosis (IPF) is a progressive and fatal lung disorder driven by unrelenting extracellular matrix deposition. Fibroblasts are recognized as the central mediators of extracellular matrix production in IPF; however, the characteristics of the underlying fibroblast cell populations in IPF remain poorly understood. Here, we use an unbiased single-cell RNA sequencing analysis of a bleomycin-induced pulmonary fibrosis model to characterize molecular responses to fibrotic injury. Lung cells were isolated on Day 11 to capture emerging fibrosis and gene expression was analyzed by three complementary techniques, which, together, generated a 49-gene signature that defined an activated subpopulation of fibroblasts. However, none of the identified genes were specific to the activated cells or to the disease setting, implying that the activated fibroblasts are not uniquely defined, but exhibit a similar, yet amplified, gene expression pattern to control cells. Our findings have important implications for fibrosis research, including:1) defining myofibroblasts with any single marker will fail to capture much of the underlying biology;2) fibroblast activation is poorly correlated with expression of transforming growth factor-尾 pathway genes;3) single-cell analysis provides insight into the mechanism of action of effective therapies (nintedanib);4) early events in lung fibrosis need not involve significant changes in fibroblast number; populations that do increase in number, such as macrophages, dendritic cells, and proliferating myeloid cells, may merit closer examination for their role in pathogenesis. 
+ Keywords:extracellular matrix; fibroblast; idiopathic pulmonary fibrosis; myofibroblast; single-cell sequencing.Let's think step by step.
+###Keywords###
+From "single-cell sequencing" in Keywords, it indicates that 'scRNA' may be a proper result.
+###Verify###
+From "we use an unbiased single-cell RNA sequencing analysis" in the Abstract, we can further verify that 'scRNA' is indeed a proper result.
+###Context###
+Not required in this case as the verification directly supports the keyword.
+###Conclusion###
+Consequently, we confirm 'scRNA' as our final result.
+###Result###
+['scRNA']

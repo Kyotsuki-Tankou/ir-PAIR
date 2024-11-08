@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "prostate tissue," "prostate luminal cells," "prostates from 5ARI-treated men," and "benign prostatic hyperplasia (BPH)" suggest that the study is focused on the prostate. Therefore, 'Prostate' may be a proper result.
+### Verify ###
+The abstract mentions "peri-urethral prostate tissue," "enlarged prostates," and "prostate secretory luminal cells," which further verifies that 'Prostate' is indeed a relevant tissue type in this context.
+### Context ###
+Given the detailed focus on prostate-related conditions such as BPH and the specific cellular changes in prostate tissue due to 5ARI treatment, there is no need for additional context to confirm the relevance of 'Prostate'.
+### Conclusion ###
+Consequently, we confirm 'Prostate' as the final result based on the clear and consistent focus on prostate tissue and its cellular responses throughout the abstract.
+### Result ###
+['Prostate']

@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the term "Heart failure (HF)" directly indicates the disease being studied.
+### Verify ###
+The abstract mentions "Heart failure (HF)" multiple times, clearly verifying that the disease being studied is 'Heart failure'.
+### Conclusion ###
+Since the keywords and the context in the abstract both confirm the disease, we can conclude that 'Heart failure' is the correct result.
+### Result ###
+['Heart failure']

@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, keywords such as "synovial biopsies," "rheumatoid arthritis (RA)," "spondyloarthritis (SpA)," "Spatial Transcriptomics (ST)," and "inflammation" suggest that the tissue type being studied is 'Synovium' due to the context of arthritis, which involves synovial inflammation.
+###Verify###
+The abstract explicitly states, "Synovial tissue biopsies from affected joints were studied with ST," which confirms that the tissue being analyzed is synovial tissue.
+###Conclusion###
+Based on the information provided in the abstract, we can conclude that the tissue type corresponds to 'Synovium'.
+###Result###
+['Synovium']

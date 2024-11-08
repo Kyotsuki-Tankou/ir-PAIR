@@ -1,0 +1,10 @@
+###Keywords###
+From the Abstract, we have terms like "aortic microenvironment", "hematopoietic stem cells", "zebrafish", "chicken", "mouse", "human embryos", and "genome-wide RNA tomography sequencing". These terms suggest a focus on developmental biology and the microenvironment of the aorta.
+###Verify###
+In the Abstract, specific mentions include "aortic microenvironment", "hematopoietic stem cells", and "embryos". These phrases indicate a focus on the aorta and embryonic development.
+###Context###
+Given the specific mention of "aortic microenvironment" and "embryos", we need to determine if these terms directly correspond to any items in the provided schema. The schema includes terms like "Mouse Embryo", "Embryo", "Mouse aorta", and "Human cell lines", which are somewhat related.
+###Conclusion###
+The terms from the Keywords and the Abstract partially match some specific items in the provided schema list. The closest related terms in the schema are "Mouse Embryo", "Embryo", and "Mouse aorta".
+###Result###
+['Mouse Embryo', 'Embryo', 'Mouse aorta']

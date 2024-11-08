@@ -1,0 +1,13 @@
+###Keywords###
+From the abstract, the terms "human leprosy granulomas," "leprosy biopsy specimens," and "lesions" are mentioned. These suggest a focus on specific tissue types associated with leprosy.
+###Verify###
+The abstract specifically mentions "leprosy biopsy specimens" and "lesions," which are the primary tissues being studied. The context of "human leprosy granulomas" indicates a focus on granulomatous tissue.
+###Context###
+To further verify, we need to consider the context:
+- "We identified a set of genes encoding proteins involved in antimicrobial responses that are differentially expressed in RR versus L-lep lesions."
+- "By integrating the spatial coordinates of the key cell types and antimicrobial gene expression in RR and T-lep lesions, we constructed a map revealing the organized architecture of granulomas."
+This context confirms that the study is centered around the tissue of granulomas, particularly those found in leprosy lesions.
+###Conclusion###
+Given the explicit mention and focus on "leprosy biopsy specimens" and "lesions," it is reasonable to conclude that the specific organ part being studied is related to granulomatous tissue, which is not directly listed in the schema. However, the closest relevant term from the schema that aligns with the context of skin lesions and tissue would be "Skin."
+###Result###
+['Skin']

@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, keywords such as "single-cell RNA sequencing," "spatial transcriptomics," and "CellTrek" are prominent. 
+###Verify###
+Upon reviewing the abstract, we see mentions of "single-cell RNA sequencing" and "spatial transcriptomics," which are directly listed in the schema. Additionally, "CellTrek" is a computational method that combines these technologies.
+###Context###
+The abstract describes the development and application of CellTrek, which integrates single-cell RNA sequencing and spatial transcriptomics data. This context supports the presence of both "single-cell RNA sequencing" and "spatial transcriptomics" as relevant technologies.
+###Conclusion###
+The abstract clearly mentions "single-cell RNA sequencing" and "spatial transcriptomics," which directly correspond to items in the provided schema.
+###Result###
+['single-cell RNA sequencing', 'Spatial Transcriptomics']

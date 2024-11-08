@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords "CD8(+) T cells; TCR-sequencing; brain metastases; bystander; exhaustion; spatial transcriptomics," there is no direct mention of any species. However, the context of "human brain metastases" suggests 'Homo sapiens' might be the species used.
+### Verify ###
+In the Abstract, phrases like "we analyze human brain metastases" and "human brain metastases are densely infiltrated by T cells" explicitly indicate that the species used in the study is 'Homo sapiens'.
+### Context ###
+Since the abstract directly references "human brain metastases," there is no need for additional context to verify the species.
+### Conclusion ###
+Consequently, we confirm that 'Homo sapiens' is the correct species used in the study.
+### Result ###
+['Homo sapiens']

@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the relevant organ parts mentioned are "foot," "forearm," and "peripheral blood mononuclear cells." Additionally, the context of diabetic foot ulceration (DFU) and wound healing is prominent.
+### Verify ###
+- **Foot**: This is directly mentioned and is a specific body part.
+- **Forearm**: This is also directly mentioned and is a specific body part.
+- **Peripheral blood mononuclear cells**: This refers to a specific cell type rather than an organ part.
+### Context ###
+The study focuses on profiling single cells from the foot and forearm in the context of diabetic foot ulceration. The mention of "peripheral blood mononuclear cells" is more about the cell type rather than an organ part.
+### Conclusion ###
+Based on the direct mentions and the context of the study, the relevant organ parts from the schema are "Foot" and "Forearm." "Peripheral blood mononuclear cells" is not an organ part but a cell type, so it does not fit the schema.
+### Result ###
+['Foot', 'Forearm']

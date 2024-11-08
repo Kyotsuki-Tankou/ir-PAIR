@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "mouse brain," "kidney," and "ductal carcinoma in situ tissues" are explicitly mentioned. This indicates that 'Brain,' 'Kidney,' and 'Tumor' may be proper results.
+### Verify ###
+1. "mouse brain" directly verifies that 'Brain' is indeed a relevant tissue in the context of the study.
+2. "kidney" directly verifies that 'Kidney' is also a relevant tissue.
+3. "ductal carcinoma in situ tissues" suggests a focus on cancerous tissues, which aligns with 'Tumor' in the schema.
+### Context ###
+Since the verification step directly confirms the presence of 'Brain,' 'Kidney,' and 'Tumor' in the abstract, there is no need for additional context to support these conclusions.
+### Conclusion ###
+Consequently, we choose 'Brain,' 'Kidney,' and 'Tumor' as our final results based on the clear and consistent information provided in the Abstract.
+### Result ###
+['Brain', 'Kidney', 'Tumor']

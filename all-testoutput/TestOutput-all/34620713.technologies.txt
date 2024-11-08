@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "spatial transcriptomic profiling" and "multiomics" suggest the use of technologies related to spatial transcriptomics and possibly other omics technologies. The specific technologies mentioned in the schema that align with these terms include 'Spatial Transcriptomics' and potentially 'scATAC-seq' due to the mention of "single cell chromatin landscapes."
+### Verify ###
+The abstract explicitly mentions "spatial transcriptomic profiling," which directly corresponds to 'Spatial Transcriptomics' in the schema. Additionally, the mention of "single cell chromatin landscapes" suggests the use of 'scATAC-seq' for chromatin accessibility analysis.
+### Context ###
+The context of the study involves a multimodal -omics approach, indicating the integration of multiple technologies. The specific mention of spatial transcriptomics and chromatin landscapes provides clear evidence for the use of 'Spatial Transcriptomics' and 'scATAC-seq'.
+### Conclusion ###
+Based on the explicit mentions and the context of the study, we can conclude that the technologies used include 'Spatial Transcriptomics' and 'scATAC-seq'.
+### Result ###
+['Spatial Transcriptomics', 'scATAC-seq']

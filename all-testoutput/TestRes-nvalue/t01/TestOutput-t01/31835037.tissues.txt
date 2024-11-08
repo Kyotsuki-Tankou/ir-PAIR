@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the term "heart" is prominently mentioned, indicating that 'Heart' may be a proper result. Additionally, terms like "embryonic heart" and "human cardiogenesis" reinforce the focus on the heart tissue.
+###Verify###
+The abstract states, "we present a molecular approach that reveals the comprehensive transcriptional landscape of cell types populating the embryonic heart at three developmental stages." This further verifies that the study is specifically focused on the heart, particularly in its embryonic stages, reinforcing that 'Heart' is a proper result.
+###Context###
+Given the detailed focus on the embryonic heart and the creation of a spatial subcellular map specific to this tissue, there is no need for additional context to confirm the result.
+###Conclusion###
+Consequently, we choose 'Heart' as our final result.
+###Result###
+['Heart']

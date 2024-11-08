@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "APEX-seq" is explicitly mentioned multiple times, indicating that 'APEX-seq' is a prominent technology used in the study.
+### Verify ###
+The abstract describes the development and application of "an RNA proximity labeling technique, APEX-seq," and further details its use in resolving the localization of RNAs within the cell. This confirms that 'APEX-seq' is indeed the technology employed.
+### Context ###
+The context provided in the abstract is clear and focused on the use of APEX-seq for mapping RNA composition and localization. There is no ambiguity or need for additional context to confirm the technology used.
+### Conclusion ###
+Based on the explicit mention and detailed description of APEX-seq in the abstract, we can confidently conclude that 'APEX-seq' is the technology used in the study.
+### Result ###
+['APEX-seq']

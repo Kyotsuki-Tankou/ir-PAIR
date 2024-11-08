@@ -1,0 +1,10 @@
+###Keywords###
+From the Keywords, "mouse" indicates that 'Mus musculus' may be a proper result.
+###Verify###
+From the Abstract, "Single-cell RNA-sequencing in a murine endotoxemia model" further verifies that 'Mus musculus' is indeed a relevant and proper result.
+###Context###
+Not required in this case as the keywords and the abstract content directly align with the schema.
+###Conclusion###
+Consequently, we confirm 'Mus musculus' as our final result based on the clear and consistent information provided in both the keywords and the abstract.
+###Result###
+['Mus musculus']

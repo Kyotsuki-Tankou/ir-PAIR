@@ -1,0 +1,11 @@
+### Keywords ###
+From the Abstract, the terms "embryonic aorta-gonad-mesonephros (AGM) region" and "dorsal aorta" are mentioned. From the Keywords, "embryo" is explicitly listed. This suggests that 'Embryo' and 'Dorsal aorta' may be relevant tissues.
+### Verify ###
+- **Embryo**: The Abstract mentions "Hematopoietic stem cells (HSCs) first emerge in the embryonic aorta-gonad-mesonephros (AGM) region," which directly supports 'Embryo' as a relevant tissue.
+- **Dorsal aorta**: The Abstract also mentions "ventral domain of the dorsal aorta," confirming 'Dorsal aorta' as a relevant tissue.
+### Context ###
+Not required in this case as the verification directly supports the results without ambiguity.
+### Conclusion ###
+Both 'Embryo' and 'Dorsal aorta' are confirmed as relevant tissues based on the input.
+### Result ###
+['Embryo', 'Dorsal aorta']

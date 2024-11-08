@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, key terms include "suprachiasmatic nucleus (SCN)", "ventral hypothalamus", "single-cell RNA-sequencing", "cell types", "circadian gene expression", and "spatial distribution". These terms suggest a focus on a specific brain region and its cellular composition.
+### Verify ###
+The abstract explicitly mentions "the suprachiasmatic nucleus (SCN) in the ventral hypothalamus" and details the study's focus on identifying cell types and their characteristics within the SCN. This directly points to the "Suprachiasmatic nucleus" as a relevant organ part.
+### Context ###
+The context of the study is clearly centered around the SCN, with no mention of other organ parts or diseases. This reinforces the specificity of the "Suprachiasmatic nucleus" as the primary focus.
+### Conclusion ###
+Given the clear and consistent focus on the suprachiasmatic nucleus throughout the abstract, "Suprachiasmatic nucleus" is the most appropriate match from the provided schema.
+### Result ###
+["Suprachiasmatic nucleus"]

@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, the terms "zebrafish" and "two xenopus species" directly indicate the species involved. These terms suggest that 'Danio rerio', 'Xenopus tropicalis', and 'Xenopus laevis' may be proper results.
+### Verify ###
+- From "zebrafish" in the Abstract, we can verify that 'Danio rerio' is indeed a proper result.
+- From "two xenopus species" in the Abstract, we can verify that 'Xenopus tropicalis' and 'Xenopus laevis' are also proper results.
+### Context ###
+No additional context is needed as the terms "zebrafish" and "two xenopus species" clearly specify the species involved.
+### Conclusion ###
+Consequently, we confirm 'Danio rerio', 'Xenopus tropicalis', and 'Xenopus laevis' as our final results based on the clear and direct mentions in the Abstract.
+### Result ###
+['Danio rerio', 'Xenopus tropicalis', 'Xenopus laevis']

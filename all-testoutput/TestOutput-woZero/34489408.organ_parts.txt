@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the relevant organ parts mentioned are "primary CRC" (colorectal cancer) and "liver metastases."
+### Verify ###
+The abstract specifically mentions "primary CRC" and "matched liver metastases," indicating these are the key organ parts involved in the study.
+### Context ###
+The context of the study revolves around understanding the tumor microenvironment (TME) in liver metastases of colorectal cancer and the response to preoperative chemotherapy. This further supports the relevance of "primary CRC" and "liver metastases."
+### Conclusion ###
+Given the direct mention and focus on "primary CRC" and "liver metastases" in the abstract, we can conclude that these are the appropriate organ parts to extract.
+### Result ###
+['Primary colorectal cancer', 'Liver metastasis cancer']

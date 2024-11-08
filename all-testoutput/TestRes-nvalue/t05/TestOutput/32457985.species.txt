@@ -1,0 +1,8 @@
+### Keywords ###
+The abstract mentions "zebrafish, chicken, mouse, and human embryos," which directly points to multiple species from the schema.
+### Verify ###
+The abstract explicitly states the use of "zebrafish, chicken, mouse, and human embryos," which corresponds to 'Danio rerio', 'Gallus gallus', 'Mus musculus', and 'Homo sapiens' in the schema.
+### Conclusion ###
+Given the explicit mention of species in the abstract, we can confidently conclude that 'Danio rerio', 'Gallus gallus', 'Mus musculus', and 'Homo sapiens' are the correct species.
+### Result ###
+['Danio rerio', 'Gallus gallus', 'Mus musculus', 'Homo sapiens']

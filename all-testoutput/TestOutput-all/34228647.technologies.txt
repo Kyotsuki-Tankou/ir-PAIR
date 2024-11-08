@@ -1,0 +1,10 @@
+###Keywords###
+From the Keywords "Brain cancer," "Endothelial cells," and "Vascular Biology," it suggests that the study involves molecular analysis techniques related to RNA sequencing. The mention of "single-cell RNA sequencing (scRNA-seq)" directly indicates the use of 'scRNA' technology.
+###Verify###
+In the Abstract, the phrase "through single-cell RNA sequencing (scRNA-seq) of freshly isolated ECs from human glioblastoma and paired tumor peripheral tissues" strongly confirms the use of 'scRNA' technology.
+###Context###
+Upon reviewing the context, there are no additional clues that suggest the use of any other technology. The entire abstract centers around the application of single-cell RNA sequencing to study endothelial cells in glioblastoma.
+###Conclusion###
+Consequently, we choose 'scRNA' as our final result.
+###Result###
+['scRNA']

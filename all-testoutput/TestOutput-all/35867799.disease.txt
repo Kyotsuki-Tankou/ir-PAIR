@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, keywords like "Acne," "lipids," "squalene," "Cutibacterium acnes," "macrophages," and "hair follicle epithelium" are prominent. These terms strongly suggest a focus on the skin and specifically on acne as a disease.
+### Verify ###
+The abstract explicitly mentions "Acne affects 1 in 10 people globally" and discusses the disease mechanisms involving "early acne lesions on back skin." This directly verifies that the study is focused on acne.
+### Context ###
+Given the detailed discussion of acne's pathogenesis, including the role of TREM2 macrophages and lipid metabolism, the context further supports that the primary disease under investigation is acne.
+### Conclusion ###
+The input clearly and consistently indicates that the disease being studied is acne.
+### Result ###
+["Acne"]

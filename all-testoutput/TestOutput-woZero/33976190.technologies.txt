@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the terms "single cell RNA-seq" and "Cluster RNA-seq" are mentioned, indicating the use of these technologies in the study.
+### Verify ###
+The abstract specifically states "Using single cell RNA-seq and Cluster RNA-seq," which directly verifies the use of these technologies.
+### Conclusion ###
+Consequently, we choose 'single cell RNA-seq' and 'Cluster RNA-seq' as our final results. Note that 'Cluster RNA-seq' is not listed in the schema, so we will only include 'single cell RNA-seq'.
+### Result ###
+['single cell RNA-seq']

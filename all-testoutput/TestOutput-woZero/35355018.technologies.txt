@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, the terms "spatial transcriptomics" and "single-cell profiling" stand out as potential matches to the technologies listed in the schema.
+### Verify ###
+- The abstract explicitly mentions "spatial transcriptomics," which directly matches one of the technologies in the schema.
+- "Single-cell profiling" is a broader term but can be associated with several single-cell technologies like 'scRNA', 'scATAC-seq', etc. However, the specific mention of "spatial transcriptomics" narrows down the focus.
+### Context ###
+- The study involves "microdissected distal airways" and the identification of "molecularly distinct TRB cell types," which aligns well with the capabilities of spatial transcriptomics.
+- The use of "connectome maps" and "organoid-based co-cultures" further supports the application of advanced spatial and molecular techniques, reinforcing the role of spatial transcriptomics.
+### Conclusion ###
+Given the explicit mention and contextual support, we can confidently conclude that 'Spatial Transcriptomics' is the primary technology used in this study.
+### Result ###
+['Spatial Transcriptomics']

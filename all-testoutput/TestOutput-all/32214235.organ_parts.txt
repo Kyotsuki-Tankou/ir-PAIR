@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, terms like "human organs," "human cell landscape (HCL)," and "major human organs" suggest a broad focus on various human organ parts. Specific organ parts are not explicitly mentioned, but the context implies a comprehensive analysis across multiple organs.
+### Verify ###
+The Abstract states, "we use single-cell mRNA sequencing to determine the cell-type composition of all major human organs," which indicates a wide-ranging study encompassing multiple organ parts. However, no specific organ parts are directly mentioned.
+### Context ###
+Given the comprehensive nature of the study described in the Abstract, it is clear that the research spans multiple organ parts rather than focusing on a single specific part. The lack of specific mentions in the Abstract means we cannot pinpoint exact organ parts from the provided schema.
+### Conclusion ###
+Since the Abstract does not specify particular organ parts but rather indicates a broad analysis of major human organs, we cannot definitively extract specific items from the schema.
+### Result ###
+null

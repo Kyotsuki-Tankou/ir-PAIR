@@ -1,0 +1,16 @@
+###schema###
+species:['Canis lupus familiaris', 'Arabidopsis thaliana', 'Xenopus tropicalis', 'Maize', 'Drosophila melanogaster', 'Danio rerio', 'Ambystoma mexicanum', 'Gallus gallus', 'Homo sapiens', 'Rattus norvegicus', 'Mus musculus', 'Macaca fascicularis', 'Glycine max', 'Xenopus laevis', 'Caenorhabditis elegans', 'Oryctolagus cuniculus', 'Phalaenopsis aphrodite', 'Sus scrofa']
+###input###
+ Abstract
+Idiopathic pulmonary fibrosis (IPF) is a progressive and fatal lung disorder driven by unrelenting extracellular matrix deposition. Fibroblasts are recognized as the central mediators of extracellular matrix production in IPF; however, the characteristics of the underlying fibroblast cell populations in IPF remain poorly understood. Here, we use an unbiased single-cell RNA sequencing analysis of a bleomycin-induced pulmonary fibrosis model to characterize molecular responses to fibrotic injury. Lung cells were isolated on Day 11 to capture emerging fibrosis and gene expression was analyzed by three complementary techniques, which, together, generated a 49-gene signature that defined an activated subpopulation of fibroblasts. However, none of the identified genes were specific to the activated cells or to the disease setting, implying that the activated fibroblasts are not uniquely defined, but exhibit a similar, yet amplified, gene expression pattern to control cells. Our findings have important implications for fibrosis research, including:1) defining myofibroblasts with any single marker will fail to capture much of the underlying biology;2) fibroblast activation is poorly correlated with expression of transforming growth factor-尾 pathway genes;3) single-cell analysis provides insight into the mechanism of action of effective therapies (nintedanib);4) early events in lung fibrosis need not involve significant changes in fibroblast number; populations that do increase in number, such as macrophages, dendritic cells, and proliferating myeloid cells, may merit closer examination for their role in pathogenesis. 
+ Keywords:extracellular matrix; fibroblast; idiopathic pulmonary fibrosis; myofibroblast; single-cell sequencing.Let's think step by step.
+### Keywords ###
+From the Keywords "idiopathic pulmonary fibrosis; myofibroblast; single-cell sequencing," there is no direct indication of the species used in the study. However, the context of the study involving a bleomycin-induced pulmonary fibrosis model suggests the use of a common laboratory model organism.
+### Verify ###
+In the Abstract, the phrase "we use an unbiased single-cell RNA sequencing analysis of a bleomycin-induced pulmonary fibrosis model" suggests the use of a well-established animal model for pulmonary fibrosis. Among the species listed in the schema, "Mus musculus" (mouse) is a widely used model for such studies due to its genetic and physiological similarities to humans, particularly in pulmonary research.
+### Context ###
+Given the common use of mice in pulmonary fibrosis research and the specific mention of a bleomycin-induced model, which is typically associated with mouse studies, we can infer that "Mus musculus" is the likely species used.
+### Conclusion ###
+Consequently, we choose "Mus musculus" as our final result based on the context and typical usage in similar research settings.
+### Result ###
+['Mus musculus']

@@ -1,0 +1,23 @@
+### Keywords
+- single-cell RNA-sequencing
+- SCN (suprachiasmatic nucleus)
+- circadian gene expression
+- light responsiveness
+- three-dimensional reconstruction
+- spatial distribution
+- gene regulation
+### Verify
+- single-cell RNA-sequencing (matches 'scRNA', 'RNA-seq')
+- SCN (contextual, not a technology)
+- circadian gene expression (contextual, not a technology)
+- light responsiveness (contextual, not a technology)
+- three-dimensional reconstruction (contextual, not a technology)
+- spatial distribution (contextual, not a technology)
+- gene regulation (contextual, not a technology)
+### Context
+- The paper focuses on using single-cell RNA-sequencing to study the SCN.
+- It involves detailed spatial and temporal analysis of gene expression.
+### Conclusion
+- The primary technology used is single-cell RNA-sequencing.
+### Result
+- ['scRNA', 'RNA-seq']

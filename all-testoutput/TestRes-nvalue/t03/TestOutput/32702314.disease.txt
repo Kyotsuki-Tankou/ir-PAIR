@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract and keywords, the term "Alzheimer's disease (AD)" is explicitly mentioned, indicating that 'Alzheimer disease' may be a proper result.
+###Verify###
+The abstract states, "Although complex inflammatory-like alterations are observed around the amyloid plaques of Alzheimer's disease (AD)," and "We investigate here, in an AD mouse model, the transcriptional changes occurring in tissue domains in a 100-μm diameter around amyloid plaques using spatial transcriptomics." These statements directly verify that the study focuses on Alzheimer's disease.
+###Conclusion###
+Since the term 'Alzheimer disease' is both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that 'Alzheimer disease' is the appropriate disease being studied.
+###Result###
+['Alzheimer disease']

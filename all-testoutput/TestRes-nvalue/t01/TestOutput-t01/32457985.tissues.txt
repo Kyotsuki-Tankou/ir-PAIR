@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the keywords that stand out are "stem cell," "niche," "aortic microenvironment," "hematopoietic stem cells," "development," "genome-wide RNA tomography sequencing," "zebrafish," "chicken," "mouse," and "human embryos." These keywords suggest a focus on embryonic development and the aortic microenvironment, particularly in relation to hematopoietic stem cells.
+###Verify###
+The abstract mentions "genome-wide RNA tomography sequencing on zebrafish, chicken, mouse, and human embryos." This directly indicates that the tissues of interest are embryonic tissues, specifically those involved in the aortic microenvironment where hematopoietic stem cells are generated.
+###Context###
+Given the detailed focus on embryos across multiple species and the specific mention of the aortic microenvironment, there is no need for additional context to verify the tissue type. The term "embryo" is explicitly mentioned, which aligns with one of the tissue types in the schema.
+###Conclusion###
+Consequently, we confirm that 'Embryo' is the appropriate tissue type based on the provided abstract.
+###Result###
+['Embryo']

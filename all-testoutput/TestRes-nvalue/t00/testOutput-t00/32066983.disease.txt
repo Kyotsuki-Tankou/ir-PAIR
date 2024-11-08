@@ -1,0 +1,26 @@
+### Keywords ###
+- suprachiasmatic nucleus (SCN)
+- ventral hypothalamus
+- single-cell RNA-sequencing
+- mouse SCN
+- circadian gene expression
+- light responsiveness
+- three-dimensional reconstruction
+- standardized SCN atlas
+- spatiotemporal pattern of gene regulation
+### Verify ###
+- **suprachiasmatic nucleus (SCN)**: Mentioned, relevant to brain structure.
+- **ventral hypothalamus**: Mentioned, relevant to brain region.
+- **single-cell RNA-sequencing**: Mentioned, relevant to methodology.
+- **mouse SCN**: Mentioned, relevant to model organism.
+- **circadian gene expression**: Mentioned, relevant to study focus.
+- **light responsiveness**: Mentioned, relevant to study focus.
+- **three-dimensional reconstruction**: Mentioned, relevant to methodology.
+- **standardized SCN atlas**: Mentioned, relevant to study outcome.
+- **spatiotemporal pattern of gene regulation**: Mentioned, relevant to study conclusion.
+### Context ###
+The study focuses on the suprachiasmatic nucleus (SCN) in the ventral hypothalamus of mice, using single-cell RNA-sequencing to identify cell types and their gene expression patterns related to circadian rhythms and light responsiveness. The creation of a standardized SCN atlas and the observation of spatiotemporal gene regulation patterns are key outcomes.
+### Conclusion ###
+The study primarily revolves around the brain, specifically the SCN and its role in circadian rhythms. No direct mention of any diseases from the schema is made.
+### Result ###
+null

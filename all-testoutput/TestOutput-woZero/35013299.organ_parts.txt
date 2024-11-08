@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, the terms "foot," "forearm," and "peripheral blood mononuclear cells" are mentioned, indicating potential relevant organ parts. Additionally, "wound bed," "wound edge," and "unwounded skin" are discussed in the context of diabetic foot ulceration.
+### Verify ###
+- "Foot" and "forearm" are directly mentioned as sources of the single cells analyzed.
+- "Peripheral blood mononuclear cells" are also mentioned, but they are not a specific organ part in the schema.
+- "Skin" is mentioned in the context of "unwounded skin," which could be relevant.
+### Context ###
+- The study focuses on diabetic foot ulceration, so "Foot" is highly relevant.
+- "Forearm" is mentioned but is less central to the primary focus of the study.
+- "Skin" is mentioned in the context of comparing wound areas, making it relevant.
+### Conclusion ###
+Based on the primary focus on diabetic foot ulceration and the specific mention of "foot" and "skin," we can conclude that these are the most relevant organ parts.
+### Result ###
+['Foot', 'Skin']

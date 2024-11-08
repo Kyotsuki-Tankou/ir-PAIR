@@ -1,0 +1,44 @@
+### Keywords ###
+- Mouse embryo
+- Post-implantation development
+- Inner cell mass
+- Epiblast
+- Pluripotent state
+- Germ layers
+- Cell lineages
+- Gastrulation
+- Fate-mapping
+- Lineage-analysis
+- Regionalization
+- Body plan
+- Embryonic programming
+- Stem-cell-based study
+- Vertebrate embryos
+- Molecular annotation
+- Lineage segregation
+- Tissue architecture
+- Spatially resolved transcriptome
+- Germ layers development
+- Pre- to late-gastrulation stages
+- Spatiotemporal transcriptome
+- Gene-expression profiles
+- Molecular genealogy
+- Pluripotency states
+- Molecular determinants
+- Lineage specification
+- Tissue patterning
+- Hippo-Yap signalling
+- Visceral endoderm
+- Endoderm
+### Verify ###
+- Mouse Embryo
+- Gastrulation
+- Germ layers
+- Tissue architecture
+- Spatially resolved transcriptome
+### Context ###
+The paper discusses the development of the mouse embryo post-implantation, focusing on the transition of inner cell mass descendants in the epiblast from a naive to a primed pluripotent state. It emphasizes the formation of germ layers and the specification of cell lineages during gastrulation, which are crucial for establishing the embryonic blueprint. The study involves spatially resolved transcriptome analysis to understand lineage segregation and tissue architecture during gastrulation stages.
+### Conclusion ###
+The primary focus is on the early stages of mouse embryo development, particularly during gastrulation, and the molecular mechanisms underlying tissue formation and lineage specification.
+### Result ###
+["Mouse Embryo", "Gastrulation", "Germ layers", "Tissue architecture", "Spatially resolved transcriptome"]

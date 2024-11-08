@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Stress granules"]
+null
+["APEX-seq"]
+["Normal atlas"]
+ Abstract\nDiverse ribonucleoprotein complexes control mRNA processing, translation, and decay. Transcripts in these complexes localize to specific regions of the cell and can condense into non-membrane-bound structures such as stress granules. It has proven challenging to map the RNA composition of these large and dynamic structures, however. We therefore developed an RNA proximity labeling technique, APEX-seq, which uses the ascorbate peroxidase APEX2 to probe the spatial organization of the transcriptome. We show that APEX-seq can resolve the localization of RNAs within the cell and determine their enrichment or depletion near key RNA-binding proteins. Matching the spatial transcriptome, as revealed by APEX-seq, with the spatial proteome determined by APEX-mass spectrometry (APEX-MS), obtained precisely in parallel, provides new insights into the organization of translation initiation complexes on active mRNAs and unanticipated complexity in stress granule composition. Our novel technique allows a powerful and general approach to explore the spatial environment of macromolecules. \n Keywords:APEX-Seq; RNA localization; proximity labeling; subcellular localization.

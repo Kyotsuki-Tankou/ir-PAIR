@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the primary tissue mentioned is the "endometrium," which is the mucosal lining of the uterus. Additionally, "uterus" is explicitly mentioned.
+### Verify ###
+The abstract directly refers to the "endometrium" and "uterus," which correspond to 'Uterus' and 'Mucosa' in the schema.
+### Context ###
+Since the abstract clearly specifies the tissues involved, there is no need for additional context to verify the tissues.
+### Conclusion ###
+Consequently, we confirm that 'Uterus' and 'Mucosa' are the appropriate tissues based on the given information.
+### Result ###
+['Uterus', 'Mucosa']

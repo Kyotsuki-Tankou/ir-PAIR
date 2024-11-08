@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the phrases "mouse tumor models" and "tumor-associated mesenchymal stem cells (MSCs)" suggest that 'Tumor metastasis' or 'Cancer' might be relevant.
+### Verify ###
+The Abstract mentions "profile mouse tumor models" and "tumor suppressor genes by MSCs," which directly aligns with the concept of tumor studies and cancer research.
+### Context ###
+The context of the study involves profiling mouse tumor models and analyzing the spatial distribution of cell types within tumors, including the behavior of MSCs near the tumor core. This further supports the relevance of 'Tumor metastasis' or 'Cancer' as the disease being studied.
+### Conclusion ###
+Given the specific focus on tumor models and the behavior of cells within the tumor environment, 'Tumor metastasis' is a more precise term that captures the essence of the study compared to the broader term 'Cancer.'
+### Result ###
+['Tumor metastasis']

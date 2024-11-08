@@ -1,0 +1,13 @@
+###schema###
+technologies:['CITE-seq', 'XYZeq', 'CUT&Tag', 'RNA-seq', 'STARmap', 'DBiT-seq', 'scATAC-seq', 'scRNA', 'EASI-FISH', 'PIC-seq', 'sci-Space', 'sciMAP-ATAC-seq', 'Slide-seqV2', 'Spatial Transcriptomics', 'seqFish', 'seqFISH+', 'Stereo-Seq', '10x Visium', ' RNA-seq', 'scATAC', 'LCM-seq', 'Tomo-seq', 'Proximity RNA-seq', 'sci-ATAC-seq', 'ClampFISH', 'VINE-seq', 'snRNA', 'HDST', 'GeoMx DSP', 'Seq-Scope', 'APEX-seq', 'RNAseq', 'MERFISH', 'ClumpSeq', 'Geo-seq', 'Slide-seq']
+###input###
+ Abstract
+Heart failure is a major health problem linked to poor quality of life and high mortality rates. Hence, novel biomarkers, such as fetal marker genes with low expression levels, could potentially differentiate disease states in order to improve therapy. In many studies on heart failure, cardiac biopsies have been analyzed as uniform pieces of tissue with bulk techniques, but this homogenization approach can mask medically relevant phenotypes occurring only in isolated parts of the tissue. This study examines such spatial variations within and between regions of cardiac biopsies. In contrast to standard RNA sequencing, this approach provides a spatially resolved transcriptome- and tissue-wide perspective of the adult human heart, and enables detection of fetal marker genes expressed by minor subpopulations of cells within the tissue. Analysis of patients with heart failure, with preserved ejection fraction, demonstrated spatially divergent expression of fetal genes in cardiac biopsies.Let's think step by step.
+### Keywords ###
+From the input, the term "spatially resolved transcriptome" in the Abstract suggests that 'Spatial Transcriptomics' may be a proper result.
+### Verify ###
+The phrase "this approach provides a spatially resolved transcriptome- and tissue-wide perspective" in the Abstract further supports that 'Spatial Transcriptomics' is indeed the technology used.
+### Conclusion ###
+Consequently, we confirm 'Spatial Transcriptomics' as our final result.
+### Result ###
+['Spatial Transcriptomics']

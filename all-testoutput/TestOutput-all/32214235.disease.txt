@@ -1,0 +1,15 @@
+###Keywords###
+From the abstract, the keywords that stand out are "single-cell analysis," "human organs," "cell-type composition," "human cell landscape (HCL)," "single-cell mRNA sequencing," and "human and mouse comparative analysis." These keywords suggest a broad focus on human biology, cellular heterogeneity, and comparative genomics.
+###Verify###
+The abstract specifically mentions:
+- "determine the cell-type composition of all major human organs"
+- "construct a scheme for the human cell landscape (HCL)"
+- "uncovered a single-cell hierarchy for many tissues"
+- "single-cell comparative analysis of landscapes from human and mouse"
+These points verify that the study is comprehensive, covering multiple human organs and tissues, and involves comparative analysis with mouse models.
+###Context###
+While the abstract does not explicitly mention any specific disease, it discusses the creation of a comprehensive atlas of human cells, which can be relevant to understanding various diseases. The focus is more on the methodology and the broad scope of human biology rather than a specific disease.
+###Conclusion###
+Given the broad and methodological focus of the study, it does not align with any specific disease listed in the schema. The study is more about creating a foundational resource for understanding human cell biology, which could potentially be applied to various diseases but is not disease-specific itself.
+###Result###
+null

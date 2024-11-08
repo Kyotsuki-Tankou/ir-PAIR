@@ -1,0 +1,8 @@
+###Keywords###
+From the input, the term "human intestine" and "human development" directly indicate that 'Homo sapiens' may be a proper result.
+###Verify###
+The abstract mentions "Development of the human intestine" and "characterize intestinal morphogenesis through time in humans," which further verifies that 'Homo sapiens' is indeed the species studied in the research.
+###Conclusion###
+Consequently, we confirm 'Homo sapiens' as the final result based on the clear and consistent references to human development and human intestine in the input.
+###Result###
+['Homo sapiens']

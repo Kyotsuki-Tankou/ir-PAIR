@@ -1,0 +1,21 @@
+### Keywords ###
+- APEX-Seq
+- RNA localization
+- Proximity labeling
+- Subcellular localization
+- Stress granules
+- Transcriptome
+- Proteome
+- Translation initiation complexes
+### Verify ###
+- **Stress granules**: Mentioned explicitly in the text.
+- **Transcriptome**: Mentioned in the context of APEX-seq.
+- **Proteome**: Mentioned in the context of APEX-mass spectrometry (APEX-MS).
+### Context ###
+- The paper discusses the development and application of APEX-seq to study the spatial organization of the transcriptome.
+- It highlights the localization of RNAs within the cell and their interaction with RNA-binding proteins.
+- The technique is used to explore the composition of stress granules and translation initiation complexes.
+### Conclusion ###
+- The primary focus is on cellular structures and processes rather than specific tissues.
+### Result ###
+- **null** (No specific tissues mentioned in the input text corresponding to the schema.)

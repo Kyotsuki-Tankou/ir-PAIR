@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "single-nucleus transcriptomics" suggests a potential match with technologies related to single-nucleus sequencing. The closest match in the schema could be 'snRNA'.
+### Verify ###
+The abstract mentions "single-nucleus transcriptomics of skeletal muscle," which directly supports the use of a single-nucleus RNA sequencing technology. 'snRNA' (single-nucleus RNA) is a specific technology that fits this description.
+### Context ###
+Not required in this case as the verification directly supports the keyword.
+### Conclusion ###
+Given the clear mention of "single-nucleus transcriptomics," it is conclusive that 'snRNA' is the correct technology used in the study.
+### Result ###
+['snRNA']

@@ -1,0 +1,15 @@
+### Keywords ###
+- "Gastruloids"
+- "embryonic stem cells"
+- "mouse embryos"
+- "somitogenesis"
+### Verify ###
+- "Gastruloids are three-dimensional aggregates of embryonic stem cells" confirms the presence of 'Gastruloids'.
+- "Here we compare mouse gastruloids with mouse embryos" confirms the presence of 'Mouse Embryo'.
+- "key regulators of somitogenesis are expressed similarly between embryos and gastruloids" confirms the relevance of 'somitogenesis'.
+### Context ###
+- The study focuses on the comparison between gastruloids and mouse embryos, particularly in the context of somitogenesis and germ-layer specification.
+### Conclusion ###
+- Based on the keywords and context, the relevant organ parts from the schema are 'Gastruloid', 'Mouse Embryo', and 'somitogenesis' (though 'somitogenesis' is a process, it is listed in the schema).
+### Result ###
+['Gastruloid', 'Mouse Embryo', 'somitogenesis']

@@ -1,0 +1,12 @@
+### Keywords ###
+The abstract mentions "human distal airways," "human lung development," and "non-human primate model of lung injury." These terms suggest the species involved in the study are primarily "Homo sapiens" and possibly a non-human primate.
+### Verify ###
+- "human distal airways" and "human lung development" directly indicate the involvement of "Homo sapiens."
+- "non-human primate model of lung injury" suggests the use of a primate species, which could be "Macaca fascicularis" given its common use in research.
+### Context ###
+- The abstract specifies "using a non-human primate model of lung injury," which strongly implies the use of a primate species other than humans.
+- The focus on human lungs and the comparison with a non-human primate model further supports the involvement of "Homo sapiens" and a non-human primate.
+### Conclusion ###
+Based on the explicit mentions and the context, it is clear that the species involved in the study are "Homo sapiens" and "Macaca fascicularis."
+### Result ###
+['Homo sapiens', 'Macaca fascicularis']

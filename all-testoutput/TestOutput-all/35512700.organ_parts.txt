@@ -1,0 +1,13 @@
+###Keywords###
+From the "Abstract," the keywords related to organ parts are "Drosophila embryos and larvae" and "embryonic and larval midguts."
+###Verify###
+The abstract mentions "developing Drosophila," "Drosophila embryos and larvae," and "embryonic and larval midguts," which suggests specific parts of the Drosophila organism are being studied.
+###Context###
+To further verify, we need to infer from the context:
+- "We demonstrated that Stereo-seq data can be used for the 3D reconstruction of the spatial transcriptomes of Drosophila embryos and larvae."
+- "With these 3D models, we identified functional subregions in embryonic and larval midguts, uncovered spatial cell state dynamics of larval testis."
+This indicates that the study focuses on specific developmental stages and regions within the Drosophila, particularly the embryos, larvae, and their midguts.
+###Conclusion###
+Given the context and the specific mention of "Drosophila embryos and larvae" and "embryonic and larval midguts," it is reasonable to conclude that "Embryo" and "Larvae" are the specific organ parts being studied.
+###Result###
+['Embryo', 'Larvae']

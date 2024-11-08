@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the keywords "CITE-seq" and "spatial transcriptomics" directly indicate the technologies used.
+### Verify ###
+The abstract mentions "single-cell CITE-seq, single-nuclei sequencing, spatial transcriptomics, and spatial proteomics," which further confirms that the technologies being used are indeed 'CITE-seq' and 'spatial transcriptomics'.
+### Conclusion ###
+Since both the keywords and the context in the abstract consistently point to 'CITE-seq' and 'spatial transcriptomics', we can confidently conclude that these are the correct technologies.
+### Result ###
+['CITE-seq', 'spatial transcriptomics']

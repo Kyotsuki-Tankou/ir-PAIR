@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the keywords "heart development" and "human development" are prominent. These directly match the items in the provided schema.
+###Verify###
+Upon reviewing the abstract, we see mentions of "cardiac morphogenesis in humans" and "heart development," which directly correspond to the items "Heart development" and "Normal" in the schema.
+###Context###
+Given the focus on "cardiac morphogenesis in humans" and the use of "spatial transcriptomics" to map gene expression, the context supports the inclusion of "Heart development" and potentially "Normal" as relevant disease states in the context of developmental stages.
+###Conclusion###
+Based on the context, the study focuses on "Heart development" and uses techniques that could provide insights into normal developmental processes. Therefore, both "Heart development" and "Normal" are relevant terms.
+###Result###
+['Heart development', 'Normal']

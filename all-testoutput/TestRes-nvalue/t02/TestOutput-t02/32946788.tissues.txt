@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "embryonic aorta-gonad-mesonephros (AGM) region," "dorsal aorta," and "human HSC development" are prominent. This suggests that 'Embryo' and 'Aorta' may be relevant tissues.
+### Verify ###
+The abstract mentions "HSCs first emerge in the embryonic aorta-gonad-mesonephros (AGM) region" and "ventral domain of the dorsal aorta," which directly reference the 'Embryo' and 'Aorta' tissues. This further supports that these are indeed relevant tissues.
+### Context ###
+Given the specific context of "embryonic aorta-gonad-mesonephros (AGM) region" and the focus on human HSC development, the terms 'Embryo' and 'Aorta' are contextually appropriate. The mention of "human HSC development" aligns with the study of embryonic tissues.
+### Conclusion ###
+Consequently, we confirm 'Embryo' and 'Aorta' as our final results based on the clear and consistent references in the abstract.
+### Result ###
+['Embryo', 'Aorta']

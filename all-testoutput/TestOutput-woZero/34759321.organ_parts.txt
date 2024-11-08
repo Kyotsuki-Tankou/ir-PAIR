@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "oral carcinomas" and "melanoma" are explicitly mentioned, indicating that 'Oral mucosa' and 'Skin' may be proper results.
+### Verify ###
+- The abstract states: "dietary palmitic acid (PA), but not oleic acid or linoleic acid, promotes metastasis in oral carcinomas and melanoma in mice," which directly verifies the presence of 'Oral mucosa' and 'Skin'.
+### Context ###
+- No additional context is needed as the abstract clearly mentions the specific types of cancers where the study was conducted.
+### Conclusion ###
+Consequently, we confirm 'Oral mucosa' and 'Skin' as our final results based on the explicit mentions in the abstract.
+### Result ###
+['Oral mucosa', 'Skin']

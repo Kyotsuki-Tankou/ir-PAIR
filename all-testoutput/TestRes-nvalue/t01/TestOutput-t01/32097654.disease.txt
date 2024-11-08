@@ -1,0 +1,17 @@
+###Keywords###
+- "digit tip regeneration"
+- "blastema"
+- "fibroblast heterogeneity"
+- "single-cell RNA-seq"
+- "mouse digit tip blastemas"
+###Verify###
+- "digit tip regeneration" suggests a focus on regeneration, which might match with 'Digit Regeneration'.
+- "blastema" and "fibroblast heterogeneity" indicate a study on cellular components and processes related to regeneration.
+- "mouse digit tip blastemas" confirms the focus on digit tips in mice, reinforcing 'Digit Regeneration'.
+###Context###
+- The abstract mentions "Innate regeneration following digit tip amputation" and "the same structure invoked during limb regeneration in some lower vertebrates," which provides context that the study is specifically about the regeneration process in digit tips.
+- "We computationally define differentiation trajectories of vascular, monocytic, and fibroblastic lineages over regeneration," further emphasizes the detailed study of regeneration processes.
+###Conclusion###
+Given the clear focus on "digit tip regeneration" and the context provided about the regeneration process, 'Digit Regeneration' is a highly relevant match.
+###Result###
+['Digit Regeneration']

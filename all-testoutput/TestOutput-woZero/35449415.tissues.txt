@@ -1,0 +1,9 @@
+### Keywords ###
+From the abstract, the key tissues mentioned are "infected lymph nodes" and "mouse tumor model." This suggests potential matches with 'Lymph' and 'Tumor' from the schema.
+### Verify ###
+- "infected lymph nodes" directly corresponds to 'Lymph' in the schema.
+- "mouse tumor model" directly corresponds to 'Tumor' in the schema.
+### Conclusion ###
+Based on the direct mentions in the abstract, we can confidently conclude that 'Lymph' and 'Tumor' are the relevant tissues.
+### Result ###
+['Lymph', 'Tumor']

@@ -1,0 +1,11 @@
+###Keywords###
+From the abstract, the terms "atopic dermatitis," "skin suction blistering," "skin cells," and "biopsies" are prominent. These suggest that 'Atopic dermatitis lesional skin' and 'Skin' may be relevant organ parts.
+###Verify###
+- From "atopic dermatitis" and "skin suction blistering" in the Abstract, we can verify that 'Atopic dermatitis lesional skin' is indeed a proper result.
+- The general mention of "skin cells" and "biopsies" supports the inclusion of 'Skin' as well.
+###Context###
+The abstract focuses on the comparison between suction blistering and conventional biopsies in the context of atopic dermatitis, specifically highlighting the skin as the primary organ of interest. This context reinforces the relevance of 'Atopic dermatitis lesional skin' and 'Skin'.
+###Conclusion###
+Based on the clear and direct mentions of atopic dermatitis and the focus on skin samples, we confirm 'Atopic dermatitis lesional skin' and 'Skin' as our final results.
+###Result###
+['Atopic dermatitis lesional skin', 'Skin']

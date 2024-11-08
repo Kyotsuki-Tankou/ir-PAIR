@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Brain"]
+null
+["Spatial Transcriptomics"]
+["Normal atlas"]
+ Abstract\nBrain maps are essential for integrating information and interpreting the structure-function relationship of circuits and behavior. We aimed to generate a systematic classification of the adult mouse brain based purely on the unbiased identification of spatially defining features by employing whole-brain spatial transcriptomics. We found that the molecular information was sufficient to deduce the complex and detailed neuroanatomical organization of the brain. The unsupervised (non-expert, data-driven) classification revealed new area- and layer-specific subregions, for example in isocortex and hippocampus, and new subdivisions of striatum. The molecular atlas further supports the characterization of the spatial identity of neurons from their single-cell RNA profile, and provides a resource for annotating the brain using a minimal gene set-a brain palette. In summary, we have established a molecular atlas to formally define the spatial organization of brain regions, including the molecular code for mapping and targeting of discrete neuroanatomical domains.

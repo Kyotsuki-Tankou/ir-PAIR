@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "heart failure" (HF) and "circulating proteins," indicating that 'Heart failure' could be a relevant result.
+### Verify ###
+The abstract specifically refers to "heart failure (HF)" as a major public health problem, which directly verifies that 'Heart failure' is a relevant topic in the context of the study.
+### Context ###
+The study focuses on the characterization of circulating proteins across different stages of heart failure, providing pathophysiological insights and identifying therapeutic targets. This aligns with the schema's 'Heart failure' category.
+### Conclusion ###
+Based on the clear mention and focus on heart failure in the abstract, we can conclude that 'Heart failure' is the appropriate disease to be extracted.
+### Result ###
+['Heart failure']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "prostate gland," "patient-derived benign prostate epithelial organoids," and "prostate tissue explants" suggest that 'Prostate epithelial organoids' may be a relevant organ part.
+### Verify ###
+The abstract specifically mentions "patient-derived benign prostate epithelial organoids" and "prostate tissue explants," which directly align with the 'Prostate epithelial organoids' item in the schema.
+### Context ###
+The context of the study revolves around the effects of vitamin D on prostate epithelial differentiation using organoids and tissue explants. This further supports the focus on 'Prostate epithelial organoids' as the primary organ part studied.
+### Conclusion ###
+Given the direct mentions and the contextual focus on prostate epithelial organoids, we can confidently conclude that 'Prostate epithelial organoids' is the relevant organ part.
+### Result ###
+['Prostate epithelial organoids']

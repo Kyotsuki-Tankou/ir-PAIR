@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, we see terms related to subcellular structures and processes such as "LADs," "OXPHOS," "UTRs," and "spatial transcriptomics." This suggests a focus on cellular and subcellular components rather than specific organ parts.
+### Verify ###
+In the Abstract, it is mentioned that "APEX-seq in nine distinct subcellular locales produced a nanometer-resolution spatial map of the human transcriptome." This indicates a focus on subcellular locales rather than specific organ parts. There is no direct mention of any specific organ parts from the schema in the Abstract.
+### Context ###
+The context of the study is clearly centered around subcellular localization and the human transcriptome. Terms like "nuclear transcriptome," "mitochondria," and "cytoplasmic export" reinforce the subcellular focus, rather than any specific organ part.
+### Conclusion ###
+Based on the keywords, verification, and context, it is evident that the study does not focus on any specific organ parts listed in the schema. The emphasis is on subcellular structures and processes.
+### Result ###
+null

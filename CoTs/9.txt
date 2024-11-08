@@ -1,0 +1,13 @@
+###schema###
+technologies:['CITE-seq', 'XYZeq', 'CUT&Tag', 'RNA-seq', 'STARmap', 'DBiT-seq', 'scATAC-seq', 'scRNA', 'EASI-FISH', 'PIC-seq', 'sci-Space', 'sciMAP-ATAC-seq', 'Slide-seqV2', 'Spatial Transcriptomics', 'seqFish', 'seqFISH+', 'Stereo-Seq', '10x Visium', ' RNA-seq', 'scATAC', 'LCM-seq', 'Tomo-seq', 'Proximity RNA-seq', 'sci-ATAC-seq', 'ClampFISH', 'VINE-seq', 'snRNA', 'HDST', 'GeoMx DSP', 'Seq-Scope', 'APEX-seq', 'RNAseq', 'MERFISH', 'ClumpSeq', 'Geo-seq', 'Slide-seq']
+###input###
+ Abstract
+Analysis of the pattern of proteins or messengerRNAs (mRNAs) in histological tissue sections is a cornerstone in biomedical research and diagnostics. This typically involves the visualization of a few proteins or expressed genes at a time. We have devised a strategy, which we call "spatial transcriptomics," that allows visualization and quantitative analysis of the transcriptome with spatial resolution in individual tissue sections. By positioning histological sections on arrayed reverse transcription primers with unique positional barcodes, we demonstrate high-quality RNA-sequencing data with maintained two-dimensional positional information from the mouse brain and human breast cancer. Spatial transcriptomics provides quantitative gene expression data and visualization of the distribution of mRNAs within tissue sections and enables novel types of bioinformatics analyses, valuable in research and diagnostics.Let's think step by step.
+###Keywords###
+From the term "spatial transcriptomics" in the Abstract, it indicates that 'Spatial Transcriptomics' may be a proper result.
+###Verify###
+The Abstract mentions "we call 'spatial transcriptomics'," and "Spatial transcriptomics provides quantitative gene expression data," which further verifies that 'Spatial Transcriptomics' is indeed a proper result.
+###Conclusion###
+Consequently, we choose 'Spatial Transcriptomics' as our final result.
+###Result###
+['Spatial Transcriptomics']

@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "single-cell RNA sequencing" and "spatial transcriptomics" are prominently mentioned. These directly correspond to items in the provided schema.
+###Verify###
+The abstract states, "Here, we link single-cell RNA sequencing and spatial transcriptomics to characterize intestinal morphogenesis through time." This clearly indicates the use of "single-cell RNA sequencing" and "spatial transcriptomics" technologies.
+###Context###
+Given the explicit mention of these technologies in the context of characterizing intestinal development, there is no need for additional context to confirm the result.
+###Conclusion###
+The abstract provides clear matches to the technologies listed in the schema. Specifically, "single-cell RNA sequencing" corresponds to 'scRNA' and "spatial transcriptomics" corresponds to 'Spatial Transcriptomics'.
+###Result###
+['scRNA', 'Spatial Transcriptomics']

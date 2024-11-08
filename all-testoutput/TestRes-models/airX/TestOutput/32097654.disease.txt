@@ -1,0 +1,10 @@
+### Keywords ###
+From the keywords, "digit tip regeneration" suggests a focus on a specific type of tissue regeneration process. The keyword "blastema" points towards a developmental stage that is relevant to regeneration.
+### Verify ###
+The abstract mentions "digit tip amputation" and "digit tip regeneration," which directly verify that the study is about a process related to the regeneration of digit tips. The term "blastema" is also mentioned, which is a structure associated with regeneration.
+### Context ###
+The context of the abstract discusses the regeneration process of digit tips in mice and the role of blastema in this process. This supports the inclusion of "digit tip regeneration" and "blastema" as relevant items.
+### Conclusion ###
+Based on the consistent mention of "digit tip regeneration" and "blastema" in both the abstract and keywords, we can conclude that these are the proper results.
+### Result ###
+["digit tip regeneration", "blastema"]

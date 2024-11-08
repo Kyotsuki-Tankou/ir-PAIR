@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "human liver" is prominently mentioned, indicating that 'Homo sapiens' may be a proper result.
+### Verify ###
+The abstract consistently refers to "the human liver" and "human liver's parenchymal cell fraction," which further verifies that 'Homo sapiens' is the correct species.
+### Context ###
+The context of the study is clearly focused on the human liver, with no mention of any other species. This confirms that 'Homo sapiens' is the appropriate species without any ambiguity.
+### Conclusion ###
+Consequently, we confirm 'Homo sapiens' as the final result based on the clear and consistent focus on the human liver in the abstract.
+### Result ###
+['Homo sapiens']

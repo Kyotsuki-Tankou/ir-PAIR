@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the term "single-cell sequencing" in the Keywords suggests that 'scRNA' (single-cell RNA sequencing) may be a proper result.
+### Verify ###
+The phrase "we address cellular heterogeneity of the lacrimal gland by providing a single-cell atlas of human lacrimal gland tissue and organoids" in the Abstract further supports that 'scRNA' is indeed the technology used.
+### Conclusion ###
+Consequently, we confirm 'scRNA' as our final result.
+### Result ###
+['scRNA']

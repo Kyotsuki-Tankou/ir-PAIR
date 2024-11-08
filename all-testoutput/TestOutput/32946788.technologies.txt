@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the terms "spatial transcriptomics analysis," "aorta," and "single cells" suggest that the technology 'Spatial Transcriptomics' may be a proper result.
+### Verify ###
+The abstract mentions "spatial transcriptomics analysis of dorsoventral polarized signaling in the aorta" and "gene expression profiling of sorted cell populations and single cells," which directly supports the use of 'Spatial Transcriptomics' technology.
+### Conclusion ###
+Consequently, we choose 'Spatial Transcriptomics' as our final result.
+### Result ###
+['Spatial Transcriptomics']

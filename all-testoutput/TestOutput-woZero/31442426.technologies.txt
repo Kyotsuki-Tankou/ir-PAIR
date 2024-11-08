@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract and keywords, the term "APEX-seq" is explicitly mentioned, indicating that 'APEX-seq' may be a proper result.
+### Verify ###
+The abstract states, "We therefore developed an RNA proximity labeling technique, APEX-seq, which uses the ascorbate peroxidase APEX2 to probe the spatial organization of the transcriptome." This directly verifies the use of 'APEX-seq' technology.
+### Conclusion ###
+Since the term 'APEX-seq' is both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that 'APEX-seq' is the appropriate technology used.
+### Result ###
+['APEX-seq']

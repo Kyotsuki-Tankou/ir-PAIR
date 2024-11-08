@@ -1,0 +1,8 @@
+###Keywords###
+From the input, the keyword "scRNA-seq" directly matches an item in the schema.
+###Verify###
+The Abstract mentions "using scRNA-seq" in the context of characterizing ADPC and NEPC in prostate tumors, confirming the use of this technology.
+###Conclusion###
+Since both the keywords and the context verify the presence of "scRNA-seq", we can conclude it is the correct result.
+###Result###
+["scRNA-seq"]

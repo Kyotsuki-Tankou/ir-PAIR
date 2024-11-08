@@ -1,0 +1,18 @@
+###schema###
+technologies:['CITE-seq', 'XYZeq', 'CUT&Tag', 'RNA-seq', 'STARmap', 'DBiT-seq', 'scATAC-seq', 'scRNA', 'EASI-FISH', 'PIC-seq', 'sci-Space', 'sciMAP-ATAC-seq', 'Slide-seqV2', 'Spatial Transcriptomics', 'seqFish', 'seqFISH+', 'Stereo-Seq', '10x Visium', ' RNA-seq', 'scATAC', 'LCM-seq', 'Tomo-seq', 'Proximity RNA-seq', 'sci-ATAC-seq', 'ClampFISH', 'VINE-seq', 'snRNA', 'HDST', 'GeoMx DSP', 'Seq-Scope', 'APEX-seq', 'RNAseq', 'MERFISH', 'ClumpSeq', 'Geo-seq', 'Slide-seq']
+###input###
+ Abstract
+Cutaneous malignant melanoma (melanoma) is characterized by a high mutational load, extensive intertumoral and intratumoral genetic heterogeneity, and complex tumor microenvironment (TME) interactions. Further insights into the mechanisms underlying melanoma are crucial for understanding tumor progression and responses to treatment. Here we adapted the technology of spatial transcriptomics (ST) to melanoma lymph node biopsies and successfully sequenced the transcriptomes of over 2,200 tissue domains. Deconvolution combined with traditional approaches for dimensional reduction of transcriptome-wide data enabled us to both visualize the transcriptional landscape within the tissue and identify gene expression profiles linked to specific histologic entities. Our unsupervised analysis revealed a complex spatial intratumoral composition of melanoma metastases that was not evident through morphologic annotation. Each biopsy showed distinct gene expression profiles and included examples of the coexistence of multiple melanoma signatures within a single tumor region as well as shared profiles for lymphoid tissue characterized according to their spatial location and gene expression profiles. The lymphoid area in close proximity to the tumor region displayed a specific expression pattern, which may reflect the TME, a key component to fully understanding tumor progression. In conclusion, using the ST technology to generate gene expression profiles reveals a detailed landscape of melanoma metastases. This should inspire researchers to integrate spatial information into analyses aiming to identify the factors underlying tumor progression and therapy outcome.Significance:Applying ST technology to gene expression profiling in melanoma lymph node metastases reveals a complex transcriptional landscape in a spatial context, which is essential for understanding the multiple components of tumor progression and therapy outcome.Cancer Res; 78(20); 5970-9. 漏2018 AACR.Let's think step by step.
+###Keywords###
+From the input, the term "spatial transcriptomics (ST)" is explicitly mentioned, indicating that 'Spatial Transcriptomics' may be a proper result.
+###Verify###
+The abstract states:
+- "Here we adapted the technology of spatial transcriptomics (ST) to melanoma lymph node biopsies"
+- "using the ST technology to generate gene expression profiles reveals a detailed landscape of melanoma metastases"
+These statements clearly verify the use of 'Spatial Transcriptomics' technology in the study.
+###Context###
+Since the keywords and the abstract both strongly indicate the use of 'Spatial Transcriptomics', there is no need for additional context to confirm the result.
+###Conclusion###
+Consequently, we confirm 'Spatial Transcriptomics' as the final result based on the explicit mentions and detailed descriptions in the abstract.
+###Result###
+['Spatial Transcriptomics']

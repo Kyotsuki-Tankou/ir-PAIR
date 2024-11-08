@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "heart" is prominently mentioned, indicating that 'Heart' may be a proper result.
+###Verify###
+The abstract specifically discusses "heart failure (HF)" and "cardiac origins," which directly verifies that 'Heart' is indeed a relevant organ part in this context.
+###Conclusion###
+Consequently, we choose 'Heart' as our final result.
+###Result###
+['Heart']

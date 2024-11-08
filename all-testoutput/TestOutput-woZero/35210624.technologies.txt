@@ -1,0 +1,13 @@
+### Keywords ###
+From the abstract, the terms "single-cell transcriptomics" and "spatial transcriptomics" are explicitly mentioned, indicating that 'Spatial Transcriptomics' and possibly 'scRNA' (single-cell RNA) may be relevant technologies.
+### Verify ###
+The abstract states:
+1. "Here we show in vivo barcoding of early progenitors to simultaneously profile cell phenotypes and clonal relations in the mouse brain using single-cell and spatial transcriptomics."
+2. "We combined spatial transcriptomics with clonal barcoding and disentangled migration patterns of clonally related cells in densely labeled tissue sections."
+These statements directly verify the use of 'Spatial Transcriptomics'. The mention of "single-cell transcriptomics" suggests the potential use of 'scRNA'.
+### Context ###
+The context confirms the use of both 'single-cell transcriptomics' and 'spatial transcriptomics'. The abstract emphasizes the combination of these technologies to achieve the study's objectives.
+### Conclusion ###
+Based on the explicit mentions and the context provided, we can confidently conclude that 'Spatial Transcriptomics' and 'scRNA' are the appropriate technologies used in the study.
+### Result ###
+['Spatial Transcriptomics', 'scRNA']

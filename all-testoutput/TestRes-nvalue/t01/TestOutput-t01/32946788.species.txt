@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the keywords that stand out are "hematopoietic stem cells (HSCs)," "embryonic aorta-gonad-mesonephros (AGM) region," "human," "endothelin," "hematopoiesis," and "single cell transcriptome." These keywords suggest that the study is focused on human embryonic development, particularly in the context of HSCs.
+###Verify###
+The abstract explicitly mentions "to identify secreted signals underlying human HSC development," which directly indicates that the species of interest is Homo sapiens. Additionally, the discussion of human-specific mechanisms and the use of human tissues for spatial transcriptomics and gene expression profiling further supports that Homo sapiens is the primary species being studied.
+###Context###
+Given the detailed focus on human HSC development and the specific mention of human tissues, there is no need for additional context to verify the species type.
+###Conclusion###
+Consequently, we confirm that 'Homo sapiens' is the appropriate species based on the provided abstract.
+###Result###
+['Homo sapiens']

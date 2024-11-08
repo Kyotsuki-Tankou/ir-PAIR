@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the key terms that align with the schema are "single cell RNA-seq."
+### Verify ###
+The abstract explicitly mentions "large scale single cell transcriptome analysis," which directly corresponds to "single cell RNA-seq" in the schema.
+### Conclusion ###
+The technology used in the study is clearly identified as "single cell RNA-seq."
+### Result ###
+["single cell RNA-seq"]

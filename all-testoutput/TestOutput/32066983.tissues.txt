@@ -1,0 +1,15 @@
+###Keywords
+From the abstract, we can extract the following keywords that could relate to the schema:
+- "suprachiasmatic nucleus (SCN)"
+- "mouse SCN"
+- "single-cell RNA-sequencing"
+- "circadian"
+- "gene expression patterns"
+###Verify
+The abstract states that the researchers have used single-cell RNA-sequencing to identify cell types in the mouse SCN and to characterize their circadian and light-induced gene expression patterns. This implies that the focus is on the SCN of a mouse, which is part of the hypothalamus.
+###Context
+The context provided in the abstract suggests that the research is focused on the SCN, which is a specific region within the brain. The schema includes "Brain" as a tissue, and the SCN is indeed a part of the brain.
+###Conclusion
+Based on the context and the verification, the tissue being studied in the input corresponds to the "Brain" in the schema.
+###Result
+['Brain']

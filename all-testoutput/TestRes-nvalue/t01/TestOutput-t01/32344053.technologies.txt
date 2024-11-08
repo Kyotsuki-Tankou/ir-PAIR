@@ -1,0 +1,18 @@
+###Keywords###
+- Atopic dermatitis
+- Single-cell RNA sequencing
+- Suction blistering
+- Olink proteomics
+###Verify###
+- The abstract mentions "single-cell RNA sequencing" directly.
+- "Olink proteomics" is also explicitly mentioned in the keywords and the context of proteomic analysis.
+- Technologies like "CITE-seq," "XYZeq," "CUT&Tag," etc., are not mentioned.
+###Context###
+- The study focuses on characterizing Atopic dermatitis using both transcriptomic and proteomic approaches.
+- The use of "single-cell RNA sequencing" is highlighted for transcriptomic analysis.
+- "Olink proteomics" is used for proteomic analysis, indicating a specific technology employed.
+###Conclusion###
+- The abstract clearly mentions "single-cell RNA sequencing" and "Olink proteomics" as the technologies used.
+- Other technologies listed in the schema are not mentioned or implied.
+###Result###
+["single-cell RNA sequencing", "Olink proteomics"]

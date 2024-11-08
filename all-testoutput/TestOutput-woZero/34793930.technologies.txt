@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, terms like "spatially resolved map of transcriptome-wide gene expression changes" and "sequencing 21760 tissue-covered features" suggest the use of advanced sequencing technologies. Specific technologies are not directly mentioned, but the context implies a spatial transcriptomics approach.
+### Verify ###
+- "spatially resolved map of transcriptome-wide gene expression changes" strongly suggests a technology related to spatial transcriptomics.
+- "sequencing 21760 tissue-covered features" further supports the use of a high-throughput sequencing technology.
+### Context ###
+- The study involves generating a spatially resolved transcriptome map, which is a hallmark of technologies like Spatial Transcriptomics.
+- The detailed analysis of gene expression changes at a high resolution implies a sophisticated sequencing method.
+### Conclusion ###
+Given the emphasis on spatial resolution and transcriptome-wide analysis, "Spatial Transcriptomics" is the most relevant technology mentioned in the context of the study.
+### Result ###
+['Spatial Transcriptomics']

@@ -1,0 +1,8 @@
+### Keywords ###
+The Keywords provided include "APEX-seq," "spatial transcriptomics," and "RNA sequencing." These terms strongly suggest that APEX-seq is a technology related to RNA sequencing and spatial transcriptomics, which is directly relevant to the schema provided.
+### Verify ###
+The Abstract explicitly states, "We introduce APEX-seq, a method for RNA sequencing based on direct proximity labeling of RNA using the peroxidase enzyme APEX2." This confirms that APEX-seq is the technology mentioned in the text.
+### Conclusion ###
+Given the explicit mention of APEX-seq in the Abstract and its direct relevance to the schema, there is no need for further context or inference. The technology used in the study is clearly identified as APEX-seq.
+### Result ###
+["APEX-seq"]

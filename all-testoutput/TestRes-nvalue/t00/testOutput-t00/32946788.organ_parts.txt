@@ -1,0 +1,23 @@
+### Keywords ###
+- AGM region
+- HSC (Hematopoietic stem cells)
+- Embryo
+- Endothelin
+- Hematopoiesis
+- Single cell transcriptome
+- Spatial transcriptome
+### Verify ###
+- **AGM region**: Mentioned in the text as "embryonic aorta-gonad-mesonephros (AGM) region".
+- **HSC (Hematopoietic stem cells)**: Mentioned as "Hematopoietic stem cells (HSCs)".
+- **Embryo**: Implied by the context of "embryonic aorta-gonad-mesonephros (AGM) region".
+- **Endothelin**: Mentioned as "endothelin 1".
+- **Hematopoiesis**: Implied by the context of "HSC development".
+- **Single cell transcriptome**: Mentioned as "single cells" in the context of gene expression profiling.
+- **Spatial transcriptome**: Mentioned as "spatial transcriptomics analysis".
+### Context ###
+- The text focuses on the development of hematopoietic stem cells (HSCs) in the embryonic AGM region.
+- It involves spatial transcriptomics and gene expression profiling to identify secreted signals, particularly endothelin 1, which regulate HSC development.
+### Conclusion ###
+- The keywords extracted are relevant and accurately reflect the main components and methodologies discussed in the text.
+### Result ###
+- ['Embryo', 'AGM region', 'HSC', 'Endothelin', 'Single cell transcriptome', 'Spatial transcriptome']

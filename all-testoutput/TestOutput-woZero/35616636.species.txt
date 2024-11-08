@@ -1,0 +1,8 @@
+###Keywords###
+From "mouse" in the Keywords section, it indicates that 'Mus musculus' may be a proper result.
+###Verify###
+From "To investigate skeletal regeneration, we made use of spatial transcriptomics to characterize the transcriptional profile specifically within the blastema. Using this technique, we generated a gene signature with high specificity for the blastema in both our spatial data, as well as other previously published single-cell RNA-sequencing transcriptomic studies." in the Abstract, we can further verify that the study was conducted using a mouse model, which corresponds to 'Mus musculus'.
+###Conclusion###
+Consequently, we choose 'Mus musculus' as our final result.
+###Result###
+['Mus musculus']

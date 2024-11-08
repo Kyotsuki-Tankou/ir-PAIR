@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "bone marrow mesenchymal lineage cells," "marrow cavity," and "marrow adipose tissue" suggest that the organ part involved is related to the bone marrow. The closest match in the schema would be "Bone."
+### Verify ###
+The abstract mentions "bone homeostasis," "marrow cavity," and "marrow adipose tissue," which all directly relate to the bone marrow. This provides strong evidence that "Bone" is the correct organ part.
+### Context ###
+Not required in this case as the verification directly supports the result without ambiguity.
+### Conclusion ###
+Given the clear and consistent references to bone marrow in the abstract, we can confidently conclude that "Bone" is the correct organ part to be extracted.
+### Result ###
+['Bone']

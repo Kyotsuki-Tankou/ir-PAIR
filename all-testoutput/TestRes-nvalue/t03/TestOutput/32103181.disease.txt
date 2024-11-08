@@ -1,0 +1,10 @@
+### Keywords ###
+The input abstract discusses the interaction of PD1 with its ligand PDL1, T cell clonotypes in cancer, and the response to anti-PDL1 therapy. Keywords related to the schema's diseases include "cancer," "T cells," and "anti-PDL1 therapy."
+### Verify ###
+The abstract mentions "patients with different types of cancer," indicating that the study involves various cancer types. The focus on T cell clonotypes and their response to therapy suggests a connection to the immune response in cancer, which is relevant to diseases like "Squamous carcinoma," "Prostate Cancer," and "Breast cancer."
+### Context ###
+The abstract provides context on the immune response within tumors and the surrounding tissue, as well as the peripheral blood. It suggests that the presence of certain T cell clonotypes is associated with a better response to anti-PDL1 therapy.
+### Conclusion ###
+Based on the context, the study is broadly related to cancer and its immune response. While specific cancer types are not detailed, the general theme of cancer and immune response aligns with several diseases listed in the schema.
+### Result ###
+['Squamous carcinoma', 'Prostate Cancer', 'Breast cancer']

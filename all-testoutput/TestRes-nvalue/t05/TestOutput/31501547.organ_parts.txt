@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, the terms "mouse brain" and "primary breast cancer" directly indicate the organ parts involved. These terms suggest that 'Mouse brain' and 'Breast Cancer' may be proper results.
+### Verify ###
+- From "mouse brain" in the Abstract, we can verify that 'Mouse brain' is indeed a proper result.
+- From "primary breast cancer" in the Abstract, we can verify that 'Breast Cancer' is also a proper result.
+### Context ###
+No additional context is needed as the terms "mouse brain" and "primary breast cancer" clearly specify the organ parts involved.
+### Conclusion ###
+Consequently, we confirm 'Mouse brain' and 'Breast Cancer' as our final results based on the clear and direct mentions in the Abstract.
+### Result ###
+['Mouse brain', 'Breast Cancer']

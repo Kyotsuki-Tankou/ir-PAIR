@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, "Stereo-seq" is explicitly mentioned, indicating that 'Stereo-Seq' may be a proper result.
+### Verify ###
+Since there is no abstract available, we rely solely on the Keywords provided. The presence of "Stereo-seq" in the Keywords directly suggests the use of this technology.
+### Context ###
+Without an abstract, there is no additional context to consider. The Keywords are the only source of information.
+### Conclusion ###
+Based on the explicit mention of "Stereo-seq" in the Keywords, we can confidently conclude that 'Stereo-Seq' is the technology used.
+### Result ###
+['Stereo-Seq']

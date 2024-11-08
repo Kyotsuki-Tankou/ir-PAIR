@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract and keywords, terms like "HSC," "hematopoiesis," and "single cell transcriptome" suggest that the study is focused on the development of hematopoietic stem cells (HSCs), which is a normal biological process. There is no direct mention of a specific disease.
+### Verify ###
+The abstract states that the study aims to "identify secreted signals underlying human HSC development" and that it involves "spatial transcriptomics analysis of dorsoventral polarized signaling in the aorta." This indicates that the research is focused on understanding the normal developmental processes of HSCs rather than studying a disease.
+### Conclusion ###
+Given that the study is centered around the normal development of HSCs and there is no mention of a disease state, we can conclude that the term 'Normal' from the schema is the most appropriate result.
+### Result ###
+['Normal']

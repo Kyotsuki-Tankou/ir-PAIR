@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "embryonic mouse brain", "gastrulation", "birth", "neuroepithelium", "neural progenitors", and "nervous system" are key. These terms suggest a focus on brain development in mice.
+###Verify###
+The abstract specifically mentions "a comprehensive single-cell transcriptomic atlas of the embryonic mouse brain between gastrulation and birth" and "developmental program for the functional elements of the brain". These phrases clearly indicate a focus on brain development.
+###Context###
+The terms "embryonic mouse brain", "gastrulation", and "birth" suggest a focus on early developmental stages. The schema includes terms like "Brain development", "Embryonic development", and "Embryo development" which are closely related.
+###Conclusion###
+Given the clear mention of "embryonic mouse brain" and the focus on developmental stages from gastrulation to birth, the most precise match in the schema is "Embryonic development".
+###Result###
+['Embryonic development']

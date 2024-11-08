@@ -1,0 +1,15 @@
+### Keywords ###
+From the Keywords, we have terms like "heart," "mouse," "regeneration," and "spatial transcriptomics." These terms suggest a focus on the heart, particularly in the context of regeneration in neonatal mice.
+### Verify ###
+In the Abstract, it is mentioned:
+- "The neonatal mammalian heart exhibits a remarkable regenerative potential"
+- "heart repair after apical resection in neonatal mice"
+- "distinct domains of atrial and ventricular myocardium"
+- "cardiac scar"
+These statements directly verify that the primary tissue of interest is the heart.
+### Context ###
+The Abstract provides a detailed context about the neonatal mammalian heart, its regenerative potential, and the specific analyses conducted on the heart tissue. This context strongly supports the conclusion that the heart is the central tissue of focus in this study.
+### Conclusion ###
+Based on the explicit mentions and detailed context provided in the Abstract, we can confidently conclude that the relevant tissue for this study is the heart.
+### Result ###
+['Heart']

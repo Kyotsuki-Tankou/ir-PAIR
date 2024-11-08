@@ -1,0 +1,26 @@
+### Keywords ###
+- AGM region
+- HSC (Hematopoietic stem cells)
+- Embryo
+- Endothelin
+- Hematopoiesis
+- Single cell transcriptome
+- Spatial transcriptome
+### Verify ###
+- **AGM region**: Mentioned in the text as the location where HSCs first emerge.
+- **HSC**: Central to the study, discussed extensively.
+- **Embryo**: Context of HSC emergence.
+- **Endothelin**: Identified as a key regulator in the study.
+- **Hematopoiesis**: Process being studied (development of HSCs).
+- **Single cell transcriptome**: Method used for analysis.
+- **Spatial transcriptome**: Another method used for analysis.
+### Context ###
+- The study focuses on the development of hematopoietic stem cells (HSCs) in the embryonic AGM region.
+- It involves analyzing signaling pathways and gene expression profiles.
+- Endothelin 1 is highlighted as a significant regulator.
+### Conclusion ###
+- The study is primarily about the development of HSCs in the embryonic context.
+- It does not directly mention any specific diseases from the schema.
+### Result ###
+- **null** 
+The extracted keywords do not directly correspond to any diseases listed in the schema, so the result is an empty list, represented as 'null'.

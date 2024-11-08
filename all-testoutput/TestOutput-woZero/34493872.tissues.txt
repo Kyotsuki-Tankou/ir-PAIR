@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the keyword "Breast cancers" is directly mentioned, indicating that 'Breast' may be a proper result.
+### Verify ###
+From the Abstract, "Here we present a single-cell and spatially resolved transcriptomics analysis of human breast cancers," we can further verify that 'Breast' is indeed the tissue studied.
+### Conclusion ###
+Consequently, we choose 'Breast' as our final result.
+### Result ###
+['Breast']

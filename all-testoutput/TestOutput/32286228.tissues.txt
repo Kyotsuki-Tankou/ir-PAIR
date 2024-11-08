@@ -1,0 +1,14 @@
+### Keywords ###
+From the Keywords "adipocyte; blood vessel; bone marrow mesenchymal stem cells; cell biology; mouse; osteoblast; single cell RNA-seq," we can infer a focus on the bone marrow and its cellular components, particularly those related to osteoblast and adipocyte differentiation.
+### Verify ###
+The Abstract mentions:
+- "Bone marrow mesenchymal lineage cells"
+- "progenitors and their in vivo bifurcated differentiation routes into osteoblasts and adipocytes"
+- "marrow adipogenic lineage precursors (MALPs)"
+These points verify that the study is centered around the bone marrow and its cells, specifically addressing the differentiation into osteoblasts and adipocytes.
+### Context ###
+The context provided in the Abstract discusses the bone marrow mesenchymal lineage cells, their differentiation into osteoblasts and adipocytes, and the identification of a new subpopulation called marrow adipogenic lineage precursors (MALPs). This directly correlates with the bone marrow's function and cellular composition.
+### Conclusion ###
+Based on the keywords and the context provided in the Abstract, the tissue type that matches the schema is 'Bone'.
+### Result ###
+['Bone']

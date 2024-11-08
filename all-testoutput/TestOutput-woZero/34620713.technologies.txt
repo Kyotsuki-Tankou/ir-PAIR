@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the key technologies mentioned are "single cell chromatin landscapes," "gene expression states," and "spatial transcriptomic profiling." This suggests the use of technologies related to single-cell analysis and spatial transcriptomics.
+### Verify ###
+The abstract explicitly mentions "spatial transcriptomic profiling," which directly matches one of the technologies in the schema. Additionally, the mention of "single cell chromatin landscapes" and "gene expression states" implies the use of technologies like scATAC-seq and RNA-seq.
+### Context ###
+The context of the study involves a multimodal -omics platform, indicating the integration of multiple technologies to study cell populations in complex tissue. The specific mention of "spatial transcriptomic profiling" and "single cell chromatin landscapes" provides strong evidence for the use of spatial transcriptomics and single-cell technologies.
+### Conclusion ###
+Based on the keywords, verification, and contextual clues, the technologies used in the study include 'Spatial Transcriptomics,' 'scATAC-seq,' and 'RNA-seq.'
+### Result ###
+['Spatial Transcriptomics', 'scATAC-seq', 'RNA-seq']

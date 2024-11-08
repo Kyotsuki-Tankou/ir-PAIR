@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "spatially resolved transcriptomic technologies," "Stereo-seq," and "spatial transcriptomics" directly correspond to technologies in the schema.
+### Verify ###
+The abstract explicitly mentions "Stereo-seq" as a technology developed and applied in the study. Additionally, "spatial transcriptomics" is a broader term that encompasses various technologies, including those listed in the schema.
+### Context ###
+The context of the study involves the development and application of Stereo-seq to create a spatiotemporal transcriptomic atlas, which aligns perfectly with the mentioned technology.
+### Conclusion ###
+Based on the clear mention and context, we can confirm that "Stereo-seq" is the technology used in the study.
+### Result ###
+["Stereo-seq"]

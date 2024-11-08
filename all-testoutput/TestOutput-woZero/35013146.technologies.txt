@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, the term "single-cell RNA-sequencing" is explicitly mentioned, indicating that 'scRNA' or 'RNA-seq' may be relevant results.
+### Verify ###
+The abstract states:
+- "To characterize the prostate cancer tumor microenvironment, we perform single-cell RNA-sequencing on prostate biopsies, prostatectomy specimens, and patient-derived organoids from localized prostate cancer patients."
+This statement clearly verifies the use of 'single-cell RNA-sequencing', which corresponds to 'scRNA' in the schema.
+### Context ###
+Since the keywords and the abstract both strongly indicate the use of 'single-cell RNA-sequencing', there is no need for additional context to confirm the result.
+### Conclusion ###
+Consequently, we confirm 'scRNA' as the final result based on the explicit mentions and detailed descriptions in the abstract.
+### Result ###
+['scRNA']

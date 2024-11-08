@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the focus is on "development of the chicken heart" and "congenital heart disease," suggesting 'Heart development' as a potential keyword.
+### Verify ###
+The Abstract explicitly mentions studying the development of the chicken heart, which directly aligns with 'Heart development' from the schema. Additionally, the mention of congenital heart disease further supports this alignment.
+### Context ###
+The context provided in the Abstract is clear and directly related to heart development. There is no conflicting information that would require additional context to clarify.
+### Conclusion ###
+Given the clear alignment of the described study focus with 'Heart development' and the absence of any conflicting information, it is reasonable to conclude that 'Heart development' is the appropriate disease identified in the input.
+### Result ###
+['Heart development']

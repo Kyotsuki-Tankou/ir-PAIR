@@ -1,0 +1,8 @@
+### Keywords ###
+The term "mouse brain" in the abstract suggests that 'Mus musculus' may be a proper result.
+### Verify ###
+The abstract specifically mentions "mouse brain," which directly verifies the presence of 'Mus musculus' in the context of the study.
+### Conclusion ###
+Based on the explicit reference to "mouse brain" in the abstract, we confirm 'Mus musculus' as the appropriate result.
+### Result ###
+['Mus musculus']

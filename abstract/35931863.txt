@@ -1,0 +1,6 @@
+["Homo sapiens", "Mus musculus"]
+["Overian"]
+null
+["10x Visium"]
+["Overian cancer"]
+ Abstract\nTranscriptional heterogeneity among malignant cells of a tumor has been studied in individual cancer types and shown to be organized into cancer cell states; however, it remains unclear to what extent these states span tumor types, constituting general features of cancer. Here, we perform a pan-cancer single-cell RNA-sequencing analysis across 15 cancer types and identify a catalog of gene modules whose expression defines recurrent cancer cell states including 'stress', 'interferon response', 'epithelial-mesenchymal transition', 'metal response', 'basal' and 'ciliated'. Spatial transcriptomic analysis linked the interferon response in cancer cells to T cells and macrophages in the tumor microenvironment. Using mouse models, we further found that induction of the interferon response module varies by tumor location and is diminished upon elimination of lymphocytes. Our work provides a framework for studying how cancer cell states interact with the tumor microenvironment to form organized systems capable of immune evasion, drug resistance and metastasis.

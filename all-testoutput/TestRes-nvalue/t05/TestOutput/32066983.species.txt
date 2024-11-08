@@ -1,0 +1,8 @@
+### Keywords ###
+The abstract mentions "mouse SCN," which stands for "suprachiasmatic nucleus," indicating that 'Mus musculus' is the species being studied.
+### Verify ###
+The abstract states, "We have used single-cell RNA-sequencing to identify the basic cell types in the mouse SCN," which directly verifies the use of 'Mus musculus' as the species.
+### Conclusion ###
+Since the term 'Mus musculus' is both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that 'Mus musculus' is the appropriate species used.
+### Result ###
+['Mus musculus']

@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, keywords like "single-cell and spatial reference maps," "endometrial organoid cultures," and "cellular maps" suggest the use of advanced sequencing and mapping technologies. Specific technologies are not directly mentioned, but the context implies sophisticated methods for single-cell and spatial analysis.
+###Verify###
+The phrases "single-cell and spatial reference maps" and "cellular maps" strongly suggest the use of technologies capable of high-resolution spatial and single-cell analysis. Technologies like 'scRNA-seq' (single-cell RNA sequencing) and 'Spatial Transcriptomics' are commonly used for such purposes.
+###Context###
+The abstract mentions "dense single-cell and spatial reference maps," which typically require technologies that can capture both single-cell resolution and spatial information. 'scRNA-seq' is a standard method for single-cell analysis, while 'Spatial Transcriptomics' is used for spatially resolved gene expression data. The mention of "three-dimensional endometrial organoid cultures" further supports the use of advanced spatial and single-cell technologies.
+###Conclusion###
+Given the context of "single-cell and spatial reference maps" and the need for high-resolution data, it is reasonable to conclude that technologies like 'scRNA-seq' and 'Spatial Transcriptomics' were likely used in this study.
+###Result###
+['scRNA-seq', 'Spatial Transcriptomics']

@@ -1,0 +1,9 @@
+### Keywords ###
+From the abstract, the terms "spatial transcriptomics" and "single-cell profiling" are directly mentioned in the context of technologies used.
+### Verify ###
+- "using spatial transcriptomics" directly matches the technology "Spatial Transcriptomics."
+- "single-cell profiling" is a broader term that could encompass several single-cell technologies, but the specific mention of "Spatial Transcriptomics" makes it the primary technology to verify.
+### Conclusion ###
+Given the explicit mention of "spatial transcriptomics," we can confidently conclude that "Spatial Transcriptomics" is the technology used in the study.
+### Result ###
+['Spatial Transcriptomics']

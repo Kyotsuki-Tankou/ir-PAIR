@@ -1,0 +1,13 @@
+###Keywords###
+From the abstract, the term "population-based cohort" and "heart transplantation" suggests human subjects are involved. This points towards 'Homo sapiens' as a potential species.
+###Verify###
+The abstract states:
+- "Here we report application of aptamer-based proteomics to identify proteins associated with prospective HF incidence in a population-based cohort..."
+- "By leveraging coronary sinus samples and transcriptomic tools, we describe likely cardiac and specific cellular origins for several of the proteins..."
+These statements imply human subjects are used in the study, as population-based cohorts and heart transplantation are typically associated with human research.
+###Context###
+The mention of "population-based cohort" and "heart transplantation" are strong indicators of human involvement. Additionally, the use of coronary sinus samples, which are specific to humans, further supports this.
+###Conclusion###
+Given the clear indicators of human subjects in the study, we can confidently conclude that 'Homo sapiens' is the appropriate species to be extracted according to the schema.
+###Result###
+['Homo sapiens']

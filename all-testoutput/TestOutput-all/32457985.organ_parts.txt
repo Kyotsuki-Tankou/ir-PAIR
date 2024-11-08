@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the relevant keywords that correspond to the schema are "Mouse Embryo" and "Embryo."
+### Verify ###
+The abstract mentions "we performed genome-wide RNA tomography sequencing on zebrafish, chicken, mouse, and human embryos." This directly verifies the inclusion of "Mouse Embryo" and "Embryo" as organ parts studied in the research.
+### Conclusion ###
+Since the abstract explicitly mentions "mouse embryos" and "human embryos," we can confidently conclude that "Mouse Embryo" and "Embryo" are the appropriate results.
+### Result ###
+['Mouse Embryo', 'Embryo']

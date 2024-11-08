@@ -1,0 +1,11 @@
+### Keywords ###
+From the abstract, the terms "single-cell RNA sequencing" and "spatial transcriptomics" indicate that 'scRNA' and 'Spatial Transcriptomics' may be proper results.
+### Verify ###
+1. **single-cell RNA sequencing**: The abstract mentions "Organoids were assessed by phenotype and single-cell RNA sequencing," which verifies that 'scRNA' is indeed a technology used in the study.
+2. **spatial transcriptomics**: The abstract also mentions "Wnt and DKK3 were also reduced by vitamin D in prostate tissue explants by spatial transcriptomics," which verifies that 'Spatial Transcriptomics' is also a technology used in the study.
+### Context ###
+Not required in this case as the verification directly supports the results without ambiguity.
+### Conclusion ###
+Consequently, we confirm 'scRNA' and 'Spatial Transcriptomics' as our final results.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

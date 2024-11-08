@@ -1,0 +1,10 @@
+###Keywords
+From the keywords "amyloid plaque" and "Alzheimer’s disease," we can deduce that the study is focused on a disease associated with the brain, which suggests 'Brain' may be a proper result.
+###Verify
+The abstract states, "We investigate here, in an AD mouse model, the transcriptional changes occurring in tissue domains in a 100-μm diameter around amyloid plaques using spatial transcriptomics." This confirms that the study is specifically looking at changes around amyloid plaques, which are associated with the brain.
+###Context
+The context provided does not require further elaboration as it is clear that the study is focused on the brain tissue around amyloid plaques.
+###Conclusion
+Consequently, we choose 'Brain' as our final result.
+###Result
+['Brain']

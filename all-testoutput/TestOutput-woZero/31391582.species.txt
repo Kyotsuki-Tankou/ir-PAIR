@@ -1,0 +1,12 @@
+### Keywords ###
+From the Abstract, the keyword "mouse embryo" suggests that 'Mus musculus' is relevant.
+### Verify ###
+- The phrase "post-implantation development of the mouse embryo" directly indicates the species 'Mus musculus'.
+- There are no other species mentioned in the Abstract.
+### Context ###
+- The study focuses on "the mouse embryo," which clearly points to 'Mus musculus'.
+- The context of embryonic development and lineage analysis further supports the focus on mice.
+### Conclusion ###
+Given the direct mention of "mouse embryo" and the absence of any other species, it is clear that 'Mus musculus' is the relevant species.
+### Result ###
+['Mus musculus']

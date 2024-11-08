@@ -1,0 +1,14 @@
+### Keywords ###
+The abstract mentions "cardiac morphogenesis," "embryonic heart," "single-cell spatial resolution," "transcriptional landscape," and "specific anatomical domains." These keywords suggest that the study involves the development of the heart, particularly at the embryonic stage, and the use of spatial transcriptomics to analyze gene expression.
+### Verify ###
+The abstract states:
+- "The process of cardiac morphogenesis in humans is incompletely understood."
+- "We present a molecular approach that reveals the comprehensive transcriptional landscape of cell types populating the embryonic heart at three developmental stages."
+- "Spatial transcriptomics identified unique gene profiles that correspond to distinct anatomical regions in each developmental stage."
+These points verify that the study is focused on the development of the heart, specifically in humans, and uses spatial transcriptomics to analyze the gene expression across different developmental stages.
+### Context ###
+The context is clear, as the abstract provides a comprehensive description of the study's focus on the human embryonic heart and the use of spatial transcriptomics for gene expression analysis.
+### Conclusion ###
+Based on the explicit mention of the human embryonic heart and the use of spatial transcriptomics, the tissue most closely aligned with the study's focus is 'Heart'.
+### Result ###
+['Heart']

@@ -1,0 +1,14 @@
+###Keywords###
+From the abstract, the term "subcellular locales" suggests a focus on specific compartments within cells. The terms "nuclear transcriptome" and "mitochondria" are also mentioned, indicating specific subcellular structures. However, none of these directly match the items in the schema. The abstract primarily discusses the method "APEX-seq" and its application rather than focusing on a specific tissue.
+###Verify###
+- "APEX-seq in nine distinct subcellular locales" indicates a focus on subcellular structures rather than whole tissues.
+- "nuclear transcriptome" and "mitochondria" are specific subcellular components, not whole tissues.
+- The abstract does not mention any specific tissue types from the schema directly.
+###Context###
+- The abstract is centered around the methodology of APEX-seq and its ability to map the spatial transcriptome at a subcellular level.
+- The mention of "human transcriptome" suggests the study is conducted in human cells, but it does not specify which tissue these cells are derived from.
+- The focus on "subcellular locales" and specific organelles like the nucleus and mitochondria further indicates that the study is not tissue-specific but rather subcellular-specific.
+###Conclusion###
+Given the lack of specific mention of any tissue types from the schema and the focus on subcellular structures, it is not possible to confidently identify any tissue from the provided schema that is directly relevant to the study described in the abstract.
+###Result###
+null

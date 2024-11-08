@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "XYZeq" is explicitly mentioned as a developed workflow. Additionally, "single-cell RNA sequencing (scRNA-seq)" is also highlighted.
+### Verify ###
+The abstract clearly states the development and use of "XYZeq" for profiling mouse tumor models and capturing spatially barcoded transcriptomes. This directly matches the term "XYZeq" in the schema.
+### Context ###
+The context of the study involves encoding spatial metadata into scRNA-seq libraries using XYZeq, which aligns with the description of the technology in the schema. There is no ambiguity or need for further context as the term is explicitly used.
+### Conclusion ###
+Based on the direct mention and context, "XYZeq" is the appropriate technology to be extracted.
+### Result ###
+["XYZeq"]

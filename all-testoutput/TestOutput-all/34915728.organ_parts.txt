@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, the relevant organ parts mentioned include "left ventricles (LVs)" and "LV compact myocardium." These terms suggest potential matches with 'Left ventricular needle (LV)' and 'Myocardium' from the schema.
+### Verify ###
+1. **Left ventricles (LVs)**: The phrase "left ventricles (LVs)" directly corresponds to 'Left ventricular needle (LV)' in the schema.
+2. **LV compact myocardium**: The term "LV compact myocardium" directly corresponds to 'Myocardium' in the schema.
+### Context ###
+The context of the study involves specific analyses of the left ventricles and the myocardium, particularly focusing on the compact myocardium. This context supports the relevance of both 'Left ventricular needle (LV)' and 'Myocardium'.
+### Conclusion ###
+Based on the direct mentions and the contextual support, we confirm that both 'Left ventricular needle (LV)' and 'Myocardium' are appropriate matches.
+### Result ###
+['Left ventricular needle (LV)', 'Myocardium']

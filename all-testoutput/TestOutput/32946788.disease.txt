@@ -1,0 +1,10 @@
+### Keywords ###
+The keywords "embryo" and "hematopoietic stem cells (HSCs)" suggest a focus on the development of HSCs, which are typically found in the early stages of embryonic development. The mention of "aorta-gonad-mesonephros (AGM) region" and "ventral domain of the dorsal aorta" further indicates that the study is related to the embryonic origin of HSCs.
+### Verify ###
+The abstract explicitly states, "Hematopoietic stem cells (HSCs) first emerge in the embryonic aorta-gonad-mesonephros (AGM) region." This directly verifies that the tissue being studied is part of the embryonic development process.
+### Context ###
+The context provided in the abstract does not require additional information to confirm the result. It is clear that the research focuses on HSC development in the embryonic stage.
+### Conclusion ###
+Based on the keywords, the verification, and the context provided, we can conclude that the tissue being studied is the 'Embryo'.
+### Result ###
+['Embryo']

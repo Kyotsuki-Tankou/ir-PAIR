@@ -1,0 +1,12 @@
+###Keywords###
+From the abstract, the terms "mouse and human kidneys" and "mouse model" are explicitly mentioned, indicating that the species involved are likely 'Mus musculus' (mouse) and 'Homo sapiens' (human).
+###Verify###
+The abstract states:
+- "We applied Slide-seqV2 to mouse and human kidneys"
+- "in a mouse model of diabetic kidney disease"
+- "in a mouse model of a toxic proteinopathy"
+These statements directly verify the use of both 'Mus musculus' and 'Homo sapiens' in the study.
+###Conclusion###
+Since the terms 'mouse' and 'human' are both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that 'Mus musculus' and 'Homo sapiens' are the appropriate species used.
+###Result###
+['Mus musculus', 'Homo sapiens']

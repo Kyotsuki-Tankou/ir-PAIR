@@ -1,0 +1,14 @@
+### Keywords ###
+From the Abstract, the terms "colorectal cancer (CRC)" and "liver metastases" suggest a focus on human-related research. The mention of "patients" and "therapeutic options" further implies that the study involves human subjects.
+### Verify ###
+The Abstract states:
+- "Metastasis is the primary cause of cancer-related mortality in colorectal cancer (CRC) patients."
+- "the complexity and diversity of stromal context of the tumor microenvironment (TME) in liver metastases of CRC have not been fully understood."
+- "Here we performed an in-depth analysis of the transcriptional landscape of primary CRC, matched liver metastases and blood at single-cell resolution..."
+These statements clearly indicate that the study is conducted on human subjects, specifically focusing on colorectal cancer and liver metastases in humans.
+### Context ###
+Since the Abstract consistently refers to human patients and human-specific conditions (CRC and liver metastases), there is no need for additional context to verify the species.
+### Conclusion ###
+Based on the clear and consistent information provided in the Abstract, we can confidently conclude that the species involved in the study is 'Homo sapiens'.
+### Result ###
+['Homo sapiens']

@@ -1,0 +1,6 @@
+["Sus scrofa"]
+["Muscle"]
+["Representative psoas major muscle"]
+["10x Visium"]
+["Normal atlas"]
+ Abstract\nA comprehensive transcriptomic survey of pigs can provide a mechanistic understanding of tissue specialization processes underlying economically valuable traits and accelerate their use as a biomedical model. Here we characterize four transcript types (lncRNAs, TUCPs, miRNAs, and circRNAs) and protein-coding genes in 31 adult pig tissues and two cell lines. We uncover the transcriptomic variability among 47 skeletal muscles, and six adipose depots linked to their different origins, metabolism, cell composition, physical activity, and mitochondrial pathways. We perform comparative analysis of the transcriptomes of seven tissues from pigs and nine other vertebrates to reveal that evolutionary divergence in transcription potentially contributes to lineage-specific biology. Long-range promoter-enhancer interaction analysis in subcutaneous adipose tissues across species suggests evolutionarily stable transcription patterns likely attributable to redundant enhancers buffering gene expression patterns against perturbations, thereby conferring robustness during speciation. This study can facilitate adoption of the pig as a biomedical model for human biology and disease and uncovers the molecular bases of valuable traits.

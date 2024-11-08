@@ -1,0 +1,25 @@
+### Keywords ###
+- AGM region
+- HSC (Hematopoietic stem cells)
+- embryo
+- endothelin
+- hematopoiesis
+- single cell transcriptome
+- spatial transcriptome
+### Verify ###
+- **AGM region**: Mentioned in the input.
+- **HSC (Hematopoietic stem cells)**: Mentioned in the input.
+- **embryo**: Mentioned in the context of "embryonic aorta-gonad-mesonephros (AGM) region".
+- **endothelin**: Identified as a key regulator in the input.
+- **hematopoiesis**: Implied through the discussion of HSC development.
+- **single cell transcriptome**: Mentioned in the methodology.
+- **spatial transcriptome**: Mentioned in the methodology.
+### Context ###
+- The study focuses on human HSC development.
+- Model organisms are referenced for comparative purposes.
+- Specific techniques like spatial transcriptomics and gene expression profiling are used.
+### Conclusion ###
+- The keywords accurately reflect the main themes and methods discussed in the input.
+### Result ###
+- ['Homo sapiens'] (since the study primarily focuses on human HSC development)
+The extracted item corresponding to the schema is 'Homo sapiens' as it is the species under study in the context provided. Other species mentioned in the keywords are not directly studied but used as references for model organisms.

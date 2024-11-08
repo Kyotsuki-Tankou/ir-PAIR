@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "all major human organs" and "human cell landscape (HCL)" suggest a broad analysis of various organ parts. Specific terms like "human organs" and "human cell" indicate a comprehensive study covering multiple organ parts.
+### Verify ###
+The abstract states, "we use single-cell mRNA sequencing to determine the cell-type composition of all major human organs and construct a scheme for the human cell landscape (HCL)." This verifies that the study involves a wide range of human organ parts.
+### Context ###
+Given the comprehensive nature of the study, which aims to create a single-cell atlas for all major human organs, it is reasonable to infer that multiple organ parts are involved. However, the abstract does not specify which particular organ parts are studied.
+### Conclusion ###
+Since the abstract mentions "all major human organs" without specifying individual organ parts, we cannot pinpoint exact matches from the schema. Therefore, we conclude that the abstract does not provide specific enough information to extract individual organ parts.
+### Result ###
+null

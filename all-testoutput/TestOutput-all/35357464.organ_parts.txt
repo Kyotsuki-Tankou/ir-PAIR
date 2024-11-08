@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, we have "decidua", "microenvironment", "postimplantation", "scRNA-Seq", "spatial transcriptomics", and "uterus". These terms suggest a focus on specific tissues or organs related to the uterine environment and embryo implantation.
+### Verify ###
+In the Abstract, we see mentions of "embryo implantation site of the mouse uterus", "mesometrial myometrium", "anti-mesometrial myometrium", "mesometrial decidua", "vascular sinus zone", "fetal-maternal interface", "primary decidual zone", "transition decidual zone", "secondary decidual zone", "undifferentiated stroma", and "uterine glands". These phrases indicate a focus on various regions and tissues within the uterus, particularly around the embryo implantation site.
+### Context ###
+Given the specific mention of "embryo implantation site" and related uterine tissues, we need to determine if these terms directly correspond to any items in the provided schema. The schema includes terms like "Embryo implantation site", "Uterus", and "Decidua", which are directly related to the context described in the Abstract.
+### Conclusion ###
+The terms from the Keywords and the Abstract directly match specific items in the provided schema list. The most relevant terms are "Embryo implantation site", "Uterus", and "Decidua".
+### Result ###
+['Embryo implantation site', 'Uterus', 'Decidua']

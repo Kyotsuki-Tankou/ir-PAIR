@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the term "bladder cancer" is explicitly mentioned, indicating that 'Bladder cancer' may be a proper result.
+###Verify###
+The abstract focuses on "human bladder cancer" and discusses various aspects such as "Neoadjuvant chemotherapy (NAC) prior to surgery and immune checkpoint therapy (ICT) in bladder cancer management," which further verifies that 'Bladder cancer' is indeed a relevant and proper result.
+###Context###
+Not required in this case as the keywords and the abstract content directly align with the schema.
+###Conclusion###
+Consequently, we confirm 'Bladder cancer' as our final result based on the clear and consistent information provided in both the keywords and the abstract.
+###Result###
+['Bladder cancer']

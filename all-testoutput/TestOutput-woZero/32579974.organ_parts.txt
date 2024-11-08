@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, the terms "cutaneous squamous cell carcinoma (cSCC)" and "normal skin" directly indicate the organ parts involved. These terms suggest that 'Squamous Cell Carcinoma' and 'Skin' may be proper results.
+### Verify ###
+- From "cutaneous squamous cell carcinoma (cSCC)" in the Abstract, we can verify that 'Squamous Cell Carcinoma' is indeed a proper result.
+- From "matched normal skin" in the Abstract, we can verify that 'Skin' is also a proper result.
+### Context ###
+No additional context is needed as the terms "cutaneous squamous cell carcinoma (cSCC)" and "normal skin" clearly specify the organ parts involved.
+### Conclusion ###
+Consequently, we confirm 'Squamous Cell Carcinoma' and 'Skin' as our final results based on the clear and direct mentions in the Abstract.
+### Result ###
+['Squamous Cell Carcinoma', 'Skin']

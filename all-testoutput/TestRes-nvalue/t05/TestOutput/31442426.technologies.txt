@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "APEX-seq" is mentioned as a developed RNA proximity labeling technique, indicating that 'APEX-seq' may be a proper result.
+### Verify ###
+The abstract states, "We therefore developed an RNA proximity labeling technique, APEX-seq," which directly references the technology APEX-seq. This further verifies that 'APEX-seq' is indeed a relevant and proper result.
+### Conclusion ###
+Given the clear and direct mention of "APEX-seq" in both the abstract and the result, we can confidently conclude that the technology developed and used in the study is 'APEX-seq'.
+### Result ###
+['APEX-seq']

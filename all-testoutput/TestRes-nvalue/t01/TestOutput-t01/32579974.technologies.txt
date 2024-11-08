@@ -1,0 +1,11 @@
+### Keywords ###
+From the abstract, the terms "single-cell RNA sequencing" and "spatial transcriptomics" are explicitly mentioned. These terms suggest the use of 'scRNA' and 'Spatial Transcriptomics' technologies.
+### Verify ###
+- The abstract states, "we combined single-cell RNA sequencing with spatial transcriptomics," which directly verifies the use of 'scRNA' and 'Spatial Transcriptomics'.
+- Additionally, the keywords section includes "scRNA-seq" and "spatial transcriptomics," further confirming these technologies.
+### Context ###
+Since the verification step directly confirms the presence of 'scRNA' and 'Spatial Transcriptomics' in the abstract, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Consequently, we choose 'scRNA' and 'Spatial Transcriptomics' as our final results.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

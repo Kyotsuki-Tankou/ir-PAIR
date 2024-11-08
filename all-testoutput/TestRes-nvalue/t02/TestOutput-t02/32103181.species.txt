@@ -1,0 +1,10 @@
+### Keywords ###
+From the context of "patients with different types of cancer" and "humans" being the typical subjects for such clinical studies, it indicates that 'Homo sapiens' may be the proper result.
+### Verify ###
+From "performing deep single-cell sequencing of RNA and T cell receptors in patients with different types of cancer" in the Abstract, we can further verify that 'Homo sapiens' is indeed the species studied, as patients typically refer to human subjects in clinical research.
+### Context ###
+Not required in this case as the verification directly supports the result without ambiguity.
+### Conclusion ###
+Consequently, we confirm 'Homo sapiens' as our final result.
+### Result ###
+['Homo sapiens']

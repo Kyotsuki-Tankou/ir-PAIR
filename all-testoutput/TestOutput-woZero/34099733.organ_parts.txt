@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, key terms related to organ parts include "embryo," "one-cell stage embryo," "extraembryonic position," "vegetal pole," and "gastrulation."
+### Verify ###
+- "Early stages of embryogenesis" and "one-cell stage embryo" suggest the study focuses on early developmental stages.
+- "extraembryonic position, the vegetal pole" indicates a specific region within the embryo.
+- "gastrulation" is a critical stage in embryonic development.
+### Context ###
+The study is centered around early embryonic development, particularly focusing on the one-cell stage embryo and the vegetal pole, which is an extraembryonic region. Gastrulation is also mentioned as a significant developmental stage being studied.
+### Conclusion ###
+Given the focus on early embryonic stages, the specific mention of the vegetal pole, and the context of gastrulation, the most relevant organ parts from the schema are "Embryo" and "Gastrulation."
+### Result ###
+["Embryo", "Gastrulation"]

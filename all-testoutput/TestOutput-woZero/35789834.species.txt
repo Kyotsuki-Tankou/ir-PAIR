@@ -1,0 +1,10 @@
+###Keywords###
+From the Keywords, we have terms like "Cancer," "Cancer systems biology," and "Transcriptomics." These terms suggest a focus on cancer research and molecular biology but do not directly indicate a specific species.
+###Verify###
+The Abstract mentions "prostate tumors from 7 patients" and "Neuroendocrine prostate cancer (NEPC)," which strongly suggests that the study is focused on humans. The context of "patients" and "prostate cancer" typically implies 'Homo sapiens.'
+###Context###
+Given the Abstract's clear focus on "prostate tumors from 7 patients" and the study of NEPC in humans, it is reasonable to infer that the study's primary species of interest is 'Homo sapiens.' The Keywords, while detailed about the research area, do not directly list "human," but the context from the Abstract provides the necessary linkage.
+###Conclusion###
+Based on the context provided by the Abstract, we can conclude that the primary species relevant to this study is 'Homo sapiens,' despite the absence of direct mention in the Keywords.
+###Result###
+['Homo sapiens']

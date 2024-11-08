@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "all major human organs" and constructing a "human cell landscape (HCL)," which suggests that various human tissues are involved in the study.
+### Verify ###
+The abstract explicitly states the use of single-cell mRNA sequencing to determine the cell-type composition of all major human organs. This verifies that multiple human tissues are indeed part of the research.
+### Context ###
+While the abstract does not list specific tissues, the context implies a comprehensive analysis of various human organs, which aligns with the schema's inclusion of various human tissues.
+### Conclusion ###
+Based on the abstract's indication of a comprehensive single-cell analysis of major human organs, we can conclude that multiple tissues from the schema are likely involved.
+### Result ###
+null

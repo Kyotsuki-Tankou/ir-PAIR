@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "fibroblast" and the context of pulmonary fibrosis suggest a focus on mammalian biology. The species "Mus musculus" (mouse) is commonly used in such studies due to its biological relevance and model organism status.
+### Verify ###
+The abstract does not explicitly mention the species used in the study. However, the use of common research techniques like CRISPR/Cas9 and the context of pulmonary fibrosis research typically involve mammalian models, particularly mice.
+### Context ###
+Given the absence of explicit species mention, we need to consider the typical models used in pulmonary fibrosis research. Mice (Mus musculus) are frequently used due to their genetic similarity to humans and well-established research protocols.
+### Conclusion ###
+Based on the context of the study and the common use of mice in pulmonary fibrosis research, it is reasonable to infer that "Mus musculus" is the species used, despite it not being explicitly mentioned.
+### Result ###
+["Mus musculus"]

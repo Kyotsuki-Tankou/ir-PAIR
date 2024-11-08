@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "stress granules" and "subcellular localization" are prominently mentioned. This suggests that 'Stress granules' may be a relevant result.
+### Verify ###
+The abstract specifically states:
+- "Transcripts in these complexes localize to specific regions of the cell and can condense into non-membrane-bound structures such as stress granules."
+This directly verifies the presence of 'Stress granules' in the context of the study.
+### Context ###
+Given the direct mention of stress granules and the focus on their RNA composition and spatial organization, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm 'Stress granules' as the appropriate result based on the explicit references in the abstract.
+### Result ###
+['Stress granules']

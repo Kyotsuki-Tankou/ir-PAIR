@@ -1,0 +1,10 @@
+### Keywords ###
+The keywords that stand out from the abstract are "gastruloids," "mouse gastruloids," "mouse embryos," "single-cell RNA sequencing," and "spatial transcriptomics." These terms suggest that 'Gastrula' and possibly 'Embryo' may be relevant results based on the schema provided.
+### Verify ###
+The abstract explicitly mentions "mouse gastruloids" and "mouse embryos," indicating a direct comparison between these two. It also refers to the use of "single-cell RNA sequencing" and "spatial transcriptomics," which aligns with the schema's technologies.
+### Context ###
+The abstract provides context by discussing the development of gastruloids, their comparison with mouse embryos, and the methodologies used, which all fit within the scope of the schema.
+### Conclusion ###
+Considering the explicit mention of gastruloids and embryos in the context of the study, and the methodologies used that align with the schema, we can conclude that both 'Gastrula' and 'Embryo' are relevant results.
+### Result ###
+['Gastrula', 'Embryo']

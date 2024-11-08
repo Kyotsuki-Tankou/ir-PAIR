@@ -1,0 +1,26 @@
+### Keywords ###
+From the input, the term "spatially resolved transcriptomics" is explicitly mentioned, indicating that 'Spatial Transcriptomics' may be a relevant technology. Additionally, the context involves a "zebrafish model of melanoma" and "human patient samples," suggesting the study focuses on tumor and microenvironment interactions.
+### Verify ###
+The abstract states:
+- "Here, we integrate spatially resolved transcriptomics, single-cell RNA-seq, and single-nucleus RNA-seq to characterize tumor-microenvironment interactions at the tumor boundary."
+- "Our results demonstrate the power of spatially resolved transcriptomics in uncovering mechanisms that allow tumors to adapt to new environments."
+These statements clearly verify the use of 'Spatial Transcriptomics' technology in the study.
+### Context ###
+Since the keywords and the abstract both strongly indicate the use of 'Spatial Transcriptomics', there is no need for additional context to confirm the result.
+### Conclusion ###
+Consequently, we confirm 'Spatial Transcriptomics' as the final result based on the explicit mentions and detailed descriptions in the abstract.
+### Result ###
+['Spatial Transcriptomics']
+### Keywords ###
+From the input, the terms "tumor," "melanoma," and "human patient samples" suggest that 'Tumor' and possibly 'Skin' (since melanoma is a skin cancer) may be relevant tissues.
+### Verify ###
+The abstract states:
+- "Using a zebrafish model of melanoma, we identify a distinct 'interface' cell state where the tumor contacts neighboring tissues."
+- "A cilia-enriched interface is conserved in human patient samples, suggesting it is a conserved feature of human melanoma."
+These statements verify the involvement of 'Tumor' tissue and suggest 'Skin' due to the context of melanoma.
+### Context ###
+Melanoma is specifically a type of skin cancer, which adds additional context to include 'Skin' as a relevant tissue.
+### Conclusion ###
+Based on the explicit mentions and the context of melanoma, we confirm 'Tumor' and 'Skin' as the relevant tissues.
+### Result ###
+['Tumor', 'Skin']

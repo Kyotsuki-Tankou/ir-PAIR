@@ -1,0 +1,13 @@
+###Keywords###
+From the input, the terms "31 adult pig tissues," "47 skeletal muscles," "six adipose depots," and "seven tissues from pigs" indicate the tissues involved. These terms suggest that various tissues such as 'Muscle', 'Adipose', 'Skin', and others may be proper results.
+###Verify###
+- From "31 adult pig tissues" in the Abstract, we can verify that multiple tissues are involved, but specific tissues are not directly listed.
+- From "47 skeletal muscles" in the Abstract, we can verify that 'Muscle' is indeed a proper result.
+- From "six adipose depots" in the Abstract, we can verify that 'Adipose' is also a proper result.
+- From "seven tissues from pigs" in the Abstract, we can infer that various tissues are studied, but specific names are not provided.
+###Context###
+To ensure accuracy, we need to consider the broader context of typical pig tissues that might be included in such a comprehensive study. Common pig tissues studied in biomedical research include 'Skin', 'Brain', 'Liver', 'Kidney', 'Heart', 'Lung', and 'Intestine'.
+###Conclusion###
+Based on the context and the specific mentions of 'skeletal muscles' and 'adipose depots', we can confirm 'Muscle' and 'Adipose' as our primary results. Additionally, considering the comprehensive nature of the study, we can infer other common pig tissues like 'Skin', 'Brain', 'Liver', 'Kidney', 'Heart', 'Lung', and 'Intestine'.
+###Result###
+['Muscle', 'Adipose', 'Skin', 'Brain', 'Liver', 'Kidney', 'Heart', 'Lung', 'Intestine']

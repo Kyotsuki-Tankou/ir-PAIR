@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the key terms related to organ parts are "mouse hippocampus" and "prefrontal cortex." These terms directly indicate specific regions of the brain.
+###Verify###
+The abstract explicitly mentions "mouse hippocampus" and "prefrontal cortex" as the brain regions studied. These terms are directly relevant to the schema provided.
+###Context###
+The context of the study is focused on the brain, specifically the hippocampus and prefrontal cortex. There are no other organ parts mentioned in the abstract.
+###Conclusion###
+Given the clear and direct mention of "mouse hippocampus" and "prefrontal cortex" in the abstract, it is reasonable to conclude that these are the relevant organ parts.
+###Result###
+['Hippocampus', 'Prefrontal cortex']

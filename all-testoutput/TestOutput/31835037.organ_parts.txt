@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "cardiac morphogenesis in humans," "embryonic heart," and "single-cell spatial resolution." These terms suggest that 'Heart' and possibly 'Embryo' or 'Human' could be relevant results.
+### Verify ###
+The abstract discusses "the comprehensive transcriptional landscape of cell types populating the embryonic heart," which directly verifies that 'Heart' is a proper result. It also speaks about the "human embryonic heart," suggesting 'Human' as a proper result, and since the study focuses on the development of the heart, it implies 'Embryo' as well.
+### Context ###
+The context here is clear, as the abstract is focused on the human embryonic heart and its development, which aligns with the schema's 'Heart', 'Embryo', and 'Human'.
+### Conclusion ###
+Based on the explicit mentions of the human embryonic heart and its development, we can conclude that 'Heart', 'Embryo', and 'Human' are the relevant results.
+### Result ###
+['Heart', 'Embryo', 'Human']

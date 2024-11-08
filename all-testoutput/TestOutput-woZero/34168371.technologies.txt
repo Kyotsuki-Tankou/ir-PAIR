@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the terms "single-cell and spatial sequencing" are mentioned, suggesting the use of technologies related to single-cell and spatial transcriptomics.
+### Verify ###
+The Abstract states, "we investigated the single-cell phenotypes associated with antimicrobial responses in human leprosy granulomas by applying single-cell and spatial sequencing to leprosy biopsy specimens." This indicates the use of technologies that can perform both single-cell and spatial sequencing.
+### Context ###
+Given that "single-cell and spatial sequencing" are mentioned together, we need to consider technologies that can perform both functions. From the schema, "scRNA-seq" (single-cell RNA sequencing) and "Spatial Transcriptomics" are relevant technologies that fit this description.
+### Conclusion ###
+Based on the context and the described methodology, it is reasonable to infer that "scRNA-seq" and "Spatial Transcriptomics" are the technologies used, as they align with the capabilities described in the Abstract.
+### Result ###
+["scRNA-seq", "Spatial Transcriptomics"]

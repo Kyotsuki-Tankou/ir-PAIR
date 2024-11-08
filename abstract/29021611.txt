@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Heart"]
+["Right atrial appendage (RAA)", "Left ventricular needle (LV)"]
+["Spatial Transcriptomics"]
+["Heart failure"]
+ Abstract\nHeart failure is a major health problem linked to poor quality of life and high mortality rates. Hence, novel biomarkers, such as fetal marker genes with low expression levels, could potentially differentiate disease states in order to improve therapy. In many studies on heart failure, cardiac biopsies have been analyzed as uniform pieces of tissue with bulk techniques, but this homogenization approach can mask medically relevant phenotypes occurring only in isolated parts of the tissue. This study examines such spatial variations within and between regions of cardiac biopsies. In contrast to standard RNA sequencing, this approach provides a spatially resolved transcriptome- and tissue-wide perspective of the adult human heart, and enables detection of fetal marker genes expressed by minor subpopulations of cells within the tissue. Analysis of patients with heart failure, with preserved ejection fraction, demonstrated spatially divergent expression of fetal genes in cardiac biopsies.

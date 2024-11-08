@@ -1,0 +1,12 @@
+### Keywords ###
+From the Keywords, "TrkA," "calvarial bone," "cranial suture," "skeletal innervation," and "spatial transcriptomics" suggest a focus on mammalian skeletal development. The terms "mammalian" and "wild-type mice" in the Abstract indicate the species involved.
+### Verify ###
+- "wild-type mice" directly mentions "Mus musculus."
+- The study involves "the developing cranium" and "sensory nerve innervation," which are typical characteristics of mammalian studies, particularly in mice.
+### Context ###
+- The Abstract and Keywords consistently point to the use of mice for studying cranial bone development and sensory nerve innervation.
+- There is no mention of any other species, reinforcing the focus on "Mus musculus."
+### Conclusion ###
+Given the clear and consistent information provided in both the Abstract and Keywords, we confirm "Mus musculus" as the species used in this study.
+### Result ###
+['Mus musculus']

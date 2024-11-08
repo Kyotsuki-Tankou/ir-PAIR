@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract and Keywords, terms like "Arrhythmogenic cardiomyopathy," "Cardiomyocyte degeneration," and "ZBTB11" suggest a focus on a specific cardiac disorder and its molecular mechanisms. The term "heart" is implied but not explicitly mentioned in the Keywords.
+### Verify ###
+The Abstract mentions "Arrhythmogenic cardiomyopathy (ACM) is an inherited cardiac disorder" and "explanted ACM hearts," which strongly indicates that the study is focused on the heart. The Keywords, while detailed about the specific disorder and molecular aspects, do not directly list "heart."
+### Context ###
+Given the Abstract's clear focus on "Arrhythmogenic cardiomyopathy," a cardiac disorder, and the use of "explanted ACM hearts" for the study, it is reasonable to infer that the primary organ of interest is the heart. The Keywords, while detailed about the disease and molecular mechanisms, do not explicitly mention "heart," but the context from the Abstract provides the necessary linkage.
+### Conclusion ###
+Based on the context provided by the Abstract, we can conclude that the primary disease relevant to this study is "Heart failure," as it is the most closely related term in the schema that encompasses the broader context of cardiac disorders and myocardial degeneration.
+### Result ###
+['Heart failure']

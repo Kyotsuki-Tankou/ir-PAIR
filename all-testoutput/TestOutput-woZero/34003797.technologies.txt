@@ -1,0 +1,21 @@
+### Keywords ###
+From the abstract, the following technologies are mentioned or implied:
+- "Single-cell sequencing"
+- "spatial transcriptomics"
+- "single-nuclear sequencing"
+- "multiplexed CO-Detection by indEXing (CODEX) immunofluorescence"
+### Verify ###
+- "Single-cell sequencing" can be associated with 'scRNA-seq' or 'scATAC-seq'.
+- "spatial transcriptomics" directly matches 'Spatial Transcriptomics'.
+- "single-nuclear sequencing" can be associated with 'snRNA-seq'.
+- "multiplexed CO-Detection by indEXing (CODEX) immunofluorescence" is a specific technique but not directly listed in the schema.
+### Context ###
+- The abstract mentions "optimized coordination of spatial transcriptomics and single-nuclear sequencing data sets," which strongly suggests the use of 'Spatial Transcriptomics' and 'snRNA-seq'.
+- "Single-cell sequencing" is a broad term that can encompass several technologies, but given the context of kidney cell type characterization and spatial distribution, 'scRNA-seq' is a likely match.
+### Conclusion ###
+Based on the context and direct mentions, the technologies used in the study are:
+- 'Spatial Transcriptomics'
+- 'snRNA-seq'
+- 'scRNA-seq'
+### Result ###
+['Spatial Transcriptomics', 'snRNA-seq', 'scRNA-seq']

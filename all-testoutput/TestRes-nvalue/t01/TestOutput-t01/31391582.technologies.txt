@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, there are no direct mentions of specific technologies like 'CITE-seq', 'RNA-seq', etc. The abstract focuses on "spatially resolved transcriptome" and "high-resolution digitized in situ gene-expression profiles."
+### Verify ###
+The abstract states, "Here we report a spatially resolved transcriptome of cell populations at defined positions in the germ layers during development from pre- to late-gastrulation stages." This suggests the use of advanced transcriptomic technologies but does not specify which ones.
+### Context ###
+Given the mention of "spatially resolved transcriptome" and "high-resolution digitized in situ gene-expression profiles," it is reasonable to infer that technologies capable of such detailed analysis were used. Technologies like 'Spatial Transcriptomics', 'Slide-seq', 'MERFISH', or similar could be plausible given their capabilities in spatial resolution and transcriptome analysis.
+### Conclusion ###
+While the abstract implies the use of advanced transcriptomic technologies, it does not definitively confirm any specific technology from the provided schema. Therefore, we cannot conclusively list any technology based on the abstract alone.
+### Result ###
+null

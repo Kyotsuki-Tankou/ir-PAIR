@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "single-cell RNA sequencing" and "suction blistering" suggest the use of specific technologies. The keywords explicitly mention "single-cell RNA sequencing."
+### Verify ###
+The abstract states, "Using single-cell RNA sequencing, we found comparable transcriptional profiles of key inflammatory pathways between blister and biopsy AD." This directly confirms the use of "single-cell RNA sequencing."
+### Context ###
+The abstract also mentions "Olink proteomics" and "suction blistering," but these are not listed in the provided schema. The focus on "single-cell RNA sequencing" is clear and directly relevant to the schema.
+### Conclusion ###
+Given the explicit mention and focus on "single-cell RNA sequencing," this technology is the most appropriate choice from the provided schema.
+### Result ###
+["single-cell RNA sequencing"]

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "kidney" is explicitly mentioned multiple times in the context of acute kidney injury (AKI) and spatial transcriptomics. This indicates that 'Kidney' may be a proper result.
+### Verify ###
+The abstract states, "Single-cell sequencing studies have characterized the transcriptomic signature of cell types within the kidney," and "To study the implications of AKI on transcript expression, we then characterized the spatial transcriptomic signature of 2 murine AKI models." These statements directly verify that 'Kidney' is indeed a relevant tissue in the context of the study.
+### Context ###
+Since the verification step directly confirms the presence of 'Kidney' in the abstract, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Consequently, we choose 'Kidney' as our final result.
+### Result ###
+['Kidney']

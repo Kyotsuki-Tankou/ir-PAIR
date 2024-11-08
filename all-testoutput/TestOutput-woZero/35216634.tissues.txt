@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "lung fibroblasts" and "pulmonary fibrosis" indicate that 'Lung' may be a proper result.
+### Verify ###
+The abstract states, "Here, we investigated the mechanism by which silica induces fibroblast activation via anoikis resistance and subsequent fibrosis. Anoikis of lung fibroblasts, alveolar epithelial cells and endothelial cells during the process of fibrosis was detected," which directly verifies the focus on 'Lung' tissue.
+### Context ###
+Not required in this case as the verification directly supports the result without ambiguity.
+### Conclusion ###
+Since the term 'Lung' is both implied in the keywords and clearly verified in the abstract, we can confidently conclude that 'Lung' is the appropriate tissue involved.
+### Result ###
+['Lung']

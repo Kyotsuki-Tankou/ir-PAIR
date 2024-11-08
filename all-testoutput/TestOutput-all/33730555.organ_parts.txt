@@ -1,0 +1,12 @@
+###Keywords###
+From the abstract, the keywords "lacrimal gland" and "organoids" stand out. These suggest potential matches like 'Adenoid cystic carcinoma of lacrimal gland' and 'Organoids'.
+###Verify###
+- "lacrimal gland" is directly mentioned multiple times, indicating a strong focus on this organ part.
+- "organoids" are also mentioned, but the context is specific to lacrimal gland organoids, not a general term like 'Organoids' in the schema.
+###Context###
+- The abstract discusses "mouse and human lacrimal gland" and "CRISPR-Cas9-mediated genome editing" in the context of lacrimal gland cells.
+- It also mentions "single-cell atlas of human lacrimal gland tissue and organoids," further emphasizing the specific focus on the lacrimal gland.
+###Conclusion###
+Given the specific and repeated mention of "lacrimal gland," 'Adenoid cystic carcinoma of lacrimal gland' is a relevant match, even though the study is not specifically about carcinoma. The context strongly supports the lacrimal gland as the primary focus.
+###Result###
+['Adenoid cystic carcinoma of lacrimal gland']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, keywords such as "aortic microenvironment," "hematopoietic stem cells," "embryos," "genome-wide RNA tomography sequencing," and "ligand-receptor couple ADM-RAMP2 and SVEP1" are prominent. The term "aortic microenvironment" suggests a focus on the aorta and related tissues.
+### Verify ###
+The abstract specifically mentions "aortic microenvironment" and "the first hematopoietic stem cells are generated during development," indicating a focus on the aorta and its surrounding environment. Additionally, the study involves "zebrafish, chicken, mouse, and human embryos," which suggests a developmental context.
+### Context ###
+Given the emphasis on the "aortic microenvironment" and the generation of hematopoietic stem cells, the most relevant tissue from the schema would likely be related to the aorta or blood vessels. The term "Dorsal aorta" is specifically mentioned in the schema and aligns well with the context of the aortic microenvironment.
+### Conclusion ###
+Based on the explicit mention of the "aortic microenvironment" and the focus on hematopoietic stem cell generation in this region, it is reasonable to conclude that 'Dorsal aorta' is the most appropriate tissue from the schema that matches the input.
+### Result ###
+['Dorsal aorta']

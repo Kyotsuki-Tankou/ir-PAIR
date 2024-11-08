@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, the terms "kidney," "ureteric bud," "nephric duct," and "intermediate mesoderm" are prominent. These suggest potential matches with "Kidney organoid," "Embryo," and "Mesenchyme" from the schema.
+### Verify ###
+- **Kidney organoid**: The abstract discusses the development of the kidney and the ureteric bud, which are components of the renal system. "Kidney organoid" is a relevant term as it pertains to the kidney's development.
+- **Embryo**: The mention of "intermediate mesoderm of the embryo" directly links to the term "Embryo" in the schema.
+- **Mesenchyme**: While "mesenchyme" is mentioned in the context of surrounding the ureteric bud, it is not explicitly listed in the schema.
+### Context ###
+The study focuses on the developmental processes involving the kidney and its components, particularly the ureteric bud and nephric duct, which are integral parts of the renal system. The mention of "intermediate mesoderm of the embryo" emphasizes the embryonic origin of these structures.
+### Conclusion ###
+Based on the direct mentions and the context of the study, "Kidney organoid" and "Embryo" are the most relevant and specific terms from the schema that correspond to the input.
+### Result ###
+['Kidney organoid', 'Embryo']

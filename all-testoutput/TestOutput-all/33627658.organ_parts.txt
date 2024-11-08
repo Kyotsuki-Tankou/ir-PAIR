@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, the terms "adult mouse primary somatosensory cortex" and "human primary visual cortex" are key indicators of specific organ parts. Additionally, "mouse brain" is mentioned in the context of cerebral ischemic infarction.
+### Verify ###
+- "adult mouse primary somatosensory cortex" suggests a specific region of the brain, which could be related to "Coronal brain section" or "Cortex".
+- "human primary visual cortex" directly points to "Visual cortex".
+- "mouse brain" is a broader term but could be related to "Brain" or "Mouse Embryo" in a broader sense.
+### Context ###
+- The study focuses on cortical lamination and cerebral ischemic infarction, which are specific to brain regions.
+- The mention of "cortical lamination" and "cerebral ischemic infarction" further narrows down the focus to specific brain regions rather than the entire brain.
+### Conclusion ###
+Given the specific mentions of "adult mouse primary somatosensory cortex" and "human primary visual cortex," along with the context of studying cortical lamination and cerebral ischemic infarction, the most precise matches from the schema are "Coronal brain section" and "Visual cortex." "Mouse brain" could be a broader match but is less specific compared to the other two.
+### Result ###
+['Coronal brain section', 'Visual cortex']

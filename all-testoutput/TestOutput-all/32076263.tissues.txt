@@ -1,0 +1,13 @@
+### Keywords ###
+From the abstract, the terms "gastruloids," "embryonic stem cells," and "embryos" are prominently mentioned. This suggests that 'Embryo' and 'Gastrula' may be relevant results.
+### Verify ###
+The abstract states:
+- "Gastruloids are three-dimensional aggregates of embryonic stem cells that display key features of mammalian development after implantation, including germ-layer specification and axial organization."
+- "Here we compare mouse gastruloids with mouse embryos using single-cell RNA sequencing and spatial transcriptomics."
+These statements verify that the study focuses on both gastruloids and embryos, reinforcing that 'Embryo' and 'Gastrula' are proper results.
+### Context ###
+Given the detailed focus on gastruloids as a model for embryonic development and the direct comparison with embryos, there is no need for additional context to confirm the results.
+### Conclusion ###
+Consequently, we choose 'Embryo' and 'Gastrula' as our final results based on the explicit references in the abstract.
+### Result ###
+['Embryo', 'Gastrula']

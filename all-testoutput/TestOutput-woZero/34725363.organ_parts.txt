@@ -1,0 +1,11 @@
+###Keywords###
+From the abstract, the terms "tumor," "microenvironment," "melanoma," and "interface" are prominently mentioned. These terms suggest potential relevance to specific organ parts such as 'Melanoma' and 'Skin'.
+###Verify###
+1. **Melanoma**: The abstract states, "Using a zebrafish model of melanoma," which directly references melanoma. This verifies that 'Melanoma' is a relevant and proper result.
+2. **Skin**: The context of melanoma, which is a type of skin cancer, and the mention of "tumor contacts neighboring tissues" implies the involvement of skin.
+###Context###
+Given the direct mention of "melanoma" and the implied involvement of skin due to the nature of melanoma, there is no need for additional context to verify these keywords.
+###Conclusion###
+Consequently, we confirm 'Melanoma' and 'Skin' as our final results based on the clear and consistent references in the abstract.
+###Result###
+['Melanoma', 'Skin']

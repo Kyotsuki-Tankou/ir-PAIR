@@ -1,0 +1,8 @@
+### Keywords ###
+The keywords from the input that correspond to the schema are "primary breast cancer."
+### Verify ###
+The abstract mentions "primary breast cancer" as one of the tissues where the high-definition spatial transcriptomics method is demonstrated, which directly verifies that 'Primary Breast Cancer' is the appropriate disease to extract according to the schema.
+### Conclusion ###
+Since the keyword matches the disease mentioned in the abstract, we can conclude that "Primary Breast Cancer" is the appropriate result.
+### Result ###
+['Primary Breast Cancer']

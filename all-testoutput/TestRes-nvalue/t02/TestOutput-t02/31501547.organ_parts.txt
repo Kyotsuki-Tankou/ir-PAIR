@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "mouse brain" and "primary breast cancer" are prominent, indicating potential matches with 'Brain' and 'Breast Cancer' from the schema.
+### Verify ###
+The abstract explicitly mentions "mouse brain and primary breast cancer," which directly corresponds to the tissue types 'Brain' and 'Breast Cancer' listed in the schema.
+### Context ###
+The context of the study involves developing high-definition spatial transcriptomics and demonstrates its application in "mouse brain and primary breast cancer." There is no ambiguity in the mention of these specific tissues.
+### Conclusion ###
+Based on the clear and direct mention of "mouse brain" and "primary breast cancer" in the abstract, we can confidently conclude that these are the relevant tissue types to extract.
+### Result ###
+['Brain', 'Breast Cancer']

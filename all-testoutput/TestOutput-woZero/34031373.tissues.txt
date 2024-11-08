@@ -1,0 +1,8 @@
+###Keywords###
+From the Abstract, the key terms are "small intestine", "enterocytes", "goblet cells", "tuft cells", "epithelial cell types", and "spatial atlases".
+###Verify###
+The Abstract specifically mentions "small intestine" and "epithelial cell types in the small intestine", which directly point to a particular tissue type.
+###Conclusion###
+Given the clear mention of "small intestine" and the focus on its epithelial cell types, we can confidently conclude that the tissue involved in the study is "Intestine".
+###Result###
+['Intestine']

@@ -1,0 +1,11 @@
+### Keywords ###
+From the abstract, the terms "single-cell long-read sequencing," "spatial transcriptomics," and "isoform expression" suggest the use of specific technologies. The terms "single-cell" and "long-read sequencing" imply 'scRNA' or 'RNA-seq', while "spatial transcriptomics" directly points to 'Spatial Transcriptomics'.
+### Verify ###
+1. **Single-cell long-read sequencing**: This phrase strongly suggests the use of 'scRNA' or 'RNA-seq' technologies, as these are commonly used for single-cell transcriptomic analyses.
+2. **Spatial transcriptomics**: This term directly matches one of the technologies in the schema, confirming 'Spatial Transcriptomics' as a used technology.
+### Context ###
+The abstract mentions "single-cell investigation of differential isoform expression (DIE) between brain regions using single-cell long-read sequencing." This context supports the use of 'scRNA' or 'RNA-seq' for single-cell resolution. Additionally, the mention of "spatial transcriptomics" solidifies its use for spatially resolved data.
+### Conclusion ###
+Based on the keywords and context, the technologies used in the study are 'scRNA' (or 'RNA-seq') and 'Spatial Transcriptomics'. Given the specific mention of "single-cell long-read sequencing," 'scRNA' is more precise.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, terms like "cancer treatment," "T cells in tumour immunity," and "patients with different types of cancer" suggest a broad focus on various cancer types. Specific mentions of "tumours," "normal adjacent tissue," and "peripheral blood" indicate a study spanning multiple tissues but centered around cancer.
+### Verify ###
+The Abstract mentions "patients with different types of cancer," which implies a pan-cancer approach. The focus is on understanding T cell responses across various cancer contexts rather than a specific type of cancer.
+### Context ###
+The study's emphasis on T cell responses and clonotypic expansion in different cancer types and tissues (tumours, normal adjacent tissue, and peripheral blood) supports the idea of a pan-cancer analysis rather than focusing on a single specific cancer type.
+### Conclusion ###
+Given the broad focus on various cancer types and the emphasis on T cell responses across different tissues, the most appropriate term from the schema is 'Pan cancer.'
+### Result ###
+['Pan cancer']

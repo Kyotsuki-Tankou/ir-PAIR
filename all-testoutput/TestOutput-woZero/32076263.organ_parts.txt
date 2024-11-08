@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, keywords like "gastruloids," "embryonic stem cells," "mouse embryos," "single-cell RNA sequencing," and "spatial transcriptomics" suggest a focus on early developmental processes and model systems. The terms "Gastruloid" and "Mouse Embryo" are directly mentioned.
+###Verify###
+The abstract explicitly mentions "mouse gastruloids" and "mouse embryos," which directly correspond to "Gastruloid" and "Mouse Embryo" in the schema. Additionally, the study involves comparing these two entities using various techniques.
+###Context###
+The context of the study revolves around the comparison of gastruloids and mouse embryos to understand developmental processes. The mention of "single-cell RNA sequencing and spatial transcriptomics" further emphasizes the detailed analysis of these model systems.
+###Conclusion###
+Given the direct mention of "mouse gastruloids" and "mouse embryos," it is clear that these are the primary organ parts being studied.
+###Result###
+["Gastruloid", "Mouse Embryo"]

@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "patients with different types of cancer" and "T cells in patients with cancer," which suggests that the study is focused on human subjects. Therefore, 'Homo sapiens' may be a proper result.
+### Verify ###
+The text specifically refers to "patients with cancer" and discusses human-specific treatments like "anti-PDL1 therapy." This further supports that 'Homo sapiens' is likely the correct species.
+### Context ###
+Given the context of cancer treatment and the explicit mention of "patients," which is typically associated with human subjects, there is strong contextual evidence that the study pertains to humans.
+### Conclusion ###
+Based on the keywords, verification, and contextual clues, we can confirm 'Homo sapiens' as the final result.
+### Result ###
+['Homo sapiens']

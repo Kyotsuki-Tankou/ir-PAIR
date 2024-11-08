@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "human transcriptome" explicitly mentions "human," which suggests that 'Homo sapiens' might be the species used in the study. Additionally, the context clues "nine distinct subcellular locales" and "radial organization of the nuclear transcriptome" imply a focus on human cellular structures.
+### Verify ###
+The phrase "human transcriptome" directly indicates the use of human cells, which corresponds to 'Homo sapiens'. This provides strong evidence that 'Homo sapiens' is indeed the species involved.
+### Conclusion ###
+Given the clear mention of "human transcriptome" in the abstract, we can confidently conclude that 'Homo sapiens' is the correct species to be extracted.
+### Result ###
+['Homo sapiens']

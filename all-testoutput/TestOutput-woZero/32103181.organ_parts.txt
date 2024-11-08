@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "tumours," "normal adjacent tissue," and "peripheral blood" are mentioned in the context of cancer and T cells. These terms suggest potential matches with 'Tumours', 'Normal adjacent tissue', and 'Peripheral blood' from the schema, though they are not exact matches.
+###Verify###
+- The abstract states: "in patients with different types of cancer, we survey the profiles of various populations of T cells and T cell receptors in tumours, normal adjacent tissue, and peripheral blood." This directly verifies the presence of 'Tumours', 'Normal adjacent tissue', and 'Peripheral blood'.
+###Context###
+- The abstract focuses on the distribution of T cells in different tissues related to cancer, specifically mentioning "tumours," "normal adjacent tissue," and "peripheral blood." These terms are contextually relevant to the study's focus on cancer immunity and T cell distribution.
+###Conclusion###
+Given the explicit mentions and the contextual relevance, we can conclude that 'Tumours', 'Normal adjacent tissue', and 'Peripheral blood' are the relevant organ parts based on the abstract.
+###Result###
+['Tumours', 'Normal adjacent tissue', 'Peripheral blood']

@@ -1,0 +1,13 @@
+###Keywords###
+From the input, the term "PIC" (photo-isolation chemistry) is prominently mentioned multiple times, indicating that it is a key technology used in the study.
+###Verify###
+The abstract states:
+- "Here, we establish a transcriptome profiling method coupled with photo-isolation chemistry (PIC)..."
+- "PIC uses photo-caged oligodeoxynucleotides for in situ reverse transcription."
+- "PIC transcriptome analysis detects genes specifically expressed in small distinct areas of the mouse embryo."
+- "Photo-irradiation of single cells demonstrated that approximately 8,000 genes were detected with 7 × 104 unique read counts."
+These statements clearly verify that "PIC" is the primary technology employed in the study.
+###Conclusion###
+Given the clear and repeated mention of "PIC" in the abstract, we can confidently conclude that "PIC" is the appropriate technology to be extracted according to the schema.
+###Result###
+["PIC"]

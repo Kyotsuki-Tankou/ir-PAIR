@@ -1,0 +1,16 @@
+### Keywords ###
+From the Abstract, the key terms related to diseases are "intracranial hemorrhage," "secondary brain injury," and "heme toxicity." These suggest that 'Brain injury' and 'Secondary Brain Injury' might be relevant.
+### Verify ###
+The Abstract specifically mentions:
+- "secondary brain injury at the hematoma‒brain interface."
+- "heme-exposed brain."
+- "heme-induced disruption of the blood‒brain barrier and radiological and functional signals of heme injury in the brain."
+These points strongly indicate that the study focuses on brain injuries, particularly secondary brain injury.
+### Context ###
+To further verify:
+- The study involves "stereotactically injected saline, heme, or heme‒hemopexin into the striatum of C57BL/6J mice," which directly affects the brain.
+- The mention of "proinflammatory activity in the brain" and "reactive astrocytosis and microglial activation" aligns with the pathophysiology of brain injuries.
+### Conclusion ###
+Given the explicit focus on secondary brain injury and the associated pathophysiological changes in the brain, it is reasonable to conclude that 'Brain injury' and 'Secondary Brain Injury' are the correct disease terms relevant to this study.
+### Result ###
+['Brain injury', 'Secondary Brain Injury']

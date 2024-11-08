@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "10x Genomics Visium platform" is prominent, indicating that '10x Visium' may be a proper result.
+### Verify ###
+The abstract explicitly mentions "We used the 10x Genomics Visium platform," which directly verifies that '10x Visium' is indeed the technology used in the study.
+### Context ###
+Not required in this case as the Keywords and Verify steps align well and provide clear evidence.
+### Conclusion ###
+Consequently, we confirm '10x Visium' as the final result based on the clear and direct mention of the technology in the abstract.
+### Result ###
+['10x Visium']

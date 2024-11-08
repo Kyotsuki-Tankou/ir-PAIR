@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "Single-cell RNA sequencing (scRNA-seq)" and "spatial transcriptomics" are prominently mentioned. This suggests that 'scRNA' and 'Spatial Transcriptomics' may be proper results.
+###Verify###
+The abstract states, "We combine a microarray-based spatial transcriptomics method... with scRNA-Seq generated from the same sample." This further verifies that both 'scRNA' and 'Spatial Transcriptomics' are indeed technologies used in the study.
+###Context###
+Given the explicit mention of combining scRNA-seq with a spatial transcriptomics method, there is no need for additional context to confirm the results.
+###Conclusion###
+Consequently, we choose 'scRNA' and 'Spatial Transcriptomics' as our final results.
+###Result###
+['scRNA', 'Spatial Transcriptomics']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the primary tissue mentioned is "Bone marrow." Other related tissues include "Blood vessel" and "Bone," as these are directly referenced in the context of the study.
+### Verify ###
+The abstract explicitly mentions "Bone marrow mesenchymal lineage cells," "marrow cavity," and "marrow vasculature," which strongly indicates that the primary tissue of focus is "Bone marrow." Additionally, "Blood vessel" and "Bone" are mentioned in the context of the study's findings.
+### Context ###
+The abstract provides a detailed description of the bone marrow environment and the roles of specific cell types within it, reinforcing the focus on "Bone marrow." The mention of "marrow vasculature" supports the inclusion of "Blood vessel," and the discussion of bone formation and osteoblasts justifies the inclusion of "Bone."
+### Conclusion ###
+Based on the explicit mentions and the context provided, the primary tissue of focus is "Bone marrow," with additional relevant tissues being "Blood vessel" and "Bone."
+### Result ###
+['Bone marrow', 'Blood vessel', 'Bone']

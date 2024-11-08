@@ -1,0 +1,12 @@
+### Keywords ###
+From the "Abstract," the key terms that stand out are "human dorsolateral prefrontal cortex," "schizophrenia," and "autism spectrum disorder." These terms suggest potential matches to the schema, particularly related to brain regions and neuropsychiatric disorders.
+### Verify ###
+- "human dorsolateral prefrontal cortex" directly suggests a brain region, which could be related to "Brain cortex" or "Cortex."
+- "schizophrenia and autism spectrum disorder" are explicitly mentioned, which directly match the schema.
+### Context ###
+- The study focuses on the spatial topography of gene expression in the human dorsolateral prefrontal cortex, which is a specific region of the brain.
+- The integration of neuropsychiatric disorder gene sets and the mention of schizophrenia and autism spectrum disorder highlight the clinical relevance of the brain region studied.
+### Conclusion ###
+Given the explicit mention of "schizophrenia and autism spectrum disorder" and the focus on the "human dorsolateral prefrontal cortex," we can conclude that the relevant terms from the schema are "Schizophrenia and Autism spectrum disorder" and "Brain Cortex."
+### Result ###
+['Schizophrenia and Autism spectrum disorder', 'Brain Cortex']

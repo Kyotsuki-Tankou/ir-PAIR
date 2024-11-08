@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "zebrafish embryo sections" and "zebrafish embryogenesis" indicate that 'Embryo' and 'Zebrafish' may be relevant. However, since 'Zebrafish' is not in the schema, we focus on 'Embryo'.
+### Verify ###
+- From "91 zebrafish embryo sections" and "zebrafish embryogenesis" in the Abstract, we can verify that 'Embryo' is indeed a proper result.
+### Context ###
+No additional context is needed as the terms "zebrafish embryo sections" and "zebrafish embryogenesis" clearly specify the organ part involved.
+### Conclusion ###
+Consequently, we confirm 'Embryo' as our final result based on the clear and direct mentions in the Abstract.
+### Result ###
+['Embryo']

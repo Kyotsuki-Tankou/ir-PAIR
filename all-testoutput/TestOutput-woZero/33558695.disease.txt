@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, the terms "human dorsolateral prefrontal cortex," "schizophrenia," and "autism spectrum disorder" suggest potential matches with 'Brain Cortex,' 'Schizophrenia and Autism spectrum disorder,' and possibly 'Brain development.'
+### Verify ###
+- "human dorsolateral prefrontal cortex" directly corresponds to 'Brain Cortex.'
+- "schizophrenia and autism spectrum disorder" directly corresponds to 'Schizophrenia and Autism spectrum disorder.'
+- The study's focus on gene expression and spatial annotation in the brain suggests 'Brain development' could be relevant, though it is not explicitly mentioned.
+### Context ###
+- The abstract discusses "spatial topography of gene expression in the six-layered human dorsolateral prefrontal cortex," which strongly indicates a focus on the brain's structural and functional aspects.
+- The mention of "neuropsychiatric disorder gene sets" and "differential layer-enriched expression of genes associated with schizophrenia and autism spectrum disorder" further supports the relevance of 'Schizophrenia and Autism spectrum disorder.'
+- While 'Brain development' is not explicitly mentioned, the study's emphasis on spatial annotation and expression-driven clusters in the brain suggests a developmental aspect.
+### Conclusion ###
+Given the explicit mentions and strong contextual evidence, we can conclude that 'Brain Cortex' and 'Schizophrenia and Autism spectrum disorder' are suitable terms to extract. 'Brain development' is less directly supported but still contextually relevant.
+### Result ###
+['Brain Cortex', 'Schizophrenia and Autism spectrum disorder', 'Brain development']

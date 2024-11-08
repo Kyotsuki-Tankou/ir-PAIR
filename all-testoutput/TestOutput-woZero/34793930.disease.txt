@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords "intracranial hemorrhage," "secondary brain injury," and "heme-exposed brain," it suggests that 'Brain injury' or 'Secondary Brain Injury' might be relevant diseases.
+### Verify ###
+In the Abstract, phrases like "secondary brain injury at the hematoma‒brain interface," "heme-exposed brain," and "heme as a potent inflammatoxin that may drive secondary brain injury after intracerebral hemorrhage" strongly indicate that 'Secondary Brain Injury' is a proper result.
+### Context ###
+Upon reviewing the context, the entire abstract focuses on the effects of heme on the brain after intracerebral hemorrhage and the potential therapeutic effects of hemopexin. This context further supports the relevance of 'Secondary Brain Injury.'
+### Conclusion ###
+Consequently, we choose 'Secondary Brain Injury' as our final result.
+### Result ###
+['Secondary Brain Injury']

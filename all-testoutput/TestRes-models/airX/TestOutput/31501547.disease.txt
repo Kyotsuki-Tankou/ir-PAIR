@@ -1,0 +1,12 @@
+###Keywords###
+From the input, the keywords that stand out are "mouse brain" and "primary breast cancer." These suggest that 'Brain' and 'Breast Cancer' might be relevant diseases.
+###Verify###
+In the abstract, it is mentioned:
+- "as demonstrated in mouse brain and primary breast cancer"
+This directly verifies that 'Brain' and 'Breast Cancer' are indeed relevant diseases.
+###Context###
+Since the abstract explicitly mentions "mouse brain" and "primary breast cancer," there is no ambiguity or need for further context to verify these diseases.
+###Conclusion###
+Consequently, based on the explicit mention in the abstract, we choose 'Brain' and 'Breast Cancer' as our final results.
+###Result###
+['Brain', 'Breast Cancer']

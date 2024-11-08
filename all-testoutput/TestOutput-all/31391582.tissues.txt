@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "mouse embryo," "epiblast," "germ layers," "gastrulation," and "post-implantation development" are prominently mentioned. These terms suggest that 'Embryo' and 'Gastrula' are relevant tissue types.
+### Verify ###
+The abstract specifically discusses "post-implantation development of the mouse embryo" and "the formation of the basic body plan during gastrulation," which verifies that 'Embryo' and 'Gastrula' are indeed relevant tissue types in this context.
+### Context ###
+The detailed focus on the stages of embryonic development, including the transition from naive to primed pluripotent states and the formation of germ layers during gastrulation, provides a clear context that supports the relevance of 'Embryo' and 'Gastrula'.
+### Conclusion ###
+Based on the clear and consistent focus on embryonic development and gastrulation, we can confidently conclude that 'Embryo' and 'Gastrula' are the relevant tissue types.
+### Result ###
+['Embryo', 'Gastrula']

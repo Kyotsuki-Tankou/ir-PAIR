@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "Prostate cancer," "tumor microenvironment," "prostate epithelial cells," and "prostate carcinogenesis" are directly mentioned, indicating a focus on prostate cancer.
+### Verify ###
+The abstract explicitly states "Prostate cancer is the second most common malignancy in men worldwide" and discusses characterizing the prostate cancer tumor microenvironment through single-cell RNA-sequencing. This confirms the focus on "Prostate cancer."
+### Context ###
+Given the detailed discussion on prostate cancer, its cellular states, and the tumor microenvironment, there is no ambiguity or need for additional context.
+### Conclusion ###
+Consequently, we confirm that "Prostate cancer" is the appropriate result based on the provided schema and input.
+### Result ###
+["Prostate cancer"]

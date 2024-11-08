@@ -1,0 +1,8 @@
+###Keywords###
+The abstract discusses "high-definition spatial transcriptomics" and mentions "histological tissue sections" as well as "mouse brain and primary breast cancer." This suggests that the tissues being referred to are likely those listed in the schema.
+###Verify###
+The reference to "mouse brain" and "primary breast cancer" in the context of the study is a direct match with the schema items 'Brain' and 'Breast', respectively.
+###Conclusion###
+Given the direct mention of 'Brain' and 'Breast' in the abstract, these are the tissues that are being analyzed in the study.
+###Result###
+['Brain', 'Breast']

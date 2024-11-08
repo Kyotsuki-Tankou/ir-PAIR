@@ -1,0 +1,12 @@
+### Keywords ###
+From the phrases "single-cell and spatial RNA sequencing" and "ultrahigh-resolution Seq-Scope analyses" in the Abstract, it suggests that 'scRNA', 'Spatial Transcriptomics', and 'Seq-Scope' may be proper results.
+### Verify ###
+1. **scRNA**: The Abstract mentions "single-cell RNA sequencing," which directly aligns with the 'scRNA' technology.
+2. **Spatial Transcriptomics**: The mention of "spatial RNA sequencing" indicates the use of 'Spatial Transcriptomics' technology.
+3. **Seq-Scope**: The phrase "ultrahigh-resolution Seq-Scope analyses" directly refers to the 'Seq-Scope' technology.
+### Context ###
+The context of the study involves combining different sequencing technologies to analyze acne lesions, specifically highlighting the use of single-cell and spatial RNA sequencing along with Seq-Scope. This context supports the inclusion of all three technologies without introducing any conflicting information.
+### Conclusion ###
+Consequently, we choose 'scRNA', 'Spatial Transcriptomics', and 'Seq-Scope' as our final results.
+### Result ###
+['scRNA', 'Spatial Transcriptomics', 'Seq-Scope']

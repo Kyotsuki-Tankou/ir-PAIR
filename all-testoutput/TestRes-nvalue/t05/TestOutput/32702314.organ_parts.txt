@@ -1,0 +1,8 @@
+### Keywords ###
+The keywords "Alzheimer's disease," "amyloid plaques," "myelination," "oligodendrocyte," and "spatial transcriptomics" suggest that 'Brain' or 'Coronal brain section' might be relevant organ parts.
+### Verify ###
+The abstract mentions "transcriptional changes occurring in tissue domains in a 100-μm diameter around amyloid plaques" and "confirm the majority of the observed alterations at the cellular level using in situ sequencing on mouse and human brain sections," which directly point to 'Brain' as the organ part involved in the study.
+### Conclusion ###
+Since the keywords and the context in the abstract both consistently point to 'Brain', we can confidently conclude that 'Brain' is the correct organ part.
+### Result ###
+['Brain']

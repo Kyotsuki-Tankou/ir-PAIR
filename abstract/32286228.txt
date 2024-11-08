@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Bone"]
+null
+["scRNA"]
+["Bone marrow"]
+ Abstract\nBone marrow mesenchymal lineage cells are a heterogeneous cell population involved in bone homeostasis and diseases such as osteoporosis. While it is long postulated that they originate from mesenchymal stem cells, the true identity of progenitors and their in vivo bifurcated differentiation routes into osteoblasts and adipocytes remain poorly understood. Here, by employing large scale single cell transcriptome analysis, we computationally defined mesenchymal progenitors at different stages and delineated their bi-lineage differentiation paths in young, adult and aging mice. One identified subpopulation is a unique cell type that expresses adipocyte markers but contains no lipid droplets. As non-proliferative precursors for adipocytes, they exist abundantly as pericytes and stromal cells that form a ubiquitous 3D network inside the marrow cavity. Functionally they play critical roles in maintaining marrow vasculature and suppressing bone formation. Therefore, we name them marrow adipogenic lineage precursors (MALPs) and conclude that they are a newly identified component of marrow adipose tissue. \n Keywords:adipocyte; blood vessel; bone marrow mesenchymal stem cells; cell biology; mouse; osteoblast; single cell RNA-seq.

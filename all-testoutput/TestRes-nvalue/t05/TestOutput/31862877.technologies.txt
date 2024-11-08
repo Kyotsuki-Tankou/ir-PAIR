@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "aptamer-based proteomics" is mentioned, which suggests a specific technology used in the study. However, this term is not directly listed in the schema. The abstract also mentions "transcriptomic tools," which is a broader term and could encompass various technologies.
+### Verify ###
+The phrase "aptamer-based proteomics" does not directly match any of the technologies listed in the schema. However, "transcriptomic tools" could imply the use of technologies like 'RNA-seq' or other related transcriptomic technologies.
+### Context ###
+Given the context of "aptamer-based proteomics" and "transcriptomic tools," it is clear that while the primary technology is not directly listed in the schema, the mention of "transcriptomic tools" suggests that some form of RNA sequencing or related technology might have been used.
+### Conclusion ###
+Since "aptamer-based proteomics" is not in the schema and "transcriptomic tools" is a broad term, we cannot definitively conclude which specific technology from the schema was used. However, 'RNA-seq' is a common transcriptomic tool and might be the closest match.
+### Result ###
+['RNA-seq']

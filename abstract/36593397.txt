@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Spleen", "Breast"]
+null
+["10x Visium"]
+["Nornal atlas"]
+ Abstract\nSpatial transcriptomics and proteomics provide complementary information that independently transformed our understanding of complex biological processes. However, experimental integration of these modalities is limited. To overcome this, we developed Spatial PrOtein and Transcriptome Sequencing (SPOTS) for high-throughput simultaneous spatial transcriptomics and protein profiling. Compared with unimodal measurements, SPOTS substantially improves signal resolution and cell clustering and enhances the discovery power in differential gene expression analysis across tissue regions.

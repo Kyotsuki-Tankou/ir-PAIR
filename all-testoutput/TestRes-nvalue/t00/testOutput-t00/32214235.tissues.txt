@@ -1,0 +1,19 @@
+### Keywords ###
+- Single-cell analysis
+- Human organs
+- Human cell landscape (HCL)
+- Tissues
+- Cell-type composition
+- Single-cell hierarchy
+- Human cell identity
+- Comparative analysis (human and mouse)
+- Stem and progenitor cells
+- Differentiated cells
+### Verify ###
+- Tissues mentioned implicitly: All major human organs, various tissues (not specified individually)
+### Context ###
+- The paper discusses a comprehensive analysis of human cell types across all major organs, implying a wide range of tissues are involved. However, specific tissues are not individually listed in the abstract.
+### Conclusion ###
+- Given the comprehensive nature of the study covering all major human organs, it is reasonable to infer that a broad spectrum of tissues from the schema could be involved, but specific tissues are not explicitly mentioned.
+### Result ###
+null

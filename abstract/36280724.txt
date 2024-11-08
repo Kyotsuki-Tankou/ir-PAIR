@@ -1,0 +1,6 @@
+["Homo sapiens"]
+null
+null
+["ClampFISH"]
+["Melanoma"]
+ Abstract\nRNA labeling in situ has enormous potential to visualize transcripts and quantify their levels in single cells, but it remains challenging to produce high levels of signal while also enabling multiplexed detection of multiple RNA species simultaneously. Here, we describe clampFISH 2.0, a method that uses an inverted padlock design to efficiently detect many RNA species and exponentially amplify their signals at once, while also reducing the time and cost compared with the prior clampFISH method. We leverage the increased throughput afforded by multiplexed signal amplification and sequential detection to detect 10 different RNA species in more than 1 million cells. We also show that clampFISH 2.0 works in tissue sections. We expect that the advantages offered by clampFISH 2.0 will enable many applications in spatial transcriptomics.

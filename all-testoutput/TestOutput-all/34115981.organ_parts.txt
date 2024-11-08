@@ -1,0 +1,17 @@
+### Keywords ###
+From the abstract and keywords, the following terms are relevant: "colon," "liver," "injured liver," and "subcellular architectures." These terms suggest specific organ parts that are being analyzed.
+### Verify ###
+The abstract mentions:
+- "tissue zonation according to the portal-central (liver)"
+- "crypt-surface (colon)"
+- "inflammation-fibrosis (injured liver)"
+These phrases directly correspond to specific organ parts listed in the schema:
+- "Liver"
+- "Colon"
+- "Liver tissue" (for "injured liver")
+### Context ###
+The context of the study involves high-resolution spatial transcriptomics analysis of tissue sections, specifically highlighting the liver and colon. The mention of "injured liver" further specifies a particular condition of the liver tissue.
+### Conclusion ###
+Based on the direct mentions in the abstract, the most appropriate matches from the schema are "Liver," "Colon," and "Liver tissue" for the injured liver context.
+### Result ###
+['Liver', 'Colon', 'Liver tissue']

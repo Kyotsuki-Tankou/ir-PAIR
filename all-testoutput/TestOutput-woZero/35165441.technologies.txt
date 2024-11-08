@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "VINE-seq" is explicitly mentioned, which directly corresponds to one of the technologies listed in the schema.
+### Verify ###
+The abstract states, "Here we develop vessel isolation and nuclei extraction for sequencing (VINE-seq) to profile the major vascular and perivascular cell types of the human brain through 143,793 single-nucleus transcriptomes." This further confirms that VINE-seq is a key technology used in the study.
+### Context ###
+Given the detailed description of the development and application of VINE-seq for profiling cell types, there is no ambiguity or need for additional context to confirm the result.
+### Conclusion ###
+Since both the keyword and the context consistently point to 'VINE-seq', we can confidently conclude that 'VINE-seq' is the correct technology used in the study.
+### Result ###
+['VINE-seq']

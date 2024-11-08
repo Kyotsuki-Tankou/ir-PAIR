@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, keywords such as "endometrium," "uterus," "endometrial organoids," "endometrial cancers," and "endometriotic lesions" are prominent. These suggest potential matches like 'Endometrial Adeno carcinoma' and 'Gynecological cancer'.
+### Verify ###
+- "endometrial cancers" directly suggests a match with 'Endometrial Adeno carcinoma'.
+- "endometriotic lesions" and the focus on the uterus and endometrium suggest a broader category match with 'Gynecological cancer'.
+### Context ###
+- The abstract mentions "dense single-cell and spatial reference maps of the human uterus and three-dimensional endometrial organoid cultures," indicating a detailed study of the endometrium and its associated diseases.
+- "We utilize our cellular maps to deconvolute bulk data from endometrial cancers and endometriotic lesions," further emphasizes the focus on endometrial cancers and related disorders.
+### Conclusion ###
+Given the specific mention of "endometrial cancers" and the broader context of studying the endometrium and uterus, 'Endometrial Adeno carcinoma' is a direct and specific match. Additionally, 'Gynecological cancer' is a relevant broader category match.
+### Result ###
+['Endometrial Adeno carcinoma', 'Gynecological cancer']

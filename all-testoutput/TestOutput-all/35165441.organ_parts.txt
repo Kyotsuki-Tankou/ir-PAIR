@@ -1,0 +1,17 @@
+###Keywords###
+From the abstract, keywords such as "human brain vasculature," "hippocampus," "cortex," "Alzheimer's disease," and "microglia" are prominent.
+###Verify###
+Upon reviewing the abstract, we see mentions of:
+- "143,793 single-nucleus transcriptomes from 25 hippocampus and cortex samples"
+- "30 of the top 45 genes that have been linked to Alzheimer's disease risk by genome-wide association studies (GWASs) are expressed in the human brain vasculature"
+- "Many are microglia-specific in mice"
+These mentions directly correspond to several items in the provided schema:
+- "Hippocampus"
+- "Cortex"
+- "Microglia"
+###Context###
+Given the focus on the human brain vasculature and the specific mention of hippocampus, cortex, and microglia, the context strongly supports these as the primary organ parts involved in the study. The abstract discusses the molecular basis of the human brain vasculature and its implications for Alzheimer's disease, which directly involves these specific brain regions and cell types.
+###Conclusion###
+The abstract provides clear matches to several organ parts listed in the schema. The primary focus is on the hippocampus, cortex, and microglia within the context of the human brain vasculature and Alzheimer's disease.
+###Result###
+['Hippocampus', 'Cortex', 'Microglia']

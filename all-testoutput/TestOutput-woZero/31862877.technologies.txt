@@ -1,0 +1,12 @@
+### Keywords ###
+The abstract mentions "aptamer-based proteomics" and "transcriptomic tools," but does not directly name any specific technology from the schema.
+### Verify ###
+- "aptamer-based proteomics" is not listed in the schema.
+- "transcriptomic tools" is a broad term and could encompass various technologies, but no specific technology from the schema is mentioned.
+### Context ###
+- The use of "transcriptomic tools" suggests that RNA-related technologies might be involved, but without specific names, it is speculative.
+- The focus on proteomics and transcriptomics indicates a multi-omics approach, but the exact technologies are not specified.
+### Conclusion ###
+Based on the information provided in the abstract, we cannot conclusively identify any specific technology from the given schema. The abstract lacks explicit mentions of the technologies listed in the schema.
+### Result ###
+null

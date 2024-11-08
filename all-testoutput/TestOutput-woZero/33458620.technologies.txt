@@ -1,0 +1,11 @@
+### Keywords ###
+From the abstract, the terms "single-cell RNA sequencing" and "spatial transcriptomics" are explicitly mentioned, indicating that these technologies may be relevant.
+### Verify ###
+- **single-cell RNA sequencing**: This term directly matches the technology listed in the schema as 'scRNA'.
+- **spatial transcriptomics**: This term directly matches the technology listed in the schema as 'Spatial Transcriptomics'.
+### Context ###
+Not required in this case as the keywords and the abstract content directly align with the schema.
+### Conclusion ###
+Based on the clear and consistent information provided in both the keywords and the abstract, we can confirm that 'scRNA' and 'Spatial Transcriptomics' are the appropriate technologies identified in the input.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

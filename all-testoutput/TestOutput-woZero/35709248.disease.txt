@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, terms like "damaged epithelium," "wound front epithelia," and "epithelial healing" suggest a focus on epithelial injury and repair processes.
+###Verify###
+The abstract discusses "injury-induced hypoxia," "IL-17A-HIF1α axis," and "epithelial-specific loss of IL-17RC, HIF1α," which are all related to the repair and response mechanisms in epithelial tissues. This further verifies that the study is centered around epithelial injury and repair.
+###Context###
+The context of the study revolves around the mechanisms of epithelial healing and the role of immune cells in this process, particularly in a hypoxic environment. This aligns with the concept of tissue repair and epithelial injury.
+###Conclusion###
+Based on the consistent focus on epithelial injury and repair throughout the abstract, we can conclude that 'Epithelium injury' and 'Tissue repair' are the relevant diseases according to the schema.
+###Result###
+['Epithelium injury', 'Tissue repair']

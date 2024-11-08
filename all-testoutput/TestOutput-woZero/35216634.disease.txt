@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the term "Pulmonary fibrosis" is directly mentioned multiple times, indicating that 'Pulmonary fibrosis' may be the relevant disease.
+### Verify ###
+The abstract focuses on the mechanism of pulmonary fibrosis, specifically discussing fibroblast activation, anoikis resistance, and the role of ZC3H4 in this context. This further confirms that 'Pulmonary fibrosis' is indeed the disease being studied.
+### Conclusion ###
+Consequently, we confirm 'Pulmonary fibrosis' as our final result.
+### Result ###
+['Pulmonary fibrosis']

@@ -1,0 +1,10 @@
+### Keywords ###
+From "human liver" and "hepatic parenchymal and non-parenchymal cells" in the Abstract, it suggests that 'Liver' may be a proper result.
+### Verify ###
+The Abstract mentions "the human liver" multiple times and discusses the interactions of hepatic cells, directly aligning with the 'Liver' tissue type.
+### Context ###
+Given that the Abstract specifically focuses on the human liver, its cellular components, and the application of single-cell transcriptional approaches to study it, the context strongly supports the 'Liver' tissue type. There is no conflicting information that would necessitate a different conclusion.
+### Conclusion ###
+Consequently, we choose 'Liver' as our final result.
+### Result ###
+['Liver']

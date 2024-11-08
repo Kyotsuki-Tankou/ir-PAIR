@@ -1,0 +1,26 @@
+### Keywords ###
+- cutaneous squamous cell carcinoma (cSCC)
+- single-cell RNA sequencing
+- spatial transcriptomics
+- multiplexed ion beam imaging
+- tumor subpopulations
+- tumor-specific keratinocyte (TSK)
+- fibrovascular niche
+- ligand-receptor networks
+- T regulatory cell (Treg)
+- CD8 T cells
+- tumor stroma
+- human tumor xenografts
+- in vivo CRISPR screens
+- tumorigenesis
+- skin cancer
+- squamous cell carcinoma
+- tumor immunology
+- tumor microenvironment
+### Verify ###
+- **Squamous cell carcinoma**: Explicitly mentioned as "cutaneous squamous cell carcinoma (cSCC)".
+- **Skin cancer**: Mentioned in the context of cSCC.
+### Conclusion ###
+- The paper primarily discusses **Squamous cell carcinoma** and **Skin cancer**.
+### Result ###
+- ["Squamous cell carcinoma", "Skin cancer"]

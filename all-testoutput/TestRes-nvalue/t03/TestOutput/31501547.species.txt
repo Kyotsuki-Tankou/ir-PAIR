@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the phrases "mouse brain" and "primary breast cancer" suggest that the species involved could be 'Mus musculus' (mouse) and 'Homo sapiens' (human).
+### Verify ###
+- The phrase "mouse brain" explicitly mentions "mouse," which is a common term for 'Mus musculus'.
+- The phrase "primary breast cancer" typically refers to human contexts, suggesting 'Homo sapiens'.
+### Context ###
+- The study involves "histological tissue sections," which can include both animal and human tissues.
+- The mention of "mouse brain" and "primary breast cancer" in the same context indicates the use of both animal and human samples.
+### Conclusion ###
+Given the clear mention of "mouse brain" and "primary breast cancer," we can confidently conclude that both 'Mus musculus' and 'Homo sapiens' are the species involved in the study.
+### Result ###
+['Mus musculus', 'Homo sapiens']

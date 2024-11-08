@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the terms "single-cell transcriptomes" and "transcriptional landscape" suggest that technologies related to single-cell RNA sequencing might be used. Potential candidates from the schema include 'scRNA', 'RNA-seq', and 'scATAC-seq'.
+### Verify ###
+The phrase "an in-depth analysis of the transcriptional landscape of primary CRC, matched liver metastases and blood at single-cell resolution" explicitly mentions "single-cell resolution," which strongly indicates the use of single-cell RNA sequencing technologies. Among the potential candidates, 'scRNA' (single-cell RNA) is the most directly related to this context.
+### Conclusion ###
+Given the clear mention of "single-cell resolution" and the focus on transcriptional analysis, we can confidently conclude that 'scRNA' is the correct technology to be extracted.
+### Result ###
+['scRNA']

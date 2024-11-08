@@ -1,0 +1,10 @@
+### Keywords ###
+The keywords from the abstract are "digit tip amputation," "blastema," "genetic lineage analyses," "single-cell RNA sequencing," and "fibroblast heterogeneity." These suggest a focus on regeneration processes and the use of single-cell RNA sequencing technology.
+### Verify ###
+The abstract mentions "single-cell RNA sequencing of over 38,000 cells from mouse digit tip blastemas" and "unamputated control digit tips," which directly indicates the use of 'scRNA' (single-cell RNA sequencing) technology.
+### Context ###
+The study involves analyzing the cells from mouse digit tip blastemas and control digit tips, which are part of the regenerative process in mammals. The use of single-cell RNA sequencing technology to study these cells further supports the use of 'scRNA' technology.
+### Conclusion ###
+Based on the explicit mention of single-cell RNA sequencing in the abstract, 'scRNA' is a direct match for the technology used in the study.
+### Result ###
+['scRNA']

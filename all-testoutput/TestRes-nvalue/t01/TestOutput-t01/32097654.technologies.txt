@@ -1,0 +1,8 @@
+###Keywords###
+From the result ["single-cell RNA-seq"], we need to identify keywords in the input that might relate to this term. The input mentions "single-cell RNA sequencing" directly.
+###Verify###
+We need to verify if "single-cell RNA-seq" is indeed a relevant term based on the context provided in the abstract. The abstract explicitly states "single-cell RNA sequencing of over 38,000 cells from mouse digit tip blastemas and unamputated control digit tips."
+###Conclusion###
+Based on the direct mention in the abstract, "single-cell RNA-seq" is a relevant and accurate term to extract.
+###Result###
+['single-cell RNA-seq']

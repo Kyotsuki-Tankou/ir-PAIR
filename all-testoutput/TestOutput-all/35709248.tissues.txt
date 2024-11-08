@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, keywords such as "damaged epithelium," "epithelial healing," and "wound front epithelia" are prominent. These suggest a focus on epithelial tissues.
+###Verify###
+The abstract specifically mentions "damaged epithelium" and "wound front epithelia," which directly point to epithelial tissues being the primary focus of the study.
+###Conclusion###
+Based on the clear references to epithelial tissues in the context of injury and repair, we can confidently conclude that 'Epithelium' is the relevant tissue being studied.
+###Result###
+['Epithelium']

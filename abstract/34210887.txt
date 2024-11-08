@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Embryo"]
+null
+["sci-Space"]
+["Embryo development"]
+ Abstract\nSpatial patterns of gene expression manifest at scales ranging from local (e.g., cell-cell interactions) to global (e.g., body axis patterning). However, current spatial transcriptomics methods either average local contexts or are restricted to limited fields of view. Here, we introduce sci-Space, which retains single-cell resolution while resolving spatial heterogeneity at larger scales. Applying sci-Space to developing mouse embryos, we captured approximate spatial coordinates and whole transcriptomes of about 120,000 nuclei. We identify thousands of genes exhibiting anatomically patterned expression, leverage spatial information to annotate cellular subtypes, show that cell types vary substantially in their extent of spatial patterning, and reveal correlations between pseudotime and the migratory patterns of differentiating neurons. Looking forward, we anticipate that sci-Space will facilitate the construction of spatially resolved single-cell atlases of mammalian development.

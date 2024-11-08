@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "Expansion-Assisted Iterative Fluorescence In Situ Hybridization (EASI-FISH)" is prominently mentioned, indicating that 'EASI-FISH' may be a proper result.
+###Verify###
+The abstract states, "We developed Expansion-Assisted Iterative Fluorescence In Situ Hybridization (EASI-FISH) to survey gene expression in brain tissue," and "Using the EASI-FISH pipeline, we investigated the spatial distribution of dozens of molecularly defined cell types in the lateral hypothalamic area (LHA)." This further verifies that 'EASI-FISH' is indeed the technology used in the study.
+###Conclusion###
+Consequently, we choose 'EASI-FISH' as our final result.
+###Result###
+['EASI-FISH']

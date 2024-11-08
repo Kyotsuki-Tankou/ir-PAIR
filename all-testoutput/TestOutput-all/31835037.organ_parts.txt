@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the keywords "cardiac morphogenesis," "embryonic heart," and "heart development" indicate the organ part involved, which is 'Heart'.
+### Verify ###
+The abstract mentions "the comprehensive transcriptional landscape of cell types populating the embryonic heart at three developmental stages" and "spatial transcriptomics identified unique gene profiles that correspond to distinct anatomical regions in each developmental stage," which further confirms that the organ part being studied is indeed 'Heart'.
+### Conclusion ###
+Since both the keywords and the context in the abstract consistently point to 'Heart', we can confidently conclude that 'Heart' is the correct organ part.
+### Result ###
+['Heart']

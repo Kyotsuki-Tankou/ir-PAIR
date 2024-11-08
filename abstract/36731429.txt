@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Spinal cord"]
+["L4)", "Lumbar spinal cord (L3", "Lumbar spinal cord (L5", "S1)"]
+["10x Visium"]
+["Lumbar spinal cord"]
+ Abstract\nThe mammalian spinal cord functions as a community of cell types for sensory processing, autonomic control, and movement. While animal models have advanced our understanding of spinal cellular diversity, characterizing human biology directly is important to uncover specialized features of basic function and human pathology. Here, we present a cellular taxonomy of the adult human spinal cord using single-nucleus RNA sequencing with spatial transcriptomics and antibody validation. We identified 29 glial clusters and 35 neuronal clusters, organized principally by anatomical location. To demonstrate the relevance of this resource to human disease, we analyzed spinal motoneurons, which degenerate in amyotrophic lateral sclerosis (ALS) and other diseases. We found that compared with other spinal neurons, human motoneurons are defined by genes related to cell size, cytoskeletal structure, and ALS, suggesting a specialized molecular repertoire underlying their selective vulnerability. We include a web resource to facilitate further investigations into human spinal cord biology. \n Keywords:ALS; cell types; human spinal cord; motoneuron; single cell sequencing; spatial transcriptomics.

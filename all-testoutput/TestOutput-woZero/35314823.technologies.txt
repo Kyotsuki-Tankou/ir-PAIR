@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the technologies mentioned are "single-cell RNA sequencing" and "spatial transcriptomics."
+### Verify ###
+The abstract explicitly mentions "single-cell RNA sequencing" and "spatial transcriptomics" as the methods used to generate a map of glomerular positions in the mouse olfactory bulb.
+### Context ###
+The context is clear as the abstract directly states the technologies used without any ambiguity.
+### Conclusion ###
+Based on the explicit mention in the abstract, we can confidently conclude that 'single-cell RNA sequencing' and 'spatial transcriptomics' are the relevant technologies.
+### Result ###
+['single-cell RNA sequencing', 'spatial transcriptomics']

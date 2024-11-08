@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, we have terms like "blastema," "digit tip regeneration," "fibroblast heterogeneity," "mest," and "single-cell RNA-seq." These terms suggest a focus on the digit tip and its regeneration process, particularly involving the blastema and fibroblasts.
+### Verify ###
+The Abstract mentions "mouse digit tip blastemas" and "unamputated control digit tips," which strongly indicates that the study is focused on the digit tip, specifically in the context of regeneration and blastema formation.
+### Context ###
+Given the Abstract's clear focus on "digit tip amputation" and "digit tip blastemas," it is reasonable to infer that the study's primary tissue of interest is the digit tip. The Keywords, while detailed about the regeneration process and cell types, do not explicitly list "digit tip," but the context from the Abstract provides the necessary linkage.
+### Conclusion ###
+Based on the context provided by the Abstract, we can conclude that the primary tissue relevant to this study is the digit tip, despite the absence of direct mention in the Keywords.
+### Result ###
+['Digit tip']

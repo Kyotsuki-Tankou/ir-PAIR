@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "human liver," "hepatocellular carcinoma (HCC)," and "mouse liver." This suggests that 'Liver' may be a proper result.
+### Verify ###
+The abstract mentions "characterize the cellular landscape of human liver," "hepatocellular carcinoma (HCC)," and "mouse liver," which directly verifies that the study is focused on the liver tissue. This further supports that 'Liver' is a proper result.
+### Context ###
+Since the verification step directly confirms the presence of liver tissue without ambiguity, there is no need for additional context to clarify the tissue type.
+### Conclusion ###
+Consequently, we confirm that 'Liver' is the appropriate tissue type based on the given input.
+### Result ###
+['Liver']

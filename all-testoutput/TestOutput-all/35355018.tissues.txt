@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "human distal airways," "terminal and respiratory bronchioles (TRBs)," "lung," and "lung development" suggest that the tissue of interest is related to the lung.
+### Verify ###
+The abstract mentions "using spatial transcriptomics and single-cell profiling of microdissected distal airways, we identify molecularly distinct TRB cell types." This statement clearly indicates that the study focuses on the lung, specifically the distal airways and bronchioles.
+### Context ###
+Since the terms "distal airways," "terminal and respiratory bronchioles," and "lung" are explicitly mentioned and directly correspond to 'Lung' in the schema, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm 'Lung' as our final result based on the clear and direct mention of the tissue studied in the abstract.
+### Result ###
+['Lung']

@@ -1,0 +1,35 @@
+### Keywords ###
+- Synovial biopsies
+- Rheumatoid arthritis (RA)
+- Spondyloarthritis (SpA)
+- Spatial Transcriptomics (ST)
+- Transcriptomic profiles
+- Inflammation
+- Chronic inflammatory diseases
+- Differential gene expression analysis (DEA)
+- Pathway analysis
+- Immune cell type identification
+- Xcell analysis
+- Immunohistochemistry (IHC)
+- Mononuclear cell infiltrates
+- Adaptive immune response
+- T-B cell interactions
+- Tissue repair
+- High-resolution histological images
+- Central memory T cells
+- Effector memory T cells
+- Cellular mechanisms
+- Tissue diversity
+### Verify ###
+- Synovial tissue biopsies from affected joints were studied.
+- The focus is on RA and SpA patients.
+- Techniques used include ST, DEA, pathway analysis, Xcell analysis, and IHC.
+- Analysis of mononuclear cell infiltrates and immune response profiles.
+### Context ###
+- The study involves analyzing specific tissue sections (synovial biopsies) from patients with RA and SpA.
+- The techniques employed are aimed at understanding the cellular and molecular mechanisms in these tissues.
+- The findings highlight differences in immune cell types and interactions between RA and SpA.
+### Conclusion ###
+- The study focuses on synovial tissue, which is relevant to understanding the pathology of RA and SpA.
+### Result ###
+- **['Synovial tissue']**

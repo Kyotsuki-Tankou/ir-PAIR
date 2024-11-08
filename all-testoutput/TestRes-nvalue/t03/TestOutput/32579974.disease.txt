@@ -1,0 +1,8 @@
+### Keywords ###
+From the keywords "skin cancer" and "squamous cell carcinoma," we can deduce that 'Squamous carcinoma' might be a proper result.
+### Verify ###
+The input text mentions "cutaneous squamous cell carcinoma (cSCC)" and "human cSCCs," which confirms that 'Squamous carcinoma' is a correct result based on the provided schema.
+### Conclusion ###
+Since the keywords and the verification both point to 'Squamous carcinoma', we can conclude that it is the correct result.
+### Result ###
+["Squamous carcinoma"]

@@ -1,0 +1,19 @@
+### Keywords ###
+From the abstract, the following technologies are mentioned or implied:
+- "single-cell gene expression analyses"
+- "single-cell transcriptomic dataset"
+- "scRNAseq datasets"
+- "single-nucleus (snRNAseq) RNA-sequencing datasets"
+- "spatial RNA sequencing"
+### Verify ###
+- "single-cell transcriptomic dataset" and "scRNAseq datasets" directly correspond to "scRNA" and "RNA-seq."
+- "single-nucleus (snRNAseq) RNA-sequencing datasets" corresponds to "snRNA."
+- "spatial RNA sequencing" corresponds to "Spatial Transcriptomics."
+### Context ###
+- The abstract emphasizes the integration of single-cell and spatial transcriptomic data to overcome limitations in studying muscle repair.
+- The use of "scRNAseq" and "snRNAseq" datasets indicates a focus on single-cell and single-nucleus RNA sequencing technologies.
+- The mention of "spatial RNA sequencing" underscores the importance of spatial context in the study.
+### Conclusion ###
+Given the explicit mentions and the context of the study, the relevant technologies from the schema are "scRNA," "snRNA," "RNA-seq," and "Spatial Transcriptomics."
+### Result ###
+['scRNA', 'snRNA', 'RNA-seq', 'Spatial Transcriptomics']

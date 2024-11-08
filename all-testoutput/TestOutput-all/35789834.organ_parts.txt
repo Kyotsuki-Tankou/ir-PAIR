@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, we see "Cancer" and "Transcriptomics," which suggest a focus on cancer-related tissues. However, specific organ parts like "Prostate epithelial organoids" or "Prostatic cancer" are not directly mentioned in the Keywords.
+### Verify ###
+In the Abstract, it is stated that "Neuroendocrine prostate cancer (NEPC) is a lethal subtype of prostate cancer," and "our study characterized ADPC and NEPC in prostate tumors from 7 patients using scRNA-seq." This indicates a focus on prostate cancer, specifically NEPC and ADPC (adenocarcinoma prostate cancer).
+### Context ###
+Given that "Prostate epithelial organoids" and "Prostatic cancer" are not directly mentioned in either the Keywords or the Abstract, we need to consider the context more deeply. The Abstract emphasizes the study of prostate tumors, which aligns with the general category of prostate-related tissues. "Prostatic cancer" is a broader term that encompasses various subtypes of prostate cancer, including NEPC.
+### Conclusion ###
+Based on the context and the specific mention of prostate tumors and NEPC, it is reasonable to infer that "Prostatic cancer" is the most appropriate term to describe the organ part being studied, despite it not being explicitly mentioned.
+### Result ###
+["Prostatic cancer"]

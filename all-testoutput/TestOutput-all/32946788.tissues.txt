@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, we have "AGM region", "HSC", "embryo", "endothelin", "hematopoiesis", and "spatial transcriptome". These terms suggest a focus on embryonic development and specific tissues involved in hematopoiesis.
+### Verify ###
+In the Abstract, we see mentions of "embryonic aorta-gonad-mesonephros (AGM) region", "dorsal aorta", and "aortic endothelial cells". These phrases indicate a focus on specific embryonic tissues and structures involved in hematopoietic stem cell development.
+### Context ###
+Given the specific mention of "AGM region" and "dorsal aorta", we need to determine if these terms directly correspond to any items in the provided schema. The schema includes terms like "Embryo", "Aorta", and "Blood vessel", which are related but not a direct match for "AGM region".
+### Conclusion ###
+The terms from the Keywords and the Abstract do not directly match any specific items in the provided schema list. However, the closest related terms in the schema are "Embryo" and "Blood vessel" (which can be inferred to include "dorsal aorta"). The "AGM region" is a specific embryonic structure that includes parts of the aorta, gonad, and mesonephros, but it is not explicitly listed in the schema.
+### Result ###
+['Embryo', 'Blood vessel']

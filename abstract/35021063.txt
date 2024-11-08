@@ -1,0 +1,6 @@
+["Mus musculus", "Homo sapiens"]
+["Liver"]
+null
+["10x Visium", "CITE-seq", "snRNA"]
+["Normal atlas"]
+ Abstract\nThe liver is the largest solid organ in the body, yet it remains incompletely characterized. Here we present a spatial proteogenomic atlas of the healthy and obese human and murine liver combining single-cell CITE-seq, single-nuclei sequencing, spatial transcriptomics, and spatial proteomics. By integrating these multi-omic datasets, we provide validated strategies to reliably discriminate and localize all hepatic cells, including a population of lipid-associated macrophages (LAMs) at the bile ducts. We then align this atlas across seven species, revealing the conserved program of bona fide Kupffer cells and LAMs. We also uncover the respective spatially resolved cellular niches of these macrophages and the microenvironmental circuits driving their unique transcriptomic identities. We demonstrate that LAMs are induced by local lipid exposure, leading to their induction in steatotic regions of the murine and human liver, while Kupffer cell development crucially depends on their cross-talk with hepatic stellate cells via the evolutionarily conserved ALK1-BMP9/10 axis. \n Keywords:CITE-seq; Kupffer cell; NAFLD; across species; atlas; lipid-associated macrophage; liver; multi-omic; proteogenomic; spatial transcriptomics.

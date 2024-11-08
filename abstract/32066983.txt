@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Brain"]
+["Suprachiasmatic nucleus"]
+["Geo-seq"]
+["Brain development"]
+ Abstract\nMammalian circadian behaviors are orchestrated by the suprachiasmatic nucleus (SCN) in the ventral hypothalamus, but the number of SCN cell types and their functional roles remain unclear. We have used single-cell RNA-sequencing to identify the basic cell types in the mouse SCN and to characterize their circadian and light-induced gene expression patterns. We identified eight major cell types, with each type displaying a specific pattern of circadian gene expression. Five SCN neuronal subtypes, each with specific combinations of markers, differ in their spatial distribution, circadian rhythmicity and light responsiveness. Through a complete three-dimensional reconstruction of the mouse SCN at single-cell resolution, we obtained a standardized SCN atlas containing the spatial distribution of these subtypes and gene expression. Furthermore, we observed heterogeneous circadian gene expression between SCN neuron subtypes. Such a spatiotemporal pattern of gene regulation within the SCN may have an important function in the circadian pacemaker.

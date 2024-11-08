@@ -1,0 +1,12 @@
+###Keywords###
+From the abstract, the terms "leprosy granulomas," "biopsy specimens," "macrophages," "lymphocytes," "keratinocytes," and "fibroblasts" are mentioned. These terms suggest involvement of tissues such as 'Skin' and potentially 'Lymph'.
+###Verify###
+- The abstract states: "human leprosy granulomas by applying single-cell and spatial sequencing to leprosy biopsy specimens." Granulomas in leprosy are typically found in the skin.
+- It also mentions "macrophages, T cells, keratinocytes and fibroblasts," which are cell types commonly found in the skin.
+###Context###
+- The context of the study involves leprosy, which predominantly affects the skin. The mention of "biopsy specimens" further supports the involvement of 'Skin' as the primary tissue of interest.
+- No other tissues from the schema are explicitly mentioned or implied in the context of the study.
+###Conclusion###
+Based on the explicit mention of leprosy granulomas and the context of skin biopsy specimens, we can confidently conclude that 'Skin' is the relevant tissue.
+###Result###
+['Skin']

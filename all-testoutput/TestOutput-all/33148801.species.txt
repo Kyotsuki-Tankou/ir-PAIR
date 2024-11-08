@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keywords that stand out in relation to the schema are "mouse model" and "mice," which directly relate to a specific species.
+### Verify ###
+The abstract explicitly mentions the creation of a "mouse model of DMD" and the use of "mice with dystrophin exon 51 deletion." This directly indicates the species involved in the study.
+### Context ###
+Given the clear mention of "mouse model" and "mice," there is no ambiguity about the species used in the study. The context aligns perfectly with one of the species listed in the schema.
+### Conclusion ###
+Based on the explicit mentions and the context, the species "Mus musculus" is undoubtedly the correct choice from the provided schema.
+### Result ###
+["Mus musculus"]

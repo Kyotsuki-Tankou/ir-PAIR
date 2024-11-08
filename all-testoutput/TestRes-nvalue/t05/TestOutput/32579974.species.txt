@@ -1,0 +1,8 @@
+### Keywords ###
+The abstract mentions "human cSCCs and matched normal skin," which indicates the species "Homo sapiens."
+### Verify ###
+The abstract explicitly states that the research was conducted on "human cSCCs," confirming the species "Homo sapiens."
+### Conclusion ###
+Given the explicit mention of "human" in the context of the study, we can confidently conclude that the species involved is "Homo sapiens."
+### Result ###
+['Homo sapiens']

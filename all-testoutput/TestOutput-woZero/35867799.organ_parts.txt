@@ -1,0 +1,13 @@
+### Keywords ###
+From the abstract, keywords such as "acne," "back skin," "hair follicle epithelium," and "TREM2 macrophages" are prominent. 
+### Verify ###
+Upon reviewing the abstract, we see mentions of:
+- "early acne lesions on back skin"
+- "hair follicle epithelium"
+These suggest that 'Skin' might be a relevant organ part.
+### Context ###
+The abstract focuses on acne lesions on the skin and the interaction between macrophages and the hair follicle epithelium within the skin. This context strongly supports 'Skin' as the relevant organ part.
+### Conclusion ###
+Based on the explicit mention of "back skin" and the focus on skin-related structures (hair follicle epithelium), 'Skin' is the most appropriate match from the schema.
+### Result ###
+['Skin']

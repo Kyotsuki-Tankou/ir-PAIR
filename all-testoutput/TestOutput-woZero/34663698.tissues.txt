@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "developing cranium," "calvarial suture," "skeleton," and "bone" suggest the focus is on bone-related tissues. The keywords also include "cranial suture" and "spatial transcriptomics," which further emphasize the study's focus on bone development and structure.
+### Verify ###
+The abstract mentions "cranial suture," "skeleton," "bone morphogenetic protein (BMP)," and "mineralization," which all directly relate to bone tissue. From the schema, "Bone" is a clear match for these descriptions.
+### Context ###
+Given the specific mentions of "cranial suture" and "skeleton," and the detailed discussion on bone development and mineralization, it is clear that the primary tissue of interest is bone. Other tissues like "Neuron" or "Blood vessel" are mentioned in the context of their interaction with bone, but they are not the primary focus of the study.
+### Conclusion ###
+Based on the context and the specific requirements mentioned in the abstract, "Bone" is the most appropriate tissue that matches the described focus of the study.
+### Result ###
+['Bone']

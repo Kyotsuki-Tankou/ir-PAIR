@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keyword "sciMAP-ATAC" stands out as a specific technology mentioned.
+### Verify ###
+The abstract describes "single-cell combinatorial indexing on Microbiopsies Assigned to Positions for the Assay for Transposase Accessible Chromatin, or sciMAP-ATAC," which directly verifies the use of the 'sciMAP-ATAC' technology.
+### Context ###
+Since the verification step directly confirms the presence of the 'sciMAP-ATAC' technology without ambiguity, there is no need for additional context to clarify the technology used.
+### Conclusion ###
+Consequently, we confirm that 'sciMAP-ATAC' is the appropriate technology based on the given input.
+### Result ###
+['sciMAP-ATAC']

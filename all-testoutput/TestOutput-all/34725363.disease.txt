@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the terms "melanoma" and "tumor" are prominently mentioned, indicating that 'Melanoma' and 'Tumor metastasis' may be relevant results.
+### Verify ###
+The Abstract states, "Using a zebrafish model of melanoma, we identify a distinct 'interface' cell state where the tumor contacts neighboring tissues," which directly references melanoma and the interaction of tumors with their environment, suggesting 'Melanoma' and 'Tumor metastasis' are indeed relevant.
+### Context ###
+The study focuses on how tumors, specifically melanoma, adapt to new environments by interacting with neighboring tissues. This context supports the relevance of 'Melanoma' and 'Tumor metastasis' as the primary diseases of interest.
+### Conclusion ###
+Based on the clear and consistent references to melanoma and tumor interactions in the Abstract, we confirm 'Melanoma' and 'Tumor metastasis' as our final results.
+### Result ###
+['Melanoma', 'Tumor metastasis']

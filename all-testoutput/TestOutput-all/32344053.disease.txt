@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the term "atopic dermatitis" in the Abstract indicates that 'Atopic dermatitis' may be a proper result.
+### Verify ###
+The phrases "Atopic dermatitis (AD) is the most common chronic inflammatory skin disease" and "we sought to characterize AD on both transcriptomic and proteomic levels in humans" in the Abstract further confirm that 'Atopic dermatitis' is indeed the disease being studied.
+### Conclusion ###
+Consequently, we confirm 'Atopic dermatitis' as our final result.
+### Result ###
+['Atopic dermatitis']

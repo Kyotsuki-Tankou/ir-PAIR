@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "Duchenne muscular dystrophy (DMD)" and "muscle disorder" are prominently mentioned, suggesting that 'Muscle regeneration' or 'Muscle disorder' may be relevant. Additionally, "skeletal muscle" is specifically mentioned, which could also point towards muscle-related diseases.
+###Verify###
+The abstract states, "Duchenne muscular dystrophy (DMD) is a fatal muscle disorder characterized by cycles of degeneration and regeneration of multinucleated myofibers," which directly verifies the focus on muscle regeneration and pathology. Furthermore, "we performed single-nucleus transcriptomics of skeletal muscle of mice with dystrophin exon 51 deletion" confirms the study's focus on muscle-related aspects, particularly in the context of DMD.
+###Context###
+The detailed description of the mouse model with dystrophin exon 51 deletion and the exploration of transcriptional abnormalities in myofiber nuclei and other cell types within dystrophic muscle provide a clear context that the study is centered around muscle pathology and regeneration in the context of DMD.
+###Conclusion###
+Given the explicit mention and focus on DMD, a muscle disorder involving degeneration and regeneration, we can confidently conclude that 'Muscle regeneration' is the most appropriate disease category from the provided schema.
+###Result###
+['Muscle regeneration']

@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "Drosophila," "embryos," "larvae," and "spatiotemporal transcriptomic changes" are prominent. Based on the schema, "Larvae" seems to be a direct match.
+###Verify###
+The abstract mentions "developing Drosophila," "Drosophila embryos," and "larval midguts," which directly reference the stages and structures of Drosophila development. Specifically, "larval midguts" and "larval testis" highlight the significance of the larval stage.
+###Context###
+Given the clear mention of "larvae" in the context of Drosophila development and the specific focus on larval structures like midguts and testis, there is strong evidence supporting "Larvae" as a relevant organ part.
+###Conclusion###
+The consistent and specific references to "larvae" in the abstract confirm that "Larvae" is an appropriate and relevant result based on the provided schema.
+###Result###
+['Larvae']

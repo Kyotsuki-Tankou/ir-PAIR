@@ -1,0 +1,15 @@
+### Keywords ###
+- Spatial transcriptomics
+- High-resolution
+- RNA
+- Histological tissue sections
+- Spatially barcoded bead array
+- Transcript-coupled spatial barcodes
+- Mouse brain
+- Primary breast cancer
+### Verify ###
+- technologies: ['Spatial Transcriptomics']
+### Conclusion ###
+The technology mentioned in the input that matches the schema is 'Spatial Transcriptomics'.
+### Result ###
+['Spatial Transcriptomics']

@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the term "gastric cancer" is explicitly mentioned, indicating that 'Gastric cancer' may be a proper result.
+###Verify###
+The abstract focuses on "oncogene-induced gastric tumor progression" and discusses the development of an organoid-based model of gastric cancer. It also mentions "liver metastasis" and the use of trametinib to suppress metastatic progression of KRAS-mutated gastric cancer, further verifying that 'Gastric cancer' is indeed a relevant and proper result.
+###Context###
+Not required in this case as the keywords and the abstract content directly align with the schema.
+###Conclusion###
+Consequently, we confirm 'Gastric cancer' as our final result based on the clear and consistent information provided in both the keywords and the abstract.
+###Result###
+['Gastric cancer']

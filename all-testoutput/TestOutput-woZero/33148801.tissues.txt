@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keywords "Duchenne muscular dystrophy (DMD)", "multinucleated myofibers", "skeletal muscle", and "mouse model" suggest that the tissue involved is 'Muscle'.
+### Verify ###
+The abstract mentions "single-nucleus transcriptomics of skeletal muscle of mice with dystrophin exon 51 deletion." This directly aligns with the 'Muscle' tissue, as the study focuses on the transcriptional abnormalities and heterogeneity within the skeletal muscle of a mouse model of DMD.
+### Context ###
+Given that the abstract specifically discusses the transcriptional diversity within myofiber nuclei and other cell types in dystrophic muscle, it further supports the use of 'Muscle' as the relevant tissue. The context does not introduce any conflicting information that would necessitate a different conclusion.
+### Conclusion ###
+Consequently, we choose 'Muscle' as our final result.
+### Result ###
+['Muscle']

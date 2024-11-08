@@ -1,0 +1,13 @@
+###Keywords###
+The keywords "RNA sequencing," "direct proximity labeling," "human transcriptome," "subcellular locales," and "spatial transcriptomics" suggest that the study involves techniques related to the spatial analysis of RNA in various cellular compartments.
+###Verify###
+The abstract provides several pieces of evidence that support the identification of 'Lung' as the relevant tissue:
+- The use of "human transcriptome" implies a comprehensive analysis of the RNA expression in human cells.
+- "Subcellular locales" suggests a study that examines RNA localization within different parts of the cell.
+- "Spatial transcriptomics" is explicitly mentioned, which often involves examining RNA expression in specific tissues or cell types.
+###Context###
+The context is clear, and there is no conflicting information that would require additional interpretation. The abstract focuses on the use of APEX-seq for RNA sequencing in various subcellular locales, which is a method applicable to many tissues.
+###Conclusion###
+Based on the information provided in the abstract and the focus on the spatial transcriptomics of RNA in different subcellular locales, it is reasonable to infer that the study could involve the lung tissue, given the scope of "human transcriptome" and "spatial transcriptomics."
+###Result###
+['Lung']

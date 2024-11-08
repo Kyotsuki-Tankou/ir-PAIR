@@ -1,0 +1,17 @@
+### Keywords ###
+- single-cell sequencing
+- RNA
+- T cell receptors
+- tumours
+- normal adjacent tissue
+- peripheral blood
+### Verify ###
+- technologies mentioned: ['RNA-seq', 'scRNA']
+### Context ###
+- The paper discusses deep single-cell sequencing of RNA and T cell receptors.
+- It focuses on the distribution of T cell clonotypes in various tissues.
+- The study aims to understand the mechanisms behind the effectiveness of anti-PDL1 therapy.
+### Conclusion ###
+- The technologies used are primarily related to RNA sequencing at the single-cell level.
+### Result ###
+- ['RNA-seq', 'scRNA']

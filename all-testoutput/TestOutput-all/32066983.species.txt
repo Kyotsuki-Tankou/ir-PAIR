@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "mouse SCN" (suprachiasmatic nucleus) and "mouse" are mentioned, suggesting that 'Mus musculus' (house mouse) might be the species used in the study.
+### Verify ###
+The phrases "mouse SCN" and "three-dimensional reconstruction of the mouse SCN" explicitly mention "mouse," which is a common term for 'Mus musculus'. This provides strong evidence that 'Mus musculus' is indeed the species involved.
+### Conclusion ###
+Given the clear mention of "mouse SCN" in the abstract, we can confidently conclude that 'Mus musculus' is the correct species to be extracted.
+### Result ###
+['Mus musculus']

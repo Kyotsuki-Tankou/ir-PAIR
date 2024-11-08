@@ -1,0 +1,10 @@
+###Keywords###
+From the Keywords "Alzheimer’s disease" and "amyloid plaque," it suggests that 'Brain' might be relevant tissues.
+###Verify###
+The Abstract mentions "amyloid plaques of Alzheimer's disease (AD)" and "mouse model," which indicates the study is related to brain tissues.
+###Context###
+The context of the study involves the investigation of transcriptional changes in the brain tissue of an AD mouse model, specifically around amyloid plaques, which confirms that the focus is on brain tissues.
+###Conclusion###
+Consequently, we confirm 'Brain' as our final result.
+###Result###
+['Brain']

@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Lung"]
+null
+["GeoMx DSP"]
+["Non-small cell lung cancer"]
+ Abstract\nBrain metastases (BrMs) are a common occurrence in lung cancer with a dismal outcome. To understand the mechanism of metastasis to inform prognosis and treatment, here we analyze primary and metastasized tumor specimens from 44 non-small cell lung cancer patients by spatial RNA sequencing, affording a whole transcriptome map of metastasis resolved with morphological markers for the tumor core, tumor immune microenvironment (TIME), and tumor brain microenvironment (TBME). Our data indicate that the tumor microenvironment (TME) in the brain, including the TIME and TBME, undergoes extensive remodeling to create an immunosuppressive and fibrogenic niche for the BrMs. Specifically, the brain TME is characterized with reduced antigen presentation and B/T cell function, increased neutrophils and M2-type macrophages, immature microglia, and reactive astrocytes. Differential gene expression and network analysis identify fibrosis and immune regulation as the major functional modules disrupted in both the lung and brain TME. Besides providing systems-level insights into the mechanism of lung cancer brain metastasis, our study uncovers potential prognostic biomarkers and suggests that therapeutic strategies should be tailored to the immune and fibrosis status of the BrMs.

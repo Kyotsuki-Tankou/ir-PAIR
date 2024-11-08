@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "mouse embryo" and "subcellular and subnuclear microstructures" are key. The term "Embryo" directly matches the schema, and "stress granules" is also mentioned explicitly.
+### Verify ###
+- The abstract mentions "expression profiles specifically from photo-irradiated regions of interest in the mouse embryo," which confirms the relevance of 'Embryo'.
+- The term "stress granules" is explicitly mentioned, confirming its relevance.
+### Context ###
+- The study focuses on "multicellular organisms" and specifically on "mouse embryo," indicating a primary interest in embryonic tissues.
+- The mention of "subcellular and subnuclear microstructures" like "stress granules" suggests a detailed analysis at the subcellular level, but the primary tissue of interest remains the embryo.
+### Conclusion ###
+Given the clear mention and focus on "mouse embryo" and "stress granules," we can conclude that 'Embryo' and 'Stress granules' are the relevant tissues to extract.
+### Result ###
+['Embryo', 'Stress granules']

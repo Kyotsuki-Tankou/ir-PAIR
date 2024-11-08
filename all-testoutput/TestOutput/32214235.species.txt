@@ -1,0 +1,8 @@
+### Keywords ###
+The keywords from the input that correspond to the schema are "humans" and "mouse," indicating the species involved in the study.
+### Verify ###
+The abstract explicitly mentions the use of "single-cell mRNA sequencing to determine the cell-type composition of all major human organs" and also refers to a "single-cell comparative analysis of landscapes from human and mouse." This verifies that both 'Homo sapiens' and 'Mus musculus' are the species being studied.
+### Conclusion ###
+Since the input clearly identifies both 'Homo sapiens' and 'Mus musculus' as the species involved in the study, we can conclude that both species are present in the result.
+### Result ###
+['Homo sapiens', 'Mus musculus']

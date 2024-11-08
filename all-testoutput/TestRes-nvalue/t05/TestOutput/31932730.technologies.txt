@@ -1,0 +1,8 @@
+### Keywords ###
+The keywords from the abstract suggest the use of "scRNA-seq" and a microarray-based spatial transcriptomics method. These correspond to "scRNA-seq" and "Spatial Transcriptomics" in the schema.
+### Verify ###
+The abstract states that "Single-cell RNA sequencing (scRNA-seq) enables the systematic identification of cell populations in a tissue," confirming the use of "scRNA-seq." Additionally, it mentions a "microarray-based spatial transcriptomics method," which aligns with "Spatial Transcriptomics."
+### Conclusion ###
+Based on the keywords and verification, we can conclude that "scRNA-seq" and "Spatial Transcriptomics" are the technologies used in the study.
+### Result ###
+["scRNA-seq", "Spatial Transcriptomics"]

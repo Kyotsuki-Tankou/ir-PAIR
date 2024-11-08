@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, terms like "adult mouse brain," "whole-brain spatial transcriptomics," and "neuroanatomical organization" suggest that the study is focused on brain development or organization.
+### Verify ###
+The abstract mentions "generate a systematic classification of the adult mouse brain" and "complex and detailed neuroanatomical organization of the brain," which confirms that the study is indeed centered around understanding the brain's structure and function, aligning with 'Brain development' or 'Brain Cortex'.
+### Context ###
+The abstract does not mention any disease or abnormal condition, focusing instead on the normal organization and classification of the brain. This supports the idea that the study is more about understanding the normal brain rather than any specific disease.
+### Conclusion ###
+Given the clear focus on the systematic classification and neuroanatomical organization of the adult mouse brain, the most appropriate match from the schema is 'Brain development'.
+### Result ###
+['Brain development']

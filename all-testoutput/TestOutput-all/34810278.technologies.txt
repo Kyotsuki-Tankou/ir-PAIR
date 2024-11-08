@@ -1,0 +1,14 @@
+###Keywords###
+From the input, there are no explicit mentions of any specific technologies from the provided schema. The focus is on the effects of vaping on pulmonary and cardiac systems.
+###Verify###
+The abstract discusses:
+- "vaping-induced pulmonary injury"
+- "transcriptional reprogramming"
+- "gene families coding for xenobiotic response, glycerolipid metabolic processes, and oxidative stress"
+These points suggest some form of genetic or molecular analysis, but no specific technology names from the schema are mentioned.
+###Context###
+Given the lack of explicit mentions of any technologies from the schema, we need to infer if any of the described methods or analyses could correspond to the technologies listed. The mention of "transcriptional reprogramming" and "gene families" might imply the use of sequencing technologies, but this is speculative without direct references.
+###Conclusion###
+The abstract does not provide enough specific information to conclusively identify any of the technologies listed in the schema. The closest inference might be related to RNA-seq due to the mention of transcriptional changes, but this is not directly stated.
+###Result###
+null

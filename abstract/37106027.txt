@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Blood vessel"]
+["Angiosarcomas"]
+["10x Visium"]
+["Head and neck angiosarcoma"]
+ Abstract\nAngiosarcomas are rare malignant tumors of the endothelium, arising commonly from the head and neck region (AS-HN) and recently associated with ultraviolet (UV) exposure and human herpesvirus-7 infection. We examined 81 cases of angiosarcomas, including 47 cases of AS-HN, integrating information from whole genome sequencing, gene expression profiling and spatial transcriptomics (10X Visium). In the AS-HN cohort, we observed recurrent somatic mutations in CSMD3 (18%), LRP1B (18%), MUC16 (18%), POT1 (16%) and TP53 (16%). UV-positive AS-HN harbored significantly higher tumor mutation burden than UV-negative cases (p = 0.0294). NanoString profiling identified three clusters with distinct tumor inflammation signature scores (p < 0.001). Spatial transcriptomics revealed topological profiles of the tumor microenvironment, identifying dominant but tumor-excluded inflammatory signals in immune-hot cases and immune foci even in otherwise immune-cold cases. In conclusion, spatial transcriptomics reveal the tumor immune landscape of angiosarcoma, and in combination with multi-omic information, may improve implementation of treatment strategies.

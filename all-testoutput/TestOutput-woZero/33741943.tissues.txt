@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "chicken heart," "cardiac lineages," "epicardial lineage," and "coronary vascular development." These terms suggest that the study is focused on the heart tissue.
+### Verify ###
+The abstract mentions "study the development of the chicken heart," "diverse cellular lineages in developing hearts," and "coronary vascular development," which directly verify that the study is focused on the heart tissue. This supports that 'Heart' is a proper result.
+### Context ###
+Since the verification step directly confirms the presence of heart tissue without ambiguity, there is no need for additional context to clarify the tissue type.
+### Conclusion ###
+Consequently, we confirm that 'Heart' is the appropriate tissue type based on the given input.
+### Result ###
+['Heart']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "brain tissue," "lateral hypothalamic area (LHA)," and "brain region" are prominently mentioned. This suggests that 'Brain' and 'hypothalamus' may be appropriate results.
+### Verify ###
+The abstract states, "We developed Expansion-Assisted Iterative Fluorescence In Situ Hybridization (EASI-FISH) to survey gene expression in brain tissue," and "Using the EASI-FISH pipeline, we investigated the spatial distribution of dozens of molecularly defined cell types in the lateral hypothalamic area (LHA)." This further verifies that the study is focused on specific regions of the brain, particularly the hypothalamus, reinforcing that 'Brain' and 'hypothalamus' are proper results.
+### Context ###
+Given the detailed focus on the lateral hypothalamic area and the broader context of brain tissue, there is no need for additional context to confirm the results.
+### Conclusion ###
+Consequently, we choose 'Brain' and 'hypothalamus' as our final results.
+### Result ###
+['Brain', 'hypothalamus']

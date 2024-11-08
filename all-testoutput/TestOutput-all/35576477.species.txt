@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "human cardiomyopathy" and "human cardiomyocytes" are explicitly mentioned, indicating that 'Homo sapiens' may be the relevant species.
+### Verify ###
+The abstract states, "Immunohistochemistry indicated ZBTB11 to be induced in cardiomyocytes flanking fibro-fatty areas, which could be confirmed in multiple cardiomyopathy patients," and "Forced overexpression of ZBTB11 induced autophagy and cell death-related gene programmes in human cardiomyocytes." These statements directly verify that the study involves human subjects, specifically 'Homo sapiens'.
+### Context ###
+Since the verification step directly confirms the presence of 'Homo sapiens' in the abstract, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Consequently, we choose 'Homo sapiens' as our final result.
+### Result ###
+['Homo sapiens']

@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Brain"]
+["Olfactory bulb", "Hippocampus"]
+["Spatial Transcriptomics"]
+["Alzheimer disease"]
+ Abstract\nAlzheimer disease (AD) is a devastating neurological disease associated with progressive loss of mental skills and cognitive and physical functions whose etiology is not completely understood. Here, our goal was to simultaneously uncover novel and known molecular targets in the structured layers of the hippocampus and olfactory bulbs that may contribute to early hippocampal synaptic deficits and olfactory dysfunction in AD mice. Spatially resolved transcriptomics was used to identify high-confidence genes that were differentially regulated in AD mice relative to controls. A diverse set of genes that modulate stress responses and transcription were predominant in both hippocampi and olfactory bulbs. Notably, we identify Bok, implicated in mitochondrial physiology and cell death, as a spatially downregulated gene in the hippocampus of mouse and human AD brains. In summary, we provide a rich resource of spatially differentially expressed genes, which may contribute to understanding AD pathology. \n Keywords:Cellular Neuroscience; Omics; Transcriptomics.

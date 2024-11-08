@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, there are no explicit mentions of any technologies directly listed in the schema. However, "transcriptomic tools" is mentioned, which could imply the use of certain sequencing technologies.
+### Verify ###
+Upon closer inspection of the input:
+- "aptamer-based proteomics" is mentioned, but this is not listed in the schema.
+- "transcriptomic tools" is a broad term and does not specify any particular technology from the schema.
+### Context ###
+Given the context of the study involving the characterization of proteins and leveraging coronary sinus samples along with transcriptomic tools, it is possible that technologies like RNA-seq or other related sequencing methods could have been used, as they are common in transcriptomic studies.
+### Conclusion ###
+Without a specific mention of any technology from the schema, we cannot conclusively identify any of the listed technologies. Therefore, we return an empty list.
+### Result ###
+null

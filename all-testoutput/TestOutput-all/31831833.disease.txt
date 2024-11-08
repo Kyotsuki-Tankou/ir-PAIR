@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keyword "rheumatoid arthritis (RA) and spondyloarthritis (SpA)" is mentioned, indicating that these diseases are the focus of the study. Additionally, "chronic inflammatory diseases" is a broader term that encompasses RA and SpA.
+### Verify ###
+The Abstract specifically mentions "rheumatoid arthritis (RA) and spondyloarthritis (SpA)" as the diseases being studied. It also refers to these conditions as "chronic inflammatory diseases," which aligns with the broader category.
+### Context ###
+The context of the study revolves around analyzing synovial biopsies from patients with RA and SpA using Spatial Transcriptomics. The findings pertain to the adaptive immune response in RA and tissue repair functions in SpA, further confirming the focus on these specific diseases.
+### Conclusion ###
+Given the explicit mention and detailed study on "rheumatoid arthritis (RA)" and "spondyloarthritis (SpA)," it is clear that these are the primary diseases of interest. Additionally, "Chronic Inflammatory Disease" is a broader category that includes RA and SpA.
+### Result ###
+['Rheumatoid arthritis (RA)', 'Spondyloarthritis (SpA)', 'Chronic Inflammatory Disease']

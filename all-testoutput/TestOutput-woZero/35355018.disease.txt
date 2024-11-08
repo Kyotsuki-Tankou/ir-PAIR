@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "human distal airways," "human lung development," and "non-human primate model of lung injury," which suggest a focus on human respiratory diseases and lung development. Keywords like "human," "lung," and "respiratory diseases" point towards diseases related to the human lung.
+### Verify ###
+The abstract explicitly mentions "human distal airways" and "human lung development," indicating a clear focus on human-related lung conditions. The use of a "non-human primate model" is for comparative purposes but the primary focus remains on human lungs.
+### Context ###
+Given the explicit mention of "human" in the context of lung and respiratory diseases, it is clear that the study is centered around human-specific conditions. The comparison with a non-human primate model does not detract from the primary focus on human lungs.
+### Conclusion ###
+Based on the explicit references to human lungs and respiratory diseases, we can conclude that the relevant disease from the schema is related to human lung conditions.
+### Result ###
+['Lung development', 'Lung injury', 'Lung Normal atlas', 'Pulmonary Injury']

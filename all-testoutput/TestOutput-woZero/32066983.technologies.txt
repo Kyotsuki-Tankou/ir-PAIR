@@ -1,0 +1,8 @@
+### Keywords ###
+The abstract mentions "single-cell RNA-sequencing" as the primary technology used to identify cell types and characterize gene expression patterns in the mouse SCN.
+### Verify ###
+The phrase "single-cell RNA-sequencing" directly corresponds to the technology 'scRNA-seq' listed in the schema.
+### Conclusion ###
+The explicit mention of "single-cell RNA-sequencing" confirms that 'scRNA-seq' is the technology used in the study.
+### Result ###
+['scRNA-seq']

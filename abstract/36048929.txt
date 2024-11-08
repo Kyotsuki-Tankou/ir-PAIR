@@ -1,0 +1,6 @@
+["Ambystoma mexicanum"]
+["Brain"]
+null
+["Stereo-Seq"]
+["Injured brain"]
+ Abstract\nThe molecular mechanism underlying brain regeneration in vertebrates remains elusive. We performed spatial enhanced resolution omics sequencing (Stereo-seq) to capture spatially resolved single-cell transcriptomes of axolotl telencephalon sections during development and regeneration. Annotated cell types exhibited distinct spatial distribution, molecular features, and functions. We identified an injury-induced ependymoglial cell cluster at the wound site as a progenitor cell population for the potential replenishment of lost neurons, through a cell state transition process resembling neurogenesis during development. Transcriptome comparisons indicated that these induced cells may originate from local resident ependymoglial cells. We further uncovered spatially defined neurons at the lesion site that may regress to an immature neuron-like state. Our work establishes spatial transcriptome profiles of an anamniote tetrapod brain and decodes potential neurogenesis from ependymoglial cells for development and regeneration, thus providing mechanistic insights into vertebrate brain regeneration.

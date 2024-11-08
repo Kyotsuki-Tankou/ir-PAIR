@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Spinal cord"]
+null
+["Spatial Transcriptomics"]
+["Spin cord development"]
+ Abstract\nParalysis occurring in amyotrophic lateral sclerosis (ALS) results from denervation of skeletal muscle as a consequence of motor neuron degeneration. Interactions between motor neurons and glia contribute to motor neuron loss, but the spatiotemporal ordering of molecular events that drive these processes in intact spinal tissue remains poorly understood. Here, we use spatial transcriptomics to obtain gene expression measurements of mouse spinal cords over the course of disease, as well as of postmortem tissue from ALS patients, to characterize the underlying molecular mechanisms in ALS. We identify pathway dynamics, distinguish regional differences between microglia and astrocyte populations at early time points, and discern perturbations in several transcriptional pathways shared between murine models of ALS and human postmortem spinal cords.

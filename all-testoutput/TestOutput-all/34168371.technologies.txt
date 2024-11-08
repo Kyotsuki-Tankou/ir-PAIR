@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, keywords such as "single-cell and spatial sequencing," "leprosy biopsy specimens," "reversal reactions (RRs)," "antimicrobial responses," and "gene expression" are prominent. These suggest the use of advanced sequencing technologies.
+### Verify ###
+Upon reviewing the abstract, the specific terms "single-cell and spatial sequencing" are mentioned. These terms can be associated with certain technologies listed in the schema.
+### Context ###
+The mention of "single-cell and spatial sequencing" implies the use of technologies that can analyze both the single-cell level and the spatial organization of cells. From the schema, potential matches could include 'scRNA-seq' (single-cell RNA sequencing), 'Spatial Transcriptomics,' and possibly others like 'Slide-seq' or '10x Visium' that are known for spatial sequencing capabilities.
+### Conclusion ###
+Given the explicit mention of "single-cell and spatial sequencing," it is reasonable to conclude that technologies such as 'scRNA-seq' and 'Spatial Transcriptomics' are likely used in the study. However, without specific names of the technologies, we can only infer based on the context.
+### Result ###
+["scRNA-seq", "Spatial Transcriptomics"]

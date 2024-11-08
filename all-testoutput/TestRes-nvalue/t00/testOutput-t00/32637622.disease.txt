@@ -1,0 +1,26 @@
+### Keywords ###
+- Brain maps
+- Adult mouse brain
+- Spatial transcriptomics
+- Neuroanatomical organization
+- Isocortex
+- Hippocampus
+- Striatum
+- Molecular atlas
+- Single-cell RNA profile
+- Brain palette
+### Verify ###
+- Brain maps: Contextual relevance to brain structure and function.
+- Adult mouse brain: Specific focus of the study.
+- Spatial transcriptomics: Method used for classification.
+- Neuroanatomical organization: Outcome of the study.
+- Isocortex, Hippocampus, Striatum: Specific brain regions mentioned.
+- Molecular atlas: Key result of the study.
+- Single-cell RNA profile: Technique for characterizing neurons.
+- Brain palette: Resource created for brain annotation.
+### Context ###
+The study focuses on the creation of a molecular atlas for the adult mouse brain using spatial transcriptomics. This atlas helps in defining the spatial organization of brain regions and characterizing neurons based on their single-cell RNA profiles.
+### Conclusion ###
+The paper primarily deals with the development and application of a molecular atlas for understanding the neuroanatomical organization of the adult mouse brain.
+### Result ###
+- ['Brain development', 'Brain Cortex', 'Brain Hippocampus', 'Brain Cortex Olfactory bulb', 'Brain Hypothalamus', 'Neuron regeneration', 'Spin cord development', 'Brain metastases cancer', 'Brain injury', 'Secondary Brain Injury', 'Injured brain', 'Schizophrenia and Autism spectrum disorder', 'Zika virus', 'CNS lymphoma', 'Seizure epileptic brain', 'Embryonic brain', 'Brain Cortex Olfactory bulb', 'Brain Cortex', 'Brain Hippocampus', 'Brain Hypothalamus', 'Brain development', 'Brain metastases cancer', 'Brain injury', 'Secondary Brain Injury', 'Injured brain', 'Schizophrenia and Autism spectrum disorder', 'Zika virus', 'CNS lymphoma', 'Seizure epileptic brain', 'Embryonic brain']

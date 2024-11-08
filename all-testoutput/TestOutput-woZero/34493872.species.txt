@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the term "human breast cancers" is prominent, indicating that 'Homo sapiens' may be the correct species.
+### Verify ###
+The Abstract explicitly mentions "human breast cancers," which directly verifies that the study is focused on 'Homo sapiens'.
+### Context ###
+Since the Abstract is consistently discussing human breast cancers and their cellular composition, there is no ambiguity or need for additional context to confirm the species.
+### Conclusion ###
+Consequently, we confirm 'Homo sapiens' as the final result based on the clear and consistent focus on human breast cancers in the Abstract.
+### Result ###
+['Homo sapiens']

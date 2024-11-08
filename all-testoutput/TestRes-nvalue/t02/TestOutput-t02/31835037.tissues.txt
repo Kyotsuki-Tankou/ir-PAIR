@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the keyword "human embryonic cardiac cell types" and "embryonic heart" directly indicate the tissue involved, which is 'Heart'.
+### Verify ###
+The abstract mentions "the comprehensive transcriptional landscape of cell types populating the embryonic heart" and "spatial transcriptomics identified unique gene profiles that correspond to distinct anatomical regions in each developmental stage," which further confirms that the tissue being studied is indeed 'Heart'.
+### Conclusion ###
+Since both the keyword and the context in the abstract consistently point to 'Heart', we can confidently conclude that 'Heart' is the correct tissue.
+### Result ###
+['Heart']

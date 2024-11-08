@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, we have "Cellular Neuroscience", "Omics", and "Transcriptomics". These terms suggest a focus on neurological tissues and molecular analysis.
+### Verify ###
+In the Abstract, we see mentions of "hippocampus and olfactory bulbs" and "AD mice". These phrases indicate a focus on specific brain regions in the context of Alzheimer's disease.
+### Context ###
+Given the specific mention of "hippocampus and olfactory bulbs", we need to determine if these terms directly correspond to any items in the provided schema. The schema includes terms like "Hippocampus", "Olfactory bulb", and "Main olfactory bulb", which are directly related.
+### Conclusion ###
+The terms from the Keywords and the Abstract directly match specific items in the provided schema list. The closest related terms in the schema, such as "Hippocampus" and "Olfactory bulb", are explicitly mentioned in the Abstract.
+### Result ###
+['Hippocampus', 'Olfactory bulb', 'Main olfactory bulb']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, we see terms related to specific anatomical regions and developmental stages such as "heart development" and "human development." This suggests that the study focuses on organ parts related to the heart and its development.
+### Verify ###
+In the Abstract, it is stated that "we present a molecular approach that reveals the comprehensive transcriptional landscape of cell types populating the embryonic heart at three developmental stages and that maps cell-type-specific gene expression to specific anatomical domains." This indicates a focus on the heart and its developmental stages.
+### Context ###
+The Abstract mentions "human embryonic cardiac cell types" and "anatomical regions in each developmental stage," which further emphasizes the focus on the heart and its development. Additionally, terms like "embryonic heart" and "anatomical domains" suggest specific parts of the heart are being studied.
+### Conclusion ###
+Based on the Keywords, Abstract, and Context, it is clear that the study focuses on the heart, particularly the embryonic heart, and its development. The specific anatomical domains mentioned likely correspond to different parts of the heart.
+### Result ###
+["Embryo", "Mouse Embryo", "Transmural cross-section of the heart", "Mouse ventricle", "Heart", "Coronal brain section", "Liver tissue", "Myocardium", "Lumbar spinal cord (L3/L4)", "Coronal brain", "Left ventricular needle (LV)", "Colon", "Lumbar spinal cord (L5/S1)", "Synovial tissue", "Sagittal section", "Kidney-resident macrophages (KRMs)", "Dorsolateral prefrontal cortex", "Cervical cancer", "Human cortex", "Mature olfactory sensory neuron", "Donor pancreas", "Cortex", "Adenoid cystic carcinoma of lacrimal gland", "Skeletal Muscle", "Skin irAE"]

@@ -1,0 +1,13 @@
+### Keywords ###
+From the abstract, the term "high-definition spatial transcriptomics" is prominently mentioned, indicating that it might be a key technology used in the study.
+### Verify ###
+The abstract states:
+- "Here, we developed high-definition spatial transcriptomics..."
+- "Each experiment recovers several hundred thousand transcript-coupled spatial barcodes at 2-μm resolution..."
+These statements suggest that "high-definition spatial transcriptomics" is a novel technology developed and used in the study. However, "high-definition spatial transcriptomics" is not directly listed in the provided schema.
+### Context ###
+To align with the provided schema, we need to infer the closest matching technology. The description of "high-definition spatial transcriptomics" closely resembles the principles of "Spatial Transcriptomics," which involves capturing RNA from tissue sections with spatial resolution.
+### Conclusion ###
+Based on the context and the description provided, "Spatial Transcriptomics" seems to be the most appropriate match from the schema, even though the term used in the abstract is "high-definition spatial transcriptomics."
+### Result ###
+['Spatial Transcriptomics']

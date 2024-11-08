@@ -1,0 +1,9 @@
+### Keywords ###
+From the abstract, the keyword "mouse model" and "human brain sections" suggest that 'Mus musculus' and 'Homo sapiens' might be the species used in the study.
+### Verify ###
+- "in an AD mouse model" explicitly mentions "mouse," which is a common term for 'Mus musculus'.
+- "using in situ sequencing on mouse and human brain sections" explicitly mentions both "mouse" and "human," indicating the use of 'Mus musculus' and 'Homo sapiens'.
+### Conclusion ###
+Given the clear mention of both "mouse" and "human" in the abstract, we can confidently conclude that 'Mus musculus' and 'Homo sapiens' are the correct species to be extracted.
+### Result ###
+['Mus musculus', 'Homo sapiens']

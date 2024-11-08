@@ -1,0 +1,8 @@
+###Keywords###
+The abstract mentions "cardiac morphogenesis," "organ-wide orchestration of gene expression," "spatial resolution," and "human embryonic heart," which suggest a focus on heart development and the use of technologies that provide spatially resolved data.
+###Verify###
+The abstract explicitly mentions "heart development" and "human embryonic cardiac cell types," which directly correspond to the "Heart" and "Embryo" categories in the provided schema.
+###Conclusion###
+Based on the explicit mentions of heart development and embryonic stages in the abstract, we can conclude that "Heart" and "Embryo" are the appropriate results from the provided schema.
+###Result###
+["Heart", "Embryo"]

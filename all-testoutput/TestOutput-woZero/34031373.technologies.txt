@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "Single-cell RNA sequencing", "spatial information", "landmark genes", "ClumpSeq", and "spatially-resolved tissue cell atlases". These keywords suggest a focus on advanced sequencing technologies and spatial transcriptomics.
+### Verify ###
+The abstract specifically mentions:
+- "Single-cell RNA sequencing combined with spatial information"
+- "ClumpSeq, an approach for sequencing small clumps of attached cells"
+- "establish spatial atlases for all epithelial cell types in the small intestine"
+These points verify that the study employs a novel sequencing approach, ClumpSeq, to achieve spatially-resolved tissue cell atlases.
+### Conclusion ###
+Given the clear mention of "ClumpSeq" as the primary technology used in the study, we can confidently conclude that "ClumpSeq" is the correct technology to be extracted.
+### Result ###
+['ClumpSeq']

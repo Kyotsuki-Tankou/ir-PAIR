@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "patients with cancer," "T cells," and "human subjects," which suggest that 'Homo sapiens' may be the relevant species.
+### Verify ###
+The abstract mentions "patients with different types of cancer" and "performing deep single-cell sequencing of RNA and T cell receptors in patients," which clearly indicates that the study involves human subjects. This further verifies that 'Homo sapiens' is indeed the proper result.
+### Context ###
+There is no need for additional context as the abstract explicitly mentions human patients, making the context clear and direct.
+### Conclusion ###
+Based on the clear and consistent references to human patients in the abstract, we confirm 'Homo sapiens' as the final result.
+### Result ###
+['Homo sapiens']

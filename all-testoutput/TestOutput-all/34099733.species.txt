@@ -1,0 +1,10 @@
+###Keywords###
+From the Abstract, the terms "zebrafish development," "early zebrafish embryos," and "two xenopus species" are directly mentioned, indicating the species involved in the study.
+###Verify###
+The Abstract explicitly mentions "zebrafish" and "two xenopus species," which correspond to 'Danio rerio' and 'Xenopus laevis'/'Xenopus tropicalis' from the schema.
+###Context###
+The context of the study revolves around early embryogenesis in zebrafish and comparisons with two Xenopus species. This confirms the involvement of 'Danio rerio' and either 'Xenopus laevis' or 'Xenopus tropicalis'.
+###Conclusion###
+Given the clear mentions and the context of the study, we can definitively conclude that the relevant species are 'Danio rerio' and either 'Xenopus laevis' or 'Xenopus tropicalis'.
+###Result###
+['Danio rerio', 'Xenopus laevis', 'Xenopus tropicalis']

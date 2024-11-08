@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the term "heart failure" is directly mentioned, which corresponds to the keyword 'Heart failure' in the schema.
+### Verify ###
+The abstract also discusses the inability of the heart to maintain sufficient blood output, the pathophysiological insights, and therapeutic targets associated with heart failure, which further verifies that 'Heart failure' is the correct disease to extract.
+### Conclusion ###
+Based on the direct mention and discussion of heart failure in the abstract, we can conclude that 'Heart failure' is the appropriate disease to be extracted.
+### Result ###
+['Heart failure']

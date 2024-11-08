@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "human transcriptome" directly suggests that 'Homo sapiens' may be a proper result.
+### Verify ###
+The abstract mentions "APEX-seq in nine distinct subcellular locales produced a nanometer-resolution spatial map of the human transcriptome." This statement clearly indicates that the study is focused on the human transcriptome, further verifying that 'Homo sapiens' is indeed a proper result.
+### Context ###
+Since the term "human transcriptome" is explicitly mentioned and directly corresponds to 'Homo sapiens' in the schema, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm 'Homo sapiens' as our final result based on the clear and direct mention of the species used in the abstract.
+### Result ###
+['Homo sapiens']

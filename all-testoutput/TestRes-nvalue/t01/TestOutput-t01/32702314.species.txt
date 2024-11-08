@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, there is no direct mention of the species name. However, the context implies the use of mice ("AD mouse model" and "mouse and human brain sections"), which suggests 'Mus musculus' might be the species used.
+### Verify ###
+The abstract explicitly mentions "AD mouse model" and "mouse and human brain sections," which strongly indicates that the species used in the study is 'Mus musculus'.
+### Context ###
+Since the abstract directly references "AD mouse model" and the use of "mouse and human brain sections," there is no need for additional context to verify the species.
+### Conclusion ###
+Consequently, we confirm that 'Mus musculus' is the correct species used in the study.
+### Result ###
+['Mus musculus']

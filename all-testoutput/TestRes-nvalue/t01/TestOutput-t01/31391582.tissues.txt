@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the terms "mouse embryo," "germ layers," "post-implantation embryo," and "visceral endoderm" are prominently mentioned. This suggests that 'Embryo' and possibly 'Gastrula' (due to the mention of gastrulation stages) may be relevant tissue types.
+###Verify###
+The abstract specifically discusses "post-implantation development of the mouse embryo," "germ layers," and "gastrulation stages." These terms directly verify that 'Embryo' and 'Gastrula' are indeed relevant tissue types in this context.
+###Conclusion###
+Consequently, we choose 'Embryo' and 'Gastrula' as our final results.
+###Result###
+['Embryo', 'Gastrula']

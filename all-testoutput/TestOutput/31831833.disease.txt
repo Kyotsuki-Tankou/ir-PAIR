@@ -1,0 +1,10 @@
+###Keywords###
+The abstract mentions "rheumatoid arthritis (RA)" and "spondyloarthritis (SpA)" as the diseases of focus, along with "synovial biopsies," "Spatial Transcriptomics (ST)," "inflammation," and "chronic inflammatory diseases." These keywords suggest that 'Chronic Inflammatory Disease' might be a relevant category from the schema.
+###Verify###
+The abstract explicitly states that the research aims to "explore synovial biopsies from rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients" and that the study involves "chronic inflammatory diseases." This confirms the relevance of 'Chronic Inflammatory Disease' from the schema.
+###Context###
+The context of the study is clear: it is centered around the analysis of synovial biopsies from patients with RA and SpA, which are both forms of chronic inflammatory diseases. The use of Spatial Transcriptomics (ST) technology further supports the relevance of this category.
+###Conclusion###
+Based on the explicit mention of RA and SpA and the focus on chronic inflammatory diseases, 'Chronic Inflammatory Disease' is the appropriate category from the schema.
+###Result###
+['Chronic Inflammatory Disease']

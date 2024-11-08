@@ -1,0 +1,21 @@
+### Keywords ###
+- blastema
+- digit tip regeneration
+- fibroblast heterogeneity
+- mest
+- single-cell RNA-seq
+### Verify ###
+- blastema: Mentioned as the structure involved in digit tip regeneration.
+- digit tip regeneration: Central topic of the study.
+- fibroblast heterogeneity: Highlighted in the context of blastema cells.
+- mest: Identified as a novel regeneration-specific gene.
+- single-cell RNA-seq: Used as the method for the study.
+### Context ###
+- The study focuses on mammalian digit tip regeneration, specifically in mice.
+- It involves single-cell RNA sequencing to analyze cell types and differentiation trajectories.
+- The blastema is a key structure in this regeneration process.
+- The study identifies specific genes, including Mest, associated with regeneration.
+### Conclusion ###
+- The study is primarily about mouse (Mus musculus) digit tip regeneration.
+### Result ###
+- ["Mus musculus"]

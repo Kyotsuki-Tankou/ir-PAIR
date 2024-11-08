@@ -1,0 +1,17 @@
+### Keywords
+- gene expression
+- heart development
+- human development
+- human developmental cell atlas
+- in situ sequencing
+- single-cell RNA-sequencing
+- spatial transcriptomics
+- spatially resolved transcriptomics
+### Verify
+From the input, we need to extract items corresponding to the "tissues" schema. The relevant tissue mentioned in the input is:
+- Heart
+### Conclusion
+The extracted item corresponding to the "tissues" schema is:
+- Heart
+### Result
+["Heart"]

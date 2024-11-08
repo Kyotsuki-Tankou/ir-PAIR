@@ -1,0 +1,11 @@
+### Keywords ###
+The abstract mentions "prostate cancer," "prostate biopsies," "prostatectomy specimens," and "prostate epithelial organoids," which directly suggest relevant organ parts such as 'Prostate epithelial organoids' and 'Prostatic cancer'.
+### Verify ###
+- "prostate cancer" aligns with 'Prostatic cancer'.
+- "prostate epithelial organoids" directly matches 'Prostate epithelial organoids'.
+### Context ###
+The abstract focuses on the cellular states within the prostate and its associated tissues, particularly emphasizing prostate epithelial organoids and the tumor microenvironment. There is no need for additional context as the terms are explicitly mentioned.
+### Conclusion ###
+Based on the direct mentions in the abstract, we can confidently conclude that the relevant organ parts are 'Prostate epithelial organoids' and 'Prostatic cancer'.
+### Result ###
+['Prostate epithelial organoids', 'Prostatic cancer']

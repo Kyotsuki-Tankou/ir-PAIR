@@ -1,0 +1,10 @@
+###Keywords###
+The abstract mentions "human transcriptome" and "spatial transcriptomics," which suggests that 'Brain' might be a proper result as the brain is a major source of human transcriptomic data.
+###Verify###
+The abstract does not explicitly mention any specific tissue type. However, the term "human transcriptome" implies that the research could involve various human tissues, including the brain.
+###Context###
+Given that the brain is a critical organ for transcriptomic studies and the focus of the abstract is on spatial transcriptomics, it is reasonable to infer that the brain could be one of the tissues under investigation, even if not explicitly stated.
+###Conclusion###
+Based on the context, while the brain is not directly mentioned, it is a significant organ for transcriptomic research, and the technique described (APEX-seq) could be applicable to brain tissues. Therefore, it is plausible to include 'Brain' as a relevant term.
+###Result###
+['Brain']

@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, there are no direct mentions of specific technologies from the provided schema. However, terms like "single-cell and spatial reference maps" and "bulk data" suggest the use of technologies related to single-cell and spatial analysis.
+### Verify ###
+- "single-cell and spatial reference maps" implies the use of technologies that can handle both single-cell resolution and spatial information.
+- "bulk data" suggests the use of sequencing technologies that can process large datasets.
+### Context ###
+Given the context of generating dense single-cell and spatial reference maps, technologies like 'scRNA-seq' (single-cell RNA sequencing) and 'Spatial Transcriptomics' are highly relevant. These technologies are commonly used to create detailed cellular maps and analyze bulk data.
+### Conclusion ###
+Based on the context and the implied use of technologies for single-cell and spatial analysis, we can infer that 'scRNA-seq' and 'Spatial Transcriptomics' are likely the technologies used.
+### Result ###
+['scRNA-seq', 'Spatial Transcriptomics']

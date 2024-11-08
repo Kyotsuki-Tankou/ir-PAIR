@@ -1,0 +1,8 @@
+### Keywords ###
+From the context of "high-grade serous ovarian cancer (HGSOC)" and "nonmalignant ovarian samples," it indicates that 'Homo sapiens' may be the species studied, as ovarian cancer is a human-specific condition.
+### Verify ###
+The abstract mentions "patients with HGSOC" and "mouse models" for therapeutic testing. The primary focus is on human patients, indicating that 'Homo sapiens' is the main species of interest. The mention of mouse models is for experimental purposes and does not change the primary species under study.
+### Conclusion ###
+Consequently, we choose 'Homo sapiens' as our final result, as it is the primary species being studied in the context of ovarian cancer.
+### Result ###
+['Homo sapiens']

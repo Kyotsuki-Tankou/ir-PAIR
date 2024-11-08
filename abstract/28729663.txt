@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Brain"]
+null
+["scRNA"]
+["Normal atlas"]
+ Abstract\nSignificant heterogeneities in gene expression among individual cells are typically interrogated using single whole cell approaches. However, tissues that have highly interconnected processes, such as in the brain, present unique challenges. Single-nucleus RNA sequencing (SNS) has emerged as an alternative method of assessing a cell's transcriptome through the use of isolated nuclei. However, studies directly comparing expression data between nuclei and whole cells are lacking. Here, we have characterized nuclear and whole cell transcriptomes in mouse single neurons and provided a normalization strategy to reduce method-specific differences related to the length of genic regions. We confirmed a high concordance between nuclear and whole cell transcriptomes in the expression of cell type and metabolic modeling markers, but less so for a subset of genes associated with mitochondrial respiration. Therefore, our results indicate that single-nucleus transcriptome sequencing provides an effective means to profile cell type expression dynamics in previously inaccessible tissues.

@@ -1,0 +1,22 @@
+### Keywords
+- CRISPR screen
+- MIBI
+- intra-tumoral heterogeneity
+- multi-omics
+- scRNA-seq
+- skin cancer
+- spatial transcriptomics
+- squamous cell carcinoma
+- tumor immunology
+- tumor microenvironment
+### Verify
+- The input mentions "human cSCCs and matched normal skin," indicating the study involves **Homo sapiens**.
+- No other species are explicitly mentioned in the input.
+### Context
+- The study focuses on human cutaneous squamous cell carcinoma (cSCC).
+- Techniques like single-cell RNA sequencing, spatial transcriptomics, and multiplexed ion beam imaging are used.
+- The study involves human tumor xenografts, which typically use human cancer cells in a model organism, but the specific model organism is not mentioned.
+### Conclusion
+- The primary species involved in the study is **Homo sapiens**.
+### Result
+- ["Homo sapiens"]

@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Ovarian"]
+[""]
+["10x Visium"]
+["Pan cancer"]
+ Abstract\nBulk and single-cell RNA sequencing do not provide full characterization of tissue spatial diversity in cancer samples, and currently availablein situtechniques (multiplex immunohistochemistry and imaging mass cytometry) allow for only limited analysis of a small number of targets. The current study represents the first comprehensive approach to spatial transcriptomics of high-grade serous ovarian carcinoma using intact tumor tissue. We selected a small cohort of patients with highly annotated high-grade serous ovarian carcinoma, categorized them by response to neoadjuvant chemotherapy (poor or excellent), and analyzed pre-treatment tumor tissue specimens. Our study uncovered extensive differences in tumor composition between the poor responders and excellent responders to chemotherapy, related to cell cluster organization and localization. This in-depth characterization of high-grade serous ovarian carcinoma tumor tissue from poor and excellent responders showed that spatial interactions between cell clusters may influence chemo-responsiveness more than cluster composition alone. \n Keywords:Omics; Oncology; Pathology.

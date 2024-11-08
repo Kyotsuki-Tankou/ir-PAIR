@@ -1,0 +1,8 @@
+### Keywords ###
+From "spatial transcriptomics" in Keywords, it indicates that 'Spatial Transcriptomics' may be a proper result.
+### Verify ###
+From "To investigate skeletal regeneration, we made use of spatial transcriptomics to characterize the transcriptional profile specifically within the blastema" in the Abstract, we can further verify that 'Spatial Transcriptomics' is indeed the technology used.
+### Conclusion ###
+Consequently, we choose 'Spatial Transcriptomics' as our final result.
+### Result ###
+['Spatial Transcriptomics']

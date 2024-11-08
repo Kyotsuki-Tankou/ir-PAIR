@@ -1,0 +1,12 @@
+###Keywords###
+From the abstract, the terms "mouse and human kidneys," "diabetic kidney disease," and "toxic proteinopathy" are prominently mentioned. This suggests that 'Kidney' and related kidney-specific terms might be relevant matches.
+###Verify###
+- "We applied Slide-seqV2 to mouse and human kidneys" directly indicates the focus on kidneys.
+- "in a mouse model of diabetic kidney disease" and "in a mouse model of a toxic proteinopathy" further emphasize the study's focus on kidney-related diseases.
+###Context###
+- The abstract mentions "cell neighborhood centered around a population of LYVE1+ macrophages" and "changes in the cellular organization of the spatially restricted kidney filter and blood-flow-regulating apparatus." This provides context that the study is deeply involved in the cellular and molecular aspects of kidney tissue.
+- "In a spatially restricted subpopulation of epithelial cells, we discovered perturbations in 77 genes associated with the unfolded protein response." This further reinforces the focus on specific cellular components within the kidney.
+###Conclusion###
+Given the consistent focus on kidneys and kidney-related diseases throughout the abstract, 'Kidney' is a highly relevant match. Additionally, terms like 'Kidney organoid' and 'Kidney-resident macrophages (KRMs)' could be considered, but they are not directly mentioned or implied strongly enough to be primary matches.
+###Result###
+['Kidney']

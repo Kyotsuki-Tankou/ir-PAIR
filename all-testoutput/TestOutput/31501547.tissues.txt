@@ -1,0 +1,10 @@
+###Keywords###
+The keywords "mouse brain" and "primary breast cancer" from the abstract suggest that the study involves tissues from these two sources.
+###Verify###
+The abstract states, "demonstrated in mouse brain and primary breast cancer," which directly verifies that both the "mouse brain" and "primary breast cancer" are relevant to the study.
+###Context###
+The schema provided includes both "Brain" and "Breast" as potential tissue matches. The "mouse brain" clearly corresponds to the "Brain" entry in the schema, and "primary breast cancer" would likely be matched to "Breast."
+###Conclusion###
+Based on the direct references to "mouse brain" and "primary breast cancer" in the abstract, we can conclude that these are the tissues involved in the study.
+###Result###
+['Brain', 'Breast']

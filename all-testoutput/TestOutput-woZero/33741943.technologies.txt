@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, the keywords that stand out are "single-cell RNA sequencing," "spatial transcriptomics," and "data integration." This suggests that technologies such as 'scRNA' and 'Spatial Transcriptomics' may be relevant.
+### Verify ###
+The abstract mentions "single-cell RNA sequencing" and "spatial transcriptomics," which directly verify the use of these technologies. Specifically:
+- "single-cell RNA sequencing" corresponds to 'scRNA'.
+- "spatial transcriptomics" corresponds to 'Spatial Transcriptomics'.
+### Context ###
+Since the verification step directly confirms the presence of these technologies without ambiguity, there is no need for additional context to clarify the technologies used.
+### Conclusion ###
+Consequently, we confirm that 'scRNA' and 'Spatial Transcriptomics' are the appropriate technologies based on the given input.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "cortical lamination," "adult mouse primary somatosensory cortex," "human primary visual cortex," and "cerebral ischemic infarction" suggest potential matches with the schema. Specifically, 'Brain cortex' and 'Brain injury' seem relevant.
+### Verify ###
+- "adult mouse primary somatosensory cortex" and "human primary visual cortex" directly imply involvement of the 'Brain cortex'.
+- "cerebral ischemic infarction" directly corresponds to 'Brain injury'.
+### Context ###
+- The abstract discusses "spatially resolved, single-cell profiling of chromatin states" in the context of the brain, particularly focusing on cortical regions and a model of cerebral ischemic infarction.
+- The mention of "cortical lamination" and "cerebral ischemic infarction" further supports the focus on the brain's cortex and injury aspects.
+### Conclusion ###
+Given the clear references to the brain's cortex and a specific brain injury model, we can confidently conclude that 'Brain cortex' and 'Brain injury' are appropriate terms to extract.
+### Result ###
+['Brain cortex', 'Brain injury']

@@ -1,0 +1,9 @@
+### Keywords ###
+From the abstract, the keyword "murine cerebellar cells" suggests that the species being studied is likely 'Mus musculus'. Additionally, "Math1-GFP; Dcx-DsRed mice" further supports the use of mice in the study.
+### Verify ###
+- "single-cell RNA sequencing of 24,919 murine cerebellar cells" directly indicates the use of mice.
+- "Patched+/-mutant mice" also confirms the involvement of mice in the study.
+### Conclusion ###
+Given the clear mention of "murine" and specific mouse strains like "Math1-GFP; Dcx-DsRed mice" and "Patched+/-mutant mice," it is evident that the species used in the study is 'Mus musculus'.
+### Result ###
+['Mus musculus']

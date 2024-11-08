@@ -1,0 +1,14 @@
+###Keywords###
+The abstract mentions "human cell landscape (HCL)" and "single-cell hierarchy for many tissues that have not been well characterized." These keywords suggest a focus on human organ cell types and a comprehensive mapping of the human cell landscape.
+###Verify###
+The abstract further clarifies the project's scope with the following points:
+- "determine the cell-type composition of all major human organs"
+- "single-cell comparative analysis of landscapes from human and mouse"
+- "conserved genetic networks" 
+These points verify that the study is focused on human organ cell types and involves a comparison with mouse cell landscapes.
+###Context###
+The abstract does not explicitly mention any specific organ part from the provided schema. However, the general theme of the study, which is about the cell-type composition of major human organs, implies a broad range of organ parts being studied collectively.
+###Conclusion###
+Based on the comprehensive nature of the study and the focus on human organ cell types without specifying a particular organ part, it is reasonable to infer that the result corresponds to a general category that encompasses various organ parts. However, since the schema includes specific organ parts, and given that the study does not provide a direct match, we cannot identify a single organ part from the schema that would be the most appropriate. Therefore, there is no direct match from the schema provided.
+###Result###
+null

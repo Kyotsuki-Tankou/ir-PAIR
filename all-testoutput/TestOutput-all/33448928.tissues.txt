@@ -1,0 +1,10 @@
+###Keywords###
+From the input, the term "kidney" is explicitly mentioned, indicating that 'Kidney' may be a proper result.
+###Verify###
+The Abstract specifically states "Here, we investigated the kidney, an organ central to the pathophysiology of sepsis." This directly verifies that 'Kidney' is indeed a relevant tissue type in the context of the study.
+###Context###
+Not required in this case as the Keywords and Verify steps align well and provide sufficient evidence.
+###Conclusion###
+Based on the clear and consistent references to the kidney in the input, we confirm 'Kidney' as the final result.
+###Result###
+['Kidney']

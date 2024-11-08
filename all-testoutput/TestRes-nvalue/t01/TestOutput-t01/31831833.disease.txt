@@ -1,0 +1,20 @@
+###Keywords###
+- "rheumatoid arthritis (RA)"
+- "spondyloarthritis (SpA)"
+- "chronic inflammatory diseases"
+- "synovial biopsies"
+- "Spatial Transcriptomics (ST)"
+- "immune cell type identification"
+- "adaptive immune response"
+- "tissue repair"
+###Verify###
+- The Abstract mentions "rheumatoid arthritis (RA)" and "spondyloarthritis (SpA)" as the primary focus.
+- It discusses "chronic inflammatory diseases," which aligns with RA and SpA.
+- The study involves "synovial biopsies," indicating a focus on joint tissues affected by these diseases.
+###Context###
+- The use of "Spatial Transcriptomics (ST)" for analyzing "synovial biopsies" suggests a detailed examination of the inflammatory processes in RA and SpA.
+- The mention of "adaptive immune response" and "tissue repair" profiles further supports the focus on these specific diseases.
+###Conclusion###
+Given the explicit mention of "rheumatoid arthritis (RA)" and "spondyloarthritis (SpA)" and the context of chronic inflammatory diseases, it is clear that these are the relevant diseases for this study.
+###Result###
+['Rheumatoid arthritis (RA)', 'Spondyloarthritis (SpA)', 'Chronic Inflammatory Disease']

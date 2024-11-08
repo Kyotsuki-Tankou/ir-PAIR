@@ -1,0 +1,25 @@
+###Keywords###
+- "mouse embryo"
+- "inner cell mass"
+- "epiblast"
+- "germ layers"
+- "gastrulation"
+- "lineage-analysis"
+- "regionalization of cell fates"
+- "post-implantation embryo"
+- "spatially resolved transcriptome"
+- "Hippo-Yap signalling"
+- "visceral endoderm"
+- "endoderm"
+###Verify###
+- The abstract focuses heavily on the development of the "mouse embryo," specifically during the post-implantation stage and gastrulation.
+- Terms like "inner cell mass," "epiblast," "germ layers," and "lineage-analysis" suggest a detailed study of embryonic development.
+- "Gastrulation" is explicitly mentioned, which is a critical phase in embryonic development.
+###Context###
+- The abstract discusses the transition from naive to primed pluripotent states in the early epiblast, the formation of germ layers, and the specification of cell lineages during gastrulation.
+- The study involves a spatially resolved transcriptome of cell populations at defined positions in the germ layers during development from pre- to late-gastrulation stages.
+- The mention of "mouse embryo" and "post-implantation embryo" indicates a focus on early embryonic stages.
+###Conclusion###
+Given the explicit mention of "mouse embryo" and the detailed discussion of processes related to embryonic development, including gastrulation, it is reasonable to conclude that "Mouse Embryo" and "Gastrulation" are the relevant organ parts from the schema.
+###Result###
+['Mouse Embryo', 'Gastrulation']

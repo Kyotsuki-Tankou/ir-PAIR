@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "human tissue repair kinetics" and the context of wound healing in human skin suggest that 'Homo sapiens' may be the species studied.
+###Verify###
+The abstract mentions "a stented wound model that recapitulates human tissue repair kinetics," which directly indicates that the study is focused on human tissue, thus verifying 'Homo sapiens' as the species.
+###Conclusion###
+Given the explicit mention of "human tissue repair kinetics," it is clear that the species studied is 'Homo sapiens'.
+###Result###
+['Homo sapiens']

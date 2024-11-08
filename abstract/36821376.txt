@@ -1,0 +1,6 @@
+["Mus musculus", "Canis lupus familiaris"]
+["Muscle"]
+["Skeletal Muscle"]
+["10x Visium"]
+["Muscle regeneration"]
+ Abstract\nVolumetric muscle loss (VML) is an acute trauma that results in persistent inflammation, supplantation of muscle tissue with fibrotic scarring, and decreased muscle function. The cell types, nature of cellular communication, and tissue locations that drive the aberrant VML response have remained elusive. Herein, we used spatial transcriptomics on a mouse model of VML and observed that VML engenders a unique spatial profibrotic pattern driven by crosstalk between fibrotic and inflammatory macrophages and mesenchymal-derived cells. The dysregulated response impinged on muscle stem cell-mediated repair, and targeting this circuit resulted in increased regeneration and reductions in inflammation and fibrosis. Collectively, these results enhance our understanding of the cellular crosstalk that drives aberrant regeneration and provides further insight into possible avenues for fibrotic therapy exploration. \n Keywords:Adult stem cells; Fibrosis; Muscle Biology; Skeletal muscle; Stem cells.

@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "single-cell mRNA sequencing," "cell-type composition of all major human organs," "human cell landscape (HCL)," and "conserved genetic networks." This suggests that 'Brain' and 'Liver' might be relevant tissues as they are among the major organs mentioned, and they are typically associated with complex cellular heterogeneity.
+### Verify ###
+The abstract states, "We have uncovered a single-cell hierarchy for many tissues that have not been well characterized," which implies that the study includes multiple major organs. Additionally, "single-cell comparative analysis of landscapes from human and mouse" suggests that at least one of these organs would be the 'Brain' since it's a major organ in both species.
+### Context ###
+The context is supported by the mention of "major human organs" in the abstract, which includes both 'Brain' and 'Liver' as prominent examples of complex tissues.
+### Conclusion ###
+Given the broad scope of the study and the mention of multiple major organs, it is reasonable to conclude that both 'Brain' and 'Liver' are appropriate tissues related to the study.
+### Result ###
+['Brain', 'Liver']

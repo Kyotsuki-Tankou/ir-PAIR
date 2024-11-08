@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract and keywords, the terms "digit tip regeneration," "blastema," "fibroblast heterogeneity," and "single-cell RNA-seq" are prominent. These suggest a focus on regeneration, particularly in the context of digit tips, which is a form of tissue repair.
+### Verify ###
+The abstract mentions "Innate regeneration following digit tip amputation" and "digit tip blastema," which directly indicate a study on digit tip regeneration. This process is a form of tissue repair, as it involves the regrowth of lost tissue.
+### Context ###
+The context of the study is clearly centered around the regeneration of digit tips, which is a specific type of tissue repair. There is no ambiguity in the context that would require further clarification.
+### Conclusion ###
+Given the clear focus on digit tip regeneration and the involvement of blastemas and fibroblasts in this process, we can conclude that 'Digit Regeneration' and 'Tissue repair' are the relevant disease terms from the schema.
+### Result ###
+['Digit Regeneration', 'Tissue repair']

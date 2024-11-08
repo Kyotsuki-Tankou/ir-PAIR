@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the terms "cutaneous squamous cell carcinoma (cSCC)" and "normal skin" are prominently mentioned, indicating that 'Skin' may be a proper result.
+###Verify###
+The abstract specifically mentions "human cSCCs and matched normal skin," which directly verifies that 'Skin' is indeed a relevant tissue type in this context.
+###Conclusion###
+Consequently, we choose 'Skin' as our final result.
+###Result###
+['Skin']

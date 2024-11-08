@@ -1,0 +1,13 @@
+### Keywords ###
+The keywords that stand out in the input are "single-cell RNA sequencing" (scRNA-seq), "microarray-based spatial transcriptomics," "multimodal intersection analysis," and "primary pancreatic tumors." These terms suggest that 'scRNA', 'Spatial Transcriptomics', and 'ClumpSeq' might be relevant results, as they are mentioned in the context of the study.
+### Verify ###
+The abstract specifically mentions:
+- "single-cell RNA sequencing (scRNA-seq)" which directly verifies 'scRNA' as a proper result.
+- "microarray-based spatial transcriptomics" which supports 'Spatial Transcriptomics' as a proper result.
+- The use of "multimodal intersection analysis" in the context of "primary pancreatic tumors" suggests a methodological approach that could involve various sequencing technologies, but does not directly verify the mention of 'ClumpSeq'.
+### Context ###
+There is no conflicting information in the context that would require additional clarification. The methods mentioned are clearly described, and 'ClumpSeq' is not explicitly connected to the methods described in the abstract.
+### Conclusion ###
+Based on the direct mention of 'scRNA-seq' and 'microarray-based spatial transcriptomics,' we can confidently conclude that 'scRNA' and 'Spatial Transcriptomics' are proper results. The mention of 'ClumpSeq' is not directly supported by the context, so we will not include it.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

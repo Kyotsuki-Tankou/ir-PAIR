@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the phrases "2 murine AKI models" and "mouse models" suggest that 'Mus musculus' is the species involved in the study.
+###Verify###
+The abstract explicitly mentions "murine AKI models" and "mouse models," which directly indicates the use of mice in the study. This supports 'Mus musculus' as the correct species.
+###Conclusion###
+Since both the keywords and the context in the abstract clearly point to the use of mice, we can confidently conclude that 'Mus musculus' is the correct species involved in this study.
+###Result###
+['Mus musculus']

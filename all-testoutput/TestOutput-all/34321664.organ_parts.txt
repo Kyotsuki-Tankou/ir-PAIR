@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "embryonic mouse brain," "gastrulation," and "birth" suggest that the study focuses on the development of the mouse brain from the gastrulation stage to birth. The mention of "in situ mRNA sequencing" also provides a clue about the specific part of the brain being studied.
+### Verify ###
+The abstract specifically mentions "a comprehensive single-cell transcriptomic atlas of the embryonic mouse brain between gastrulation and birth." This directly indicates that the study is focused on the "Mouse Embryo" and its brain development.
+### Context ###
+The abstract does not mention any other specific organ parts in detail, and the focus is clearly on the embryonic stage of the mouse brain. The term "gastrulation" is mentioned in the context of the starting point of the developmental timeline, reinforcing the focus on the embryonic stage.
+### Conclusion ###
+Based on the clear focus on the "embryonic mouse brain" and the mention of "gastrulation," it is evident that the study primarily concerns the "Mouse Embryo."
+### Result ###
+['Mouse Embryo']

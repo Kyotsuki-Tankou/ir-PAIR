@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, the term "heart failure (HF)" is prominently mentioned, indicating that 'Heart' might be a relevant tissue.
+### Verify ###
+The abstract focuses on:
+- "Heart failure (HF) is a major public health problem characterized by inability of the heart to maintain sufficient output of blood."
+- "By leveraging coronary sinus samples and transcriptomic tools, we describe likely cardiac and specific cellular origins for several of the proteins..."
+These statements clearly verify that 'Heart' is indeed a relevant tissue in the context of the study.
+### Context ###
+Not required in this case as the keywords and the abstract content directly align with the schema.
+### Conclusion ###
+Consequently, we confirm 'Heart' as our final result based on the clear and consistent information provided in both the keywords and the abstract.
+### Result ###
+['Heart']

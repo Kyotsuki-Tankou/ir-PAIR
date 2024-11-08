@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the terms "mouse brain" and "human primary visual cortex" suggest that 'Mus musculus' and 'Homo sapiens' might be the species used in the study.
+### Verify ###
+The phrases "adult mouse primary somatosensory cortex" and "mouse brain" explicitly mention "mouse," which is a common term for 'Mus musculus'. Additionally, "human primary visual cortex" explicitly mentions "human," which corresponds to 'Homo sapiens'. This provides strong evidence that both 'Mus musculus' and 'Homo sapiens' are indeed the species involved.
+### Conclusion ###
+Given the clear mentions of "mouse brain" and "human primary visual cortex" in the abstract, we can confidently conclude that both 'Mus musculus' and 'Homo sapiens' are the correct species to be extracted.
+### Result ###
+['Mus musculus', 'Homo sapiens']

@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the term "human bladder cancer" directly indicates the species involved in the study.
+### Verify ###
+The phrase "single nuclei RNA sequencing with spatial transcriptomics and single-cell resolution spatial proteomic analysis of human bladder cancer" further confirms that the study is focused on humans.
+### Conclusion ###
+The explicit mention of "human bladder cancer" and the detailed analysis on human samples confirm that the species studied is 'Homo sapiens'.
+### Result ###
+['Homo sapiens']

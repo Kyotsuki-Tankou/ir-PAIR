@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the focus is on "cancer treatment," "T cells in tumour immunity," and "patients with different types of cancer." This suggests that the study is broadly related to cancer, particularly in the context of immune response and therapy.
+### Verify ###
+The abstract mentions "patients with different types of cancer," "tumours," and "anti-PDL1 therapy," which are general terms applicable to various cancer types. This indicates a broad focus on cancer rather than a specific type.
+### Context ###
+The context of the study involves "T cell receptors in tumours," "normal adjacent tissue," and "peripheral blood," which are common aspects studied in various cancer types. The mention of "different types of cancer" further supports a pan-cancer approach rather than focusing on a single specific cancer type.
+### Conclusion ###
+Based on the keywords, verification, and contextual clues, the study appears to be focused on a broad spectrum of cancer types, aligning with the concept of "Pan cancer."
+### Result ###
+['Pan cancer']

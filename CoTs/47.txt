@@ -1,0 +1,15 @@
+###schema###
+tissues:['Skin', 'Brain', 'Colon', 'Eymbro', 'Cortex', 'Gastrula', 'Bone', 'Embryo', 'Ileum', 'Spinal cord', 'Gland', 'Lymph', 'Liver', 'Basal cell', 'Plant part', 'Muscle', 'Thymus', 'Cervical', 'Leaf', 'Uterus', 'Skeleton', 'Bladder', 'Spleen', 'Epithelium', 'Lacrimal Gland', 'Lung', 'Overian', 'Bone marrow', 'Stress granules', 'Kidney', 'Neuron', 'Cerebella', 'Pancreas', 'Flower', 'Cell line', 'Pituitary', 'Blood vessel', 'Stomach', 'Blastema', 'Legs', 'Intestine', 'Head Neck', 'Blood', 'Breast', 'Prostate', 'Dorsal aorta', 'Synovial', 'Eye', 'Heart', 'Mucosa', 'Ovarian', 'Tumor', 'Ear'],
+###input###
+ Abstract
+The hypothalamus controls essential social behaviors and homeostatic functions. However, the cellular architecture of hypothalamic nuclei-including the molecular identity, spatial organization, and function of distinct cell types-is poorly understood. Here, we developed an imaging-based in situ cell-type identification and mapping method and combined it with single-cell RNA-sequencing to create a molecularly annotated and spatially resolved cell atlas of the mouse hypothalamic preoptic region. We profiled ~1 million cells, identified ~70 neuronal populations characterized by distinct neuromodulatory signatures and spatial organizations, and defined specific neuronal populations activated during social behaviors in male and female mice, providing a high-resolution framework for mechanistic investigation of behavior circuits. The approach described opens a new avenue for the construction of cell atlases in diverse tissues and organisms.Let's think step by step.
+###Keywords###
+From the abstract, the term "hypothalamus" is prominently mentioned, which is a region of the brain. This suggests that 'Brain' may be a proper result.
+###Verify###
+The abstract states, "we developed an imaging-based in situ cell-type identification and mapping method and combined it with single-cell RNA-sequencing to create a molecularly annotated and spatially resolved cell atlas of the mouse hypothalamic preoptic region." This further verifies that the study is focused on a specific region of the brain, reinforcing that 'Brain' is a proper result.
+###Context###
+Given the detailed focus on the hypothalamic preoptic region and the creation of a cell atlas specific to this brain region, there is no need for additional context to confirm the result.
+###Conclusion###
+Consequently, we choose 'Brain' as our final result.
+###Result###
+['Brain']

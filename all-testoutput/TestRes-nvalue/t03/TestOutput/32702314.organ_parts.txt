@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, "Alzheimer’s disease," "amyloid plaque," "astrocyte," "microglia," and "oligodendrocyte" suggest a focus on brain-related tissues. "Brain" is specifically mentioned in the context of "mouse and human brain sections," indicating that 'Brain' may be a proper result.
+### Verify ###
+From the Abstract, "we investigate here, in an AD mouse model, the transcriptional changes occurring in tissue domains in a 100-μm diameter around amyloid plaques using spatial transcriptomics" and "we confirm the majority of the observed alterations at the cellular level using in situ sequencing on mouse and human brain sections" directly verify that 'Brain' is indeed the tissue of focus in this study.
+### Context ###
+Since the Abstract and Keywords both clearly point to 'Brain' as the primary tissue of interest, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm 'Brain' as our final result based on the clear and consistent information provided in both the Abstract and Keywords.
+### Result ###
+['Brain']

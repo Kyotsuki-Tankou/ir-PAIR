@@ -1,0 +1,8 @@
+### Keywords ###
+The abstract mentions "synovial biopsies from rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients," which implies that the organ part involved is related to joints, suggesting 'Synovial tissue' as a potential result.
+### Verify ###
+The abstract explicitly states that "synovial tissue biopsies from affected joints were studied," which directly confirms that 'Synovial tissue' is the relevant organ part from the schema.
+### Conclusion ###
+Given the explicit mention of "synovial tissue biopsies," we can confidently conclude that 'Synovial tissue' is the correct organ part to be extracted.
+### Result ###
+['Synovial tissue']

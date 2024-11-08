@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "stem cell," "niche," "aortic microenvironment," "hematopoietic stem cells," "development," "genome-wide RNA tomography sequencing," "zebrafish," "chicken," "mouse," "human embryos," and "ligand-receptor couple ADM-RAMP2 and SVEP1." These keywords suggest a focus on the development and regulation of hematopoietic stem cells in the aortic microenvironment across various species.
+### Verify ###
+The abstract mentions "the aortic microenvironment, where the first hematopoietic stem cells are generated during development." This directly indicates a focus on the early development of hematopoietic stem cells, particularly in the aortic region. The study involves multiple species (zebrafish, chicken, mouse, and human embryos), emphasizing the developmental aspect.
+### Context ###
+Given the detailed focus on the aortic microenvironment and the generation of hematopoietic stem cells during development, the context aligns with processes related to embryonic development and the formation of blood cells. The mention of "human embryos" and other species in developmental stages further supports this context.
+### Conclusion ###
+Based on the context and the specific mention of the aortic microenvironment and hematopoietic stem cell generation during development, the most relevant disease or condition from the schema is 'Embryo development.' This term encompasses the developmental processes discussed in the abstract.
+### Result ###
+['Embryo development']

@@ -1,0 +1,29 @@
+### Keywords ###
+- **LADs**
+- **OXPHOS**
+- **UTRs**
+- **cycloheximide**
+- **motifs**
+- **nocodazole**
+- **retrotransposons**
+- **spatial transcriptomics**
+- **translation**
+### Verify ###
+- **LADs**: Not directly related to any disease in the schema.
+- **OXPHOS**: Not directly related to any disease in the schema.
+- **UTRs**: Not directly related to any disease in the schema.
+- **cycloheximide**: Not directly related to any disease in the schema.
+- **motifs**: Not directly related to any disease in the schema.
+- **nocodazole**: Not directly related to any disease in the schema.
+- **retrotransposons**: Not directly related to any disease in the schema.
+- **spatial transcriptomics**: Not directly related to any disease in the schema.
+- **translation**: Not directly related to any disease in the schema.
+### Context ###
+- The abstract discusses a method for RNA sequencing (APEX-seq) and its application in mapping the human transcriptome at a nanometer-resolution.
+- It mentions the radial organization of the nuclear transcriptome and pathways of mRNA localization to mitochondria.
+- The focus is on the technical aspects and potential applications of APEX-seq in various systems, rather than on specific diseases.
+### Conclusion ###
+- None of the keywords directly correspond to any diseases listed in the schema.
+- The context of the paper is more about methodology and general biological processes rather than specific diseases.
+### Result ###
+null

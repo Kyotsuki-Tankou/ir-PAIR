@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the key terms are "APEX-seq," "RNA sequencing," "proximity labeling," "subcellular locales," "human transcriptome," "spatial map," "nuclear transcriptome," "mitochondria," and "spatial transcriptomics." These terms suggest a focus on molecular and cellular mapping rather than a specific disease.
+###Verify###
+The abstract describes the development and application of APEX-seq for creating a high-resolution spatial map of the human transcriptome. It emphasizes the radial organization of the nuclear transcriptome and mRNA localization to mitochondria. There is no mention of any specific disease or pathological condition.
+###Context###
+The study is centered around understanding the spatial organization of RNA within cells, which is a fundamental aspect of normal cellular function. This further supports the idea that the research is not focused on any particular disease but rather on normal cellular processes.
+###Conclusion###
+Given the focus on mapping the normal spatial organization of the human transcriptome, "Normal" is the most appropriate match from the provided schema.
+###Result###
+["Normal"]

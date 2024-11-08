@@ -1,0 +1,10 @@
+### Keywords ###
+From the keywords, there is no direct mention of a specific tissue. However, "embryo" suggests that the study involves embryonic tissues.
+### Verify ###
+The abstract mentions "hematopoietic stem cells (HSCs) first emerge in the embryonic aorta-gonad-mesonephros (AGM) region" and "endothelial cells," indicating that the study focuses on embryonic tissues but does not specify a particular tissue type from the provided list.
+### Context ###
+Given the context of the study focusing on the embryonic development of hematopoietic stem cells, the tissues involved would be embryonic in nature. However, without specific mention of a tissue type from the schema list, we cannot conclusively identify a particular tissue.
+### Conclusion ###
+The abstract does not provide enough information to directly verify a specific tissue from the schema list. Therefore, we cannot conclude with certainty which tissue from the schema was studied.
+### Result ###
+[]

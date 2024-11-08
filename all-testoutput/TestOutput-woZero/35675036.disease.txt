@@ -1,0 +1,14 @@
+### Keywords ###
+The abstract mentions "high-grade serous ovarian cancer (HGSOC)" and its heterogeneity, which directly corresponds to the schema term 'Ovarian cancer.' Additionally, the abstract discusses "immune cell subsets," "immune coinhibitory receptor TIGIT," and "anti-TIGIT treatment," which may suggest relevance to 'Cancer' and 'Tumor metastasis' in the schema.
+### Verify ###
+- 'Ovarian cancer' is explicitly mentioned in the abstract.
+- The term 'Cancer' can be inferred from the study's focus on a specific type of cancer.
+- 'Tumor metastasis' can be inferred from the discussion of immune cell subsets and the potential therapeutic value of anti-TIGIT treatment.
+### Context ###
+- The abstract focuses on characterizing the heterogeneity of HGSOC and its interaction with the tumor microenvironment (TME).
+- The study identifies an EMT gene panel that predicts poor outcomes in HGSOC patients, which is directly related to cancer progression and metastasis.
+- The mention of immune cell subsets and TIGIT, an immune checkpoint, suggests a role in tumor immune evasion and potential treatment strategies.
+### Conclusion ###
+The abstract clearly discusses 'Ovarian cancer' and provides evidence that aligns with the terms 'Cancer' and 'Tumor metastasis' due to the focus on heterogeneity, immune interactions, and potential therapeutic strategies.
+### Result ###
+['Ovarian cancer', 'Cancer', 'Tumor metastasis']

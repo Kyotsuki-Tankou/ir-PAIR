@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "mouse brain" and "primary breast cancer" stand out as potential matches to the schema.
+### Verify ###
+- "mouse brain" suggests a potential match to 'Brain' or 'Mouse brain' if it were in the schema.
+- "primary breast cancer" directly matches 'Breast cancer' in the schema.
+### Context ###
+- The abstract focuses on the development of a high-definition spatial transcriptomics method and demonstrates its application in "mouse brain and primary breast cancer."
+- The context indicates that the study is not primarily about the diseases themselves but about the method applied to these tissues.
+### Conclusion ###
+Given the direct mention of "primary breast cancer" and the context of applying the method to specific tissues, 'Breast cancer' is a clear match. 'Mouse brain' is not directly listed in the schema, but 'Brain' is, and it could be considered a broader match if needed. However, the primary focus on "primary breast cancer" makes it the most relevant match.
+### Result ###
+['Breast cancer']

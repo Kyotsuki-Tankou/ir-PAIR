@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the term "Slide-seqV2" is directly mentioned, which is a technology listed in the schema.
+### Verify ###
+- The abstract states, "We applied Slide-seqV2 to mouse and human kidneys," confirming the use of this technology.
+- Additional context includes the application of Slide-seqV2 in various disease models and the discovery of disease-specific cell neighborhoods, further validating the use of this technology.
+### Context ###
+- The study involves applying Slide-seqV2 to both mouse and human kidneys.
+- The results obtained from using Slide-seqV2 are detailed, including the identification of specific cell neighborhoods and gene perturbations.
+### Conclusion ###
+Given the explicit mention and detailed application of Slide-seqV2 in the study, it is clear that this technology is central to the research described in the abstract.
+### Result ###
+['Slide-seqV2']

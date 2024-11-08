@@ -1,0 +1,15 @@
+###schema###
+species:['Canis lupus familiaris', 'Arabidopsis thaliana', 'Xenopus tropicalis', 'Maize', 'Drosophila melanogaster', 'Danio rerio', 'Ambystoma mexicanum', 'Gallus gallus', 'Homo sapiens', 'Rattus norvegicus', 'Mus musculus', 'Macaca fascicularis', 'Glycine max', 'Xenopus laevis', 'Caenorhabditis elegans', 'Oryctolagus cuniculus', 'Phalaenopsis aphrodite', 'Sus scrofa']
+###input###
+ Abstract
+Intra-tumor heterogeneity is one of the biggest challenges in cancer treatment today. Here we investigate tissue-wide gene expression heterogeneity throughout a multifocal prostate cancer using the spatial transcriptomics (ST) technology. Utilizing a novel approach for deconvolution, we analyze the transcriptomes of nearly 6750 tissue regions and extract distinct expression profiles for the different tissue components, such as stroma, normal and PIN glands, immune cells and cancer. We distinguish healthy and diseased areas and thereby provide insight into gene expression changes during the progression of prostate cancer. Compared to pathologist annotations, we delineate the extent of cancer foci more accurately, interestingly without link to histological changes. We identify gene expression gradients in stroma adjacent to tumor regions that allow for re-stratification of the tumor microenvironment. The establishment of these profiles is the first step towards an unbiased view of prostate cancer and can serve as a dictionary for future studies.Let's think step by step.
+### Keywords ###
+From the input, there is no direct mention of a specific species in the Abstract or Keywords. However, the context of "prostate cancer" and "pathologist annotations" suggests that the study is likely conducted on human subjects, pointing towards 'Homo sapiens' as a potential result.
+### Verify ###
+The Abstract mentions "prostate cancer," which is a disease predominantly studied and relevant to humans. This provides indirect evidence that 'Homo sapiens' might be the correct species.
+### Context ###
+Given the lack of explicit mention of the species in the Abstract, we need to rely on the context. Prostate cancer is a human-specific condition, and pathologist annotations typically refer to human tissue samples. This further supports the likelihood that the study involves 'Homo sapiens'.
+### Conclusion ###
+Based on the contextual clues and the nature of the disease studied, we can conclude that 'Homo sapiens' is the appropriate species to be extracted.
+### Result ###
+['Homo sapiens']

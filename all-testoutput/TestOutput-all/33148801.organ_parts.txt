@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract and keywords, the relevant terms are "skeletal muscle" and "myofibers," which suggest potential matches in the schema such as 'Skeletal muscle (quadriceps)' and 'Tibialis anterior muscle'.
+### Verify ###
+The abstract specifically mentions "single-nucleus transcriptomics of skeletal muscle of mice with dystrophin exon 51 deletion." This directly aligns with 'Skeletal muscle (quadriceps)' as a general representation of skeletal muscle, though 'Tibialis anterior muscle' could also be relevant given its role in muscle studies.
+### Context ###
+The context provided focuses on the transcriptional abnormalities and heterogeneity within myofiber nuclei in a mouse model of Duchenne muscular dystrophy (DMD). The emphasis is on skeletal muscle as a whole rather than a specific muscle type like 'Tibialis anterior muscle'. 
+### Conclusion ###
+Given the specific mention of "skeletal muscle" and the general nature of the study, 'Skeletal muscle (quadriceps)' is a more encompassing and appropriate choice. 'Tibialis anterior muscle' is less specific to the overall context provided.
+### Result ###
+['Skeletal muscle (quadriceps)']

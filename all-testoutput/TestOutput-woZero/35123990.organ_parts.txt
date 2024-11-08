@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "keloid tissue samples" and "normal skin control" suggest the organ parts involved, which are 'Skin' and potentially 'Keloid' (though 'Keloid' is not explicitly listed in the schema).
+### Verify ###
+The abstract mentions "keloid tissue samples and normal skin control data were analyzed," which clearly verifies that the organ parts being studied are 'Skin' and 'Keloid'. However, 'Keloid' is not listed in the schema, so we focus on 'Skin'.
+### Context ###
+Since 'Keloid' is not in the schema, we rely on the context that the study involves both keloid tissue and normal skin, confirming 'Skin' as the relevant organ part.
+### Conclusion ###
+Based on the clear mention of "keloid tissue samples and normal skin control," we can conclude that 'Skin' is the correct result.
+### Result ###
+['Skin']

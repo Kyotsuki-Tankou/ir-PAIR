@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract and Keywords, the relevant organ parts mentioned are "skin" and "Atopic dermatitis lesional skin."
+### Verify ###
+The Abstract mentions "Atopic dermatitis (AD) is the most common chronic inflammatory skin disease" and "We used skin suction blistering, a painless and nonscarring procedure that can simultaneously sample skin cells and interstitial fluid." This verifies that "skin" and "Atopic dermatitis lesional skin" are indeed the organ parts involved in the study.
+### Context ###
+Not required in this case as the verification directly supports the result without ambiguity.
+### Conclusion ###
+Consequently, we confirm "Skin" and "Atopic dermatitis lesional skin" as our final results.
+### Result ###
+['Skin', 'Atopic dermatitis lesional skin']

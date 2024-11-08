@@ -1,0 +1,11 @@
+### Keywords ###
+From the Keywords "benign prostatic hyperplasia; club cell; luminal epithelia; spatial transcriptomics," the term "benign prostatic hyperplasia" directly suggests a focus on prostate tissue.
+### Verify ###
+In the Abstract, phrases like "peri-urethral prostate tissue," "prostate volume," "prostate secretory luminal cells," and "prostates from 5ARI-treated men" clearly indicate a focus on prostate-related tissues.
+### Context ###
+The context of the study revolves around the prostate and its response to 5ARI treatment, specifically mentioning "prostate luminal cells" and "atrophy of prostate luminal cells." This further reinforces the focus on prostate tissue.
+### Conclusion ###
+Given the clear and consistent references to prostate tissue in both the Keywords and the Abstract, we can conclude that the relevant tissue type from the schema is related to the prostate.
+### Result ###
+['Prostate epithelial organoids', 'Prostatic cancer', 'Whole Bladder', 'Whole Mouse Bladder', 'Dissociated Mouse Bladder', 'Muscle-invasive bladder cancer', 'Whole Bladder Nuclear'] 
+(Note: Multiple entries are included to cover various specific mentions of prostate and related tissues in the schema.)

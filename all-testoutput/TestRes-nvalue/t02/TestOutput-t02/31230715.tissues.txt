@@ -1,0 +1,15 @@
+###Keywords###
+From the abstract, the keywords that stand out are "APEX-seq", "RNA sequencing", "proximity labeling", "human transcriptome", "subcellular locales", "nuclear transcriptome", "mitochondria", and "spatial transcriptomics". These keywords suggest a focus on molecular biology and the spatial organization of RNA within cells.
+###Verify###
+The abstract specifically mentions:
+- "APEX-seq in nine distinct subcellular locales"
+- "human transcriptome"
+- "radial organization of the nuclear transcriptome"
+- "two distinct pathways of messenger RNA localization to mitochondria"
+These points verify that the study is deeply involved in understanding the spatial organization and localization of RNA within various subcellular compartments, particularly the nucleus and mitochondria.
+###Context###
+Upon reviewing the context, the abstract does not explicitly mention any specific tissue types from the provided schema. The focus remains on subcellular locales and the human transcriptome at a general level.
+###Conclusion###
+Given the lack of specific mention of any tissue types and the focus on subcellular components and the human transcriptome, it is challenging to definitively match any of the given tissue options from the schema. The study is more about the methodology and its application at the cellular level rather than focusing on a specific tissue.
+###Result###
+null

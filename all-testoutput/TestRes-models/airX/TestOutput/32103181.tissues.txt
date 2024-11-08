@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, keywords such as "cancer," "tumours," "normal adjacent tissue," and "peripheral blood" suggest that the tissue being studied is likely related to cancer, possibly involving 'Skin,' 'Brain,' 'Colon,' 'Liver,' 'Breast,' 'Prostate,' 'Kidney,' 'Blood,' 'Tumor,' or 'Lung' from the schema.
+### Verify ###
+The abstract specifically mentions "different types of cancer," "tumours," and "normal adjacent tissue," which directly ties the study to these potential tissues listed in the schema.
+### Context ###
+The abstract does not mention specific organs or tissues beyond the general mention of "cancer," but it does not contradict any of the tissues listed in the schema.
+### Conclusion ###
+Given the context and the direct mention of cancer and normal adjacent tissue, we can infer that multiple tissues are involved in the study. Therefore, we should not conclude with a single tissue but instead extract all relevant tissues from the schema.
+### Result ###
+['Skin', 'Brain', 'Colon', 'Liver', 'Breast', 'Prostate', 'Kidney', 'Blood', 'Tumor', 'Lung']

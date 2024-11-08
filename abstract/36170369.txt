@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Neuron"]
+null
+["10x Visium", "scRNA"]
+["Neuron regeneration"]
+ Abstract\nDNA double-strand breaks (DSBs) are linked to neurodegeneration and senescence. However, it is not clear how DSB-bearing neurons influence neuroinflammation associated with neurodegeneration. Here, we characterize DSB-bearing neurons from the CK-p25 mouse model of neurodegeneration using single-nucleus, bulk, and spatial transcriptomic techniques. DSB-bearing neurons enter a late-stage DNA damage response marked by nuclear factor κB (NFκB)-activated senescent and antiviral immune pathways. In humans, Alzheimer's disease pathology is closely associated with immune activation in excitatory neurons. Spatial transcriptomics reveal that regions of CK-p25 brain tissue dense with DSB-bearing neurons harbor signatures of inflammatory microglia, which is ameliorated by NFκB knockdown in neurons. Inhibition of NFκB in DSB-bearing neurons also reduces microglia activation in organotypic mouse brain slice culture. In conclusion, DSBs activate immune pathways in neurons, which in turn adopt a senescence-associated secretory phenotype to elicit microglia activation. These findings highlight a previously unidentified role for neurons in the mechanism of disease-associated neuroinflammation.

@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the keyword "zebrafish embryo" is directly mentioned, indicating that 'Embryo' may be a proper result.
+### Verify ###
+From the Abstract, "we employed Stereo-seq to profile 91 zebrafish embryo sections," we can further verify that 'Embryo' is indeed used as a tissue in the study.
+### Conclusion ###
+Consequently, we choose 'Embryo' as our final result.
+### Result ###
+['Embryo']

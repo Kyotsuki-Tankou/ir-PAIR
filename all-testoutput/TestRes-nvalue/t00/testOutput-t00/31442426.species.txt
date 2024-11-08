@@ -1,0 +1,18 @@
+### Keywords ###
+- APEX-Seq
+- RNA localization
+- proximity labeling
+- subcellular localization
+### Verify ###
+- The input text mentions "APEX-seq" which matches "APEX-Seq" in keywords.
+- "RNA localization" is explicitly mentioned in the text.
+- "proximity labeling" is also mentioned as part of the technique developed.
+- "subcellular localization" is implied by the discussion of RNAs localizing to specific regions of the cell.
+### Context ###
+- The text discusses the use of APEX-seq to probe the spatial organization of the transcriptome.
+- It mentions the localization of RNAs within the cell and their interaction with RNA-binding proteins.
+- The technique is used to study translation initiation complexes and stress granule composition.
+### Conclusion ###
+- The keywords extracted are relevant and accurately reflect the main themes of the input text.
+### Result ###
+null

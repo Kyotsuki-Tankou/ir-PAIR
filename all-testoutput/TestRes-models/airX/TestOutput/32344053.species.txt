@@ -1,0 +1,8 @@
+###Keywords###
+From the keywords "atopic dermatitis," we can deduce that 'Homo sapiens' might be a proper result as this is the species most commonly associated with atopic dermatitis.
+###Verify
+The input text mentions "Atopic dermatitis (AD) is the most common chronic inflammatory skin disease," which confirms that 'Homo sapiens' is indeed a correct result based on the provided schema.
+###Conclusion
+Since the keywords and the verification both point to 'Homo sapiens', we can conclude that it is the correct result.
+###Result
+["Homo sapiens"]

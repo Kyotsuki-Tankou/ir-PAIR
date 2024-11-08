@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the keyword "mouse" and "human" are mentioned, which correspond to the species in the schema.
+### Verify ###
+The abstract mentions "in an AD mouse model" and "using in situ sequencing on mouse and human brain sections," which verifies that both 'Mus musculus' and 'Homo sapiens' are used in the study.
+### Conclusion ###
+Since both "mouse" and "human" are mentioned and verified in the context of the study, we can conclude that 'Mus musculus' and 'Homo sapiens' are the appropriate results.
+### Result ###
+['Mus musculus', 'Homo sapiens']

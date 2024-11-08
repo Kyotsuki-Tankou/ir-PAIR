@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Uterus"]
+null
+["10x Visium"]
+["Normal atlas"]
+ Abstract\nThe endometrium, the mucosal lining of the uterus, undergoes dynamic changes throughout the menstrual cycle in response to ovarian hormones. We have generated dense single-cell and spatial reference maps of the human uterus and three-dimensional endometrial organoid cultures. We dissect the signaling pathways that determine cell fate of the epithelial lineages in the lumenal and glandular microenvironments. Our benchmark of the endometrial organoids reveals the pathways and cell states regulating differentiation of the secretory and ciliated lineages both in vivo and in vitro. In vitro downregulation of WNT or NOTCH pathways increases the differentiation efficiency along the secretory and ciliated lineages, respectively. We utilize our cellular maps to deconvolute bulk data from endometrial cancers and endometriotic lesions, illuminating the cell types dominating in each of these disorders. These mechanistic insights provide a platform for future development of treatments for common conditions including endometriosis and endometrial carcinoma.

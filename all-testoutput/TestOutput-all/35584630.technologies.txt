@@ -1,0 +1,11 @@
+###Keywords###
+From the abstract, the mention of "single-cell RNA sequencing" and "spatial transcriptomics" directly indicates the technologies used. The keywords here are "single-cell RNA sequencing" and "spatial transcriptomics."
+###Verify###
+The abstract specifically states:
+- "Single-cell RNA sequencing shows significant clonal overlap between proliferating and exhausted CD8+T cells."
+- "Using spatial transcriptomics and spatial T cell receptor (TCR) sequencing, we show these clonally unrelated, phenotypically distinct CD8+T cell populations occupy discrete niches within the brain metastasis tumor microenvironment."
+This clearly verifies that the technologies used are "RNA-seq" (synonymous with "single-cell RNA sequencing") and "Spatial Transcriptomics."
+###Conclusion###
+Given the clear mention of "single-cell RNA sequencing" and "spatial transcriptomics" in both the context and the specific methodology, we can confidently conclude that the technologies involved in the study are "RNA-seq" and "Spatial Transcriptomics."
+###Result###
+['RNA-seq', 'Spatial Transcriptomics']

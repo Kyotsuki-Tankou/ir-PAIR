@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords "gastruloids," "embryonic stem cells," "mammalian development," "somitogenesis," and "embryos" stand out. This suggests that 'Embryo development' may be a proper result.
+### Verify ###
+The abstract mentions "Gastruloids are three-dimensional aggregates of embryonic stem cells that display key features of mammalian development after implantation," and "we compare mouse gastruloids with mouse embryos using single-cell RNA sequencing and spatial transcriptomics." These statements directly verify that the study is focused on the development of embryos, particularly in the context of gastruloids. This further supports that 'Embryo development' is a proper result.
+### Context ###
+Since the verification step directly confirms the focus on embryonic development without ambiguity, there is no need for additional context to clarify the disease or developmental process type.
+### Conclusion ###
+Consequently, we confirm that 'Embryo development' is the appropriate disease or developmental process based on the given input.
+### Result ###
+['Embryo development']

@@ -1,0 +1,20 @@
+### Keywords ###
+From the abstract, we can identify several terms that may correspond to the schema, including "HSC" (Hematopoietic stem cells), "embryo," "endothelin," "hematopoiesis," "single cell transcriptome," and "spatial transcriptome."
+### Verify ###
+The abstract specifically mentions:
+- "HSCs first emerge in the embryonic aorta-gonad-mesonephros (AGM) region"
+- "spatial transcriptomics analysis of dorsoventral polarized signaling in the aorta"
+- "gene expression profiling of sorted cell populations and single cells"
+- "endothelin 1 as an important secreted regulator of human HSC development"
+These points verify that the terms "Hematopoietic stem cells," "embryo," "endothelin," and "hematopoiesis" are relevant to the schema.
+### Context ###
+The context of the abstract provides a detailed look at the research involving hematopoietic stem cells in the AGM region of the embryo and the use of spatial transcriptomics and gene expression profiling. The mention of endothelin 1 as a regulator of HSC development is particularly relevant to the schema.
+### Conclusion ###
+Based on the direct references to hematopoietic stem cells, embryonic development, and hematopoiesis in the abstract, we can conclude that the items corresponding to the schema are present.
+### Result ###
+[
+  'Hematopoietic stem cells',
+  'embryo',
+  'endothelin',
+  'hematopoiesis'
+]

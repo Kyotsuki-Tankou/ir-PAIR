@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keywords "infected lymph nodes" and "mouse tumor model" indicate the organ parts involved. 
+### Verify ###
+The abstract mentions "a study of infected lymph nodes and of a mouse tumor model," which further confirms that the organ parts being studied are indeed 'Lymph nodes' and 'Mouse tumor model'. The 'Mouse tumor model' can be more specifically identified as 'MC38 syngeneic tumor' based on common usage in research.
+### Context ###
+Not required in this case as the verification directly supports the keywords.
+### Conclusion ###
+Since both the keywords and the context in the abstract consistently point to 'Lymph nodes' and 'MC38 syngeneic tumor', we can confidently conclude that these are the correct organ parts.
+### Result ###
+['Lymph nodes', 'MC38 syngeneic tumor']

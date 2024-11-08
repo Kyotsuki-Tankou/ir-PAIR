@@ -1,0 +1,14 @@
+###Keywords###
+From the input, the term "brain metastases" and "human brain" are prominently mentioned, indicating that 'Brain' is a key tissue involved in the study.
+###Verify###
+The abstract states:
+- "Here, we analyze human brain metastases..."
+- "Brain metastases are densely infiltrated by T cells..."
+- "Using spatial transcriptomics and spatial T cell receptor (TCR) sequencing, we show these clonally unrelated, phenotypically distinct CD8+T cell populations occupy discrete niches within the brain metastasis tumor microenvironment."
+These statements clearly verify that the study is focused on the 'Brain' tissue.
+###Context###
+Since the term "brain metastases" and "human brain" are explicitly mentioned and directly correspond to 'Brain' in the schema, there is no need for additional context to verify the result.
+###Conclusion###
+Given the clear and repeated mention of "brain" in the context of metastases and T cell infiltration, we can confidently conclude that 'Brain' is the appropriate tissue to be extracted according to the schema.
+###Result###
+['Brain']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "Homo sapiens" is not directly mentioned. However, the context of the study involving "patients with advanced melanoma" and "Melanoma brain metastasis (MBM)" strongly suggests that the species studied is human.
+### Verify ###
+The abstract mentions "patients with advanced melanoma" and "patient-derived MBM/ECM xenograft models," which clearly indicates that the study is focused on human subjects. This further verifies that 'Homo sapiens' is the species involved.
+### Context ###
+Given the specific references to human patients and human-derived models, there is no need for additional context to verify the species. The study's focus on human melanoma and brain metastasis directly aligns with 'Homo sapiens.'
+### Conclusion ###
+Based on the clear and direct references to human patients and human-derived models in the abstract, we can confidently confirm 'Homo sapiens' as the species involved in the study.
+### Result ###
+['Homo sapiens']

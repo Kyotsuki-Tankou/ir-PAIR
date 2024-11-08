@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "lacrimal gland" and "organoids" suggest a focus on gland development and tissue regeneration. The term "single-cell sequencing" indicates the use of single-cell technologies but does not directly specify a disease.
+###Verify###
+The abstract mentions "the establishment of long-term 3D organoid culture conditions for mouse and human lacrimal gland" and "address cellular heterogeneity of the lacrimal gland by providing a single-cell atlas of human lacrimal gland tissue and organoids." These statements indicate a focus on the development and regeneration of the lacrimal gland, which aligns with 'Gland development' and 'Tissue repair' from the schema.
+###Context###
+The abstract does not explicitly mention a specific disease but focuses on the development and regeneration aspects of the lacrimal gland. The use of organoids and single-cell sequencing is aimed at understanding the (patho-)physiology of the gland, which can be broadly related to 'Gland development' and 'Tissue repair'.
+###Conclusion###
+Based on the context and the focus on the lacrimal gland's development and regeneration, the most relevant items from the schema are 'Gland development' and 'Tissue repair'.
+###Result###
+['Gland development', 'Tissue repair']

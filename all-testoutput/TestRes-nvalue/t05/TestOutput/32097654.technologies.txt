@@ -1,0 +1,12 @@
+### Keywords ###
+The keywords that stand out from the abstract are "single-cell RNA sequencing," "blastema," "digit tip regeneration," and "fibroblast heterogeneity." These suggest that 'scRNA-seq' (single-cell RNA sequencing) might be a relevant technology.
+### Verify ###
+In the abstract, it is mentioned:
+- "we present single-cell RNA sequencing of over 38,000 cells from mouse digit tip blastemas and unamputated control digit tips"
+This directly verifies that 'scRNA-seq' is indeed the relevant technology used in the study.
+### Context ###
+Since the abstract explicitly mentions "single-cell RNA sequencing," there is no ambiguity or need for further context to verify this technology.
+### Conclusion ###
+Consequently, based on the explicit mention in the abstract, we choose 'scRNA-seq' as our final result.
+### Result ###
+['scRNA-seq']

@@ -1,0 +1,8 @@
+###Keywords###
+The keyword from the input that corresponds to the schema is "acute kidney injury."
+###Verify###
+The abstract mentions "acute kidney injury" as one of the outcomes of sepsis, which is the focus of the study, verifying that it is the correct disease to extract according to the schema.
+###Conclusion###
+Since the keyword matches the disease mentioned in the abstract, we can conclude that "Acute kidney injury" is the appropriate result.
+###Result###
+['Acute kidney injury']

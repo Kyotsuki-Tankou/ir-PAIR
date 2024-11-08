@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, "spatially resolved transcriptome" suggests the use of a technology related to spatial transcriptomics.
+###Verify###
+The abstract does not specify a particular technology, but the mention of "spatially resolved transcriptome" and "digitized in situ gene-expression profiles" implies that a spatial transcriptomics technique was likely used.
+###Context###
+The context of the abstract is focused on developmental biology and the study of the mouse embryo, which is a common subject for spatial transcriptomics.
+###Conclusion###
+Given the context and the keywords, the most likely technology used is 'Spatial Transcriptomics'.
+###Result###
+['Spatial Transcriptomics']

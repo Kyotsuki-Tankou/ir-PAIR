@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "embryo" and "aorta" suggest a focus on an organismal stage and a specific organ, respectively. This implies that 'Homo sapiens' and possibly 'Mus musculus' might be relevant species based on the schema provided.
+### Verify ###
+The abstract mentions "human HSC development," which confirms 'Homo sapiens' as a proper result. The mention of "embryonic aorta-gonad-mesonephros (AGM) region" could also suggest a connection to 'Mus musculus', which is often used as a model organism for developmental studies.
+### Context ###
+The context of the abstract involves both human and mouse hematopoietic stem cell (HSC) development, indicating a broader scope that includes both species.
+### Conclusion ###
+Based on the direct mention of human HSC development and the potential relevance of mouse models, we conclude that 'Homo sapiens' and 'Mus musculus' are the most appropriate species from the schema.
+### Result ###
+['Homo sapiens', 'Mus musculus']

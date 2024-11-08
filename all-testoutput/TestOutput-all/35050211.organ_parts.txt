@@ -1,0 +1,14 @@
+### Keywords ###
+From the input, the terms "heart," "atrial," "ventricular myocardium," and "cardiac scar" are prominently mentioned. This suggests that "Heart" and possibly "Myocardium" may be relevant results.
+### Verify ###
+The abstract specifically states:
+- "To investigate the mechanisms facilitating heart repair after apical resection in neonatal mice"
+- "revealing distinct domains of atrial and ventricular myocardium"
+- "Spatial transcriptomics also defined the cardiac scar"
+These statements directly verify the presence of "Heart" and "Myocardium" in the context of the study.
+### Context ###
+Given the detailed focus on the heart, including specific mentions of atrial and ventricular myocardium, and the cardiac scar, there is no need for additional context to verify the results.
+### Conclusion ###
+Consequently, we confirm "Heart" and "Myocardium" as the appropriate results based on the explicit references in the abstract.
+### Result ###
+["Heart", "Myocardium"]

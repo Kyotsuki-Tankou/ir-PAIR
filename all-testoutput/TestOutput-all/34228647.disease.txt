@@ -1,0 +1,9 @@
+### Keywords ###
+From the abstract, the terms "glioblastoma (GBM)" and "brain endothelial cells (ECs)" are directly mentioned, which suggest the diseases "Glioblastoma" and potentially "Brain cancer."
+### Verify ###
+- "glioblastoma (GBM), the most common malignant brain tumor in humans" directly verifies "Glioblastoma."
+- "brain endothelial cells (ECs)" and the context of the study focusing on the brain's blood-brain-barrier (BBB) support "Brain cancer."
+### Conclusion ###
+Both "Glioblastoma" and "Brain cancer" are relevant and mentioned in the context of the study. However, "Glioblastoma" is specifically highlighted as the primary focus.
+### Result ###
+['Glioblastoma', 'Brain cancer']

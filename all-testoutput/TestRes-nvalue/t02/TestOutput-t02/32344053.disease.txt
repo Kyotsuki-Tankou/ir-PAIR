@@ -1,0 +1,8 @@
+### Keywords ###
+From the Keywords, we have "atopic dermatitis," which directly matches one of the items in the schema.
+### Verify ###
+The Abstract mentions "Atopic dermatitis (AD) is the most common chronic inflammatory skin disease" and discusses the study's focus on characterizing AD on both transcriptomic and proteomic levels. This confirms that "Atopic dermatitis" is the primary disease being studied.
+### Conclusion ###
+Given the clear focus on Atopic dermatitis throughout the Abstract and the direct mention in the Keywords, we can conclude that "Atopic dermatitis" is the appropriate choice from the provided schema.
+### Result ###
+["Atopic dermatitis"]

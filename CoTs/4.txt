@@ -1,0 +1,15 @@
+###schema###
+technologies:['CITE-seq', 'XYZeq', 'CUT&Tag', 'RNA-seq', 'STARmap', 'DBiT-seq', 'scATAC-seq', 'scRNA', 'EASI-FISH', 'PIC-seq', 'sci-Space', 'sciMAP-ATAC-seq', 'Slide-seqV2', 'Spatial Transcriptomics', 'seqFish', 'seqFISH+', 'Stereo-Seq', '10x Visium', ' RNA-seq', 'scATAC', 'LCM-seq', 'Tomo-seq', 'Proximity RNA-seq', 'sci-ATAC-seq', 'ClampFISH', 'VINE-seq', 'snRNA', 'HDST', 'GeoMx DSP', 'Seq-Scope', 'APEX-seq', 'RNAseq', 'MERFISH', 'ClumpSeq', 'Geo-seq', 'Slide-seq']
+###input###
+ Abstract
+Gastrulation of the mouse embryo entails progressive restriction of lineage potency and the organization of the lineage progenitors into a body plan. Here we performed a high-resolution RNA sequencing analysis on single mid-gastrulation mouse embryos to collate a spatial transcriptome that correlated with the regionalization of cell fates in the embryo. 3D rendition of the quantitative data enabled the visualization of the spatial pattern of all expressing genes in the epiblast in a digital whole-mount in situ format. The dataset also identified genes that (1) are co-expressed in a specific cell population, (2) display similar global pattern of expression, (3) have lineage markers, (4) mark domains of transcriptional and signaling activity associated with cell fates, and (5) can be used as zip codes for mapping the position of single cells isolated from the mid-gastrula stage embryo and the embryo-derived stem cells to the equivalent epiblast cells for delineating their prospective cell fates.Let's think step by step.
+### Keywords ###
+From the abstract, there is no direct mention of any specific technology from the provided schema. However, the term "high-resolution RNA sequencing analysis" and "spatial transcriptome" might suggest the use of a technology related to RNA sequencing and spatial transcriptomics.
+### Verify ###
+The abstract mentions "high-resolution RNA sequencing analysis" and "collate a spatial transcriptome," which implies the use of a technology capable of both high-resolution RNA sequencing and spatial mapping. From the schema, "Geo-seq" is a technology that fits this description as it combines RNA sequencing with spatial information.
+### Context ###
+Given the absence of direct mentions of "Geo-seq" in the abstract, we need to ensure that no other technology from the schema better fits the described methods. The abstract emphasizes the spatial aspect and high-resolution RNA sequencing, which aligns well with "Geo-seq." Other technologies like "Spatial Transcriptomics" or "Slide-seq" could also be considered, but the specific mention of "3D rendition" and "digital whole-mount in situ format" further supports "Geo-seq" as it is known for its ability to provide detailed spatial information in a 3D context.
+### Conclusion ###
+Based on the context and the specific requirements mentioned in the abstract, "Geo-seq" is the most appropriate technology that matches the described methodology. Therefore, we conclude that "Geo-seq" is the correct result.
+### Result ###
+['Geo-seq']

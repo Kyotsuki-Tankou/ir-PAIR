@@ -1,0 +1,19 @@
+### Keywords ###
+- APEX-seq
+- RNA localization
+- Proximity labeling
+- Subcellular localization
+### Verify ###
+- **APEX-seq**: Mentioned in the text as an RNA proximity labeling technique.
+- **RNA localization**: Described as a key aspect of the study, focusing on the spatial organization of the transcriptome.
+- **Proximity labeling**: Used in the context of APEX-seq to probe the spatial organization.
+- **Subcellular localization**: Implied by the discussion on resolving the localization of RNAs within the cell.
+### Context ###
+- The study involves mapping RNA composition in non-membrane-bound structures like stress granules.
+- APEX-seq is developed to determine RNA localization and their interaction with RNA-binding proteins.
+- The technique is compared with APEX-mass spectrometry to gain insights into translation initiation complexes and stress granule composition.
+### Conclusion ###
+- The keywords accurately reflect the main themes and techniques discussed in the abstract.
+### Result ###
+- **organ_parts**: null
+The abstract does not mention any specific organ parts from the provided schema. Therefore, the extracted list for `organ_parts` is empty, and we return 'null'.

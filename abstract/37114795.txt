@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Kidney"]
+null
+["10x Visium"]
+["Wilms Tumors cancer"]
+ Abstract\nA nephrogenic progenitor cell (NP) with cancer stem cell characteristics driving Wilms tumor (WT) using spatial transcriptomics, bulk and single cell RNA sequencing, and complementary in vitro and transplantation experiments is identified and characterized. NP from WT samples with NP from the developing human kidney is compared. Cells expressing SIX2 and CITED1 fulfill cancer stem cell criteria by reliably recapitulating WT in transplantation studies. It is shown that self-renewal versus differentiation in SIX2+CITED1+ cells is regulated by the interplay between integrins ITGβ1 and ITGβ4. The spatial transcriptomic analysis defines gene expression maps of SIX2+CITED1+ cells in WT samples and identifies the interactive gene networks involved in WT development. These studies define SIX2+CITED1+ cells as the nephrogenic-like cancer stem cells of WT and points to the renal developmental transcriptome changes as a possible driver in regulating WT formation and progression. \n Keywords:Wilms tumor; cancer; nephron progenitors.

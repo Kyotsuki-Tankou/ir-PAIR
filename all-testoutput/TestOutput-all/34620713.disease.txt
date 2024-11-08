@@ -1,0 +1,8 @@
+###Keywords###
+From the keywords "chromatin accessibility", "fibrosis", "multiomics", "spatial epigenomics", and "spatial transcriptomics", we can infer that 'Skin injury' and 'Wound repair' might be relevant results based on the context of tissue repair and skin injury.
+###Verify###
+The input text mentions "skin injury" and "regenerative wound healing," which directly align with the terms 'Skin injury' and 'Wound repair' from the schema.
+###Conclusion###
+Since both the keywords and the verification point to 'Skin injury' and 'Wound repair', we can conclude that these are the correct results.
+###Result###
+["Skin injury", "Wound repair"]

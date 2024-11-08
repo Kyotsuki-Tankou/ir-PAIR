@@ -1,0 +1,15 @@
+###schema###
+tissues:['Skin', 'Brain', 'Colon', 'Eymbro', 'Cortex', 'Gastrula', 'Bone', 'Embryo', 'Ileum', 'Spinal cord', 'Gland', 'Lymph', 'Liver', 'Basal cell', 'Plant part', 'Muscle', 'Thymus', 'Cervical', 'Leaf', 'Uterus', 'Skeleton', 'Bladder', 'Spleen', 'Epithelium', 'Lacrimal Gland', 'Lung', 'Overian', 'Bone marrow', 'Stress granules', 'Kidney', 'Neuron', 'Cerebella', 'Pancreas', 'Flower', 'Cell line', 'Pituitary', 'Blood vessel', 'Stomach', 'Blastema', 'Legs', 'Intestine', 'Head Neck', 'Blood', 'Breast', 'Prostate', 'Dorsal aorta', 'Synovial', 'Eye', 'Heart', 'Mucosa', 'Ovarian', 'Tumor', 'Ear'],
+###input###
+ Abstract
+Identifying the spatial organization of tissues at cellular resolution from single-cell gene expression profiles is essential to understanding biological systems. Using an in situ 3D multiplexed imaging method, seqFISH, we identify unique transcriptional states by quantifying and clustering up to 249 genes in 16,958 cells to examine whether the hippocampus is organized into transcriptionally distinct subregions. We identified distinct layers in the dentate gyrus corresponding to the granule cell layer and the subgranular zone and, contrary to previous reports, discovered that distinct subregions within the CA1 and CA3 are composed of unique combinations of cells in different transcriptional states. In addition, we found that the dorsal CA1 is relatively homogeneous at the single cell level, while ventral CA1 is highly heterogeneous. These structures and patterns are observed using different mice and different sets of genes. Together, these results demonstrate the power of seqFISH in transcriptional profiling of complex tissues.Let's think step by step.
+### Keywords ###
+From the abstract, the terms "hippocampus," "dentate gyrus," "CA1," "CA3," and "transcriptional states" suggest that the study is focused on the brain, particularly the hippocampus region. Therefore, 'Brain' may be a proper result.
+### Verify ###
+The abstract mentions "the hippocampus is organized into transcriptionally distinct subregions" and "distinct layers in the dentate gyrus," which are specific structures within the brain. This further verifies that 'Brain' is indeed a proper result.
+### Context ###
+Given the detailed description of brain regions such as the hippocampus, dentate gyrus, CA1, and CA3, there is no ambiguity in the context that would require additional clarification. The focus on these brain-specific areas solidifies 'Brain' as the correct tissue type.
+### Conclusion ###
+Consequently, we choose 'Brain' as our final result based on the clear and consistent focus on brain structures and their transcriptional states in the abstract.
+### Result ###
+['Brain']

@@ -1,0 +1,12 @@
+### Keywords ###
+The input mentions "zebrafish model of melanoma," which directly points to the species 'Danio rerio'.
+### Verify ###
+The abstract specifically states:
+- "Using a zebrafish model of melanoma"
+This directly verifies the use of 'Danio rerio' in the study.
+### Context ###
+Given the explicit mention of the zebrafish model, there is no need for additional context to confirm the species.
+### Conclusion ###
+Consequently, we confirm 'Danio rerio' as the appropriate species based on the clear references in the abstract.
+### Result ###
+['Danio rerio']

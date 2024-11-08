@@ -1,0 +1,18 @@
+###Keywords###
+From the abstract, the terms "gastric cancer," "GAN mice," "organoids," "GAN-KP tumors," "liver metastasis," and "stromal cells" are explicitly mentioned, indicating a focus on gastric cancer and its metastatic progression.
+###Verify###
+The abstract states:
+- "To elucidate the mechanism underlying the oncogene-induced gastric tumor progression, we have developed an organoid-based model of gastric cancer from GAstric Neoplasia (GAN) mice."
+- "GAN-KP organoids showed a Wnt-independent phenotype and the ability to proliferate without formation of a Wnt-regulated three-dimensional epithelial architecture."
+- "After transplantation in syngeneic mouse stomach, GAN-p53KO cells formed only small tumors, whereas GAN-KP cells gave rise to invasive tumors associated with the development of hypoxia as well as to liver metastasis."
+These statements directly verify the focus on "Gastric cancer" and "GAN-KP tumor."
+###Context###
+The study involves:
+- Development of an organoid-based model from GAN mice.
+- Genetic manipulation to create different types of organoids (GAN-WT, GAN-p53KO, GAN-KP).
+- Analysis of tumor progression and metastasis, particularly focusing on the GAN-KP tumors.
+- Spatial transcriptomics analysis to understand the role of hypoxia signaling in metastatic progression.
+###Conclusion###
+Since the terms "Gastric cancer" and "GAN-KP tumor" are both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that these are the appropriate organ parts studied.
+###Result###
+["Gastric cancer", "GAN-KP tumor"]

@@ -1,0 +1,9 @@
+### Keywords ###
+From the abstract and keywords, we can identify "AGM region" and "embryo" as relevant terms. These suggest that 'Mouse Embryo' and 'Embryo' may be proper results.
+### Verify ###
+- The abstract mentions "Hematopoietic stem cells (HSCs) first emerge in the embryonic aorta-gonad-mesonephros (AGM) region," which verifies 'Mouse Embryo' and 'Embryo' as relevant terms.
+- The keyword "AGM region" also supports the relevance of 'Mouse Embryo'.
+### Conclusion ###
+Given the direct mention of the "AGM region" and "embryo" in the context of HSC development, we can conclude that 'Mouse Embryo' and 'Embryo' are suitable terms to extract.
+### Result ###
+['Mouse Embryo', 'Embryo']

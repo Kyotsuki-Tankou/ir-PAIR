@@ -1,0 +1,8 @@
+###Keywords###
+From the phrase "patient-derived benign prostate epithelial organoids" and "prostate tissue explants," it indicates that 'Homo sapiens' may be the species being studied.
+###Verify###
+The Abstract specifically mentions "patient-derived" and "prostate tissue explants," which implies human tissue. Additionally, the context of studying vitamin D deficiency in relation to human prostate cancer further verifies that 'Homo sapiens' is indeed the species being studied.
+###Conclusion###
+Consequently, we confirm 'Homo sapiens' as our final result.
+###Result###
+['Homo sapiens']

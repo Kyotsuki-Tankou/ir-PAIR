@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the key terms related to species are "humans" and "human glioblastoma." This suggests that 'Homo sapiens' could be the relevant species.
+### Verify ###
+- The abstract explicitly mentions "humans" and "human glioblastoma," indicating that the study is focused on human subjects.
+- There are no mentions of any other species in the abstract.
+### Context ###
+- The study involves "single-cell RNA sequencing (scRNA-seq) of freshly isolated ECs from human glioblastoma and paired tumor peripheral tissues," which further confirms the focus on human subjects.
+- The mention of "human brain ECs" and "human BBB" reinforces that the research is specifically conducted on humans.
+### Conclusion ###
+Given the clear and consistent references to humans throughout the abstract, it is evident that 'Homo sapiens' is the relevant species.
+### Result ###
+['Homo sapiens']

@@ -1,0 +1,8 @@
+###Keywords###
+The keyword from the input that corresponds to the schema is "Skin."
+###Verify###
+The abstract mentions "skin suction blistering" and "skin cells" multiple times, indicating that the study focuses on the skin tissue. This verifies that "Skin" is the correct tissue to extract according to the schema.
+###Conclusion###
+Since the keyword matches the tissue mentioned in the abstract, we can conclude that "Skin" is the appropriate result.
+###Result###
+['Skin']

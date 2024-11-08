@@ -1,0 +1,10 @@
+###Keywords###
+From the provided input, we can extract the keywords "single-cell RNA sequencing," "spatial transcriptomics," and "skin cancer," which suggest that the technologies 'scRNA-seq' and 'Spatial Transcriptomics' may be relevant.
+###Verify###
+The abstract mentions "combined single-cell RNA sequencing with spatial transcriptomics" and "multiplexed ion beam imaging from a series of human cSCCs," confirming the use of 'scRNA-seq' and 'Spatial Transcriptomics' in the study.
+###Context###
+The abstract also discusses "cutaneous squamous cell carcinoma (cSCC)" and "matched normal skin," indicating a focus on skin tissue.
+###Conclusion###
+Based on the provided context and the mention of specific technologies in the abstract, we can conclude that 'scRNA-seq' and 'Spatial Transcriptomics' are the relevant technologies from the schema.
+###Result###
+['scRNA', 'Spatial Transcriptomics']

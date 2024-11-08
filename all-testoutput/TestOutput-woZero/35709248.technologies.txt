@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "spatial transcriptomics" is mentioned, which directly corresponds to the schema.
+### Verify ###
+The abstract states "multimodal single-cell and spatial transcriptomics analyses," confirming the use of 'Spatial Transcriptomics' technology.
+### Context ###
+Not required as the keyword "spatial transcriptomics" is explicitly mentioned and aligns with the schema.
+### Conclusion ###
+Based on the clear mention of "spatial transcriptomics" in the abstract, we confirm 'Spatial Transcriptomics' as the relevant technology used.
+### Result ###
+['Spatial Transcriptomics']

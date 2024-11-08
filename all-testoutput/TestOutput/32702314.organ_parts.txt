@@ -1,0 +1,10 @@
+### Keywords ###
+The keywords from the input that correspond to the schema are "Alzheimer's disease" and "amyloid plaque."
+### Verify ###
+The abstract specifically mentions "Alzheimer's disease (AD)" and "amyloid plaques" as the subjects of the study, verifying that these are the correct terms to extract according to the schema.
+### Context ###
+The context of the abstract focuses on the molecular changes and cellular interactions around amyloid plaques in Alzheimer's disease, using spatial transcriptomics. This is consistent with the schema's inclusion of "Alzheimer's disease" and "amyloid plaque" as relevant organ parts.
+### Conclusion ###
+Since the keyword matches the organ parts mentioned in the abstract, we can conclude that "Alzheimer's disease" and "amyloid plaque" are the appropriate results.
+### Result ###
+['Alzheimer’s disease', 'amyloid plaque']

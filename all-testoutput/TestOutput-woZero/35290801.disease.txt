@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "lung cancer" is directly mentioned, suggesting that 'Lung cancer' might be the relevant disease.
+### Verify ###
+The abstract explicitly states, "We applied Perturb-map to knock out dozens of genes in parallel in a mouse model of lung cancer," which clearly indicates that the study focuses on 'Lung cancer'.
+### Context ###
+Since the term "lung cancer" is explicitly mentioned and directly corresponds to 'Lung cancer' in the schema, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm 'Lung cancer' as the correct disease studied in the research.
+### Result ###
+['Lung cancer']

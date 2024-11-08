@@ -1,0 +1,15 @@
+###Keywords###
+From the abstract, the terms "single-cell/nucleus RNA-seq", "spatial single-cell transcriptomics", "TCR-seq", "RNA/ATAC-seq", and "spatial transcriptomics" suggest potential matches in the schema.
+###Verify###
+1. **single-cell/nucleus RNA-seq**: This term directly corresponds to 'scRNA' in the schema.
+2. **spatial single-cell transcriptomics**: This term can be associated with 'Spatial Transcriptomics'.
+3. **TCR-seq**: This term is not explicitly listed in the schema, but it is a specific type of sequencing related to T cell receptors.
+4. **RNA/ATAC-seq**: This term suggests the use of both 'RNA-seq' and 'scATAC-seq'.
+5. **spatial transcriptomics**: This term directly corresponds to 'Spatial Transcriptomics' in the schema.
+###Context###
+- **TCR-seq**: While not directly listed in the schema, it is a sequencing technology related to immune cells. However, since it is not in the schema, it should not be included in the final result.
+- **RNA/ATAC-seq**: This combined term indicates the use of both RNA sequencing and ATAC sequencing, which correspond to 'RNA-seq' and 'scATAC-seq' respectively.
+###Conclusion###
+Based on the clear mentions and direct correspondences, we can confirm the following technologies as our final results: 'scRNA', 'Spatial Transcriptomics', 'RNA-seq', and 'scATAC-seq'.
+###Result###
+['scRNA', 'Spatial Transcriptomics', 'RNA-seq', 'scATAC-seq']

@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the terms "Prdm16 knockout mouse models" and "mice" indicate that 'Mus musculus' may be a proper result.
+###Verify###
+The abstract mentions "Prdm16 cardiomyocyte-specific knockout (Prdm16cKO) mice were generated and analyzed for cardiac phenotypes," which further verifies that 'Mus musculus' is indeed the species used in the study.
+###Conclusion###
+Consequently, we choose 'Mus musculus' as our final result.
+###Result###
+['Mus musculus']

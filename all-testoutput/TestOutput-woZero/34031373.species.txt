@@ -1,0 +1,13 @@
+###Keywords###
+From the input, the term "ClumpSeq" is explicitly mentioned, indicating that 'ClumpSeq' may be a proper result.
+###Verify###
+The abstract states:
+- "Here, we present ClumpSeq, an approach for sequencing small clumps of attached cells."
+- "ClumpSeq can be applied for reconstructing spatial atlases of rare cell types in other tissues and tumors."
+These statements clearly verify the use of 'ClumpSeq' technology in the study.
+###Context###
+Since the keywords and the abstract both strongly indicate the use of 'ClumpSeq', there is no need for additional context to confirm the result.
+###Conclusion###
+Consequently, we confirm 'ClumpSeq' as the final result based on the explicit mentions and detailed descriptions in the abstract.
+###Result###
+['ClumpSeq']

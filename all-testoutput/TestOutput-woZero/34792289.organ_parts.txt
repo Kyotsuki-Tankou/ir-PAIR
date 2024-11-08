@@ -1,0 +1,11 @@
+###Keywords###
+From the abstract, the term "human liver" is prominently mentioned, indicating the organ part being studied.
+###Verify###
+- The abstract focuses entirely on the "human liver," discussing its cellular interactions, transcriptional landscape, and the use of single-cell and single-nucleus RNA sequencing techniques.
+- The term "human liver" directly matches an entry in the schema.
+###Context###
+No additional context is needed as the term "human liver" is explicitly and consistently used throughout the abstract, clearly specifying the organ part involved.
+###Conclusion###
+Consequently, we confirm "Liver" as our final result based on the clear and direct mentions in the Abstract.
+###Result###
+['Liver']

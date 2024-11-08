@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the key terms related to diseases are "leprosy," "reversal reactions (RRs)," "disseminated lepromatous leprosy (L-lep)," and "tuberculoid leprosy (T-lep)." These terms suggest a focus on leprosy and its different forms.
+### Verify ###
+The abstract specifically mentions "human leprosy granulomas" and "leprosy biopsy specimens," which directly verify the study's focus on leprosy.
+### Context ###
+The abstract discusses the transition from lepromatous leprosy to tuberculoid leprosy, indicating a detailed study on the different stages and reactions within the disease spectrum of leprosy.
+### Conclusion ###
+Given the clear focus on leprosy and its various forms in the abstract, it is evident that the disease being studied is leprosy.
+### Result ###
+["Lepromatous"]

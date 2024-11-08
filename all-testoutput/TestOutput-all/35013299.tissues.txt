@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "foot", "forearm", "skin", and "peripheral blood mononuclear cells" are prominently mentioned. These suggest potential matches with 'Skin' and 'Blood' from the schema.
+###Verify###
+The abstract states, "we profile 174,962 single cells from the foot, forearm, and peripheral blood mononuclear cells using single-cell RNA sequencing." This directly verifies the involvement of 'Skin' (as foot and forearm are covered by skin) and 'Blood' (as peripheral blood mononuclear cells are a component of blood).
+###Context###
+The detailed focus on "wound bed", "wound edge", and "unwounded skin" further emphasizes the role of skin in the study. Additionally, the mention of "peripheral blood mononuclear cells" solidifies the inclusion of 'Blood'.
+###Conclusion###
+Based on the Keywords, Verify, and Context steps, the study explicitly involves 'Skin' and 'Blood'.
+###Result###
+['Skin', 'Blood']

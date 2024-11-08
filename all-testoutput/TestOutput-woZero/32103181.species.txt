@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, keywords such as "patients with cancer," "T cells," "tumour immunity," and "anti-PDL1 therapy" are prominent. These suggest that the study is focused on human subjects.
+###Verify###
+The abstract mentions "patients with different types of cancer" and "performing deep single-cell sequencing of RNA and T cell receptors in patients." These phrases strongly indicate that the species involved in the study is 'Homo sapiens.'
+###Context###
+Upon reviewing the context, there are no additional clues that would suggest another species as the primary focus. The entire abstract centers around human patients and their T cell responses in the context of cancer treatment.
+###Conclusion###
+Consequently, we choose 'Homo sapiens' as our final result.
+###Result###
+['Homo sapiens']

@@ -1,0 +1,10 @@
+###Keywords###
+The keywords "cutaneous squamous cell carcinoma (cSCC)", "single-cell RNA sequencing", "spatial transcriptomics", and "skin cancer" suggest a focus on the cellular and molecular characteristics of skin squamous cell carcinoma.
+###Verify###
+The abstract mentions "a series of human cSCCs and matched normal skin" and "single-cell and spatial data," which indicates a study involving skin tissue and its cancerous form.
+###Context###
+The study combines various techniques to analyze the cellular composition and architecture of cutaneous squamous cell carcinoma. It describes the identification of tumor subpopulations and the integration of single-cell and spatial data to map ligand-receptor networks.
+###Conclusion###
+Given the focus on the skin and the specific type of cancer, it can be concluded that the organ part relevant to the schema is 'Skin'.
+###Result###
+['Skin']

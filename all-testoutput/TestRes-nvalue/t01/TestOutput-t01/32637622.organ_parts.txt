@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the key terms related to organ parts are "adult mouse brain," "isocortex," "hippocampus," and "striatum." These terms suggest specific regions of the brain.
+### Verify ###
+The Abstract explicitly mentions "adult mouse brain," "isocortex," "hippocampus," and "striatum," which are all specific brain regions. This provides direct evidence that these terms correspond to organ parts listed in the schema.
+### Context ###
+The study focuses on the brain and its subdivisions, with a clear emphasis on the mouse brain. The context supports the extraction of brain-related organ parts.
+### Conclusion ###
+Based on the explicit mentions and the context of the study, we can conclude that the relevant organ parts are 'Striatum', 'Hippocampus', and 'Brain'.
+### Result ###
+['Striatum', 'Hippocampus', 'Brain']

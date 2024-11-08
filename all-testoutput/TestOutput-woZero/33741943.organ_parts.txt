@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the focus is on "chicken heart" and "development of the chicken heart," which directly suggests 'Heart' as a relevant organ part.
+### Verify ###
+The abstract mentions "chicken heart" multiple times and discusses aspects like "spatial transcriptomics," "cellular lineages in developing hearts," and "coronary vascular development," all of which are specific to the heart. This further supports that 'Heart' is the correct organ part.
+### Context ###
+Given the specific context of studying the "development of the chicken heart" and the detailed discussion on cardiac lineages and coronary vascular development, there is strong contextual evidence that the study pertains to the heart.
+### Conclusion ###
+Consequently, we confirm 'Heart' as the final result based on the keywords, verification, and contextual clues.
+### Result ###
+['Heart']

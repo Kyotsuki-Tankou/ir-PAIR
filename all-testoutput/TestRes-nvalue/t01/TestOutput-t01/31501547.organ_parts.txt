@@ -1,0 +1,9 @@
+### Keywords ###
+From the input, the terms "mouse brain" and "primary breast cancer" stand out as potential organ parts.
+### Verify ###
+- "mouse brain" directly matches "Mouse brain" in the schema.
+- "primary breast cancer" directly matches "Breast Cancer" in the schema.
+### Conclusion ###
+Both "mouse brain" and "primary breast cancer" are explicitly mentioned and match the schema items.
+### Result ###
+['Mouse brain', 'Breast Cancer']

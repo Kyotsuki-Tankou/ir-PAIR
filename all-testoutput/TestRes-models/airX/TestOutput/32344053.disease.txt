@@ -1,0 +1,8 @@
+###Keywords###
+The abstract mentions "atopic dermatitis (AD)" as the disease of focus, "transcriptomic and proteomic levels in humans" as the methodological approach, and "suction blistering" as a technique for sampling skin cells and interstitial fluid. These terms suggest "Atopic dermatitis" as the corresponding disease from the schema.
+###Verify###
+The abstract provides evidence for "Atopic dermatitis" being the disease of interest with statements like "Atopic dermatitis is the most common chronic inflammatory skin disease" and "We sought to characterize AD on both transcriptomic and proteomic levels in humans."
+###Conclusion###
+Based on the schema and the context provided, the disease corresponding to the abstract is "Atopic dermatitis."
+###Result###
+['Atopic dermatitis']

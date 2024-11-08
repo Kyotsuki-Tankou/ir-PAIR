@@ -1,0 +1,8 @@
+###Keywords###
+The terms "mouse embryos" and "early organogenesis" from the abstract suggest that 'Mouse Embryo' or 'Embryo' might be relevant organ parts.
+###Verify###
+The abstract explicitly mentions "mouse embryos" and discusses features like "microvasculature in a brain and pigmented epithelium in an eye field," which are characteristic of embryonic development. This verifies the relevance of 'Mouse Embryo' and 'Embryo' from the schema.
+###Conclusion###
+Given the direct mention of "mouse embryos" and the context of early organogenesis, we can conclusively choose 'Mouse Embryo' and 'Embryo' as the relevant organ parts.
+###Result###
+['Mouse Embryo', 'Embryo']

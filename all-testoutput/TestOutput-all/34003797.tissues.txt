@@ -1,0 +1,13 @@
+### Keywords ###
+From the abstract, the term "kidney" is directly mentioned multiple times, indicating that 'Kidney' may be a proper result. Other relevant terms include "renal medulla," "S3 proximal tubules," and "outer cortical," which all relate to specific regions within the kidney.
+### Verify ###
+- "characterized the transcriptomic signature of cell types within the kidney" confirms the focus on the kidney.
+- "mapping 30 dominant cell types to a human nephrectomy" further emphasizes the study's concentration on kidney tissue.
+- "localized regions of reduced overall expression were associated with injury pathways" and "neutrophils infiltrated the renal medulla in the ischemia model" specify different regions within the kidney but still center around the kidney as the primary tissue.
+### Context ###
+- The abstract consistently discusses the kidney in the context of acute kidney injury (AKI) and the spatial distribution of cell types within it.
+- The mention of "human nephrectomy" and "murine AKI models" reinforces the kidney as the central tissue of interest.
+### Conclusion ###
+Given the repeated and specific focus on the kidney and its various regions, 'Kidney' is the most relevant tissue mentioned in the context of the study.
+### Result ###
+['Kidney']

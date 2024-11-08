@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "single nuclei RNA sequencing," "spatial transcriptomics," and "single-cell resolution spatial proteomic analysis" suggest the technologies 'scRNA', 'Spatial Transcriptomics', and potentially others related to proteomics.
+### Verify ###
+1. **Single nuclei RNA sequencing**: The abstract explicitly mentions "single nuclei RNA sequencing," which directly corresponds to 'scRNA' in the schema.
+2. **Spatial transcriptomics**: The term "spatial transcriptomics" is explicitly mentioned, corresponding directly to 'Spatial Transcriptomics' in the schema.
+3. **Single-cell resolution spatial proteomic analysis**: This term suggests a high-resolution proteomic technique, but it does not directly match any specific technology in the schema. However, it implies a combination of spatial and proteomic analysis, which could involve multiple technologies.
+### Context ###
+Given the explicit mention of "single nuclei RNA sequencing" and "spatial transcriptomics," these technologies are clearly identified. The term "single-cell resolution spatial proteomic analysis" does not directly match a specific technology in the schema but indicates a complex analytical approach that may involve multiple techniques. However, since the schema does not list a direct match for this term, we focus on the explicitly mentioned technologies.
+### Conclusion ###
+Based on the clear and direct mentions in the abstract, we can confidently conclude that 'scRNA' and 'Spatial Transcriptomics' are the technologies used in the study.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

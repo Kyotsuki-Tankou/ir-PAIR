@@ -1,0 +1,13 @@
+### Keywords ###
+From the abstract, the terms "human bladder cancer," "bladder," and "tumors" are prominent. These suggest that 'Whole Bladder,' 'Muscle-invasive bladder cancer,' and possibly 'Bladder' could be relevant organ parts.
+### Verify ###
+- "human bladder cancer" directly indicates involvement of the bladder.
+- "Muscle-invasive bladder cancer" is a specific type of bladder cancer mentioned, which aligns with the context.
+- "Whole Bladder" is a broader term that encompasses the entire bladder, which is relevant given the overall focus on bladder cancer.
+### Context ###
+- The study involves "single nuclei RNA sequencing with spatial transcriptomics and single-cell resolution spatial proteomic analysis of human bladder cancer," which indicates a comprehensive analysis of bladder tissue.
+- The mention of "epithelial subpopulation" and "CDH12-enriched tumors" further emphasizes the focus on specific regions within the bladder, particularly those involved in cancer.
+### Conclusion ###
+Given the strong contextual evidence and direct mentions, we can conclude that 'Whole Bladder' and 'Muscle-invasive bladder cancer' are the most appropriate terms to extract. 'Bladder' is a broader term and less specific compared to the other two.
+### Result ###
+['Whole Bladder', 'Muscle-invasive bladder cancer']

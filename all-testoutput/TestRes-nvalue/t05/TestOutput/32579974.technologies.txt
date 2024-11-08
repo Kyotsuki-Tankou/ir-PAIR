@@ -1,0 +1,10 @@
+###Keywords###
+The abstract mentions several technologies, including "single-cell RNA sequencing," "spatial transcriptomics," "multiplexed ion beam imaging," and "CRISPR screens."
+###Verify###
+The abstract provides a detailed description of the technologies used, such as "combined single-cell RNA sequencing with spatial transcriptomics and multiplexed ion beam imaging," which matches the keywords identified. Additionally, "CRISPR screens" are mentioned as part of the study's methodology.
+###Context###
+The context provided in the abstract is sufficient to verify the use of the mentioned technologies without the need for additional information.
+###Conclusion###
+Based on the clear mention of the technologies in the abstract and their verification, we can conclude that the technologies used in the study are "single-cell RNA sequencing," "spatial transcriptomics," "multiplexed ion beam imaging," and "CRISPR screens."
+###Result###
+['single-cell RNA sequencing', 'spatial transcriptomics', 'multiplexed ion beam imaging', 'CRISPR screens']

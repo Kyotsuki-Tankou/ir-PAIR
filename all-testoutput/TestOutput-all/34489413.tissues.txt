@@ -1,0 +1,13 @@
+### Keywords ###
+From the abstract, the keywords "heart regeneration," "regenerating cardiomyocytes," "adult mouse heart," and "human induced pluripotent stem cell-derived cardiomyocytes" suggest a focus on heart tissue.
+### Verify ###
+The abstract mentions:
+- "mammalian neonatal heart regeneration model"
+- "regenerating cardiomyocytes"
+- "adult mouse heart"
+- "human induced pluripotent stem cell-derived cardiomyocytes"
+These references consistently point to the heart as the primary tissue of interest.
+### Conclusion ###
+Given the consistent mention of the heart in various contexts (neonatal heart regeneration, adult heart protection, and cardiomyocytes), it is clear that the primary tissue being studied is the heart.
+### Result ###
+['Heart']

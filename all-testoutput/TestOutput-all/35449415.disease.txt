@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the terms "infected lymph nodes" and "mouse tumor model" suggest a focus on diseases related to infection and cancer. Specifically, "mouse tumor model" indicates a study on cancer, possibly 'Tumor metastasis' or 'Cancer'.
+### Verify ###
+The Abstract mentions "infected lymph nodes" and "mouse tumor model," which directly points to diseases involving infection and cancer. The term "tumor model" strongly suggests a focus on cancer-related diseases.
+### Context ###
+Since the Abstract clearly mentions a "mouse tumor model," it is reasonable to infer that the study involves cancer-related research. The context of "infected lymph nodes" also supports the idea of studying disease conditions, particularly those related to infection and immune response.
+### Conclusion ###
+Based on the clear references to "mouse tumor model" and "infected lymph nodes," we can conclude that the study involves diseases related to cancer and infection. The most specific and relevant term from the schema that matches this context is 'Tumor metastasis'.
+### Result ###
+['Tumor metastasis']

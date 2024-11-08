@@ -1,0 +1,11 @@
+###Keywords###
+From the abstract and keywords, the primary focus is on "mouse digit tip blastemas" and "mouse digit tips." This suggests a potential match with 'Mus musculus' from the schema.
+###Verify###
+- "mouse digit tip blastemas" and "mouse digit tips" directly indicate the use of mice in the study, which corresponds to 'Mus musculus' in the schema.
+###Context###
+- The abstract mentions "single-cell RNA sequencing of over 38,000 cells from mouse digit tip blastemas and unamputated control digit tips," which further confirms the use of mouse models in the study.
+- The keywords also include "blastema; digit tip regeneration; fibroblast heterogeneity; mest; single-cell RNA-seq," all of which are related to the study conducted on mouse tissue.
+###Conclusion###
+Given the clear and consistent mention of "mouse" throughout the abstract and keywords, 'Mus musculus' is a definitive match.
+###Result###
+['Mus musculus']

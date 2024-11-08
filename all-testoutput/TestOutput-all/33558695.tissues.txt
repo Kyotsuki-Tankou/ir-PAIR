@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the term "human dorsolateral prefrontal cortex" is prominently mentioned. This directly suggests that 'Cortex' is a relevant tissue.
+###Verify###
+The abstract states, "We used the 10x Genomics Visium platform to define the spatial topography of gene expression in the six-layered human dorsolateral prefrontal cortex." This clearly indicates that the study is focused on a specific region of the brain, specifically the cortex, reinforcing that 'Cortex' is a proper result.
+###Context###
+Given the detailed focus on the dorsolateral prefrontal cortex and the mention of "cortical laminae," there is no need for additional context to confirm the result.
+###Conclusion###
+Consequently, we choose 'Cortex' as our final result.
+###Result###
+['Cortex']

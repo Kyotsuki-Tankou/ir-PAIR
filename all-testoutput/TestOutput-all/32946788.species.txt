@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "human HSC development," "human," and "Homo sapiens" suggest that the study is focused on human subjects.
+###Verify###
+The abstract explicitly mentions "mechanisms driving HSC development in humans" and "human HSC development," which clearly indicates that the species of interest is Homo sapiens.
+###Context###
+Given the direct and repeated references to "humans" and "human HSC development," there is no ambiguity or need for additional context to verify the species.
+###Conclusion###
+Consequently, we confirm that "Homo sapiens" is the appropriate result based on the provided schema and input.
+###Result###
+["Homo sapiens"]

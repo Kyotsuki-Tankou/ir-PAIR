@@ -1,0 +1,9 @@
+### Keywords ###
+From the input, the terms "human diabetic skin," "human microvascular endothelial cells," and "diabetic mice" are prominent. These suggest the involvement of 'Homo sapiens' and 'Mus musculus' from the schema.
+### Verify ###
+- "human diabetic skin" and "human microvascular endothelial cells" explicitly mention human tissue, confirming 'Homo sapiens'.
+- "diabetic mice" and "type 1 (streptozotocin-injected) and type 2 (db/db) diabetic ischemic tissue" explicitly mention mice, confirming 'Mus musculus'.
+### Conclusion ###
+The input clearly mentions both human and mouse studies, aligning with 'Homo sapiens' and 'Mus musculus' from the schema.
+### Result ###
+['Homo sapiens', 'Mus musculus']

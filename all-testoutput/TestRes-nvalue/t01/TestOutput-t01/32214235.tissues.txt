@@ -1,0 +1,10 @@
+###Keywords###
+The keywords from the abstract include "single-cell analysis," "human organs," "human cell landscape (HCL)," "cell-type composition," and "tissues."
+###Verify###
+The abstract mentions the creation of a comprehensive single-cell atlas for humans, covering all major human organs and tissues. This directly relates to various tissues listed in the schema.
+###Context###
+The abstract does not specify which particular tissues were analyzed, but it implies a broad and comprehensive analysis of all major human organs and tissues. This suggests that multiple tissues from the schema could be relevant.
+###Conclusion###
+Given the comprehensive nature of the study described in the abstract, it is reasonable to conclude that the study includes a wide range of tissues. However, without specific mentions of particular tissues, we cannot pinpoint exact matches.
+###Result###
+null

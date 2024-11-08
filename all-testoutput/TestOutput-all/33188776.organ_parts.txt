@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract and keywords, the term "mouse embryos" directly indicates the organ part 'Mouse Embryo'. Additionally, the mention of "brain" and "eye field" suggests potential involvement of 'Brain' and 'Embryo'.
+### Verify ###
+The abstract mentions "application to mouse embryos" and "fine features like microvasculature in a brain and pigmented epithelium in an eye field," which confirm the presence of 'Mouse Embryo' and suggest 'Brain' and 'Embryo'.
+### Context ###
+The abstract focuses on early organogenesis and fine features within the mouse embryos, including brain and eye field. This context supports the inclusion of 'Mouse Embryo' and 'Brain', but 'Embryo' is a more general term that could also be applicable.
+### Conclusion ###
+Based on the consistent mention of "mouse embryos" and specific features like "brain" and "eye field," we can confidently conclude that 'Mouse Embryo' and 'Brain' are the relevant organ parts. 'Embryo' is also applicable but less specific compared to 'Mouse Embryo'.
+### Result ###
+['Mouse Embryo', 'Brain', 'Embryo']

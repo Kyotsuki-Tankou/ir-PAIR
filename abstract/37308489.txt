@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Skin"]
+[""]
+["10x Visium"]
+["Psoriasis"]
+ Abstract\nThe immunopathogenesis of psoriasis, a common chronic inflammatory disease of the skin, is incompletely understood. Here we demonstrate, using a combination of single cell and spatial RNA sequencing, IL-36 dependent amplification of IL-17A and TNF inflammatory responses in the absence of neutrophil proteases, which primarily occur within the supraspinous layer of the psoriatic epidermis. We further show that a subset of SFRP2+fibroblasts in psoriasis contribute to amplification of the immune network through transition to a pro-inflammatory state. The SFRP2+fibroblast communication network involves production of CCL13, CCL19 and CXCL12, connected by ligand-receptor interactions to other spatially proximate cell types: CCR2+myeloid cells, CCR7+LAMP3+dendritic cells, and CXCR4 expressed on both CD8+Tc17 cells and keratinocytes, respectively. The SFRP2+fibroblasts also express cathepsin S, further amplifying inflammatory responses by activating IL-36G in keratinocytes. These data provide an in-depth view of psoriasis pathogenesis, which expands our understanding of the critical cellular participants to include inflammatory fibroblasts and their cellular interactions.

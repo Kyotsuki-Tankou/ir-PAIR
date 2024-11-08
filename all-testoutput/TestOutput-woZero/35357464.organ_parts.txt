@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, the term "embryo implantation site of the mouse uterus" is explicitly mentioned, indicating that 'Embryo implantation site' may be a proper result.
+### Verify ###
+The abstract states:
+- "Here, we performed the spatial transcriptomics and single-cell RNA-seq assays to determine local gene expression profiles at the embryo implantation site of the mouse uterus on pregnancy day 7.5 (D7.5)"
+- "The spatial transcriptomic annotation identified 11 domains of distinct gene signatures, including a mesometrial myometrium, an anti-mesometrial myometrium, a mesometrial decidua enriched with natural killer cells, a vascular sinus zone for maternal vessel remodeling, a fetal-maternal interface, a primary decidual zone, a transition decidual zone, a secondary decidual zone, undifferentiated stroma, uterine glands, and the embryo."
+These statements clearly verify the focus on the 'Embryo implantation site' in the study.
+### Context ###
+Since the keywords and the abstract both strongly indicate the focus on the 'Embryo implantation site', there is no need for additional context to confirm the result.
+### Conclusion ###
+Consequently, we confirm 'Embryo implantation site' as the final result based on the explicit mentions and detailed descriptions in the abstract.
+### Result ###
+['Embryo implantation site']

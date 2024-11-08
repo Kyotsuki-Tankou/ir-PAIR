@@ -1,0 +1,25 @@
+### Keywords ###
+From the abstract, the following tissues are mentioned or implied:
+- 'Uterus' (directly mentioned)
+- 'Endometrium' (directly mentioned, part of the uterus)
+- 'Epithelium' (mentioned in the context of epithelial lineages)
+- 'Gland' (mentioned in the context of glandular microenvironments)
+- 'Cell line' (implied by the use of organoid cultures)
+### Verify ###
+- 'Uterus': Directly mentioned in the abstract.
+- 'Endometrium': Directly mentioned as the focus of the study.
+- 'Epithelium': Mentioned in the context of epithelial lineages.
+- 'Gland': Mentioned in the context of glandular microenvironments.
+- 'Cell line': Implied by the use of three-dimensional endometrial organoid cultures.
+### Context ###
+The abstract focuses on the endometrium, which is a part of the uterus, and discusses epithelial lineages and glandular microenvironments. The use of organoid cultures implies the involvement of cell lines.
+### Conclusion ###
+Based on the direct mentions and implied contexts, the following tissues are relevant:
+- 'Uterus'
+- 'Endometrium' (though not explicitly listed in the schema, it is a part of the uterus)
+- 'Epithelium'
+- 'Gland'
+- 'Cell line'
+Since 'Endometrium' is not listed in the schema, it should not be included in the final result.
+### Result ###
+['Uterus', 'Epithelium', 'Gland', 'Cell line']

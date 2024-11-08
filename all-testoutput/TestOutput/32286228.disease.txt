@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "bone marrow mesenchymal lineage cells" and "bone homeostasis," which suggest that 'Bone marrow' could be a relevant disease or condition in the context of the schema.
+### Verify ###
+The abstract explicitly states that the research involves "large scale single cell transcriptome analysis" on bone marrow mesenchymal lineage cells, further verifying that 'Bone marrow' is indeed a proper result.
+### Context ###
+The study focuses on the bone marrow mesenchymal lineage cells, which are a specific cell population within the bone marrow. This aligns with the schema's disease categories, making no additional context necessary for verification.
+### Conclusion ###
+Based on the clear mention of bone marrow in the context of the research, we can conclude that 'Bone marrow' is a relevant disease or condition in the given schema.
+### Result ###
+['Bone marrow']

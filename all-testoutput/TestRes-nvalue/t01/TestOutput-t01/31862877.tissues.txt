@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, the primary focus is on "heart failure (HF)" and related physiological systems. Relevant terms include "heart," "circulating proteins," "coronary sinus samples," and "cardiac."
+### Verify ###
+- "inability of the heart to maintain sufficient output of blood" directly mentions "Heart."
+- "aptamer-based proteomics to identify proteins" suggests involvement of "Blood."
+- "coronary sinus samples" indicates a specific part related to the "Heart."
+- "cardiac and specific cellular origins" reinforces the focus on "Heart."
+### Context ###
+- The abstract centers around heart failure and the analysis of proteins in the blood, particularly those associated with the heart.
+- The use of coronary sinus samples and the mention of cardiac origins further emphasize the heart's central role in the study.
+### Conclusion ###
+Given the clear focus on the heart and its functions, along with the mention of blood proteins and coronary sinus samples, "Heart" is the most relevant tissue mentioned in the context of the study.
+### Result ###
+['Heart']

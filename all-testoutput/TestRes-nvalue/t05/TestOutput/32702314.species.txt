@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "in an AD mouse model," indicating that 'Mus musculus' (mouse) may be a proper result.
+### Verify ###
+The abstract also states "We confirm the majority of the observed alterations at the cellular level using in situ sequencing on mouse and human brain sections," which verifies that 'Mus musculus' is indeed a proper result.
+### Context ###
+No additional context is needed in this case, as the Keywords and Verify steps align well and provide sufficient evidence.
+### Conclusion ###
+Consequently, we choose 'Mus musculus' as our final result.
+### Result ###
+['Mus musculus']

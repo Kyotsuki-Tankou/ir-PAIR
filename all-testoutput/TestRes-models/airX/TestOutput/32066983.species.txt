@@ -1,0 +1,10 @@
+###Keywords###
+From the input, the term "mouse SCN" directly indicates that 'Mus musculus' may be a proper result.
+###Verify###
+From the Abstract, phrases like "We have used single-cell RNA-sequencing to identify the basic cell types in the mouse SCN" and "Furthermore, we observed heterogeneous circadian gene expression between SCN neuron subtypes" verify that 'Mus musculus' is indeed a relevant species since the study focuses on the mouse suprachiasmatic nucleus.
+###Context###
+Not required in this case as the Keywords and Verify steps align well and provide sufficient evidence.
+###Conclusion###
+Consequently, we confirm 'Mus musculus' as the final result based on the clear and consistent references to the mouse in the input.
+###Result###
+['Mus musculus']

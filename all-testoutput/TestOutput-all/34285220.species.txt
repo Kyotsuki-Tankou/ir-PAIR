@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the term "mouse embryo" is explicitly mentioned, indicating the species 'Mus musculus' may be relevant.
+### Verify ###
+The Abstract states, "PIC transcriptome analysis detects genes specifically expressed in small distinct areas of the mouse embryo," which directly verifies that 'Mus musculus' is indeed a relevant species in the context of the study.
+### Context ###
+Since the verification step directly confirms the presence of 'Mus musculus' in the abstract, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Consequently, we choose 'Mus musculus' as our final result.
+### Result ###
+['Mus musculus']

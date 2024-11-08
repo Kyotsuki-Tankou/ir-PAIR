@@ -1,0 +1,8 @@
+###Keywords###
+From the terms "bone marrow mesenchymal lineage cells," "osteoporosis," "mesenchymal stem cells," "osteoblasts," "adipocytes," and "marrow cavity" in the Abstract, it indicates that 'Bone' may be a proper result.
+###Verify###
+The Abstract mentions "bone homeostasis and diseases such as osteoporosis," and "inside the marrow cavity," which further verifies that 'Bone' is indeed a proper result.
+###Conclusion###
+Consequently, we choose 'Bone' as our final result.
+###Result###
+['Bone']

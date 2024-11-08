@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keyword "Alzheimer's disease" is directly mentioned, indicating that 'Alzheimer disease' may be a proper result.
+### Verify ###
+The Abstract states, "Here we develop vessel isolation and nuclei extraction for sequencing (VINE-seq) to profile the major vascular and perivascular cell types of the human brain through 143,793 single-nucleus transcriptomes from 25 hippocampus and cortex samples of 9 individuals with Alzheimer's disease and 8 individuals with no cognitive impairment." This directly implies the study involves Alzheimer's disease.
+### Context ###
+The context of the study is clear about the involvement of Alzheimer's disease, profiling brain vasculature in individuals with and without the condition. There is no ambiguity in the context that would require further clarification.
+### Conclusion ###
+Consequently, we confirm that 'Alzheimer disease' is the appropriate disease based on the given information.
+### Result ###
+['Alzheimer disease']

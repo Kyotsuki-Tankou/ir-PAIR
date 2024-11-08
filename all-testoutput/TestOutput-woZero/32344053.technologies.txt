@@ -1,0 +1,19 @@
+### Keywords ###
+- **Olink proteomics**
+- **Atopic dermatitis**
+- **Single-cell RNA sequencing**
+- **Suction blistering**
+### Verify ###
+- **Olink proteomics**: Mentioned explicitly in the keywords.
+- **Atopic dermatitis**: Mentioned as the primary focus of the study in the background and objective sections.
+- **Single-cell RNA sequencing**: Mentioned in the methods section as a technique used to compare transcriptional profiles.
+- **Suction blistering**: Mentioned as the method used for sampling skin cells and interstitial fluid.
+### Context ###
+- The abstract clearly outlines the use of single-cell RNA sequencing to analyze transcriptomic data and Olink proteomics for proteomic data in the context of atopic dermatitis.
+- Suction blistering is described as a method for sampling, which is relevant to the study's methodology but not directly a technology listed in the schema.
+- The focus on atopic dermatitis aligns with the disease aspect, but since we are extracting technologies, we will focus on the technical methods used.
+### Conclusion ###
+- Based on the explicit mentions and the context provided, the technologies used in the study are 'Single-cell RNA sequencing' and 'Olink proteomics'.
+- 'Suction blistering' is a method rather than a technology listed in the schema, so it will not be included in the final result.
+### Result ###
+['Single-cell RNA sequencing', 'Olink proteomics']

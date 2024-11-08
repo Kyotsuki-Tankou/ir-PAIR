@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, we can identify 'aortic microenvironment' and 'hematopoietic stem cells' as key terms that may relate to the schema's tissues list. The mention of 'zebrafish', 'chicken', 'mouse', and 'human embryos' indicates a cross-species study involving various animal models.
+###Verify###
+The abstract explicitly states, "we performed genome-wide RNA tomography sequencing on zebrafish, chicken, mouse, and human embryos," which aligns with the idea that the study involves multiple tissues or organ parts. Additionally, the term 'aortic microenvironment' is directly related to a specific location within an organism, which could be considered an organ part according to the schema.
+###Context###
+The context here is that the study is investigating the aortic microenvironment, which is a specific location within an organism. This fits well with the schema as the aorta is an organ part that can be considered within the tissues list.
+###Conclusion###
+Based on the schema and the context provided by the abstract, we can conclude that the study involves the 'Aorta' as an organ part.
+###Result###
+['Aorta']

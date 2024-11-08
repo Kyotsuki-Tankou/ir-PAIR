@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the terms "olfactory bulb (OB)" and "mouse OB" directly indicate the organ part involved, which is 'Main olfactory bulb'.
+### Verify ###
+The abstract mentions "the olfactory bulb (OB)" and "mouse OB," which clearly verifies that the organ part being studied is 'Main olfactory bulb'.
+### Conclusion ###
+Since the keywords and the context in the abstract both confirm the organ part, we can conclude that 'Main olfactory bulb' is the correct result.
+### Result ###
+['Main olfactory bulb']

@@ -1,0 +1,13 @@
+### Keywords ###
+From the abstract, the terms "mouse brain" and "human brain sections" are explicitly mentioned, which directly relate to the organ parts listed in the schema. Specifically, "Coronal brain section" and "Brain" are relevant terms.
+### Verify ###
+The abstract states:
+- "in an AD mouse model, the transcriptional changes occurring in tissue domains in a 100-μm diameter around amyloid plaques using spatial transcriptomics."
+- "We confirm the majority of the observed alterations at the cellular level using in situ sequencing on mouse and human brain sections."
+These statements verify that "Coronal brain section" and "Brain" are indeed relevant organ parts in the context of the study.
+### Context ###
+Since the verification step directly confirms the presence of "Coronal brain section" and "Brain" in the abstract, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Consequently, we choose "Coronal brain section" and "Brain" as our final results.
+### Result ###
+['Coronal brain section', 'Brain']

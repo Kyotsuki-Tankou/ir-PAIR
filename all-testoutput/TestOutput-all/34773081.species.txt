@@ -1,0 +1,12 @@
+###Keywords###
+From the abstract, the keywords that stand out are "mouse skeletal muscle", "myogenic stem and progenitor cells", "single-cell gene expression analyses", and "spatial transcriptomic data". These keywords suggest a focus on muscle repair and myogenesis in mice.
+###Verify###
+The abstract specifically mentions:
+- "single-cell transcriptomic dataset of mouse skeletal muscle"
+- "integration of 23 newly collected scRNAseq datasets and 88 publicly available single-cell (scRNAseq) and single-nucleus (snRNAseq) RNA-sequencing datasets"
+- "mouse muscle at three time points after injury"
+These points verify that the study is deeply involved in analyzing mouse skeletal muscle at various stages of repair and myogenesis.
+###Conclusion###
+Given the explicit mention of "mouse skeletal muscle" and the focus on myogenic processes in mice, "Mus musculus" is the correct species identified in the study.
+###Result###
+['Mus musculus']

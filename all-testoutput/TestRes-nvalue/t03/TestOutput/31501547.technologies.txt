@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "high-definition spatial transcriptomics" and "RNA from histological tissue sections," which suggests that 'Spatial Transcriptomics' could be a relevant technology.
+### Verify ###
+The abstract explicitly states the development of "high-definition spatial transcriptomics," which is a method for capturing RNA spatially within tissue sections. This directly corresponds to the 'Spatial Transcriptomics' technology in the schema.
+### Context ###
+The context provided in the abstract is sufficient to confirm the use of 'Spatial Transcriptomics' as it describes the method's ability to capture RNA with high resolution and demonstrates its application in mouse brain and primary breast cancer.
+### Conclusion ###
+Based on the clear mention of "high-definition spatial transcriptomics" and its application in the study, we can conclude that 'Spatial Transcriptomics' is the correct technology to extract from the abstract.
+### Result ###
+['Spatial Transcriptomics']

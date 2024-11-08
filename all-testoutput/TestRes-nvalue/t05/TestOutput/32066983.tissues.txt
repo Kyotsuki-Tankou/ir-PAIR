@@ -1,0 +1,10 @@
+### Keywords ###
+The keywords that stand out from the input are "suprachiasmatic nucleus (SCN)" and "ventral hypothalamus," suggesting that 'Brain' might be the relevant tissue.
+### Verify ###
+The abstract mentions "the suprachiasmatic nucleus (SCN) in the ventral hypothalamus," which directly verifies that 'Brain' is indeed the relevant tissue.
+### Context ###
+Since the abstract explicitly mentions the SCN within the ventral hypothalamus, there is no ambiguity or need for further context to verify this tissue.
+### Conclusion ###
+Based on the explicit mention in the abstract, we choose 'Brain' as our final result.
+### Result ###
+['Brain']

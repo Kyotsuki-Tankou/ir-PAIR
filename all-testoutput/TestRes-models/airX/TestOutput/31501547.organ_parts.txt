@@ -1,0 +1,8 @@
+###Keywords###
+The abstract mentions "mouse brain" and "primary breast cancer," which could potentially be matched with items from the schema.
+###Verify###
+"Mouse brain" and "primary breast cancer" are directly mentioned in the abstract, so we can verify that these are organ parts studied.
+###Conclusion###
+Given that the abstract specifically mentions "mouse brain" and "primary breast cancer," we can confidently conclude that these are the organ parts included in the study.
+###Result###
+['mouse brain', 'primary breast cancer']

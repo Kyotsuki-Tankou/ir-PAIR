@@ -1,0 +1,6 @@
+["Xenopus tropicalis", "Danio rerio", "Xenopus laevis"]
+["Embryo"]
+["Embryo"]
+["Tomo-seq"]
+["Embryo development"]
+ Abstract\nEarly stages of embryogenesis depend on subcellular localization and transport of maternal mRNA. However, systematic analysis of these processes is hindered by a lack of spatio-temporal information in single-cell RNA sequencing. Here, we combine spatially-resolved transcriptomics and single-cell RNA labeling to perform a spatio-temporal analysis of the transcriptome during early zebrafish development. We measure spatial localization of mRNA molecules within the one-cell stage embryo, which allows us to identify a class of mRNAs that are specifically localized at an extraembryonic position, the vegetal pole. Furthermore, we establish a method for high-throughput single-cell RNA labeling in early zebrafish embryos, which enables us to follow the fate of individual maternal transcripts until gastrulation. This approach reveals that many localized transcripts are specifically transported to the primordial germ cells. Finally, we acquire spatial transcriptomes of two xenopus species and compare evolutionary conservation of localized genes as well as enriched sequence motifs.

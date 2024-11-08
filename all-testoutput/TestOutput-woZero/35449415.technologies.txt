@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the focus is on "spatial transcriptomics technologies" and the development of "Deconvolution of Spatial Transcriptomics profiles using Variational Inference (DestVI)." This suggests that 'Spatial Transcriptomics' may be a proper result.
+### Verify ###
+The abstract mentions "Most spatial transcriptomics technologies are limited by their resolution" and "Deconvolution of Spatial Transcriptomics profiles using Variational Inference (DestVI)." This directly aligns with the 'Spatial Transcriptomics' technology, as the entire context revolves around improving spatial transcriptomics methods.
+### Context ###
+Given that the abstract specifically discusses the limitations and improvements of spatial transcriptomics technologies and the application of DestVI to enhance spatial characterization, it further supports the use of 'Spatial Transcriptomics' technology. The context does not introduce any conflicting information that would necessitate a different conclusion.
+### Conclusion ###
+Consequently, we choose 'Spatial Transcriptomics' as our final result.
+### Result ###
+['Spatial Transcriptomics']

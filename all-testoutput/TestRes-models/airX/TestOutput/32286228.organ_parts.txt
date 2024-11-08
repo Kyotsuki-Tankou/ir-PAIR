@@ -1,0 +1,10 @@
+### Keywords ###
+The keywords "mouse" and "bone marrow mesenchymal stem cells" suggest that the study is focused on mouse bone marrow. This indicates that 'Bone marrow' may be a proper result.
+### Verify ###
+The abstract mentions "we computationally defined mesenchymal progenitors at different stages and delineated their bi-lineage differentiation paths in young, adult and aging mice." This directly indicates that the study is focused on mouse bone marrow, verifying that 'Bone marrow' is indeed a relevant organ part in the context of the study.
+### Context ###
+Since the verification step directly confirms the presence of 'Bone marrow' in the abstract, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Consequently, we choose 'Bone marrow' as our final result.
+### Result ###
+['Bone marrow']

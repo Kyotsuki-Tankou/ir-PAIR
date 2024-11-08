@@ -1,0 +1,8 @@
+###Keywords###
+From the input, the key terms that stand out are "olfactory system," "olfactory bulb (OB)," "glomeruli," "single-cell RNA sequencing," "spatial transcriptomics," and "mouse OB."
+###Verify###
+We need to verify if any of these terms directly match the terms in the schema. The term "Olfactory bulb" is explicitly mentioned in the schema and is a central focus of the input text.
+###Conclusion###
+Based on the direct mention of "olfactory bulb (OB)" in the input and its presence in the schema, it is clear that "Olfactory bulb" is a relevant term.
+###Result###
+['Olfactory bulb']

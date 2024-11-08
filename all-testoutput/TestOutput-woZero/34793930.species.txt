@@ -1,0 +1,8 @@
+### Keywords ###
+From the keywords "Hemopexin," "Intracerebral hemorrhage," "Protein therapeutics," and "Secondary brain injury," we can infer that the study involves a biological process in a specific species. The mention of "C57BL/6J mice" in the abstract suggests that the species used in the study is "Mus musculus."
+### Verify ###
+The input text explicitly mentions "C57BL/6J mice," which confirms that 'Mus musculus' is the correct species based on the provided schema.
+### Conclusion ###
+Since the keywords and the verification both point to 'Mus musculus', we can conclude that it is the correct result.
+### Result ###
+["Mus musculus"]

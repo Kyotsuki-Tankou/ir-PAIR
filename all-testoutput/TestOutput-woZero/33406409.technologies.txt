@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the terms "single-cell RNA sequencing" and "spatial transcriptomics" directly indicate that 'scRNA' and 'Spatial Transcriptomics' may be relevant technologies.
+###Verify###
+The abstract mentions "link single-cell RNA sequencing and spatial transcriptomics" and describes the use of these technologies to characterize intestinal morphogenesis. This further verifies that both 'scRNA' and 'Spatial Transcriptomics' are indeed the technologies used in the study.
+###Conclusion###
+Consequently, we choose 'scRNA' and 'Spatial Transcriptomics' as our final results.
+###Result###
+['scRNA', 'Spatial Transcriptomics']

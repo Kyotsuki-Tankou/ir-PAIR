@@ -1,0 +1,10 @@
+### Keywords ###
+The keywords "mouse lung" and "development" suggest that the species involved is likely 'Mus musculus'.
+### Verify ###
+The keyword "mouse lung" directly indicates the use of mice, which corresponds to 'Mus musculus' in the schema.
+### Context ###
+Given the keywords, there is no conflicting information or need for additional context to clarify the species involved.
+### Conclusion ###
+The presence of "mouse lung" as a keyword strongly supports the conclusion that the species is 'Mus musculus'.
+### Result ###
+['Mus musculus']

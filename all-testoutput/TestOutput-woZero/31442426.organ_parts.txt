@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract and keywords, there are no direct mentions of specific organ parts from the provided schema. The focus is on cellular processes and techniques like "RNA proximity labeling" and "subcellular localization."
+### Verify ###
+The abstract discusses "RNA composition of these large and dynamic structures" and "spatial organization of the transcriptome" within cells, but it does not specify any particular organ parts from the schema.
+### Context ###
+Given the lack of specific organ parts mentioned, the context revolves around cellular and molecular techniques rather than specific tissues or organs.
+### Conclusion ###
+Based on the information provided in the abstract and keywords, there is no direct evidence to link any specific organ parts from the schema to the study.
+### Result ###
+null

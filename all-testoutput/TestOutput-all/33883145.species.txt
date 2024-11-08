@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the keyword "mouse tumor models" directly suggests the species "Mus musculus."
+### Verify ###
+The abstract explicitly mentions "mouse tumor models," which confirms the use of "Mus musculus" as the species studied.
+### Conclusion ###
+The clear mention of "mouse tumor models" in the abstract definitively confirms that "Mus musculus" is the species involved in the study.
+### Result ###
+['Mus musculus']

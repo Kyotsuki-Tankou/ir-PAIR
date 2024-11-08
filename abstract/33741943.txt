@@ -1,0 +1,6 @@
+["Gallus gallus"]
+["Embryo"]
+["Heart"]
+["10x Visium", "scRNA"]
+["Heart development"]
+ Abstract\nSingle-cell RNA sequencing is a powerful tool to study developmental biology but does not preserve spatial information about tissue morphology and cellular interactions. Here, we combine single-cell and spatial transcriptomics with algorithms for data integration to study the development of the chicken heart from the early to late four-chambered heart stage. We create a census of the diverse cellular lineages in developing hearts, their spatial organization, and their interactions during development. Spatial mapping of differentiation transitions in cardiac lineages defines transcriptional differences between epithelial and mesenchymal cells within the epicardial lineage. Using spatially resolved expression analysis, we identify anatomically restricted expression programs, including expression of genes implicated in congenital heart disease. Last, we discover a persistent enrichment of the small, secreted peptide, thymosin beta-4, throughout coronary vascular development. Overall, our study identifies an intricate interplay between cellular differentiation and morphogenesis.

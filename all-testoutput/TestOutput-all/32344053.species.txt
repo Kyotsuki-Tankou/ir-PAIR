@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "humans" is mentioned in the context of studying atopic dermatitis (AD). This indicates that 'Homo sapiens' may be the relevant species.
+### Verify ###
+The abstract specifically states "We sought to characterize AD on both transcriptomic and proteomic levels in humans," which directly verifies that the study is conducted on humans, corresponding to 'Homo sapiens'.
+### Context ###
+Given the explicit mention of "humans" in both the background and objective sections of the abstract, there is no need for additional context to confirm the relevance of 'Homo sapiens'.
+### Conclusion ###
+Consequently, we confirm 'Homo sapiens' as the final result based on the clear and consistent focus on human subjects throughout the abstract.
+### Result ###
+['Homo sapiens']

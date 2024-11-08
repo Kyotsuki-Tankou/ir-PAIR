@@ -1,0 +1,13 @@
+###Keywords###
+From the Keywords, we identify "AGM region," "embryo," and "dorsal aorta." These terms suggest potential tissues involved in the study.
+###Verify###
+The Abstract mentions:
+- "Hematopoietic stem cells (HSCs) first emerge in the embryonic aorta-gonad-mesonephros (AGM) region."
+- "predominantly in the ventral domain of the dorsal aorta."
+These statements directly verify the involvement of "Embryo" and "Dorsal aorta."
+###Context###
+Not required in this case as the Keywords and Verify steps align well and provide sufficient evidence.
+###Conclusion###
+Based on the direct mentions in both the Keywords and the Abstract, we can conclude that "Embryo" and "Dorsal aorta" are the relevant tissues.
+###Result###
+['Embryo', 'Dorsal aorta']

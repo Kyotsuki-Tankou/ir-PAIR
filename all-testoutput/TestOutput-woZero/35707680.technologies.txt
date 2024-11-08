@@ -1,0 +1,12 @@
+###Keywords###
+From the input, the term "Visium spatial transcriptomics" is mentioned, which suggests that '10x Visium' or 'Spatial Transcriptomics' might be relevant technologies according to the schema.
+###Verify###
+The abstract specifically states:
+- "We present a protocol to localize T cell receptor clones using the Visium spatial transcriptomics platform."
+This statement clearly indicates that the 'Visium spatial transcriptomics' platform is being used, which corresponds to '10x Visium' and 'Spatial Transcriptomics' in the schema.
+###Context###
+The context further supports this as the abstract discusses the localization of gene expression and T cell clonotypes in situ within tissue sections, which aligns with the capabilities of spatial transcriptomics technologies.
+###Conclusion###
+Given the explicit mention and context, we can conclude that both '10x Visium' and 'Spatial Transcriptomics' are appropriate technologies to be extracted according to the schema.
+###Result###
+['10x Visium', 'Spatial Transcriptomics']

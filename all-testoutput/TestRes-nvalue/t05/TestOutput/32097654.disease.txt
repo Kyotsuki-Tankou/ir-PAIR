@@ -1,0 +1,8 @@
+### Keywords ###
+The term "digit tip regeneration" suggests a focus on tissue repair and regeneration rather than a specific disease.
+### Verify ###
+The abstract discusses the process of digit tip regeneration in mammals and the use of single-cell RNA sequencing to understand the cell types involved in this process. This aligns with the concept of tissue repair rather than any specific disease.
+### Conclusion ###
+Based on the information provided, "Tissue repair" is the most appropriate choice from the provided schema, as it best reflects the study's focus on the regeneration process.
+### Result ###
+["Tissue repair"]

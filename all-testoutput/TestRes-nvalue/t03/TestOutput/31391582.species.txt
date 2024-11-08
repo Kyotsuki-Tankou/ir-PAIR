@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "mouse embryo" indicates that 'Mus musculus' may be a proper result.
+### Verify ###
+The phrases "post-implantation development of the mouse embryo" and "early mouse embryo" in the abstract directly imply that the study is focused on mice, which supports 'Mus musculus' as the correct species.
+### Context ###
+The context of the study revolves around the development and lineage analysis of the mouse embryo, further reinforcing the involvement of 'Mus musculus'. There is no conflicting information that would require additional context to clarify.
+### Conclusion ###
+Since the keywords and the context in the abstract both point to 'Mus musculus', we can confidently conclude that 'Mus musculus' is the correct species involved in this study.
+### Result ###
+['Mus musculus']

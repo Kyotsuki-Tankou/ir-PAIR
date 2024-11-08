@@ -1,0 +1,10 @@
+###Keywords###
+From the input, there is no direct mention of a specific technology from the provided schema. However, phrases like "spatially resolved transcriptome" and "high-resolution digitized in situ gene-expression profiles" suggest the use of a technology capable of spatial transcriptomics.
+###Verify###
+The phrases "spatially resolved transcriptome" and "high-resolution digitized in situ gene-expression profiles" imply a technology that can provide spatial information about gene expression. Among the technologies listed in the schema, "Spatial Transcriptomics" and "Slide-seq" are known for their ability to provide spatially resolved transcriptomic data.
+###Context###
+The abstract focuses on the spatial and temporal resolution of gene expression during mouse embryo development. Technologies like "Spatial Transcriptomics" and "Slide-seq" are well-suited for such studies as they allow for the mapping of gene expression in tissue sections.
+###Conclusion###
+Given the context and the implied need for spatial resolution in transcriptomic data, "Spatial Transcriptomics" seems to be the most fitting technology among the listed options, as it directly aligns with the described methodology of obtaining spatially resolved transcriptomes.
+###Result###
+["Spatial Transcriptomics"]

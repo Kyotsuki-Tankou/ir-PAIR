@@ -1,0 +1,10 @@
+###Keywords###
+From the "Abstract," there are mentions of "human transcriptome," "nuclear pore," and "mitochondria." These terms suggest that 'Homo sapiens' might be the relevant species.
+###Verify###
+The abstract explicitly states, "APEX-seq in nine distinct subcellular locales produced a nanometer-resolution spatial map of the human transcriptome." This confirms that the study focuses on human RNA sequencing.
+###Context###
+The context provided in the abstract does not introduce any other species beyond Homo sapiens.
+###Conclusion###
+Given the focus on the "human transcriptome," it is reasonable to conclude that 'Homo sapiens' is the correct species relevant to this study.
+###Result###
+['Homo sapiens']

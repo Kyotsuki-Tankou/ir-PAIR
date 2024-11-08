@@ -1,0 +1,10 @@
+###Keywords###
+From the Keywords, we can infer the focus is on "Heart failure (HF)", "aptamer-based proteomics", "circulating proteins", "pathophysiological insights", "therapeutic targets", "cardiac origins", and "systemic factors".
+###Verify###
+In the Abstract, we see mentions of "Heart failure (HF)", "aptamer-based proteomics", "circulating proteins", "cardiac origins", and "systemic factors". These phrases confirm the focus on heart-related research and the use of proteomics to study heart failure.
+###Context###
+The Abstract specifically mentions "heart" and "cardiac origins", which directly relate to the heart tissue. There is no mention of any other species, indicating a focus on humans.
+###Conclusion###
+The terms from the Keywords and the Abstract strongly suggest a focus on "Homo sapiens" as the species being studied, given the context of heart failure and its relevance to human health.
+###Result###
+['Homo sapiens']

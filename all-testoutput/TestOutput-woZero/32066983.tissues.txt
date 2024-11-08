@@ -1,0 +1,16 @@
+###Keywords###
+- "suprachiasmatic nucleus (SCN)"
+- "ventral hypothalamus"
+- "mouse SCN"
+- "neuronal subtypes"
+###Verify###
+- The abstract mentions "suprachiasmatic nucleus (SCN)" directly, which is a specific part of the brain.
+- "ventral hypothalamus" is also mentioned, which is another region of the brain.
+- The study focuses on "mouse SCN" and "neuronal subtypes," indicating a detailed examination of brain tissue.
+###Context###
+- The abstract discusses "single-cell RNA-sequencing to identify the basic cell types in the mouse SCN," which further emphasizes the focus on the brain, specifically the SCN.
+- "We obtained a standardized SCN atlas containing the spatial distribution of these subtypes and gene expression," indicating a detailed study of the brain's SCN region.
+###Conclusion###
+Given the specific mentions of "suprachiasmatic nucleus (SCN)" and "ventral hypothalamus," along with the detailed study of neuronal subtypes within the SCN, it is clear that the relevant tissue from the schema is 'Brain'.
+###Result###
+['Brain']

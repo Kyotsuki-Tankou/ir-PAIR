@@ -1,0 +1,8 @@
+###Keywords###
+The abstract mentions "early zebrafish development," "one-cell stage embryo," "vegetal pole," "gastrulation," and "two xenopus species." These terms suggest a focus on early embryonic stages and specific structures within the embryo.
+###Verify###
+From the terms "one-cell stage embryo," "vegetal pole," and "gastrulation," we can verify that the primary tissue being discussed is related to embryonic development.
+###Conclusion###
+Based on the keywords and verification, the most relevant tissue from the schema that matches the context of the abstract is 'Embryo.'
+###Result###
+['Embryo']

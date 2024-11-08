@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract and keywords, "Alzheimer's disease" is prominently mentioned, indicating it as a potential disease.
+### Verify ###
+The abstract focuses on "Alzheimer's disease (AD)" and discusses the transcriptional changes around amyloid plaques in an AD mouse model. The keywords also include "Alzheimer’s disease," further verifying its relevance.
+### Conclusion ###
+Based on the consistent mention of "Alzheimer's disease" in both the abstract and keywords, it is clear that "Alzheimer's disease" is the proper result.
+### Result ###
+['Alzheimer disease']

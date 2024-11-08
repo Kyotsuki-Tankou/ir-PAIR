@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "human liver" is prominently mentioned, indicating that 'Liver' may be a proper result.
+###Verify###
+The abstract specifically mentions "human liver" multiple times, such as "the human liver with unprecedented resolution" and "transcriptional landscape of 73,295 cells from the human liver," which directly verifies that 'Liver' is indeed a relevant organ part in this context.
+###Conclusion###
+Consequently, we choose 'Liver' as our final result.
+###Result###
+['Liver']

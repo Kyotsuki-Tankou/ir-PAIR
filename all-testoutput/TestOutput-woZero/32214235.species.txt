@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the keyword "humans" is directly mentioned, indicating that 'Homo sapiens' may be a proper result. Additionally, "mouse" is mentioned, suggesting 'Mus musculus' might also be relevant.
+### Verify ###
+The Abstract states, "However, a comprehensive single-cell atlas has not been achieved for humans," which directly verifies the involvement of 'Homo sapiens'. Furthermore, "We performed a single-cell comparative analysis of landscapes from human and mouse" confirms the inclusion of 'Mus musculus'.
+### Conclusion ###
+Based on the direct mentions and the context of the study, we can conclude that both 'Homo sapiens' and 'Mus musculus' are appropriate species to be extracted.
+### Result ###
+['Homo sapiens', 'Mus musculus']

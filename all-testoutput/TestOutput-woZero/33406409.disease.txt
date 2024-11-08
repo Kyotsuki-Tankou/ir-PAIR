@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract and keywords, terms like "intestinal development," "human development," "congenital disease," and "single-cell RNA-sequencing" are prominent. These suggest a focus on the development and cellular dynamics of the human intestine.
+###Verify###
+The abstract specifically mentions "intestinal morphogenesis," "crypt-villus axis formation," "neural, vascular, mesenchymal morphogenesis," and "immune population of the developing gut." These terms strongly indicate a focus on the development and structural formation of the intestine.
+###Context###
+The context provided in the abstract revolves around the detailed study of the human intestine's development, including cellular differentiation and the formation of specific structures like Peyer's patches and GALT. This aligns closely with the concept of "intestinal development."
+###Conclusion###
+Based on the keywords, verification, and context, the primary focus of the abstract is on "intestinal development."
+###Result###
+['Intestinal development']

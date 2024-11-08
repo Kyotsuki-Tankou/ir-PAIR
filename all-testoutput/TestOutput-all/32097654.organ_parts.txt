@@ -1,0 +1,16 @@
+###Keywords###
+- "mouse digit tip blastemas"
+- "unamputated control digit tips"
+- "vascular, monocytic, and fibroblastic lineages"
+- "regeneration"
+###Verify###
+- The abstract mentions "mouse digit tip blastemas" and "unamputated control digit tips," which suggests a focus on digit tips in mice.
+- "vascular, monocytic, and fibroblastic lineages" indicates the study of specific cell types within the digit tips.
+- The overall context is about regeneration, specifically "digit tip regeneration."
+###Context###
+- The abstract discusses "single-cell RNA sequencing of over 38,000 cells from mouse digit tip blastemas and unamputated control digit tips," which provides a detailed context of the study's focus on digit tips.
+- "We computationally define differentiation trajectories of vascular, monocytic, and fibroblastic lineages over regeneration," further emphasizes the detailed analysis of these cell types within the digit tips.
+###Conclusion###
+Given the specific mention of "mouse digit tip blastemas" and the detailed analysis of cell types within these structures, the most relevant match from the schema would be related to the digit tips or the specific cell types mentioned. However, none of the schema items directly match "digit tip" or the specific cell types like "vascular," "monocytic," or "fibroblastic lineages." 
+###Result###
+null

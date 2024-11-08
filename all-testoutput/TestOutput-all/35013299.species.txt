@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "Diabetic foot ulceration (DFU)," "single cells," "foot," "forearm," "peripheral blood mononuclear cells," "fibroblasts," "macrophages," and "wound healing." These keywords suggest that the study involves human subjects and focuses on specific tissues and cell types related to DFU.
+### Verify ###
+The abstract mentions "174,962 single cells from the foot, forearm, and peripheral blood mononuclear cells using single-cell RNA sequencing." This directly indicates that the study involves human tissues and cells. The context of diabetic foot ulceration, a condition that affects humans, further supports that the species of interest is Homo sapiens.
+### Context ###
+Given the detailed focus on human-specific conditions (DFU) and human tissues (foot, forearm, peripheral blood mononuclear cells), there is no need for additional context to verify the species type.
+### Conclusion ###
+Consequently, we confirm that 'Homo sapiens' is the appropriate species based on the provided abstract.
+### Result ###
+['Homo sapiens']

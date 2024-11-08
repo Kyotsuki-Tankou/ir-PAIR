@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the focus is on "rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients," which suggests the species involved is likely 'Homo sapiens'.
+### Verify ###
+The abstract explicitly mentions "synovial biopsies from rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients," which directly indicates that the species used in the study is 'Homo sapiens'.
+### Context ###
+Given the clear mention of human patients and the context of studying human diseases (RA and SpA), there is no need for additional context to verify the species.
+### Conclusion ###
+Consequently, we confirm that 'Homo sapiens' is the correct species used in the study.
+### Result ###
+['Homo sapiens']

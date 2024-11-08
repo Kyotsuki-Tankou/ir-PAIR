@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the key term related to technology is "single-cell mRNA sequencing." This suggests a technology that involves sequencing mRNA at the single-cell level.
+### Verify ###
+Upon reviewing the abstract, the term "single-cell mRNA sequencing" is explicitly mentioned, which directly corresponds to a technology in the schema. The closest matching technology from the schema is 'scRNA' (single-cell RNA sequencing).
+### Conclusion ###
+Given the explicit mention of "single-cell mRNA sequencing" and its direct correspondence to 'scRNA' in the schema, we can confidently conclude that 'scRNA' is the appropriate technology to extract from the input.
+### Result ###
+['scRNA']

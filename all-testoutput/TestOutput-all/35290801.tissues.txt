@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, "lung cancer" and "tumor microenvironment" suggest that 'Lung' and 'Tumor' may be relevant tissues.
+### Verify ###
+The abstract mentions "we applied Perturb-map to knock out dozens of genes in parallel in a mouse model of lung cancer and simultaneously assessed how each knockout influenced tumor growth, histopathology, and immune composition." This statement clearly indicates that the study focuses on 'Lung' tissue, particularly in the context of lung cancer.
+### Context ###
+The abstract also discusses "the tumor microenvironment (TME)" and how gene knockouts influence tumor characteristics. This further supports the inclusion of 'Tumor' as a relevant tissue.
+### Conclusion ###
+Based on the clear mentions of lung cancer and the tumor microenvironment, we can conclude that both 'Lung' and 'Tumor' are appropriate results.
+### Result ###
+['Lung', 'Tumor']

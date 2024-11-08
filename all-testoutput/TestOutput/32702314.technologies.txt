@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, "spatial transcriptomics" is directly mentioned, which indicates that a technology related to spatial transcriptomics might be used. The mention of "in situ sequencing" also suggests a method that could be used alongside spatial transcriptomics.
+### Verify ###
+The Abstract states, "We investigate here, in an AD mouse model, the transcriptional changes occurring in tissue domains in a 100-μm diameter around amyloid plaques using spatial transcriptomics." This confirms the use of spatial transcriptomics. The mention of "in situ sequencing on mouse and human brain sections" further indicates the use of a method that involves sequencing directly on tissue sections, which is a common technique in conjunction with spatial transcriptomics.
+### Context ###
+The context supports the use of spatial transcriptomics and in situ sequencing, as the research focuses on understanding the molecular changes and cellular interactions around amyloid plaques in a mouse model of Alzheimer's disease. The research design involves both spatial transcriptomics and in situ sequencing to analyze the tissue domains around the plaques.
+### Conclusion ###
+Given the direct mention of spatial transcriptomics in the Keywords and the use of in situ sequencing as part of the study methodology, we can conclude that both "spatial transcriptomics" and "in situ sequencing" are technologies used in the study.
+### Result ###
+['spatial transcriptomics', 'in situ sequencing']

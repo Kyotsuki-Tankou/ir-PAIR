@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the mention of "the small intestine" and "enterocytes" indicates the organ part involved. The keyword here is "small intestine."
+### Verify ###
+The abstract specifically states "in the small intestine, enterocytes, the most common cell type, exhibit zonated expression programs along the crypt-villus axis," which clearly verifies that the organ part studied is the "small intestine."
+### Conclusion ###
+Given the clear mention of "small intestine" in both the context and the specific methodology, we can confidently conclude that the organ part involved in the study is the "small intestine."
+### Result ###
+['small intestine']

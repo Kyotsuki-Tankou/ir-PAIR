@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Liver"]
+null
+["GeoMx DSP"]
+["Hepatic ischemia-reperfusion"]
+ Abstract\nHepatic ischemia-reperfusion (I/R) injury is a common complication in liver transplantation. The connection between I/R-induced injury response and liver heterogeneity has yet to be fully understood. In this study, we converge histopathological examination with spatial transcriptomics to dissect I/R injury patterns and their associated molecular changes, which reveal that the pericentral zones are most sensitive to I/R injury in terms of histology, transcriptomic changes, and cell type dynamics. Bioinformatic analysis of I/R injury-related pathways predicts that celastrol can protect against liver I/R injury by inducing ischemic pre-conditioning, which is experimentally validated. Mechanistically, celastrol likely implements its protective effect against I/R injury by activating HIF1α signaling and represents a potential strategy for resolving liver I/R.

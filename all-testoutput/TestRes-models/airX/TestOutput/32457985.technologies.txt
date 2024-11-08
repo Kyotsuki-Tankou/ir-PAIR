@@ -1,0 +1,8 @@
+### Keywords ###
+From "genome-wide RNA tomography sequencing" in the Abstract, it indicates that 'RNA-seq' may be a proper result.
+### Verify ###
+From "we performed genome-wide RNA tomography sequencing on zebrafish, chicken, mouse, and human embryos" in the Abstract, we can further verify that 'RNA-seq' is indeed a proper result.
+### Conclusion ###
+Consequently, we confirm 'RNA-seq' as our final result.
+### Result ###
+['RNA-seq']

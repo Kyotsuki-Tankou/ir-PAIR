@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, there is no direct mention of specific technologies from the schema. The abstract focuses on aptamer-based proteomics and transcriptomic tools.
+###Verify###
+The abstract mentions "aptamer-based proteomics" and "transcriptomic tools," but these terms do not directly match any of the technologies listed in the schema. 
+###Context###
+Given the lack of specific technology names mentioned in the abstract, we need to consider the overall context. The study involves proteomics and transcriptomics, but it does not detail the specific technologies used for these analyses.
+###Conclusion###
+Since the abstract does not provide specific information about the technologies used in the study, we cannot accurately match any of the items from the schema to the input.
+###Result###
+null

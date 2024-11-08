@@ -1,0 +1,14 @@
+###Keywords###
+From the input, the terms "gastruloids" and "embryos" are prominently mentioned. The context involves comparing these two entities using various techniques.
+###Verify###
+The abstract states:
+- "Gastruloids are three-dimensional aggregates of embryonic stem cells..."
+- "Here we compare mouse gastruloids with mouse embryos using single-cell RNA sequencing and spatial transcriptomics."
+- "We identify various embryonic cell types that were not previously known to be present in gastruloids..."
+These statements clearly indicate that "Gastruloids" and "Embryos" are the primary tissues being studied and compared.
+###Context###
+The study focuses on the comparison between "gastruloids" and "embryos" to understand their similarities and differences in gene expression patterns and developmental processes. The use of terms like "embryonic stem cells" and "embryonic cell types" further emphasizes the importance of "Embryo" as a key tissue type.
+###Conclusion###
+Given the clear and repeated mention of "Gastruloids" and "Embryos" in the abstract, we can confidently conclude that both "Gastruloids" and "Embryos" are the appropriate tissues to be extracted according to the schema.
+###Result###
+["Gastruloids", "Embryo"]

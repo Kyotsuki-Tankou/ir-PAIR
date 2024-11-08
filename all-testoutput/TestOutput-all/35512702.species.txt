@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "Arabidopsis leaves" is explicitly mentioned, which directly points to the species 'Arabidopsis thaliana'.
+### Verify ###
+The Abstract clearly states "Arabidopsis leaves" and discusses the application of scStereo-seq on these leaves, confirming the involvement of 'Arabidopsis thaliana'.
+### Context ###
+Given the explicit mention of "Arabidopsis leaves" and the focus on plant biology, there is no ambiguity regarding the species involved. The context fully supports the presence of 'Arabidopsis thaliana'.
+### Conclusion ###
+Based on the direct mention and the context of the study, it is evident that 'Arabidopsis thaliana' is the species being investigated.
+### Result ###
+['Arabidopsis thaliana']

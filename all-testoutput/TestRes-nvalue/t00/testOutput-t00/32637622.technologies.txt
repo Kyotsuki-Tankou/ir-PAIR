@@ -1,0 +1,17 @@
+### Keywords ###
+- Whole-brain spatial transcriptomics
+- Molecular information
+- Neuroanatomical organization
+- Isocortex
+- Hippocampus
+- Striatum
+- Single-cell RNA profile
+- Molecular atlas
+- Spatial organization
+- Brain regions
+### Verify ###
+- Spatial Transcriptomics
+### Conclusion ###
+- ["Spatial Transcriptomics"]
+### Result ###
+- ["Spatial Transcriptomics"]

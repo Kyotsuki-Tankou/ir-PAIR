@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "primary pancreatic tumors" and "pancreatic tumors" are prominent, indicating that 'Primary PDAC tumor' or 'Pancreatic adenocarcinoma' may be relevant matches.
+### Verify ###
+- "primary pancreatic tumors" directly suggests a match with 'Primary PDAC tumor'.
+- "ductal cells, macrophages, dendritic cells and cancer cells" provide context that the study is focused on the cellular components within pancreatic tumors.
+### Context ###
+- The abstract mentions "subpopulations of ductal cells, macrophages, dendritic cells and cancer cells have spatially restricted enrichments," which further emphasizes the focus on the tumor microenvironment within the pancreas.
+- "colocalization of inflammatory fibroblasts and cancer cells expressing a stress-response gene module" adds additional context about the specific interactions within the pancreatic tumor tissue.
+### Conclusion ###
+Given the clear and consistent focus on "primary pancreatic tumors" and the detailed analysis of cellular components within these tumors, 'Primary PDAC tumor' is a highly relevant match. 'Pancreatic adenocarcinoma' could also be considered, but 'Primary PDAC tumor' is more specific to the context provided.
+### Result ###
+['Primary PDAC tumor']

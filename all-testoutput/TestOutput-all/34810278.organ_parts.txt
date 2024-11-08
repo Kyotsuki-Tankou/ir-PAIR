@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "pulmonary injury," "lung tissue architecture," and "upper airway." This suggests that 'Lung' may be a proper result.
+### Verify ###
+The abstract mentions "vaping-induced pulmonary injury," "lung tissue architecture," and "upper airway," which directly verifies that the study is focused on the lung tissue. This further supports that 'Lung' is a proper result.
+### Context ###
+Since the verification step directly confirms the presence of lung tissue without ambiguity, there is no need for additional context to clarify the organ part.
+### Conclusion ###
+Consequently, we confirm that 'Lung' is the appropriate organ part based on the given input.
+### Result ###
+['Lung']

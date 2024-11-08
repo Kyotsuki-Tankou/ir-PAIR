@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "Breast cancers" and "human breast cancers" are explicitly mentioned, indicating that 'Breast Cancer' or 'Breast cancer' might be the relevant organ part.
+### Verify ###
+The phrases "Breast cancers" and "human breast cancers" directly mention "breast cancer," which is a clear indication that 'Breast Cancer' or 'Breast cancer' is the organ part involved in the study.
+### Context ###
+Since the verification step directly confirms the presence of 'Breast Cancer' in the abstract, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Given the clear mention of "Breast cancers" and "human breast cancers" in the abstract, we can confidently conclude that 'Breast Cancer' is the correct organ part to be extracted.
+### Result ###
+['Breast Cancer']

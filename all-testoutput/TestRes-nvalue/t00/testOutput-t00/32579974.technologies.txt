@@ -1,0 +1,16 @@
+### Keywords ###
+- Single-cell RNA sequencing
+- Spatial transcriptomics
+- Multiplexed ion beam imaging
+- scRNA-seq
+- Spatial Transcriptomics
+### Verify ###
+- Single-cell RNA sequencing: Mentioned as "single-cell RNA sequencing"
+- Spatial transcriptomics: Mentioned as "spatial transcriptomics"
+- Multiplexed ion beam imaging: Mentioned as "multiplexed ion beam imaging"
+- scRNA-seq: Mentioned as "scRNA-seq"
+- Spatial Transcriptomics: Mentioned as "spatial transcriptomics"
+### Conclusion ###
+All keywords extracted from the input match the schema.
+### Result ###
+['Single-cell RNA sequencing', 'Spatial transcriptomics', 'Multiplexed ion beam imaging', 'scRNA-seq', 'Spatial Transcriptomics']

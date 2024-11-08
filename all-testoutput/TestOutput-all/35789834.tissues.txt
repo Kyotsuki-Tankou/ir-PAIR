@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "Neuroendocrine prostate cancer (NEPC)" and "prostate tumors" are prominently mentioned, indicating that 'Prostate' may be a proper result.
+### Verify ###
+The abstract specifically discusses "prostate tumors from 7 patients" and "the mechanisms governing its [NEPC's] emergence," which further verifies that 'Prostate' is indeed a relevant tissue type in this context.
+### Context ###
+Given the detailed focus on prostate cancer, particularly NEPC, and the use of scRNA-seq to analyze prostate tumors, there is no need for additional context to confirm the relevance of 'Prostate'.
+### Conclusion ###
+Consequently, we confirm 'Prostate' as the final result based on the clear and consistent focus on prostate cancer throughout the abstract.
+### Result ###
+['Prostate']

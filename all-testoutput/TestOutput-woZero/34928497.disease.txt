@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the keywords related to the schema are "benign prostatic hyperplasia" and "5-alpha reductase inhibitor," which correspond to "Prostate Cancer" and "Prostate injury" from the schema.
+### Verify ###
+The abstract discusses the use of 5-alpha reductase inhibitors (5ARIs) in the treatment of benign prostatic hyperplasia (BPH), a condition that involves the enlargement of the prostate tissue. This directly relates to the "Prostate Cancer" and "Prostate injury" categories in the schema.
+### Conclusion ###
+The study focuses on the effects of 5ARIs on BPH, which is a prostate-related condition. Therefore, "Prostate Cancer" and "Prostate injury" are appropriate matches from the provided schema.
+### Result ###
+["Prostate Cancer", "Prostate injury"]

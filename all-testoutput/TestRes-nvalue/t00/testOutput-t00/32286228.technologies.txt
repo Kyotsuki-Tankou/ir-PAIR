@@ -1,0 +1,14 @@
+### Keywords
+- adipocyte
+- blood vessel
+- bone marrow mesenchymal stem cells
+- cell biology
+- mouse
+- osteoblast
+- single cell RNA-seq
+### Verify
+- technologies: ['single cell RNA-seq']
+### Conclusion
+The technology mentioned in the input that matches the schema is 'single cell RNA-seq'.
+### Result
+['single cell RNA-seq']

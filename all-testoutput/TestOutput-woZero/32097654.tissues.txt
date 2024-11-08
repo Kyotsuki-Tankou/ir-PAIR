@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, we see "blastema," "digit tip regeneration," and "fibroblast heterogeneity," which suggest a focus on regenerative processes in a specific tissue. However, none of these directly match the tissues in the schema.
+### Verify ###
+In the Abstract, it is stated that "digit tip regeneration is mediated by the blastema," and "we present single-cell RNA sequencing of over 38,000 cells from mouse digit tip blastemas." This indicates a focus on the digit tip and blastema, but these terms are not directly listed in the schema.
+### Context ###
+Given that "digit tip" and "blastema" are not directly mentioned in the schema, we need to consider the context more deeply. The Abstract emphasizes the regeneration of digit tips in mice, which involves the blastema. The blastema is a structure involved in regeneration, typically associated with limb or digit tissues.
+### Conclusion ###
+Based on the context and the nature of the described methodology, it is reasonable to infer that the relevant tissue could be related to "Muscle" or "Bone," as these are components of the digit tip. However, the specific mention of "digit tip blastema" does not conclusively match any single tissue in the schema directly.
+### Result ###
+null

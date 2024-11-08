@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "human cSCCs and matched normal skin" directly suggests the involvement of 'Homo sapiens'. Additionally, the context of "human tumor xenografts" further supports the use of human-derived samples.
+### Verify ###
+The phrases "human cSCCs" and "human tumor xenografts" explicitly mention "human," which is a clear indication of 'Homo sapiens'. This provides strong evidence that 'Homo sapiens' is indeed the species involved.
+### Conclusion ###
+Given the clear and repeated mention of "human" in the abstract, we can confidently conclude that 'Homo sapiens' is the correct species to be extracted.
+### Result ###
+['Homo sapiens']

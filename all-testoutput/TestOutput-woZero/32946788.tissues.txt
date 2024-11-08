@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the relevant tissues mentioned are "embryonic aorta-gonad-mesonephros (AGM) region," "dorsal aorta," and "endothelial cells." These terms suggest the involvement of tissues such as "Embryo," "Dorsal aorta," and potentially "Blood vessel."
+### Verify ###
+- **Embryo**: The abstract mentions "embryonic aorta-gonad-mesonephros (AGM) region," which directly indicates the involvement of embryonic tissues.
+- **Dorsal aorta**: The term "dorsal aorta" is explicitly mentioned, aligning with one of the tissues in the schema.
+- **Blood vessel**: The mention of "aortic endothelial cells" suggests the involvement of blood vessel tissues.
+### Context ###
+The abstract focuses on the development of hematopoietic stem cells (HSCs) in the AGM region, particularly in the dorsal aorta. The context emphasizes the embryonic stage and the specific anatomical location of the dorsal aorta, which is a part of the blood vessel system.
+### Conclusion ###
+Based on the keywords and context, the tissues that match the schema and are relevant to the study are "Embryo," "Dorsal aorta," and "Blood vessel."
+### Result ###
+['Embryo', 'Dorsal aorta', 'Blood vessel']

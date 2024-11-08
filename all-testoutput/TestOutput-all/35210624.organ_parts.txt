@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "mouse brain," "hippocampal neuroepithelium," and "microglia," which suggest that 'Hippocampus' and 'Brain' may be proper results.
+### Verify ###
+In the abstract, phrases like "mouse hippocampal neuroepithelium" and "microglia in the mouse brain" further verify that 'Hippocampus' and 'Brain' are indeed relevant and proper results.
+### Context ###
+There is no need for additional context as the abstract clearly and consistently focuses on the hippocampus and brain tissues in the context of mouse neurodevelopment.
+### Conclusion ###
+Consequently, we confirm 'Hippocampus' and 'Brain' as the final results based on the clear and direct references in the abstract.
+### Result ###
+['Hippocampus', 'Brain']

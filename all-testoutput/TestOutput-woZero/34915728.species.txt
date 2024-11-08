@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "mice" is mentioned multiple times, indicating that 'Mus musculus' might be the relevant species.
+### Verify ###
+The abstract specifically mentions "Prdm16 knockout mouse models" and "Cardiomyocyte-specific ablation of Prdm16 in mice," which strongly suggests that the species used in the study is 'Mus musculus'.
+### Context ###
+The context of the study revolves around mouse models and the specific genetic manipulation of Prdm16 in mice, further reinforcing that 'Mus musculus' is the species being studied. There is no conflicting information that would require additional context to clarify.
+### Conclusion ###
+Based on the repeated and specific references to mice and mouse models, it is conclusive that 'Mus musculus' is the correct species.
+### Result ###
+['Mus musculus']

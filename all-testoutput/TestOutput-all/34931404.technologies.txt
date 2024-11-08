@@ -1,0 +1,10 @@
+###Keywords###
+From the input, the term "Spatial transcriptomics" is mentioned in the context of analyzing the metastatic progression of tumors.
+###Verify###
+The abstract states:
+- "Spatial transcriptomics analysis suggested that hypoxia signaling contributes to the metastatic progression of GAN-KP tumors."
+This statement clearly verifies that "Spatial Transcriptomics" is a technology used in the study.
+###Conclusion###
+Given the clear mention of "Spatial Transcriptomics" in the abstract, we can confidently conclude that "Spatial Transcriptomics" is the appropriate technology to be extracted according to the schema.
+###Result###
+["Spatial Transcriptomics"]

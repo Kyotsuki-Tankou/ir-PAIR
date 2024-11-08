@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords "Atopic dermatitis" and "skin suction blistering" suggest that 'Skin' may be a proper result.
+### Verify ###
+In the abstract, phrases like "Atopic dermatitis (AD) is the most common chronic inflammatory skin disease" and "We used skin suction blistering, a painless and nonscarring procedure that can simultaneously sample skin cells and interstitial fluid" further verify that 'Skin' is indeed a relevant and proper result.
+### Context ###
+There is no need for additional context as the abstract clearly and consistently focuses on the skin and its associated pathogenesis and sampling methods.
+### Conclusion ###
+Consequently, we confirm 'Skin' as the final result based on the clear and direct references in the abstract.
+### Result ###
+['Skin']

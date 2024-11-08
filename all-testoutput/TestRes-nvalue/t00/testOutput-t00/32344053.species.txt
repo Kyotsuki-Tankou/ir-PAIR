@@ -1,0 +1,26 @@
+### Keywords
+- Atopic dermatitis (AD)
+- Humans (Homo sapiens)
+- Skin suction blistering
+- Biopsies
+- Single-cell RNA sequencing
+- Transcriptomic
+- Proteomic
+- Inflammatory pathways
+- Cytokines (IL13, IL22, IL26)
+- Myeloid cells
+- Dendritic cells
+- Macrophages
+### Verify
+- **Species Mentioned**: Humans (Homo sapiens)
+- **Methods Used**: Skin suction blistering, single-cell RNA sequencing, proteomic analyses
+- **Findings**: Characteristic upregulation of AD-typical cytokines, enrichment of myeloid cells, specific proteins in dendritic cells and macrophages
+### Context
+- The study focuses on characterizing Atopic Dermatitis (AD) in humans.
+- It compares skin suction blistering with conventional biopsies.
+- The study involves both transcriptomic and proteomic analyses.
+- Key findings include the upregulation of specific cytokines and the enrichment of myeloid cells.
+### Conclusion
+- The study primarily involves **Homo sapiens**.
+### Result
+- ["Homo sapiens"]

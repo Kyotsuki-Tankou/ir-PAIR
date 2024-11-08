@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Prostate"]
+[""]
+["scRNA"]
+["Prostatic cancer"]
+ Abstract\nNeuroendocrine prostate cancer (NEPC) is a lethal subtype of prostate cancer, with a 10% five-year survival rate. However, little is known about its origin and the mechanisms governing its emergence. Our study characterized ADPC and NEPC in prostate tumors from 7 patients using scRNA-seq. First, we identified two NEPC gene expression signatures representing different phases oftrans-differentiation. New marker genes we identified may be used for clinical diagnosis. Second, integrative analyses combining expression and subclonal architecture revealed different paths by which NEPC diverges from the original ADPC, either directly from treatment-naïve tumor cells or from specific intermediate states of treatment-resistance. Third, we inferred a hierarchical transcription factor (TF) network underlying the progression, which involves constitutive regulation by ASCL1, FOXA2, and selective regulation by NKX2-2, POU3F2, and SOX2. Together, these results defined the complex expression profiles and advanced our understanding of the genetic and transcriptomic mechanisms leading to NEPC differentiation. \n Keywords:Cancer; Cancer systems biology; Transcriptomics.

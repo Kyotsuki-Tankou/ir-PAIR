@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract and keywords, the term "lacrimal gland" is explicitly mentioned multiple times, indicating that 'Lacrimal Gland' may be a proper result.
+### Verify ###
+The abstract states, "The lacrimal gland is essential for lubrication and protection of the eye," and "we describe the establishment of long-term 3D organoid culture conditions for mouse and human lacrimal gland." These statements directly verify that 'Lacrimal Gland' is indeed a relevant tissue in the context of the study.
+### Context ###
+Since the verification step directly confirms the presence of 'Lacrimal Gland' in the abstract, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Consequently, we choose 'Lacrimal Gland' as our final result.
+### Result ###
+['Lacrimal Gland']

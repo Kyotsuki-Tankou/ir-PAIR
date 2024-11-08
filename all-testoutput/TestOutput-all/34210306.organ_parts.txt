@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the focus is on "cerebellar neurogenesis," "cerebellar granule neurons (GNs)," and "medulloblastoma," which are specific to the cerebellum. This suggests that 'Cerebellum' may be a proper result.
+### Verify ###
+The abstract mentions "cerebellar granule neurons," "cerebellar granule cells," and "medulloblastoma," all of which are directly related to the cerebellum. This further supports that 'Cerebellum' is likely the correct organ part.
+### Context ###
+Given the specific context of "cerebellar neurogenesis" and the detailed study of "cerebellar granule cells" and their development, there is strong contextual evidence that the study pertains to the cerebellum.
+### Conclusion ###
+Consequently, we confirm 'Cerebellum' as the final result based on the keywords, verification, and contextual clues.
+### Result ###
+['Cerebellum']

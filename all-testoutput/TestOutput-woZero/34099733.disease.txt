@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, terms like "early zebrafish development", "embryogenesis", "maternal mRNA", and "xenopus species" suggest that 'Embryo development' might be a proper result.
+###Verify###
+The abstract states, "Here, we combine spatially-resolved transcriptomics and single-cell RNA labeling to perform a spatio-temporal analysis of the transcriptome during early zebrafish development," which directly verifies the focus on 'Embryo development'.
+###Conclusion###
+Since the term 'Embryo development' is both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that 'Embryo development' is the appropriate disease or condition studied.
+###Result###
+['Embryo development']

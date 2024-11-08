@@ -1,0 +1,8 @@
+### Keywords ###
+The keyword from the input that corresponds to the schema is "Homo sapiens."
+### Verify ###
+The abstract mentions "characterize AD on both transcriptomic and proteomic levels in humans," which directly verifies that "Homo sapiens" is the correct species to extract according to the schema.
+### Conclusion ###
+Since the keyword matches the species mentioned in the abstract, we can conclude that "Homo sapiens" is the appropriate result.
+### Result ###
+['Homo sapiens']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "liver" is prominently mentioned, indicating the tissue being studied.
+### Verify ###
+The abstract focuses on creating a "spatial proteogenomic atlas of the healthy and obese human and murine liver," which confirms that the primary tissue of interest is the "Liver."
+### Context ###
+The abstract discusses various aspects of liver biology, including cell populations like Kupffer cells and lipid-associated macrophages, and techniques like single-cell CITE-seq and spatial transcriptomics, all of which are centered around the liver tissue.
+### Conclusion ###
+Given the consistent focus on the liver throughout the abstract, we can conclude that "Liver" is the correct result.
+### Result ###
+["Liver"]

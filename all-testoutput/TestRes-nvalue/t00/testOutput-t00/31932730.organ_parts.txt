@@ -1,0 +1,23 @@
+### Keywords ###
+- Single-cell RNA sequencing (scRNA-seq)
+- Spatial transcriptomics
+- Multimodal intersection analysis
+- Primary pancreatic tumors
+- Ductal cells
+- Macrophages
+- Dendritic cells
+- Cancer cells
+- Inflammatory fibroblasts
+- Stress-response gene module
+### Verify ###
+- Primary pancreatic tumors
+- Ductal cells
+- Macrophages
+- Dendritic cells
+- Cancer cells
+### Context ###
+The paper discusses the application of a combined microarray-based spatial transcriptomics method and scRNA-seq to study the spatial organization of cell populations in primary pancreatic tumors. The study focuses on identifying subpopulations of ductal cells, macrophages, dendritic cells, and cancer cells, and their spatial enrichments and interactions.
+### Conclusion ###
+The relevant organ parts mentioned in the context of the study are primarily related to pancreatic tissue and the specific cell types within it.
+### Result ###
+['Primary PDAC tumor', 'Pancreatic adenocarcinoma', 'Pancreatic cancer']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "mouse heart" and "human induced pluripotent stem cell-derived cardiomyocytes" indicate the species 'Mus musculus' and 'Homo sapiens'.
+### Verify ###
+The abstract mentions:
+1. "adult mouse heart from ischemia/reperfusion (I/R) injury" which confirms the use of 'Mus musculus'.
+2. "human induced pluripotent stem cell-derived cardiomyocytes" which confirms the use of 'Homo sapiens'.
+### Conclusion ###
+Since the keywords and the abstract both consistently point to 'Mus musculus' and 'Homo sapiens', we can confidently conclude that these are the correct species.
+### Result ###
+['Mus musculus', 'Homo sapiens']

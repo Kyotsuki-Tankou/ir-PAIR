@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "left ventricular noncompaction cardiomyopathy (LVNC)," "left ventricles (LVs)," "Prdm16 knockout mice," "cardiomyocyte-specific knockout," and "LV-specific dilation and dysfunction" are prominent. These keywords suggest that the organ part being studied is related to the heart, specifically the left ventricle.
+### Verify ###
+The abstract mentions "left ventricular noncompaction cardiomyopathy (LVNC)" and "left ventricles (LVs)" multiple times, indicating that the focus is on the left ventricular region of the heart. Additionally, the methods section discusses "Prdm16 cardiomyocyte-specific knockout (Prdm16cKO) mice" and the results section highlights "LV-specific dilation and dysfunction," further confirming the focus on the left ventricle.
+### Context ###
+Given the detailed focus on the left ventricle in the context of LVNC and the specific genetic manipulations targeting this region, there is no need for additional context to verify the organ part.
+### Conclusion ###
+Consequently, we confirm that 'Left ventricular needle (LV)' is the appropriate organ part based on the provided abstract.
+### Result ###
+['Left ventricular needle (LV)']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, key terms include "single-cell RNA sequencing," "spatial transcriptomics," "chicken heart," "developmental biology," "cellular lineages," "epithelial and mesenchymal cells," "coronary vascular development," and "congenital heart disease." These terms strongly suggest a focus on the heart, particularly in the context of development and cellular interactions.
+### Verify ###
+The Abstract explicitly mentions "chicken heart" and "developing hearts," which directly indicates that the primary tissue of interest is the heart. There is no mention of other tissues like "Ovarian" or "Skin" in the Abstract.
+### Context ###
+The study's focus on the "chicken heart" and its development, including spatial mapping and cellular interactions, provides a clear context that the heart is the central tissue under investigation. There is no need to infer other tissues as the Abstract is specific about the heart.
+### Conclusion ###
+Based on the explicit mentions and the focus of the study, it is clear that the primary tissue relevant to this study is the heart.
+### Result ###
+["Heart"]

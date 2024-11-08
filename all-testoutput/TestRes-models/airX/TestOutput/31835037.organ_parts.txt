@@ -1,0 +1,12 @@
+### Keywords ###
+From the provided abstract, the terms "cardiac morphogenesis," "human embryonic heart," "developmental stages," and "single-cell spatial resolution" are prominent. These suggest that 'Heart' and possibly 'Embryo' or 'Human' could be relevant results.
+### Verify ###
+- The abstract states, "Here, we present a molecular approach that reveals the comprehensive transcriptional landscape of cell types populating the embryonic heart at three developmental stages," which confirms that 'Heart' is a proper result.
+- The phrase "human embryonic heart" indicates that 'Human' and 'Embryo' are also relevant.
+### Context ###
+- The study focuses on the development of the human heart, involving various stages of embryonic development. This context supports the relevance of 'Embryo' and 'Human'.
+- The research is specifically conducted on the heart, which is a part of the human body, thereby confirming the relevance of 'Heart' and 'Human'.
+### Conclusion ###
+Given the clear focus on the human embryonic heart and its development, 'Heart' is a direct match. The mention of 'Human' and 'Embryo' also aligns with the context and content of the abstract.
+### Result ###
+['Heart']

@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, we can identify several key technologies and concepts such as "APEX-seq," "RNA sequencing," "direct proximity labeling," and "spatial transcriptomics."
+###Verify###
+The abstract explicitly mentions "APEX-seq, a method for RNA sequencing based on direct proximity labeling of RNA using the peroxidase enzyme APEX2." This directly verifies the presence of "APEX-seq" as a technology used in the study.
+###Context###
+The context of the abstract is focused on the application of APEX-seq for RNA sequencing and the insights gained about transcriptome organization and localization.
+###Conclusion###
+Based on the clear mention of APEX-seq in the abstract, we can conclude that "APEX-seq" is the relevant technology from the schema.
+###Result###
+['APEX-seq']

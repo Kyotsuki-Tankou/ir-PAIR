@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "mouse tumor models" and "tumor-associated mesenchymal stem cells (MSCs)" suggest that the study involves mouse tissues and specifically tumor-related tissues.
+### Verify ###
+The Abstract mentions "mouse tumor models" and "tumor-associated mesenchymal stem cells," which directly indicate the use of mouse tissues. Additionally, the context of tumor studies often involves specific tumor types or related tissues.
+### Context ###
+The context of the study is focused on understanding the spatial distribution of cells within tumor models, specifically in mice. This further supports the involvement of mouse-related tissues.
+### Conclusion ###
+Based on the clear references to "mouse tumor models" and the context of the study, we can conclude that the relevant organ parts are related to mouse tumors.
+### Result ###
+['Mouse Embryo', 'MC38 syngeneic tumor', 'B16F10 syngeneic tumor', 'Mouse aorta', 'Mouse atrium', 'Mouse ventricle', 'Whole Mouse Bladder', 'Dissociated Mouse Bladder', 'Gastrulation embryos', 'Skeletal muscle (quadriceps)']

@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "transcriptome changes", "single-cell resolution", and "spatial transcriptomics" are explicitly mentioned, indicating that 'Spatial Transcriptomics' may be a proper result.
+###Verify###
+- The abstract states: "using spatial transcriptomics and in situ hybridization," which directly verifies the presence of 'Spatial Transcriptomics'.
+###Context###
+- The abstract also mentions "transcriptome changes" and "single-cell resolution", but these terms do not directly correspond to specific items in the provided schema list. The focus is clearly on the use of spatial transcriptomics for mapping astrocyte heterogeneity.
+###Conclusion###
+Consequently, we confirm 'Spatial Transcriptomics' as our final result based on the explicit mention in the abstract.
+###Result###
+['Spatial Transcriptomics']

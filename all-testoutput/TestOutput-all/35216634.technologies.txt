@@ -1,0 +1,10 @@
+###Keywords###
+From the input, the term "CCK-8, western blot, cell count and flow cytometry (FCM) assays" suggests the use of various biochemical and molecular biology techniques, but none of these directly match the technologies listed in the schema. However, "CRISPR/Cas9 system" is mentioned, which is a gene-editing technology but not listed in the schema.
+###Verify###
+Upon closer inspection, none of the mentioned techniques (CCK-8, western blot, cell count, FCM, CRISPR/Cas9) directly correspond to the technologies listed in the schema. The schema includes specific sequencing and spatial transcriptomics technologies, whereas the input focuses on traditional biochemical and molecular assays.
+###Context###
+Given the lack of direct mentions of the technologies listed in the schema, it is necessary to confirm that no other context within the abstract implies the use of these specific technologies. The abstract primarily discusses biochemical assays and gene-editing techniques, not sequencing or spatial transcriptomics technologies.
+###Conclusion###
+Based on the Keywords, Verify, and Context steps, it is clear that the input does not mention any of the technologies listed in the schema. Therefore, the result should reflect the absence of these technologies in the input.
+###Result###
+null

@@ -1,0 +1,10 @@
+###Keywords###
+The keywords from the abstract that are relevant to the schema include "cutaneous squamous cell carcinoma (cSCC)" and "normal skin." These suggest a focus on skin-related tissues or organs.
+###Verify###
+The abstract mentions "cutaneous squamous cell carcinoma (cSCC)" and "matched normal skin," which directly correspond to the tissue types in the schema.
+###Context###
+The abstract provides a detailed description of the study's focus on cSCC and normal skin, which is sufficient to verify the relevance of these tissues without needing additional context.
+###Conclusion###
+Based on the explicit mention in the abstract, we can conclude that 'Skin' is the relevant tissue from the provided schema.
+###Result###
+['Skin']

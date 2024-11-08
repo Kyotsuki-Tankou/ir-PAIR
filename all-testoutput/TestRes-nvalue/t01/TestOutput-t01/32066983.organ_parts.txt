@@ -1,0 +1,15 @@
+###Keywords###
+- suprachiasmatic nucleus (SCN)
+- ventral hypothalamus
+- mouse SCN
+- SCN neuronal subtypes
+###Verify###
+- The Abstract mentions "suprachiasmatic nucleus (SCN) in the ventral hypothalamus."
+- The study focuses on "mouse SCN" and "SCN neuronal subtypes."
+###Context###
+- The SCN is a specific region within the hypothalamus.
+- The study involves detailed analysis of the SCN, including its spatial distribution and gene expression patterns.
+###Conclusion###
+Given the explicit mention of the "suprachiasmatic nucleus (SCN)" and its location in the "ventral hypothalamus," it is clear that the relevant organ part from the schema is 'Suprachiasmatic nucleus'.
+###Result###
+['Suprachiasmatic nucleus']

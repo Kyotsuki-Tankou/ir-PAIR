@@ -1,0 +1,12 @@
+###Keywords###
+From the abstract, the terms "primary CRC" (colorectal cancer), "matched liver metastases," and "blood" are mentioned, indicating potential organ parts related to these terms.
+###Verify###
+1. "primary CRC" directly refers to "Primary colorectal cancer."
+2. "matched liver metastases" refers to "Liver tissue" or "Liver."
+3. "blood" is not explicitly listed in the schema, but it is a biological sample rather than an organ part.
+###Context###
+The abstract focuses on the analysis of the tumor microenvironment (TME) in liver metastases of CRC and the response to preoperative chemotherapy. The primary CRC and liver metastases are the main contexts discussed.
+###Conclusion###
+Based on the keywords and context, the relevant organ parts are "Primary colorectal cancer" and "Liver tissue" or "Liver."
+###Result###
+['Primary colorectal cancer', 'Liver tissue']

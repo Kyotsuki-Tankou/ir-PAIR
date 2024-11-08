@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Blastema"]
+null
+["scRNA"]
+["Digit Regeneration"]
+ Abstract\nInnate regeneration following digit tip amputation is one of the few examples of epimorphic regeneration in mammals. Digit tip regeneration is mediated by the blastema, the same structure invoked during limb regeneration in some lower vertebrates. By genetic lineage analyses, the digit tip blastema has been defined as a population of heterogeneous, lineage-restricted progenitor cells. These previous studies, however, do not comprehensively evaluate blastema heterogeneity or address lineage restriction of closely related cell types. In this report, we present single-cell RNA sequencing of over 38,000 cells from mouse digit tip blastemas and unamputated control digit tips and generate an atlas of the cell types participating in digit tip regeneration. We computationally define differentiation trajectories of vascular, monocytic, and fibroblastic lineages over regeneration, and while our data confirm broad lineage restriction of progenitors, our analysis reveals 67 genes enriched in blastema fibroblasts including a novel regeneration-specific gene, Mest. \n Keywords:blastema; digit tip regeneration; fibroblast heterogeneity; mest; single-cell RNA-seq.

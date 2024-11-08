@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, terms like "damaged epithelium," "wound front epithelia," and "epithelial-specific loss" suggest that epithelial tissue is a focus. The schema includes "Gastric cancer," "Detrusor layer of bladder," "Prostate epithelial organoids," and other epithelial-related terms, but the context is more general about epithelial tissue rather than a specific organ part.
+### Verify ###
+The Abstract mentions "damaged epithelium" and "wound front epithelia," which directly relate to epithelial tissue but do not specify a particular organ part like those listed in the schema. 
+### Context ###
+The context of the study is about the role of IL-17A and HIF1α in epithelial healing, which is a general process rather than specific to one organ part. The terms used do not align with any specific organ part listed in the schema but rather focus on the epithelial layer in a general sense.
+### Conclusion ###
+Given the lack of specific mention of any organ part from the schema and the general focus on epithelial tissue, we cannot conclusively match any specific organ part from the provided list.
+### Result ###
+null

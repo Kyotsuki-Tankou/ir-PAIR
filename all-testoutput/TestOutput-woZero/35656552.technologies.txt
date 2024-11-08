@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords "spatial transcriptomics; stereo-seq," we can identify two technologies directly mentioned.
+### Verify ###
+Since there is no abstract available, we rely solely on the Keywords for verification. The Keywords clearly mention "spatial transcriptomics" and "stereo-seq," which are both listed in the schema.
+### Context ###
+Given the direct mention of these technologies in the Keywords and the absence of any conflicting information, there is no need for additional context.
+### Conclusion ###
+Based on the Keywords, we can confidently conclude that the technologies used in the study are "spatial transcriptomics" and "stereo-seq."
+### Result ###
+['Spatial Transcriptomics', 'Stereo-Seq']

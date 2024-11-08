@@ -1,0 +1,15 @@
+###schema###
+tissues:['Skin', 'Brain', 'Colon', 'Eymbro', 'Cortex', 'Gastrula', 'Bone', 'Embryo', 'Ileum', 'Spinal cord', 'Gland', 'Lymph', 'Liver', 'Basal cell', 'Plant part', 'Muscle', 'Thymus', 'Cervical', 'Leaf', 'Uterus', 'Skeleton', 'Bladder', 'Spleen', 'Epithelium', 'Lacrimal Gland', 'Lung', 'Overian', 'Bone marrow', 'Stress granules', 'Kidney', 'Neuron', 'Cerebella', 'Pancreas', 'Flower', 'Cell line', 'Pituitary', 'Blood vessel', 'Stomach', 'Blastema', 'Legs', 'Intestine', 'Head Neck', 'Blood', 'Breast', 'Prostate', 'Dorsal aorta', 'Synovial', 'Eye', 'Heart', 'Mucosa', 'Ovarian', 'Tumor', 'Ear'],
+###input###
+ Abstract
+Imaging the transcriptome in situ with high accuracy has been a major challenge in single-cell biology, which is particularly hindered by the limits of optical resolution and the density of transcripts in single cells1-5. Here we demonstrate an evolution of sequential fluorescence in situ hybridization (seqFISH+). We show that seqFISH+ can image mRNAs for 10,000 genes in single cells-with high accuracy and sub-diffraction-limit resolution-in the cortex, subventricular zone and olfactory bulb of mouse brain, using a standard confocal microscope. The transcriptome-level profiling of seqFISH+ allows unbiased identification of cell classes and their spatial organization in tissues. In addition, seqFISH+ reveals subcellular mRNA localization patterns in cells and ligand-receptor pairs across neighbouring cells. This technology demonstrates the ability to generate spatial cell atlases and to perform discovery-driven studies of biological processes in situ.Let's think step by step.
+### Keywords ###
+From the input, the keywords that stand out are "cortex," "subventricular zone," and "olfactory bulb," all of which are specific regions of the brain. This suggests that 'Brain' may be a proper result.
+### Verify ###
+The abstract mentions "in the cortex, subventricular zone and olfactory bulb of mouse brain," which directly verifies that the study is focused on the brain tissue. This further supports that 'Brain' is a proper result.
+### Context ###
+Since the verification step directly confirms the presence of brain tissue without ambiguity, there is no need for additional context to clarify the tissue type.
+### Conclusion ###
+Consequently, we confirm that 'Brain' is the appropriate tissue type based on the given input.
+### Result ###
+['Brain']

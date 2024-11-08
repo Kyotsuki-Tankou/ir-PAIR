@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "stress granules," "RNA localization," and "subcellular localization." This suggests that 'Stress granules' may be a relevant result.
+### Verify ###
+The abstract mentions "transcripts in these complexes localize to specific regions of the cell and can condense into non-membrane-bound structures such as stress granules." This directly verifies that the study involves stress granules.
+### Context ###
+Since the verification step directly confirms the presence of stress granules without ambiguity, there is no need for additional context to clarify the tissue or structure type.
+### Conclusion ###
+Consequently, we confirm that 'Stress granules' is the appropriate term based on the given input.
+### Result ###
+['Stress granules']

@@ -1,0 +1,14 @@
+### Keywords ###
+From the input, the keywords that stand out are "hippocampus" and "olfactory bulbs." These suggest that 'Brain' might be the relevant tissue, as the hippocampus and olfactory bulbs are parts of the brain.
+### Verify ###
+In the abstract, it is mentioned:
+- "structured layers of the hippocampus and olfactory bulbs"
+- "in AD mice"
+- "mouse and human AD brains"
+These statements directly verify that the brain (specifically the hippocampus and olfactory bulbs) is the relevant tissue being studied.
+### Context ###
+Since the abstract explicitly mentions "hippocampus" and "olfactory bulbs" in the context of mouse and human brains, there is no ambiguity or need for further context to verify these tissues.
+### Conclusion ###
+Consequently, based on the explicit mention in the abstract, we can confidently conclude that 'Brain' is the appropriate tissue to be extracted according to the schema.
+### Result ###
+['Brain']

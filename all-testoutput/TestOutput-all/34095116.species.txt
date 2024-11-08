@@ -1,0 +1,8 @@
+### Keywords ###
+From the Keywords "erythrocyte; fetal liver; hepatoblast; multimodal intersection analysis; single-cell RNA sequencing; spatial transcriptomics," the term "fetal liver" suggests a focus on the liver in humans.
+### Verify ###
+In the Abstract, phrases like "The liver is one of vital organs of the human body," "fetal liver is one of the hematopoietic places during ontogeny," and "unbiased analysis of fetal livers over developmental time from 8 post-conception weeks (PCW) and 17 PCW in humans" clearly indicate that the study is focused on the human liver, specifically the fetal liver.
+### Conclusion ###
+Given the clear mention of "humans" and the focus on "fetal liver," we can confidently conclude that the species involved in this study is 'Homo sapiens'.
+### Result ###
+['Homo sapiens']

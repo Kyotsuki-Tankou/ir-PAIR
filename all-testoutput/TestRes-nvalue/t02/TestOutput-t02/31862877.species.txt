@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the study focuses on "Heart failure (HF)" and mentions "a population-based cohort," which suggests the species involved could be humans. The term 'Homo sapiens' from the schema matches this context.
+###Verify###
+The abstract discusses "systematic characterization of circulating proteins across different stages of HF" and "a population-based cohort," which are typical references to human studies. Additionally, the mention of "heart transplantation" further supports the involvement of humans, as this is a common medical procedure in humans.
+###Context###
+The context of the study involves analyzing proteins in human blood and leveraging coronary sinus samples, which are specific to human anatomy. This strengthens the association with 'Homo sapiens'.
+###Conclusion###
+Given the clear references to human-specific contexts such as "population-based cohort" and "heart transplantation," along with the general focus on human health issues like heart failure, it is highly conclusive that the species involved is 'Homo sapiens'.
+###Result###
+['Homo sapiens']

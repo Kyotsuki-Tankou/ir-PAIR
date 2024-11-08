@@ -1,0 +1,10 @@
+### Keywords ###
+The keywords "APEX-seq" and "RNA localization" from the abstract suggest that the technique "APEX-seq" may be a proper result.
+### Verify ###
+The abstract mentions "RNA proximity labeling technique, APEX-seq" and "matching the spatial transcriptome, as revealed by APEX-seq," which confirms that 'APEX-seq' is indeed the technique being discussed.
+### Context ###
+No additional context is needed as the verification directly supports the result.
+### Conclusion ###
+Based on the keywords and the verification, we can confidently conclude that 'APEX-seq' is the correct technology.
+### Result ###
+['APEX-seq']

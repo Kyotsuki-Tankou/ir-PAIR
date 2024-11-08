@@ -1,0 +1,8 @@
+###Keywords###
+From the keywords "spatial transcriptomics," "single-cell resolution," "spatial heterogeneity," and "developing mouse embryos," we can deduce that 'sci-Space' might be a proper result.
+###Verify###
+The input text mentions "we introduce sci-Space," which confirms that 'sci-Space' is a correct result based on the provided schema.
+###Conclusion###
+Since the keywords and the verification both point to 'sci-Space', we can conclude that it is the correct result.
+###Result###
+["sci-Space"]

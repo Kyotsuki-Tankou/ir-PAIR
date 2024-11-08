@@ -1,0 +1,8 @@
+### Keywords ###
+The abstract mentions "deep single-cell sequencing of RNA and T cell receptors" and "tumours, normal adjacent tissue, and peripheral blood," indicating that the study involves various tissues and cellular profiles. Specifically, 'Tumor' and 'Blood' are directly mentioned as parts of the study.
+### Verify ###
+The abstract states, "we survey the profiles of various populations of T cells and T cell receptors in tumours, normal adjacent tissue, and peripheral blood," which confirms that 'Tumor' and 'Blood' are indeed involved in the study.
+### Conclusion ###
+Based on the information provided, we can conclude that 'Tumor' and 'Blood' are the appropriate results from the given input.
+### Result ###
+['Tumor', 'Blood']

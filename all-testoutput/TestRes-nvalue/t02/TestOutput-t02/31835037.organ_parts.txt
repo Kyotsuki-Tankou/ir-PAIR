@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "heart development" and "human development" are prominently mentioned, indicating that these may be relevant organ parts.
+### Verify ###
+The abstract states, "The process of cardiac morphogenesis in humans is incompletely understood" and "we present a molecular approach that reveals the comprehensive transcriptional landscape of cell types populating the embryonic heart at three developmental stages." These phrases directly reference the development of the heart, verifying that 'Heart' and 'Embryo' are indeed relevant organ parts.
+### Context ###
+Given the direct mention of "heart development" and the focus on "human embryonic cardiac cell types," the context strongly supports the relevance of 'Heart' and 'Embryo' as organ parts.
+### Conclusion ###
+Consequently, we confirm 'Heart' and 'Embryo' as our final results based on the clear and consistent references in the abstract.
+### Result ###
+['Heart', 'Embryo']

@@ -1,0 +1,13 @@
+### Keywords ###
+The abstract discusses gastruloids and compares them with mouse embryos using single-cell RNA sequencing and spatial transcriptomics. This indicates that 'Embryo development' might be a proper result.
+### Verify ###
+The abstract mentions:
+- "mouse gastruloids with mouse embryos using single-cell RNA sequencing and spatial transcriptomics"
+- "We identify various embryonic cell types that were not previously known to be present in gastruloids"
+These statements verify the connection between gastruloids and embryonic development.
+### Context ###
+The focus on gastruloids, which are three-dimensional aggregates of embryonic stem cells, and the direct comparison with mouse embryos using advanced techniques like single-cell RNA sequencing and spatial transcriptomics further confirm the relevance of 'Embryo development'.
+### Conclusion ###
+Based on the keywords, verification, and context, we confirm 'Embryo development' as the final result.
+### Result ###
+['Embryo development']

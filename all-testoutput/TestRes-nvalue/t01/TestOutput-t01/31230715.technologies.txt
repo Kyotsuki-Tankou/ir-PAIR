@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the term "APEX-seq" is explicitly mentioned, indicating that 'APEX-seq' may be a proper result.
+###Verify###
+The abstract focuses on "APEX-seq" as a method for RNA sequencing and discusses its application in producing a spatial map of the human transcriptome. This further verifies that 'APEX-seq' is indeed a relevant and proper result.
+###Context###
+Not required in this case as the keywords and the abstract content directly align with the schema.
+###Conclusion###
+Consequently, we confirm 'APEX-seq' as our final result based on the clear and consistent information provided in both the keywords and the abstract.
+###Result###
+['APEX-seq']

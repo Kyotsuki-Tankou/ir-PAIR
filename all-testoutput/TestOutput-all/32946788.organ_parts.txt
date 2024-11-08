@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, the relevant terms that might correspond to the schema are "embryonic aorta-gonad-mesonephros (AGM) region," "aorta," "gonad," and "embryo."
+### Verify ###
+- "embryonic aorta-gonad-mesonephros (AGM) region" suggests involvement of "Mouse aorta" and "Gonad tissue."
+- "aorta" directly matches "Mouse aorta."
+- "gonad" directly matches "Gonad tissue."
+- "embryo" could imply "Mouse Embryo" or "Embryo."
+### Context ###
+- The abstract focuses on the AGM region, which is a specific area in the embryo comprising the aorta, gonad, and mesonephros.
+- The study involves both the aorta and gonad within the context of the AGM region, indicating these are the primary organ parts of interest.
+### Conclusion ###
+Given the specific mention of the AGM region and the detailed focus on the aorta and gonad within this region, the most relevant organ parts from the schema are "Mouse aorta" and "Gonad tissue."
+### Result ###
+['Mouse aorta', 'Gonad tissue']

@@ -1,0 +1,10 @@
+###Keywords###
+From the Abstract, keywords like "brain regions," "single-cell resolution," "mouse hippocampus," "prefrontal cortex," "cell types," and "spatial transcriptomics" suggest a focus on specific brain regions and cellular analysis.
+###Verify###
+The Abstract explicitly mentions "mouse hippocampus and prefrontal cortex" as the primary brain regions studied. These terms directly correspond to specific organ parts listed in the schema.
+###Context###
+The study involves a detailed analysis of differential isoform expression across various cell types within the hippocampus and prefrontal cortex, indicating a clear focus on these brain regions.
+###Conclusion###
+Based on the explicit mention of "mouse hippocampus and prefrontal cortex" in the Abstract, we can confidently conclude that these are the primary organ parts relevant to this study.
+###Result###
+['Hippocampus', 'Prefrontal cortex']

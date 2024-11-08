@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "humans" is prominently mentioned, indicating that 'Homo sapiens' may be a proper result. Additionally, "mouse" is mentioned in the context of comparative analysis, suggesting 'Mus musculus' could also be relevant.
+### Verify ###
+The abstract specifically mentions "humans" and "mouse," which directly verifies that 'Homo sapiens' and 'Mus musculus' are indeed relevant species in this context.
+### Conclusion ###
+Consequently, we choose 'Homo sapiens' and 'Mus musculus' as our final results.
+### Result ###
+['Homo sapiens', 'Mus musculus']

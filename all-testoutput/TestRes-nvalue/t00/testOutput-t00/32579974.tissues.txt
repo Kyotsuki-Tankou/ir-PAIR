@@ -1,0 +1,36 @@
+### Keywords ###
+- cutaneous squamous cell carcinoma (cSCC)
+- single-cell RNA sequencing
+- spatial transcriptomics
+- multiplexed ion beam imaging
+- human cSCCs
+- normal skin
+- tumor subpopulations
+- epidermal states
+- tumor-specific keratinocyte (TSK)
+- fibrovascular niche
+- ligand-receptor networks
+- T regulatory cell (Treg)
+- CD8 T cells
+- tumor stroma
+- human tumor xenografts
+- in vivo CRISPR screens
+- gene networks
+- tumorigenesis
+- skin cancer
+### Verify ###
+- **Skin**: Mentioned as "human cSCCs and matched normal skin"
+- **Tumor**: Mentioned as "cutaneous squamous cell carcinoma (cSCC)" and "tumor subpopulations"
+- **Epithelium**: Implied by "epidermal states" and "tumor-specific keratinocyte (TSK)"
+- **Blood vessel**: Implied by "fibrovascular niche"
+- **Cell line**: Mentioned in the context of "human tumor xenografts"
+### Context ###
+- The study focuses on the cellular composition and architecture of cSCC, involving both normal skin and tumor tissues.
+- Techniques like single-cell RNA sequencing, spatial transcriptomics, and multiplexed ion beam imaging are used.
+- The presence of tumor-specific keratinocytes and their interaction in a fibrovascular niche is highlighted.
+- Immunological aspects, such as T regulatory cells and CD8 T cells, are discussed in the context of tumor stroma.
+### Conclusion ###
+- The study primarily deals with skin tissues, both normal and cancerous.
+- It involves detailed analysis of tumor subpopulations and their interactions within the tumor microenvironment.
+### Result ###
+['Skin', 'Tumor', 'Epithelium', 'Blood vessel', 'Cell line']

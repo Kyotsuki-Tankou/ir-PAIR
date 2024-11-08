@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, we see mentions of "human and murine liver," which directly suggests the involvement of at least two species: "Homo sapiens" (human) and "Mus musculus" (murine).
+### Verify ###
+In the Abstract, it is stated that "we present a spatial proteogenomic atlas of the healthy and obese human and murine liver." This explicitly confirms the involvement of "Homo sapiens" and "Mus musculus."
+### Context ###
+The Abstract also mentions that the atlas is aligned "across seven species," indicating the involvement of additional species beyond just humans and mice. However, the specific names of these seven species are not provided in the Abstract or Keywords.
+### Conclusion ###
+Based on the explicit mentions in both the Keywords and the Abstract, we can confidently conclude that "Homo sapiens" and "Mus musculus" are involved. The mention of seven species suggests others are included, but without specific names, we can only confirm these two.
+### Result ###
+["Homo sapiens", "Mus musculus"]

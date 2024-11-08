@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Embryo"]
+["Heart"]
+["Spatial Transcriptomics"]
+["Heart development"]
+ Abstract\nThe process of cardiac morphogenesis in humans is incompletely understood. Its full characterization requires a deep exploration of the organ-wide orchestration of gene expression with a single-cell spatial resolution. Here, we present a molecular approach that reveals the comprehensive transcriptional landscape of cell types populating the embryonic heart at three developmental stages and that maps cell-type-specific gene expression to specific anatomical domains. Spatial transcriptomics identified unique gene profiles that correspond to distinct anatomical regions in each developmental stage. Human embryonic cardiac cell types identified by single-cell RNA sequencing confirmed and enriched the spatial annotation of embryonic cardiac gene expression. In situ sequencing was then used to refine these results and create a spatial subcellular map for the three developmental phases. Finally, we generated a publicly available web resource of the human developing heart to facilitate future studies on human cardiogenesis. \n Keywords:gene expression; heart development; human development; human developmental cell atlas; in situ sequencing; single-cell RNA-sequencing; spatial transcriptomics; spatially resolved transcriptomics.

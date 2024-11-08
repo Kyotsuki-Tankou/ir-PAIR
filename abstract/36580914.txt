@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Brain"]
+[" Striatum", "Frontal cortex"]
+["MERFISH", "snRNA"]
+["Normal atlas"]
+ Abstract\nThe diversity and complex organization of cells in the brain have hindered systematic characterization of age-related changes in its cellular and molecular architecture, limiting our ability to understand the mechanisms underlying its functional decline during aging. Here, we generated a high-resolution cell atlas of brain aging within the frontal cortex and striatum using spatially resolved single-cell transcriptomics and quantified changes in gene expression and spatial organization of major cell types in these regions over the mouse lifespan. We observed substantially more pronounced changes in cell state, gene expression, and spatial organization of non-neuronal cells over neurons. Our data revealed molecular and spatial signatures of glial and immune cell activation during aging, particularly enriched in the subcortical white matter, and identified both similarities and notable differences in cell-activation patterns induced by aging and systemic inflammatory challenge. These results provide critical insights into age-related decline and inflammation in the brain. \n Keywords:LPS; MERFISH; astrocyte; brain aging; inflammation; microglia; oligodendrocyte; single-cell RNA sequencing; single-cell transcriptomics; spatial transcriptomics.

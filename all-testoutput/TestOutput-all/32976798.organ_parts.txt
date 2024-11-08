@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "human liver," "fetal liver," and "hepatocellular carcinoma (HCC)" suggest that 'Liver tissue,' 'Fetal liver,' and 'Hepatocellular carcinoma' may be proper results.
+### Verify ###
+1. **Liver tissue**: The phrase "We employed scRNA sequencing to extensively characterize the cellular landscape of human liver" confirms the involvement of 'Liver tissue'.
+2. **Fetal liver**: The mention of "human fetal" and "fetal-like reprogramming" supports the inclusion of 'Fetal liver'.
+3. **Hepatocellular carcinoma**: The repeated references to "hepatocellular carcinoma (HCC)" and "HCC ecosystem" verify 'Hepatocellular carcinoma'.
+### Conclusion ###
+Consequently, we confirm 'Liver tissue,' 'Fetal liver,' and 'Hepatocellular carcinoma' as our final results.
+### Result ###
+['Liver tissue', 'Fetal liver', 'Hepatocellular carcinoma']

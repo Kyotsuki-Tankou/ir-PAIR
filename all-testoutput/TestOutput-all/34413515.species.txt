@@ -1,0 +1,8 @@
+### Keywords ###
+From the Abstract, the keyword that corresponds to the schema is "mouse."
+### Verify ###
+The Abstract mentions "mouse cortical astrocytes," verifying that the species studied is indeed "Mus musculus."
+### Conclusion ###
+Since the keyword "mouse" matches the species mentioned in the abstract, we can conclude that "Mus musculus" is the appropriate result.
+### Result ###
+['Mus musculus']

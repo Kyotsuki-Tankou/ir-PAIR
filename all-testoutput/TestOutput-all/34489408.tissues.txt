@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, the keywords that stand out are "colorectal cancer (CRC)," "liver metastases," "tumor microenvironment (TME)," and "blood." This suggests that 'Liver', 'Blood', and possibly 'Tumor' could be relevant tissues.
+### Verify ###
+- **Liver**: The abstract mentions "liver metastases of CRC" and "transcriptional landscape of primary CRC, matched liver metastases," which clearly verifies the inclusion of 'Liver'.
+- **Blood**: The abstract states "and blood at single-cell resolution," which directly verifies the inclusion of 'Blood'.
+- **Tumor**: The abstract discusses "the tumor microenvironment (TME)" and "treatment-naïve tumors," which implies the involvement of 'Tumor' tissue.
+### Context ###
+The abstract focuses on the analysis of primary CRC, liver metastases, and blood, providing a clear context that these tissues are central to the study. The mention of the tumor microenvironment further supports the inclusion of 'Tumor'.
+### Conclusion ###
+Based on the clear and direct references in the abstract, we can confidently conclude that 'Liver', 'Blood', and 'Tumor' are the relevant tissues involved in the study.
+### Result ###
+['Liver', 'Blood', 'Tumor']

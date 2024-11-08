@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "bone marrow mesenchymal lineage cells," "bone marrow," and "stromal cells," indicating that 'bone marrow' is a central tissue of interest. The technologies listed do not directly correspond to keywords, but the mention of "single cell transcriptome analysis" suggests high-resolution cellular analysis techniques were used.
+### Verify ###
+The abstract discusses the study of "bone marrow mesenchymal lineage cells" and their differentiation paths, which verifies that 'bone marrow' is the tissue being studied. The technologies like "single cell RNA-seq" mentioned in the keywords align with the methods used to study these cells.
+### Context ###
+The context of the abstract is centered around the mesenchymal lineage cells within the bone marrow and their roles in bone homeostasis and disease. This reinforces that 'bone marrow' is the correct tissue focus.
+### Conclusion ###
+Based on the consistent mention of bone marrow and related cell types throughout the abstract, we conclude that 'bone marrow' is the tissue type corresponding to the input.
+### Result ###
+['bone marrow']

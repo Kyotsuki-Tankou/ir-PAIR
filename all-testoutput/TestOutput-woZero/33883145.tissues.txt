@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, keywords such as "single-cell RNA sequencing (scRNA-seq)," "tissues," "mouse tumor models," "spatial metadata," "transcriptomes," "mesenchymal stem cells (MSCs)," "tumor suppressor genes," and "tumor core" are prominent. The specific mention of "mouse tumor models" and "tumor-associated mesenchymal stem cells" suggests a focus on tumor tissues.
+### Verify ###
+The abstract explicitly mentions "mouse tumor models" and the analysis of "tumor-associated mesenchymal stem cells," which clearly indicates that the primary tissue of interest is related to tumors. Additionally, the context of spatial distribution and localized expression in relation to the tumor core further supports this.
+### Conclusion ###
+Given the clear and repeated mention of "mouse tumor models" and the focus on tumor-associated cells and genes, we can confidently conclude that the primary tissue involved in the study is "Tumor."
+### Result ###
+['Tumor']

@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "spatial transcriptomics" is explicitly mentioned, indicating that 'Spatial Transcriptomics' may be a proper result.
+###Verify###
+The abstract states, "The current study represents the first comprehensive approach to spatial transcriptomics of high-grade serous ovarian carcinoma using intact tumor tissue," which directly verifies the use of 'Spatial Transcriptomics' technology.
+###Conclusion###
+Since the term 'Spatial Transcriptomics' is both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that 'Spatial Transcriptomics' is the appropriate technology used.
+###Result###
+['Spatial Transcriptomics']

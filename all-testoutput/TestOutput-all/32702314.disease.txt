@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "Alzheimer's disease (AD)" and "amyloid plaques" are prominently mentioned, indicating that the disease of interest is Alzheimer's disease.
+### Verify ###
+The abstract focuses on "transcriptional changes occurring in tissue domains around amyloid plaques" and "multicellular gene co-expression network of plaque-induced genes" in the context of an AD mouse model. This confirms that Alzheimer's disease is the primary disease being studied.
+### Context ###
+The detailed investigation into the molecular and cellular changes around amyloid plaques, which are characteristic of Alzheimer's disease, further supports that Alzheimer's disease is the central focus of the study.
+### Conclusion ###
+Given the consistent mention and focus on Alzheimer's disease throughout the abstract, we can confidently conclude that 'Alzheimer disease' is the correct disease.
+### Result ###
+['Alzheimer disease']

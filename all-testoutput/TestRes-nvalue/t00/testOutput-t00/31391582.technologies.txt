@@ -1,0 +1,28 @@
+### Keywords ###
+- spatially resolved transcriptome
+- cell populations
+- germ layers
+- development
+- pre- to late-gastrulation stages
+- spatiotemporal transcriptome
+- high-resolution digitized in situ gene-expression profiles
+- molecular genealogy
+- tissue lineages
+- pluripotency states
+- molecular determinants
+- lineage specification
+- tissue patterning
+- Hippo-Yap signalling
+- visceral endoderm
+- endoderm
+- early mouse embryo
+### Verify ###
+- spatially resolved transcriptome: This suggests a technique that can resolve gene expression in a spatial context.
+- high-resolution digitized in situ gene-expression profiles: This indicates a method for detailed gene expression analysis in situ.
+- molecular genealogy and tissue lineages: This implies a method that can track lineage and gene expression over time and space.
+### Context ###
+The context involves detailed spatial and temporal analysis of gene expression during mouse embryo development, particularly focusing on germ layers and lineage specification. This suggests the use of advanced sequencing and imaging techniques capable of resolving spatial and temporal data.
+### Conclusion ###
+Given the focus on spatially resolved transcriptomes, high-resolution gene expression profiles, and molecular genealogy, the most likely technologies used or relevant to this study would include those capable of spatial transcriptomics and high-resolution sequencing.
+### Result ###
+['Spatial Transcriptomics', 'Slide-seq', 'Slide-seqV2', 'STARmap', 'DBiT-seq', 'sci-Space', 'seqFish', 'seqFISH+', 'Stereo-Seq', '10x Visium', 'MERFISH']

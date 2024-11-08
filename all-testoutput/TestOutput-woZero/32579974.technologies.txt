@@ -1,0 +1,12 @@
+### Keywords ###
+From the Keywords section, the relevant technologies mentioned are "scRNA-seq" and "spatial transcriptomics."
+### Verify ###
+In the Abstract, it is mentioned:
+- "combined single-cell RNA sequencing with spatial transcriptomics"
+This directly verifies that 'scRNA' and 'Spatial Transcriptomics' are indeed relevant technologies.
+### Context ###
+Since the abstract explicitly mentions "single-cell RNA sequencing" and "spatial transcriptomics," there is no ambiguity or need for further context to verify these technologies.
+### Conclusion ###
+Based on the explicit mention in the abstract, we confirm 'scRNA' and 'Spatial Transcriptomics' as our final results.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

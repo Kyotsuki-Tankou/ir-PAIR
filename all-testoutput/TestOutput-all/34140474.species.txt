@@ -1,0 +1,10 @@
+### Keywords ###
+The input mentions "pigs" and "pig tissues," which directly points to a specific species. The term "pigs" is the keyword that needs to be matched with the schema.
+### Verify ###
+The abstract clearly states "A comprehensive transcriptomic survey of pigs," which directly verifies that the species under study is pigs. This aligns with one of the species listed in the schema.
+### Context ###
+Since the verification step directly confirms the species without any ambiguity, there is no need for additional context to clarify the species type.
+### Conclusion ###
+Consequently, we confirm that 'Sus scrofa' (the scientific name for pigs) is the appropriate species based on the given input.
+### Result ###
+['Sus scrofa']

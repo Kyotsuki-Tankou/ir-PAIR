@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "Single-cell RNA sequencing," "spatial transcriptomics," and "ClumpSeq" are prominent, suggesting that 'scRNA', 'Spatial Transcriptomics', and 'ClumpSeq' may be relevant technologies.
+### Verify ###
+1. **Single-cell RNA sequencing**: The abstract mentions "Single-cell RNA sequencing combined with spatial information on landmark genes," which directly aligns with the 'scRNA' technology.
+2. **Spatial Transcriptomics**: The mention of "spatially-resolved tissue cell atlases" and "spatial transcriptomics bulk measurements" supports the inclusion of 'Spatial Transcriptomics'.
+3. **ClumpSeq**: The abstract introduces "ClumpSeq, an approach for sequencing small clumps of attached cells," which directly corresponds to the 'ClumpSeq' technology.
+### Context ###
+The abstract focuses on the integration of single-cell RNA sequencing with spatial information and introduces a novel method, ClumpSeq, for sequencing small clumps of cells. This context supports the use of 'scRNA' for single-cell analysis, 'Spatial Transcriptomics' for spatial resolution, and 'ClumpSeq' for the specific method described.
+### Conclusion ###
+Based on the clear mentions and the context provided, we can confidently conclude that the relevant technologies are 'scRNA', 'Spatial Transcriptomics', and 'ClumpSeq'.
+### Result ###
+['scRNA', 'Spatial Transcriptomics', 'ClumpSeq']

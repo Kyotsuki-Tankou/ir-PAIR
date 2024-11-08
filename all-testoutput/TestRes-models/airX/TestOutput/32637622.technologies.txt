@@ -1,0 +1,10 @@
+### Keywords ###
+From the "Abstract," the term "whole-brain spatial transcriptomics" suggests a technology related to spatial transcriptomics might be used. Among the listed technologies, "Spatial Transcriptomics" aligns closely with the methodology described.
+### Verify ###
+The Abstract states that the researchers employed "whole-brain spatial transcriptomics" to generate a systematic classification of the adult mouse brain. This directly confirms the use of a spatial transcriptomics technology.
+### Context ###
+The context of the Abstract revolves around the generation of a molecular atlas of the brain, which requires high-resolution spatial mapping of gene expression. The technologies listed in the schema are those known for their ability to provide such spatial information. The term "Spatial Transcriptomics" is the most fitting technology for the described methodology.
+### Conclusion ###
+Based on the explicit mention of "whole-brain spatial transcriptomics" and the nature of the study, it is clear that "Spatial Transcriptomics" is the technology used.
+### Result ###
+['Spatial Transcriptomics']

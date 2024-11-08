@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "neonatal heart regeneration," "ischemia/reperfusion (I/R) injury," and "cardiomyocytes," which suggest that 'Neonatal heart regeneration' and 'Myocardial Ischemia-Reperfusion Injury' may be relevant results.
+### Verify ###
+In the abstract, phrases like "using the mammalian neonatal heart regeneration model," "Nrf1 overexpression protected the adult mouse heart from ischemia/reperfusion (I/R) injury," and "required for neonatal heart regeneration" further verify that 'Neonatal heart regeneration' and 'Myocardial Ischemia-Reperfusion Injury' are indeed relevant and proper results.
+### Context ###
+There is no need for additional context as the abstract clearly and consistently focuses on neonatal heart regeneration and the protective effects against ischemia/reperfusion injury.
+### Conclusion ###
+Consequently, we confirm 'Neonatal heart regeneration' and 'Myocardial Ischemia-Reperfusion Injury' as the final results based on the clear and direct references in the abstract.
+### Result ###
+['Neonatal heart regeneration', 'Myocardial Ischemia-Reperfusion Injury']

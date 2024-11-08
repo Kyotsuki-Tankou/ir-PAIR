@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "synovial biopsies," "rheumatoid arthritis (RA)," "spondyloarthritis (SpA)," and "synovial tissue" are prominent, indicating that 'Synovial tissue' may be a proper result.
+### Verify ###
+The abstract mentions "synovial biopsies from rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients" and "synovial tissue biopsies from affected joints," which further verifies that the study is focused on 'Synovial tissue.'
+### Context ###
+Since the abstract is consistently discussing synovial tissue and its analysis in the context of RA and SpA, there is no ambiguity or need for additional context to confirm the tissue type.
+### Conclusion ###
+Consequently, we confirm 'Synovial tissue' as the final result based on the clear and consistent focus on synovial tissue in the abstract.
+### Result ###
+['Synovial tissue']

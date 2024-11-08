@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the term "genome-wide RNA tomography sequencing" stands out as a key technology used in the study.
+### Verify ###
+- The abstract explicitly mentions "genome-wide RNA tomography sequencing," which directly corresponds to a sequencing technology.
+- The schema includes various sequencing technologies, and "RNA-seq" is a broad term that encompasses different types of RNA sequencing methods, including tomography sequencing.
+### Context ###
+- The study involves "interspecies comparative RNA sequencing analyses," which further emphasizes the use of RNA sequencing technologies.
+- The focus on "exploring genes and regulatory pathways" and "the complexity of the aortic microenvironment landscape" aligns with the applications of RNA-seq technologies.
+### Conclusion ###
+Given the explicit mention of "genome-wide RNA tomography sequencing" and the context of comparative RNA sequencing analyses, "RNA-seq" is the most appropriate term to extract from the schema.
+### Result ###
+["RNA-seq"]

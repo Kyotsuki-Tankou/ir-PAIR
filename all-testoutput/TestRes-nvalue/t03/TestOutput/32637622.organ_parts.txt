@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "adult mouse brain," "whole-brain spatial transcriptomics," and "neuroanatomical organization" are mentioned. These suggest that the organ part involved is likely related to the brain, specifically in mice. Potential matches from the schema could include 'Mouse Embryo,' 'Striatum,' 'Coronal brain section,' 'Postmortem brain,' 'Brain,' 'Coronal Brain,' etc.
+### Verify ###
+The abstract explicitly states, "We aimed to generate a systematic classification of the adult mouse brain," which directly indicates that the study focuses on the brain of mice. Additionally, mentions of "isocortex and hippocampus," and "new subdivisions of striatum" further specify regions within the brain.
+### Context ###
+Given the detailed focus on various brain regions such as isocortex, hippocampus, and striatum, the study seems to encompass a broad section of the brain rather than a specific small part. This suggests that a more general term like 'Brain' or 'Coronal brain' might be appropriate.
+### Conclusion ###
+Based on the explicit mentions and the context provided, the most encompassing and accurate term from the schema that fits the described study is 'Brain,' as it covers the broad scope of the brain regions mentioned.
+### Result ###
+['Brain']

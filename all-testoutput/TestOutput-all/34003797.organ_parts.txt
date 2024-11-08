@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, key terms related to organ parts include "kidney," "human nephrectomy," "renal medulla," "S3 proximal tubules," and "outer cortical." These terms suggest potential matches with the schema.
+### Verify ###
+The abstract focuses on the kidney, specifically mentioning "human nephrectomy" and various regions within the kidney such as "renal medulla" and "S3 proximal tubules." This strongly suggests that "Kidney" or related terms might be relevant.
+### Context ###
+The context of the study involves both human and murine kidney tissues, with specific emphasis on regions like the renal medulla and outer cortex. The study also mentions immune cell infiltration in these regions, further emphasizing the kidney as the primary organ of interest.
+### Conclusion ###
+Given the consistent focus on the kidney and its specific regions throughout the abstract, it is reasonable to conclude that "Kidney" is the relevant organ part. However, the schema does not explicitly list "Kidney" but includes related terms like "Renal pelvis" and "Kidney organoid."
+### Result ###
+['Renal pelvis', 'Kidney organoid']

@@ -1,0 +1,12 @@
+### Keywords ###
+The abstract mentions "using the mammalian neonatal heart regeneration model" and "Nrf1, a stress-responsive transcription factor." There are no direct mentions of specific technologies from the schema.
+### Verify ###
+- The abstract focuses on genetic manipulation (e.g., "Genetic deletion of Nrf1" and "Nrf1 overexpression") and the study of transcriptional programs.
+- There is no explicit mention of any sequencing or imaging technologies listed in the schema.
+### Context ###
+- The study involves genetic deletion and overexpression, which suggests techniques like CRISPR or other genetic engineering methods, but these are not listed in the schema.
+- The abstract discusses "transcriptional program required for heart regeneration," which might imply the use of transcriptomic technologies, but none are specifically named.
+### Conclusion ###
+Given the lack of explicit mentions of any technologies from the schema and the focus on genetic manipulation rather than sequencing or imaging technologies, it is reasonable to conclude that no technologies from the provided schema were used in this study.
+### Result ###
+null

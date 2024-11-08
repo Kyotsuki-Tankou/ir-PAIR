@@ -1,0 +1,13 @@
+### Keywords ###
+- From the "Abstract," the terms "prostate tissue," "prostate," and "prostatic urethra" suggest that 'Prostate' is a relevant tissue.
+- The mention of "lower urinary tract" and "urethral club cell genes" also indirectly supports the focus on the prostate.
+### Verify ###
+- From "Benign prostatic hyperplasia (BPH) is a progressive expansion of peri-urethral prostate tissue" and "prostates from 5ARI-treated men," we can directly verify that 'Prostate' is a primary tissue of interest.
+- The term "prostatic urethra" further reinforces the focus on the prostate.
+### Context ###
+- The abstract discusses "5-alpha reductase inhibitors (5ARIs)" and their effects on "prostate secretory luminal cells," which are specific to the prostate.
+- The use of spatial profiling approaches to characterize gene expression changes in "prostates from 5ARI-treated men" solidifies the focus on the prostate tissue.
+### Conclusion ###
+Given the direct mentions and contextual focus on the prostate, we can confidently conclude that 'Prostate' is the appropriate tissue to extract.
+### Result ###
+['Prostate']

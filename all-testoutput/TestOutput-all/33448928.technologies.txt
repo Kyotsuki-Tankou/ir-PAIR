@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keyword that stands out in relation to the schema is "single-cell RNA-sequencing."
+### Verify ###
+The abstract specifically mentions "Single-cell RNA-sequencing in a murine endotoxemia model," which clearly verifies the use of "single-cell RNA-seq" technology.
+### Context ###
+There is no need for additional context as the abstract directly mentions the technology used.
+### Conclusion ###
+Given the clear mention of "single-cell RNA-sequencing," we can confidently conclude that the technology used in the study is "single-cell RNA-seq."
+### Result ###
+['single-cell RNA-seq']

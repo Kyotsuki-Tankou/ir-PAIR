@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the terms "Stereo-seq" and "scRNA-seq" are prominently mentioned, indicating that these technologies may be relevant.
+### Verify ###
+The abstract specifically mentions "employed Stereo-seq to profile" and "integrated analysis of the Stereo-seq and scRNA-seq data," which directly verifies that both 'Stereo-seq' and 'scRNA-seq' are indeed relevant technologies used in this study.
+### Conclusion ###
+Consequently, we choose 'Stereo-seq' and 'scRNA-seq' as our final results.
+### Result ###
+['Stereo-seq', 'scRNA-seq']

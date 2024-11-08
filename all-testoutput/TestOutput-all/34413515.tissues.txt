@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the key terms related to tissues are "astrocytes," "brain," "mouse cortical astrocytes," and "specific brain regions." These terms suggest that the primary tissue of focus is the brain, particularly the cortical region.
+### Verify ###
+The abstract explicitly mentions "mouse cortical astrocytes" and "specific brain regions," which strongly indicates that the tissue studied is the brain, specifically the cortex.
+### Context ###
+The study investigates the transcriptome changes in cortical astrocytes within the brain after an inflammatory stimulus. The use of terms like "cortical astrocytes" and "brain regions" further reinforces that the brain, particularly the cortex, is the central tissue of interest.
+### Conclusion ###
+Based on the explicit mentions and the context provided, it is clear that the tissue studied is the "Brain," with a specific focus on the "Cortex."
+### Result ###
+["Brain", "Cortex"]

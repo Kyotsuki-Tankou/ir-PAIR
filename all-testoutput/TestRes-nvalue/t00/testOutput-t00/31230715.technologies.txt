@@ -1,0 +1,39 @@
+### Keywords
+- APEX-seq
+- RNA sequencing
+- proximity labeling
+- APEX2
+- subcellular locales
+- spatial map
+- human transcriptome
+- localization
+- nuclear transcriptome
+- nuclear pore
+- cytoplasmic export
+- messenger RNA
+- mitochondria
+- macromolecular machines
+- spatial transcriptome
+- LADs
+- OXPHOS
+- UTRs
+- cycloheximide
+- motifs
+- nocodazole
+- retrotransposons
+- spatial transcriptomics
+- translation
+### Verify
+- APEX-seq (mentioned in both input and schema)
+- RNA sequencing (mentioned in input, related to 'RNA-seq' in schema)
+- spatial transcriptome (mentioned in input, related to 'Spatial Transcriptomics' in schema)
+### Context
+- The input describes APEX-seq as a method for RNA sequencing based on proximity labeling.
+- It emphasizes the creation of a spatial map of the human transcriptome.
+- The method is applied in various subcellular locales and reveals patterns of RNA localization.
+- The study uncovers specific pathways of mRNA localization to mitochondria.
+### Conclusion
+- The primary technology discussed and utilized in the input is APEX-seq.
+- The context aligns with the schema's inclusion of RNA sequencing and spatial transcriptomics-related technologies.
+### Result
+- ['APEX-seq', 'RNA-seq', 'Spatial Transcriptomics']

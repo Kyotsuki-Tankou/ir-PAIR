@@ -1,0 +1,10 @@
+###Keywords###
+From the input, the terms "digit tip amputation," "blastema," "lineage-restricted progenitor cells," "single-cell RNA sequencing," and "mouse digit tip blastemas" suggest that the study is focused on the regeneration of the digit tip in mice. This indicates that 'Digit tip' may be a proper result.
+###Verify###
+The abstract states, "we present single-cell RNA sequencing of over 38,000 cells from mouse digit tip blastemas and unamputated control digit tips," which directly supports the keyword 'Digit tip' and verifies its relevance.
+###Context###
+Given the explicit mention of "mouse digit tip blastemas" and the study's focus on digit tip regeneration, there is no ambiguity in the context. The keyword 'Digit tip' is clearly supported by the context provided.
+###Conclusion###
+Consequently, we confirm 'Digit tip' as our final result based on the clear and consistent references in the abstract and context.
+###Result###
+['Digit tip']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "high-definition spatial transcriptomics" suggests a technology related to spatial transcriptomics. Additionally, the mention of "spatially barcoded bead array" and "high-resolution spatial analysis" provides context.
+### Verify ###
+The abstract specifically mentions "high-definition spatial transcriptomics" and demonstrates its application in "mouse brain and primary breast cancer." This aligns with the concept of spatial transcriptomics technologies.
+### Context ###
+While "high-definition spatial transcriptomics" is not an exact match to any item in the schema, it is a variant or advanced form of spatial transcriptomics. The description of capturing RNA from histological tissue sections on a dense, spatially barcoded bead array at high resolution fits within the domain of spatial transcriptomics technologies.
+### Conclusion ###
+Given the context and the specific mention of spatial transcriptomics, the closest and most appropriate match from the schema is 'Spatial Transcriptomics'.
+### Result ###
+['Spatial Transcriptomics']

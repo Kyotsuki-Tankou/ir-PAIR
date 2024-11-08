@@ -1,0 +1,13 @@
+### Keywords ###
+From the abstract, the keywords "kidney," "ischemia-reperfusion injury," "AKI (Acute Kidney Injury)," and "repair" stand out as relevant to the schema.
+### Verify ###
+- "female bilateral ischemia-reperfusion injury model" suggests "Acute kidney injury."
+- "spatial maps of gene expression across the injury and repair time course" indicates a focus on "Kidney injury" and "Tissue repair."
+- "injured proximal tubule cells" and "AKI to CKD transition" further confirm the relevance of "Acute kidney injury."
+### Context ###
+- The abstract discusses a study on kidney injury and repair, specifically focusing on ischemia-reperfusion injury in a murine model.
+- The use of spatial transcriptomics to map gene expression during the injury and repair process emphasizes the study's focus on understanding the molecular dynamics of kidney injury and its recovery.
+### Conclusion ###
+Given the clear focus on kidney injury, particularly ischemia-reperfusion injury, and the repair process, the most relevant terms from the schema are "Acute kidney injury" and "Tissue repair."
+### Result ###
+['Acute kidney injury', 'Tissue repair']

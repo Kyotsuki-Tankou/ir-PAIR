@@ -1,0 +1,19 @@
+### Keywords ###
+- Single-cell RNA sequencing (scRNA-seq)
+- Spatial transcriptomics
+- Primary pancreatic tumors
+- Ductal cells
+- Macrophages
+- Dendritic cells
+- Cancer cells
+- Inflammatory fibroblasts
+- Stress-response gene module
+### Verify ###
+- **Disease Context**: The input mentions "primary pancreatic tumors," which directly corresponds to a disease in the schema.
+- **Cell Types and Processes**: The input discusses various cell types and their interactions within the tumor environment, but these are not directly listed as diseases in the schema.
+### Context ###
+- The primary focus of the input is on the methodology and findings related to primary pancreatic tumors. The mention of specific cell types (ductal cells, macrophages, dendritic cells, cancer cells, inflammatory fibroblasts) and processes (stress-response gene module) are in the context of understanding the tumor microenvironment.
+### Conclusion ###
+- The primary disease mentioned in the input that matches the schema is "Primary pancreatic tumors," which can be generalized to "Pancreatic cancer."
+### Result ###
+- ["Pancreatic cancer"]

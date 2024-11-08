@@ -1,0 +1,5 @@
+-----35709248.txt-----
+ERROR in  35709248.txt type= species
+lastword=['Mus musculus'] (assuming the common mammalian model used in such research, though "Homo sapiens" could also be considered if human cells were implied)
+ans:["Mus musculus"]
+-----------

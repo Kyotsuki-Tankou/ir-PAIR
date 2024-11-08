@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the key terms are "suprachiasmatic nucleus (SCN)", "ventral hypothalamus", "single-cell RNA-sequencing", "mouse SCN", and "circadian gene expression patterns". These terms suggest a focus on specific brain regions and cellular analysis in mice.
+### Verify ###
+In the Abstract, we see mentions of "suprachiasmatic nucleus (SCN)" and "ventral hypothalamus". These phrases indicate a focus on specific brain regions in mice. The schema includes terms like "Suprachiasmatic nucleus" and "Hypothalamus", which directly correspond to the mentioned regions.
+### Context ###
+Given the specific mention of "suprachiasmatic nucleus (SCN)" and "ventral hypothalamus", we need to ensure that these terms directly correspond to the provided schema. The schema explicitly includes "Suprachiasmatic nucleus" and "Hypothalamus", which are directly mentioned in the Abstract.
+### Conclusion ###
+The terms from the Keywords and the Abstract directly match specific items in the provided schema list. The Abstract clearly mentions "suprachiasmatic nucleus (SCN)" and "ventral hypothalamus", which are present in the schema.
+### Result ###
+['Suprachiasmatic nucleus', 'Hypothalamus']

@@ -1,0 +1,11 @@
+### Keywords ###
+The input abstract discusses the development of "high-definition spatial transcriptomics" for capturing RNA from tissue sections on a spatially barcoded array, which is applied to mouse brain and primary breast cancer. This suggests that the technologies 'Spatial Transcriptomics' and 'RNA-seq' are relevant.
+### Verify ###
+- The abstract mentions "high-definition spatial transcriptomics," which directly ties to the 'Spatial Transcriptomics' technology.
+- It also mentions "captures RNA," which is a common process in 'RNA-seq' technology.
+### Context ###
+There is no additional context needed beyond the direct mention of the technologies in the abstract.
+### Conclusion ###
+Based on the keywords, verification, and context, we can conclude that the relevant technologies are 'Spatial Transcriptomics' and 'RNA-seq'.
+### Result ###
+['Spatial Transcriptomics', 'RNA-seq']

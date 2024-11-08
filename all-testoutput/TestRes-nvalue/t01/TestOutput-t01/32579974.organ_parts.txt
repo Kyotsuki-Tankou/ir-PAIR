@@ -1,0 +1,16 @@
+### Keywords ###
+From the abstract, the following organ parts are mentioned or implied:
+- "cutaneous squamous cell carcinoma (cSCC)"
+- "normal skin"
+- "human tumor xenografts"
+### Verify ###
+From the schema, the relevant organ parts that match the keywords are:
+- "Skin"
+- "Squamous Cell Carcinoma"
+- "Human cell lines" (implied by "human tumor xenografts")
+### Context ###
+The abstract specifically mentions "cutaneous squamous cell carcinoma (cSCC)" and "normal skin," which directly correspond to "Squamous Cell Carcinoma" and "Skin" in the schema. The mention of "human tumor xenografts" suggests the use of human cell lines, aligning with "Human cell lines" in the schema.
+### Conclusion ###
+Based on the context and the specific mentions in the abstract, the most appropriate organ parts that match the described methodology and focus are "Squamous Cell Carcinoma," "Skin," and "Human cell lines."
+### Result ###
+['Squamous Cell Carcinoma', 'Skin', 'Human cell lines']

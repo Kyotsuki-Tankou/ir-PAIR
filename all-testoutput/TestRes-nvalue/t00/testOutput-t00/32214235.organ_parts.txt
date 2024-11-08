@@ -1,0 +1,23 @@
+### Keywords ###
+- Single-cell analysis
+- Human organs
+- Human cell landscape (HCL)
+- Single-cell mRNA sequencing
+- Cell-type composition
+- Single-cell hierarchy
+- Human cell identity
+- Comparative analysis (human and mouse)
+- Stem and progenitor cells
+- Differentiated cells
+- Transcriptomic stochasticity
+### Verify ###
+- **Human organs**: The study focuses on human organs, which could include various organ parts listed in the schema.
+- **Single-cell hierarchy**: This implies detailed analysis of different tissues, potentially covering multiple organ parts.
+- **Comparative analysis (human and mouse)**: This suggests involvement of mouse-related organ parts as well.
+### Context ###
+- The paper discusses a comprehensive single-cell atlas for humans, indicating a wide range of human tissues and organs.
+- It also mentions a comparative analysis with mouse tissues, which could include various mouse-related organ parts.
+### Conclusion ###
+- The study likely involves multiple organ parts from both humans and mice, given its comprehensive nature and comparative analysis.
+### Result ###
+- ['Human cell lines', 'Mouse Embryo', 'Embryo', 'Mouse aorta', 'Mouse atrium', 'Mouse ventricle', 'Postmortem brain', 'Liver tissue', 'Myocardium', 'Ileum', 'Femur', 'Hindpaw', 'Brain', 'Right atrial appendage (RAA)', 'Microglia', 'Medulla', 'Whole Mouse Bladder', 'Oral mucosa', 'Heart', 'Coronal Brain', 'Lumbar spinal cord (L3/L4)', 'Lumbar spinal cord (L5/S1)', 'Kidney-resident macrophages (KRMs)', 'Cervical cancer', 'Human cortex', 'Cortex', 'Skeletal Muscle', 'Skin irAE']

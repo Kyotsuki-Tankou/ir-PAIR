@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the key terms that stand out are "high-grade serous ovarian carcinoma" and "tumor tissue." These suggest that 'Ovarian cancer' or 'High-grade serous ovarian carcinoma' may be relevant results.
+### Verify ###
+The abstract specifically mentions "high-grade serous ovarian carcinoma" and focuses on the spatial transcriptomics of this cancer type. This directly aligns with 'Ovarian cancer' as a relevant result from the schema.
+### Context ###
+The context of the study is clearly centered around ovarian carcinoma, particularly high-grade serous type, and its response to chemotherapy. There is no ambiguity or need for additional context to confirm the relevance of 'Ovarian cancer.'
+### Conclusion ###
+Based on the clear and direct references to "high-grade serous ovarian carcinoma" in the abstract, we confirm 'Ovarian cancer' as the appropriate result.
+### Result ###
+["Ovarian cancer"]

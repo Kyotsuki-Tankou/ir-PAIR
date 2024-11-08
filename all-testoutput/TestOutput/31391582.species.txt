@@ -1,0 +1,10 @@
+### Keywords ###
+The keywords from the abstract include "post-implantation development," "mouse embryo," "fate-mapping," "lineage-analysis," and "gastrulation." These suggest that the species involved could be 'Mus musculus' as the study is focused on the development of the mouse embryo.
+### Verify ###
+The abstract explicitly mentions "mouse embryo," which is a direct indication that the species involved is 'Mus musculus.'
+### Context ###
+There is no additional context needed to verify the species since the abstract clearly states that the research is conducted on a mouse embryo.
+### Conclusion ###
+Based on the explicit mention of "mouse embryo" in the abstract, we can confidently conclude that the species involved in the study is 'Mus musculus.'
+### Result ###
+['Mus musculus']

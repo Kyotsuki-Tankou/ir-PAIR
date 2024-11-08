@@ -1,0 +1,8 @@
+###Keywords###
+From the term "human brain vasculature" and "human brain" in the Abstract, it indicates that 'Homo sapiens' may be a proper result.
+###Verify###
+The Abstract mentions "human brain vasculature," "human arteriovenous organization," and "human pericytes," which further verifies that 'Homo sapiens' is indeed a proper result.
+###Conclusion###
+Consequently, we choose 'Homo sapiens' as our final result.
+###Result###
+['Homo sapiens']

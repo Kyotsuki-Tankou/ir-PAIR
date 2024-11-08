@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Kidney"]
+[""]
+["10x Visium"]
+["Kidney injury"]
+ Abstract\nKidney stone disease causes significant morbidity and increases health care utilization. In this work, we decipher the cellular and molecular niche of the human renal papilla in patients with calcium oxalate (CaOx) stone disease and healthy subjects. In addition to identifying cell types important in papillary physiology, we characterize collecting duct cell subtypes and an undifferentiated epithelial cell type that was more prevalent in stone patients. Despite the focal nature of mineral deposition in nephrolithiasis, we uncover a global injury signature characterized by immune activation, oxidative stress and extracellular matrix remodeling. We also identify the association of MMP7 and MMP9 expression with stone disease and mineral deposition, respectively. MMP7 and MMP9 are significantly increased in the urine of patients with CaOx stone disease, and their levels correlate with disease activity. Our results define the spatial molecular landscape and specific pathways contributing to stone-mediated injury in the human papilla and identify associated urinary biomarkers.

@@ -1,0 +1,10 @@
+### Keywords ###
+From "Neuroendocrine prostate cancer (NEPC)" and "prostate tumors" in the Abstract, it suggests that 'Prostate' may be a proper result.
+### Verify ###
+The Abstract mentions "Our study characterized ADPC and NEPC in prostate tumors from 7 patients using scRNA-seq." This directly aligns with the 'Prostate' tissue, as the study focuses on prostate tumors and the specific subtype of prostate cancer.
+### Context ###
+Given that the Abstract specifically discusses the characterization of NEPC and ADPC within prostate tumors and the use of scRNA-seq to analyze these tumors, it further supports the use of 'Prostate' tissue. The context does not introduce any conflicting information that would necessitate a different conclusion.
+### Conclusion ###
+Consequently, we choose 'Prostate' as our final result.
+### Result ###
+['Prostate']

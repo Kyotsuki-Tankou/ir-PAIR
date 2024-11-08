@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the term "C57BL/6J mice" directly indicates the species used in the study.
+###Verify###
+The abstract specifically mentions:
+- "We stereotactically injected saline, heme, or heme‒hemopexin into the striatum of C57BL/6J mice."
+This statement verifies that 'Mus musculus' (the scientific name for mice) is the species involved in the study.
+###Conclusion###
+Given the explicit mention of "C57BL/6J mice," we can confidently conclude that 'Mus musculus' is the correct species to be extracted.
+###Result###
+['Mus musculus']

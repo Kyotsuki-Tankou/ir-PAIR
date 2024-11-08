@@ -1,0 +1,20 @@
+### Keywords ###
+- tissue function
+- high-resolution methods
+- spatial transcriptomics
+- RNA
+- histological tissue sections
+- spatially barcoded bead array
+- transcript-coupled spatial barcodes
+- 2-μm resolution
+- mouse brain
+- primary breast cancer
+- high-resolution spatial analysis
+- cells
+- tissues
+### Verify ###
+- Tissues mentioned: 'Brain', 'Breast'
+### Conclusion ###
+The tissues extracted from the input correspond to the schema are 'Brain' and 'Breast'.
+### Result ###
+['Brain', 'Breast']

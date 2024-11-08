@@ -1,0 +1,11 @@
+### Keywords ###
+- **Extracted Keywords**: LADs, OXPHOS, UTRs, cycloheximide, motifs, nocodazole, retrotransposons, spatial transcriptomics, translation.
+- **Schema Keywords**: ['Canis lupus familiaris', 'Arabidopsis thaliana', 'Xenopus tropicalis', 'Maize', 'Drosophila melanogaster', 'Danio rerio', 'Ambystoma mexicanum', 'Gallus gallus', 'Homo sapiens', 'Rattus norvegicus', 'Mus musculus', 'Macaca fascicularis', 'Glycine max', 'Xenopus laevis', 'Caenorhabditis elegans', 'Oryctolagus cuniculus', 'Phalaenopsis aphrodite', 'Sus scrofa'].
+### Verify ###
+- **Matched Keywords**: None of the extracted keywords match the schema keywords.
+### Context ###
+- The input text discusses APEX-seq, a method for RNA sequencing, and its application in studying the human transcriptome. It mentions "human transcriptome," which suggests the involvement of **Homo sapiens**.
+### Conclusion ###
+- Based on the context, the only species relevant to the input text is **Homo sapiens**.
+### Result ###
+- ["Homo sapiens"]

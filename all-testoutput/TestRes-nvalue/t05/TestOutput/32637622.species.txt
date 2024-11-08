@@ -1,0 +1,10 @@
+###Keywords###
+The keywords from the abstract that stand out are "adult mouse brain," "spatial transcriptomics," "neuroanatomical organization," and "single-cell RNA profile." These suggest that the study is focused on the brain, particularly in the context of spatial organization and molecular mapping.
+###Verify###
+The abstract mentions "whole-brain spatial transcriptomics" and "adult mouse brain," which directly indicates that the species of interest is 'Mus musculus' (mouse).
+###Context###
+Given the detailed focus on the adult mouse brain and the use of spatial transcriptomics, there is no need for additional context to verify the species.
+###Conclusion###
+Consequently, we confirm that 'Mus musculus' is the appropriate species based on the provided abstract.
+###Result###
+['Mus musculus']

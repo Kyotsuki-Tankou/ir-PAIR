@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "prostate gland," "prostatic epithelial," and "prostate cancer" suggest that the study is focused on the prostate. Therefore, 'Prostate' may be a proper result.
+### Verify ###
+The abstract mentions "The prostate gland is hormonally regulated," "patient-derived benign prostate epithelial organoids," and "prostate tissue explants," which directly refer to the prostate. This further verifies that 'Prostate' is indeed a proper result.
+### Context ###
+Given the detailed description of the prostate gland, prostatic epithelial organoids, and the link between vitamin D and prostate cancer, there is no ambiguity in the context that would require additional clarification. The focus on the prostate solidifies 'Prostate' as the correct tissue type.
+### Conclusion ###
+Consequently, we choose 'Prostate' as our final result based on the clear and consistent focus on the prostate and its relation to vitamin D in the abstract.
+### Result ###
+['Prostate']

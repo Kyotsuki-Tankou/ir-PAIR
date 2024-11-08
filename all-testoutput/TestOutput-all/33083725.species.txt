@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the key phrases are "AD mice" and "mouse and human AD brains." This suggests that the study involves both 'Mus musculus' (mice) and 'Homo sapiens' (humans).
+###Verify###
+The abstract explicitly mentions "AD mice" and later refers to "mouse and human AD brains," confirming the involvement of both mouse and human species in the study.
+###Conclusion###
+Since the keywords and the context both clearly indicate the use of both mice and human brains, we can confidently conclude that the species involved in this study are 'Mus musculus' and 'Homo sapiens'.
+###Result###
+['Mus musculus', 'Homo sapiens']

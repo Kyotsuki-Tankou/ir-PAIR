@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, "mouse gastruloids" and "mouse embryos" suggest a focus on mouse development. This indicates that 'Mus musculus' may be a proper result.
+### Verify ###
+The abstract explicitly states, "Here we compare mouse gastruloids with mouse embryos using single-cell RNA sequencing and spatial transcriptomics," which directly verifies that 'Mus musculus' is the species of interest in the study.
+### Context ###
+The context is clear as the abstract focuses on the development and genetic expression patterns in mouse gastruloids, which are derived from mouse embryonic stem cells. This further supports the selection of 'Mus musculus'.
+### Conclusion ###
+Based on the keywords, verification, and context, 'Mus musculus' is the correct result.
+### Result ###
+['Mus musculus']

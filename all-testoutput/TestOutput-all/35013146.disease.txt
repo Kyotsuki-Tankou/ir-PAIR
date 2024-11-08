@@ -1,0 +1,8 @@
+### Keywords ###
+From the "Prostate cancer" in the Abstract, it indicates that 'Prostate Cancer' may be a proper result.
+### Verify ###
+From "Prostate cancer is the second most common malignancy in men worldwide" and "to characterize the prostate cancer tumor microenvironment" in the Abstract, we CAN further verify that 'Prostate Cancer' is indeed a proper result.
+### Conclusion ###
+Consequently, we choose 'Prostate Cancer' as our final result.
+### Result ###
+['Prostate Cancer']

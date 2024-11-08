@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "keloids" and "normal skin control" are mentioned, indicating a focus on human skin conditions. The study involves "patient-matched keloid and normal mature scar," which further suggests human subjects.
+### Verify ###
+The abstract specifically mentions "keloid tissue samples and normal skin control data" and "patient-matched keloid and normal mature scar," which clearly indicates that the study is conducted on human tissue. Additionally, the use of "single-cell RNA sequencing and spatial transcriptomics" on these samples further verifies the involvement of human subjects.
+### Context ###
+Given the detailed focus on human keloid tissue and normal skin, there is no need for additional context to confirm the species involved. The study's emphasis on human-specific conditions and tissues leaves little room for ambiguity.
+### Conclusion ###
+Consequently, we confirm 'Homo sapiens' as the final result based on the clear and consistent focus on human tissue and conditions throughout the abstract.
+### Result ###
+['Homo sapiens']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "deep single-cell sequencing of RNA and T cell receptors" and "survey the profiles of various populations of T cells" suggest the use of specific sequencing technologies. The keywords here are "single-cell sequencing" and "RNA."
+### Verify ###
+The abstract specifically mentions "deep single-cell sequencing of RNA," which aligns with the technology "scRNA" (single-cell RNA sequencing). Additionally, the mention of "T cell receptors" suggests a detailed analysis at the single-cell level, further supporting the use of "scRNA."
+### Context ###
+Given the clear mention of "single-cell sequencing of RNA," there is no ambiguity about the technology used. The context supports the identification of "scRNA" as the primary technology.
+### Conclusion ###
+Based on the keywords and verification, we can confidently conclude that the technology used in the study is "scRNA."
+### Result ###
+['scRNA']

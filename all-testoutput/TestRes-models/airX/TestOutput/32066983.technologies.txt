@@ -1,0 +1,11 @@
+### Keywords ###
+The abstract mentions "single-cell RNA-sequencing" and "three-dimensional reconstruction of the mouse SCN," indicating that 'scRNA' and possibly 'Spatial Transcriptomics' could be relevant technologies.
+### Verify ###
+- "single-cell RNA-sequencing" directly verifies 'scRNA' as a used technology.
+- "three-dimensional reconstruction of the mouse SCN at single-cell resolution" suggests the use of spatial techniques, which could imply 'Spatial Transcriptomics.'
+### Context ###
+The abstract discusses the identification of cell types in the SCN and their gene expression patterns, which is directly related to the technologies of single-cell RNA sequencing and spatial transcriptomics. The emphasis on the spatial distribution and three-dimensional reconstruction supports the use of 'Spatial Transcriptomics.'
+### Conclusion ###
+Given the explicit mention of single-cell RNA sequencing and the context of spatial distribution and three-dimensional reconstruction, both 'scRNA' and 'Spatial Transcriptomics' are supported by the text. However, since 'Spatial Transcriptomics' is more specifically related to the spatial aspect mentioned, it is chosen as the primary result.
+### Result ###
+['Spatial Transcriptomics']

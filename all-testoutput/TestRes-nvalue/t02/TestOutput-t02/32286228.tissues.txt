@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "bone marrow mesenchymal lineage cells," "osteoporosis," "mesenchymal stem cells," "osteoblasts," "adipocytes," and "marrow cavity." These suggest that 'Bone marrow' is a highly relevant tissue.
+### Verify ###
+The abstract explicitly mentions "bone marrow mesenchymal lineage cells" and discusses their roles and characteristics within the bone marrow. This directly verifies that 'Bone marrow' is indeed a relevant and proper result.
+### Context ###
+The context of the study is clearly focused on the bone marrow, its cellular components, and their functions. There is no ambiguity or need for additional context as the abstract consistently emphasizes the bone marrow.
+### Conclusion ###
+Based on the clear and direct references to the bone marrow in the abstract, we can confidently conclude that 'Bone marrow' is the appropriate tissue to be extracted.
+### Result ###
+['Bone marrow']

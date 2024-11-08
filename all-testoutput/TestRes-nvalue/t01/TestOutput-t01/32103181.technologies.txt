@@ -1,0 +1,14 @@
+###Keywords###
+From the abstract, the terms "single-cell sequencing of RNA" and "T cell receptors" suggest potential matches with technologies like 'scRNA', 'RNA-seq', and possibly others related to single-cell analysis.
+###Verify###
+1. **"single-cell sequencing of RNA"**:
+   - This phrase directly corresponds to 'scRNA' in the schema.
+2. **"T cell receptors"**:
+   - This suggests a focus on specific cellular components, but does not directly match any technology in the schema.
+###Context###
+- The abstract mentions "performing deep single-cell sequencing of RNA and T cell receptors," which strongly indicates the use of 'scRNA' technology.
+- There is no explicit mention of other technologies listed in the schema.
+###Conclusion###
+Based on the clear mention of "single-cell sequencing of RNA," we can confidently conclude that 'scRNA' is the technology used. There is no sufficient evidence to suggest the use of other technologies listed in the schema.
+###Result###
+['scRNA']

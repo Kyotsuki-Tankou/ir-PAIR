@@ -1,0 +1,16 @@
+### Keywords ###
+From the abstract, the primary focus is on the "human brain vasculature," specifically mentioning "hippocampus and cortex samples." Relevant tissues from the schema include 'Brain', 'Cortex', 'Hippocampus', and potentially 'Blood vessel'.
+### Verify ###
+The abstract explicitly mentions:
+- "143,793 single-nucleus transcriptomes from 25 hippocampus and cortex samples"
+- "major vascular and perivascular cell types of the human brain"
+- "Alzheimer's disease"
+This directly verifies the inclusion of 'Brain', 'Cortex', and 'Hippocampus'. The mention of "vascular and perivascular cell types" suggests 'Blood vessel' is also relevant.
+### Context ###
+To ensure accuracy:
+- The study focuses on the brain's vasculature, which involves both the hippocampus and cortex.
+- The context of Alzheimer's disease and vascular cell types further supports the inclusion of 'Blood vessel'.
+### Conclusion ###
+Based on the explicit mentions and the context, the relevant tissues are 'Brain', 'Cortex', 'Hippocampus', and 'Blood vessel'.
+### Result ###
+['Brain', 'Cortex', 'Hippocampus', 'Blood vessel']

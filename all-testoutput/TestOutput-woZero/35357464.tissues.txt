@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, "uterus" and "embryo implantation site" are directly mentioned, indicating that 'Uterus' and 'Embryo' may be proper results.
+### Verify ###
+From the Abstract, "we performed the spatial transcriptomics and single-cell RNA-seq assays to determine local gene expression profiles at the embryo implantation site of the mouse uterus on pregnancy day 7.5 (D7.5)" directly verifies that 'Uterus' and 'Embryo' are indeed the tissues of focus in this study.
+### Context ###
+Since the Abstract and Keywords both clearly point to 'Uterus' and 'Embryo' as the primary tissues of interest, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm 'Uterus' and 'Embryo' as our final results based on the clear and consistent information provided in both the Abstract and Keywords.
+### Result ###
+['Uterus', 'Embryo']

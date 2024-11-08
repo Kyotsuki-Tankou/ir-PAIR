@@ -1,0 +1,10 @@
+###Keywords###
+From the Keywords, we have terms like "Stereo-seq," "embryonic development," "scRNA-seq," "spatial transcriptomics," and "zebrafish." These terms suggest a focus on the early developmental stages of zebrafish embryos, particularly emphasizing the spatial and transcriptomic aspects of development.
+###Verify###
+The Abstract mentions "understanding vertebrate embryogenesis," "zebrafish embryo sections," and "spatially resolved developmental trajectories of cell-fate transitions and molecular changes during zebrafish embryogenesis." These statements strongly suggest that the study is focused on 'Embryonic development,' specifically in zebrafish.
+###Context###
+Given the Abstract's clear focus on "zebrafish embryo sections" and "zebrafish embryogenesis," it is reasonable to infer that the study's primary disease or condition of interest is 'Embryonic development.' The Keywords, while detailed about methodologies and species, do not directly list a disease but the context from the Abstract provides the necessary linkage.
+###Conclusion###
+Based on the context provided by the Abstract, we can conclude that the primary disease or condition relevant to this study is 'Embryonic development,' despite the absence of direct mention in the Keywords.
+###Result###
+['Embryonic development']

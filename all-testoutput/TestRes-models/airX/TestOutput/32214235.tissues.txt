@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "human organs", "human cell landscape", and "human and mouse comparative analysis" suggest a focus on human tissues and cells.
+### Verify ###
+The abstract explicitly states, "We use single-cell mRNA sequencing to determine the cell-type composition of all major human organs," which confirms that the study is indeed focused on human tissues.
+### Context ###
+Since the abstract is discussing the use of single-cell mRNA sequencing to map cell types across major human organs, there is no ambiguity about the tissue type being human.
+### Conclusion ###
+Given the explicit focus on human tissues and organs in the abstract, we confirm that the study is about human tissues.
+### Result ###
+['Skin', 'Brain', 'Colon', 'Embryo', 'Cortex', 'Gastrula', 'Bone', 'Ileum', 'Spinal cord', 'Gland', 'Lymph', 'Liver', 'Basal cell', 'Muscle', 'Thymus', 'Cervical', 'Leaf', 'Uterus', 'Skeleton', 'Bladder', 'Spleen', 'Epithelium', 'Lacrimal Gland', 'Lung', 'Ovarian', 'Bone marrow', 'Kidney', 'Neuron', 'Cerebella', 'Pancreas', 'Flower', 'Cell line', 'Pituitary', 'Blood vessel', 'Stomach', 'Legs', 'Intestine', 'Head Neck', 'Blood', 'Breast', 'Prostate', 'Dorsal aorta', 'Synovial', 'Eye', 'Heart', 'Mucosa', 'Ovarian', 'Tumor', 'Ear']

@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the keyword "Seq-Scope" is directly mentioned, indicating that 'Seq-Scope' may be a proper result.
+### Verify ###
+From the Abstract, "Here, we report Seq-Scope, a spatial barcoding technology," we can further verify that 'Seq-Scope' is indeed used as a technology in the study.
+### Conclusion ###
+Consequently, we choose 'Seq-Scope' as our final result.
+### Result ###
+['Seq-Scope']

@@ -1,0 +1,8 @@
+### Keywords ###
+From the Abstract, the term "back skin" indicates that 'Skin' may be a proper result.
+### Verify ###
+From "By combining single-cell and spatial RNA sequencing as well as ultrahigh-resolution Seq-Scope analyses of early acne lesions on back skin," we can further verify that 'Skin' is indeed a proper result.
+### Conclusion ###
+Consequently, we choose 'Skin' as our final result.
+### Result ###
+['Skin']

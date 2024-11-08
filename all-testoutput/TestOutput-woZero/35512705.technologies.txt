@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the term "Stereo-seq" is explicitly mentioned, which directly corresponds to one of the technologies listed in the schema.
+### Verify ###
+The Abstract states, "Here, we combined DNA nanoball (DNB)-patterned arrays and in situ RNA capture to create spatial enhanced resolution omics-sequencing (Stereo-seq)." This confirms that 'Stereo-seq' is indeed a technology used in the study.
+### Conclusion ###
+Given the clear and direct mention of 'Stereo-seq' in both the Abstract and Keywords, we can confidently conclude that 'Stereo-seq' is the appropriate technology to be extracted.
+### Result ###
+['Stereo-seq']

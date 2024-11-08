@@ -1,0 +1,12 @@
+### Keywords ###
+From the "Abstract," the terms "transcriptomic approaches" suggest the use of sequencing technologies. The specific technologies mentioned are not directly stated, but the context of "transcriptomic" analysis implies the use of RNA-related sequencing techniques.
+### Verify ###
+The abstract mentions "transcriptomic approaches" and "mechanistically, DDX5 promotes CDC42 protein synthesis through a post-transcriptional mechanism," which indicates the use of RNA sequencing technologies to study gene expression and regulation.
+### Context ###
+To further verify, we need to infer from the context:
+- "We assessed the role of DDX5 in tuft cell specification and function in control and epithelial cell-specific Ddx5 knockout mice (DDX5ΔIEC) using transcriptomic approaches."
+This suggests that the study involves detailed analysis of gene expression, which is typically achieved through technologies like RNA-seq.
+### Conclusion ###
+Given the context and the specific mention of "transcriptomic approaches," it is reasonable to conclude that "RNA-seq" is the technology used in this study.
+### Result ###
+['RNA-seq']

@@ -1,0 +1,22 @@
+###Keywords###
+From the Keywords "cSCC," "human cSCCs," and "normal skin," it suggests a focus on 'Human' as the species involved, and the mention of "cutaneous squamous cell carcinoma" indicates a type of 'Skin' cancer.
+###Verify###
+The abstract explicitly states, "we combined single-cell RNA sequencing with spatial transcriptomics and multiplexed ion beam imaging from a series of human cSCCs and matched normal skin." This confirms that the research is on human cutaneous squamous cell carcinoma.
+###Context###
+The context does not introduce any additional species beyond the mention of "human" in the research context. The entire research is centered around human cSCCs.
+###Conclusion###
+Consequently, we choose 'Human' as our final result.
+###Result###
+['Homo sapiens']
+###schema###
+organ_parts:['Main olfactory bulb', 'Gastric cancer', 'Detrusor layer of bladder', 'Prostate epithelial organoids', 'Upper pulmonary brances', 'Larvae', 'Tibialis anterior muscle', 'Mouse Embryo', 'Embryo', 'Main olfactory epithelium', 'Human cell lines', 'Gastrulation', 'Gonad tissue', 'MC38 syngeneic tumor', 'Cervical tissue', 'Primary PDAC tumor', 'Renal pelvis', ' Striatum', 'Coronal brain section', 'Fetal liver', 'B16F10 syngeneic tumor', 'Adrenal tissue', 'Whole Bladder', 'Transmural cross-section of the heart', 'Skin', 'hypothalamus', 'SHY neuroblasts', 'Olfactory bulb', 'Angiomyolipoma (AML)', 'GAN-KP tumor', 'Mouse aorta', 'Mouse atrium', 'Postmortem Lung', 'Embryo implantation site', 'Primary colorectal cancer', 'Mouse ventricle', 'Postmortem brain', 'Liver tissue', 'Myocardium', 'Ileum', 'Femur', 'Hindpaw', 'Nodule', 'Bartilage', 'Breast Cancer', 'Atopic dermatitis lesional skin', 'Bone', 'Leaf', 'Colorectal tissue', 'IPS cells', 'Brain', 'Right atrial appendage (RAA)', 'Glioblastoma multiforme tissue', 'GBM Tissue', 'Microglia', 'Medulla', 'Whole Mouse Bladder', 'Oral mucosa', 'Prostatic cancer', 'Heart', 'NIH3T3 cells', 'Coronal Brain', 'Dissociated Mouse Bladder', 'Lumbar spinal cord (L3/L4)', 'Gastruloid', 'SAM', 'Tail skin', 'Cauline leaf', 'Breast cancer', 'Neural tube', 'Root', 'Angiosarcomas', 'Suprachiasmatic nucleus', 'Hippocampus', 'Pancreatic adenocarcinoma', 'Trunk', 'HeLa cells', 'Muscle-invasive bladder cancer', 'Frontal cortex', 'CRLM', 'Representative psoas major muscle', 'lymphoma', 'Kidney organoid', 'Skeletal muscle (quadriceps)', 'Atopic dermatitis non-lesional skin', 'Gastrulation embryos', 'Sagittal suture', 'Visual cortex', 'Pancreatic cancer', 'Stem', 'Lung organoid', 'Follicles', 'Liver', 'Whole Bladder Nuclear', 'Squamous Cell Carcinoma', 'Basal cell carcinoma', 'ccRCC tumor', 'Coronal brain', 'Left ventricular needle (LV)', 'Colon', 'Lumbar spinal cord (L5/S1)', 'Synovial tissue', 'Sagittal section', 'Kidney-resident macrophages (KRMs)', 'Dorsolateral prefrontal cortex', 'Cervical cancer', 'Human cortex', 'Mature olfactory sensory neuron', 'Donor pancreas', 'Cortex', 'Adenoid cystic carcinoma of lacrimal gland', 'Skeletal Muscle', 'Skin irAE']
+###Keywords###
+The keywords "cSCC," "human," "skin cancer," and "squamous cell carcinoma" suggest that the term 'Skin' might be a relevant organ part.
+###Verify###
+The abstract mentions "cutaneous squamous cell carcinoma (cSCC)" and "matched normal skin," which implies that the research is related to the 'Skin' organ part.
+###Context###
+The research involves analyzing human cSCCs and matched normal skin, indicating a direct connection to the skin organ part.
+###Conclusion###
+Based on the clear and direct mention of skin in the research, we conclude that 'Skin' is a relevant organ part.
+###Result###
+['Skin']

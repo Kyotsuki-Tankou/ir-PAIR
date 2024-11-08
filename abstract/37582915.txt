@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Muscle"]
+["Skeletal muscle (quadriceps)"]
+["10x Visium"]
+["Nornal atlas"]
+ Abstract\nDuchenne muscular dystrophy is caused by mutations in the DMD gene, leading to lack of dystrophin. Chronic muscle damage eventually leads to histological alterations in skeletal muscles. The identification of genes and cell types driving tissue remodeling is a key step to developing effective therapies. Here we use spatial transcriptomics in two Duchenne muscular dystrophy mouse models differing in disease severity to identify gene expression signatures underlying skeletal muscle pathology and to directly link gene expression to muscle histology. We perform deconvolution analysis to identify cell types contributing to histological alterations. We show increased expression of specific genes in areas of muscle regeneration (Myl4, Sparc, Hspg2), fibrosis (Vim, Fn1, Thbs4) and calcification (Bgn, Ctsk, Spp1). These findings are confirmed by smFISH. Finally, we use differentiation dynamic analysis in the D2-mdx muscle to identify muscle fibers in the present state that are predicted to become affected in the future state.

@@ -1,0 +1,10 @@
+###Keywords###
+The abstract mentions "early zebrafish development," "one-cell stage embryo," "vegetal pole," "gastrulation," and "xenopus species." These terms suggest a focus on early embryonic stages and development.
+###Verify###
+The abstract specifically discusses "spatially-resolved transcriptomics and single-cell RNA labeling to perform a spatio-temporal analysis of the transcriptome during early zebrafish development." This indicates a detailed study on the embryonic stages, particularly the one-cell stage and gastrulation.
+###Context###
+Given the emphasis on "early zebrafish development" and the mention of "gastrulation," it is clear that the study is centered around embryonic stages. The mention of "xenopus species" for comparative analysis further supports the focus on early developmental processes.
+###Conclusion###
+Based on the keywords and the context provided, the most relevant terms from the schema are 'Embryo' and 'Gastrulation,' as these directly correspond to the stages of development discussed in the abstract.
+###Result###
+['Embryo', 'Gastrulation']

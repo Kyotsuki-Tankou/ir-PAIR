@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "whole-brain spatial transcriptomics," "neuroanatomical organization," "isocortex," "hippocampus," and "striatum," indicating that the study involves the brain's molecular organization and its structural regions.
+### Verify ###
+The abstract explicitly states that the research aims to generate a "systematic classification of the adult mouse brain based purely on the unbiased identification of spatially defining features." This confirms that the study is focused on the brain tissue of a mouse.
+### Context ###
+The context is clear, as the entire abstract is centered around the mouse brain and its molecular organization. The use of "whole-brain spatial transcriptomics" and "molecular atlas" further emphasizes the brain's significance in the study.
+### Conclusion ###
+Based on the explicit mention and the focus of the abstract, we can conclude that the appropriate tissue type is 'Brain'.
+### Result ###
+['Brain']

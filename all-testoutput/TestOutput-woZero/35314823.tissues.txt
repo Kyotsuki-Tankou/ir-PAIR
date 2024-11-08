@@ -1,0 +1,15 @@
+###Keywords###
+From the "Abstract," the key terms related to tissues are "olfactory sensory neurons," "olfactory bulb (OB)," and "glomeruli." These terms suggest a focus on the olfactory system, particularly the brain region responsible for processing smells.
+###Verify###
+The Abstract specifically mentions:
+- "olfactory sensory neurons, which project their axons to a stereotyped location in the olfactory bulb (OB) to form glomeruli."
+- "the stereotyped positioning of glomeruli in the OB suggests an importance for this organization in odor perception."
+This indicates that the study is centered around the olfactory bulb, a part of the brain.
+###Context###
+To further verify, let's consider the context:
+- The study involves mapping glomerular positions in the mouse olfactory bulb.
+- The olfactory bulb is a well-known brain region involved in the processing of olfactory information.
+###Conclusion###
+Given the specific focus on the olfactory bulb and its role in the brain's olfactory processing, it is reasonable to conclude that 'Brain' and 'Cortex' (since the olfactory bulb is part of the cortical brain regions) are the relevant tissues.
+###Result###
+['Brain', 'Cortex']

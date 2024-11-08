@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Skin"]
+null
+["10x Visium"]
+["Lepromatous"]
+ Abstract\nGranulomas are complex cellular structures composed predominantly of macrophages and lymphocytes that function to contain and kill invading pathogens. Here, we investigated the single-cell phenotypes associated with antimicrobial responses in human leprosy granulomas by applying single-cell and spatial sequencing to leprosy biopsy specimens. We focused on reversal reactions (RRs), a dynamic process whereby some patients with disseminated lepromatous leprosy (L-lep) transition toward self-limiting tuberculoid leprosy (T-lep), mounting effective antimicrobial responses. We identified a set of genes encoding proteins involved in antimicrobial responses that are differentially expressed in RR versus L-lep lesions and regulated by interferon-γ and interleukin-1β. By integrating the spatial coordinates of the key cell types and antimicrobial gene expression in RR and T-lep lesions, we constructed a map revealing the organized architecture of granulomas depicting compositional and functional layers by which macrophages, T cells, keratinocytes and fibroblasts can each contribute to the antimicrobial response.

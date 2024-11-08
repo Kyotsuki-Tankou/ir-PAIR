@@ -1,0 +1,19 @@
+### Keywords ###
+- Mammalian circadian behaviors
+- Suprachiasmatic nucleus (SCN)
+- Mouse SCN
+- Single-cell RNA-sequencing
+- Eight major cell types
+- SCN neuronal subtypes
+- Spatial distribution
+- Circadian rhythmicity
+- Light responsiveness
+- Three-dimensional reconstruction
+- SCN atlas
+- Gene expression
+### Verify ###
+- Species mentioned: "mouse SCN" implies "Mus musculus"
+### Conclusion ###
+- The species involved in the study is "Mus musculus".
+### Result ###
+- ["Mus musculus"]

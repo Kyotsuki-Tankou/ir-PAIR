@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "synovial biopsies" and "affected joints" indicate that 'Synovial' may be a proper result.
+### Verify ###
+The abstract mentions "synovial tissue biopsies from affected joints" and "Spatial Transcriptomics (ST) as a proof of principle approach for unbiased mRNA studies at the site of inflammation in these chronic inflammatory diseases," which further confirms that 'Synovial' is likely the correct tissue.
+### Context ###
+The context of the study is focused on "rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients," both of which are diseases that primarily affect the synovial joints. This provides additional support that the tissue in question is 'Synovial'.
+### Conclusion ###
+Based on the keywords, verification, and contextual clues, we confirm 'Synovial' as the final result.
+### Result ###
+['Synovial']

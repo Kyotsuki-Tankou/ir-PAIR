@@ -1,0 +1,12 @@
+### Keywords ###
+- APEX-seq
+- RNA localization
+- proximity labeling
+- subcellular localization
+### Verify ###
+- **Schema Technologies**: ['APEX-seq', ...]
+- **Input Keywords**: APEX-seq
+### Conclusion ###
+The keyword "APEX-seq" matches the schema.
+### Result ###
+['APEX-seq']

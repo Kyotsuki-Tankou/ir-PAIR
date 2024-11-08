@@ -1,0 +1,8 @@
+### Keywords ###
+The keyword from the input that corresponds to the schema is "synovial."
+### Verify ###
+The abstract mentions "synovial biopsies from rheumatoid arthritis (RA) and spondyloarthritis (SpA)" and "synovial tissue biopsies," which verifies that 'synovial' is the correct tissue to extract according to the schema.
+### Conclusion ###
+Since the keyword matches the tissue mentioned in the abstract, we can conclude that "synovial" is the appropriate result.
+### Result ###
+['synovial']

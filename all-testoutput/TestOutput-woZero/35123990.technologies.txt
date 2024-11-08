@@ -1,0 +1,11 @@
+###Keywords###
+From the "Abstract," the technologies mentioned are "single-cell RNA sequencing" and "spatial transcriptomics."
+###Verify###
+- "single-cell RNA sequencing" directly matches 'scRNA' in the schema.
+- "spatial transcriptomics" directly matches 'Spatial Transcriptomics' in the schema.
+###Context###
+The context of the study involves analyzing keloid tissue samples and normal skin control data using these technologies. The mention of "single-cell RNA sequencing" and "spatial transcriptomics" is clear and directly related to the techniques used.
+###Conclusion###
+Both technologies mentioned in the abstract are directly listed in the schema. Therefore, the extraction is straightforward and accurate.
+###Result###
+['scRNA', 'Spatial Transcriptomics']

@@ -1,0 +1,8 @@
+### Keywords ###
+From the "Abstract," the mention of "synovial biopsies from rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients" and "Spatial Transcriptomics (ST) as a proof of principle approach for unbiased mRNA studies at the site of inflammation in these chronic inflammatory diseases" suggests that 'Synovial tissue' might be a relevant organ part.
+### Verify ###
+The abstract specifically states "Synovial tissue biopsies from affected joints were studied with ST," which clearly verifies that the organ part studied is 'Synovial tissue.'
+### Conclusion ###
+Given the clear mention of "synovial tissue" in both the context and the specific methodology, we can confidently conclude that the organ part involved in the study is 'Synovial tissue.'
+### Result ###
+['Synovial tissue']

@@ -1,0 +1,44 @@
+### Keywords ###
+- Synovial biopsies
+- Rheumatoid arthritis (RA)
+- Spondyloarthritis (SpA)
+- Spatial Transcriptomics (ST)
+- Transcriptome data
+- Differential gene expression analysis (DEA)
+- Pathway analysis
+- Immune cell type identification
+- Xcell analysis
+- Immunohistochemistry (IHC)
+- Mononuclear cell infiltrates
+- Adaptive immune response
+- T-B cell interactions
+- Tissue repair
+- High-resolution histological images
+- Central memory T cells
+- Effector memory T cells
+- Cellular mechanisms
+- Chronic inflammatory diseases
+### Verify ###
+- Synovial biopsies: Mentioned
+- Rheumatoid arthritis (RA): Mentioned
+- Spondyloarthritis (SpA): Mentioned
+- Spatial Transcriptomics (ST): Mentioned
+- Transcriptome data: Mentioned
+- Differential gene expression analysis (DEA): Mentioned
+- Pathway analysis: Mentioned
+- Immune cell type identification: Mentioned
+- Xcell analysis: Mentioned
+- Immunohistochemistry (IHC): Mentioned
+- Mononuclear cell infiltrates: Mentioned
+- Adaptive immune response: Mentioned
+- T-B cell interactions: Mentioned
+- Tissue repair: Mentioned
+- High-resolution histological images: Mentioned
+- Central memory T cells: Mentioned
+- Effector memory T cells: Mentioned
+- Cellular mechanisms: Mentioned
+- Chronic inflammatory diseases: Mentioned
+### Conclusion ###
+All keywords are verified and present in the input text.
+### Result ###
+['Synovial', 'Rheumatoid arthritis', 'Spondyloarthritis', 'Spatial Transcriptomics', 'Transcriptome data', 'Differential gene expression analysis', 'Pathway analysis', 'Immune cell type identification', 'Xcell analysis', 'Immunohistochemistry', 'Mononuclear cell infiltrates', 'Adaptive immune response', 'T-B cell interactions', 'Tissue repair', 'High-resolution histological images', 'Central memory T cells', 'Effector memory T cells', 'Cellular mechanisms', 'Chronic inflammatory diseases']

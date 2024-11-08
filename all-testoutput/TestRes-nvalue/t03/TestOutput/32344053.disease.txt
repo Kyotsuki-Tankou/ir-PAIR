@@ -1,0 +1,8 @@
+### Keywords ###
+From the Abstract, the phrases "Atopic dermatitis (AD)" and "characterize AD on both transcriptomic and proteomic levels" indicate that 'Atopic dermatitis' is a potential proper result.
+### Verify ###
+The Abstract specifically mentions "Atopic dermatitis (AD)" multiple times, including in the background, objective, and conclusion sections, verifying its relevance as the primary disease being studied.
+### Conclusion ###
+Consequently, we confirm 'Atopic dermatitis' as the final result.
+### Result ###
+['Atopic dermatitis']

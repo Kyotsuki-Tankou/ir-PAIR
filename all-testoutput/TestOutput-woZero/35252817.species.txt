@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, there is no direct mention of a specific species. However, the context of "patients with highly annotated high-grade serous ovarian carcinoma" suggests that 'Homo sapiens' may be the proper result.
+### Verify ###
+The phrases "patients with highly annotated high-grade serous ovarian carcinoma" and "response to neoadjuvant chemotherapy" in the abstract directly imply that the study is focused on humans, which supports 'Homo sapiens' as the correct species.
+### Conclusion ###
+Since the keywords and the context in the abstract both point to 'Homo sapiens', we can confidently conclude that 'Homo sapiens' is the correct species involved in this study.
+### Result ###
+['Homo sapiens']

@@ -1,0 +1,10 @@
+###Keywords###
+From the Keywords "mouse lung" and "alveolarization," it suggests that 'Lung' might be the relevant organ part.
+###Verify###
+Since there is no abstract available, we rely solely on the Keywords. The term "mouse lung" directly indicates that 'Lung' is a proper result.
+###Context###
+Without an abstract, there is no additional context to consider. The Keywords are the only source of information.
+###Conclusion###
+Based on the Keywords, 'Lung' is the most appropriate choice.
+###Result###
+['Lung']

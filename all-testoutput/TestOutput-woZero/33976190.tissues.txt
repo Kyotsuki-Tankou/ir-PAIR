@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "kidney," "ureteric bud," "nephron," and "nephric duct" indicate that 'Kidney' may be a proper result.
+### Verify ###
+From phrases like "The kidney and upper urinary tract develop," "ureteric bud branching forms the arborized collecting duct system of the kidney," and "the renal collecting duct system" in the Abstract, we can further verify that 'Kidney' is indeed a central focus of the study.
+### Context ###
+Not required in this case as the verification directly supports the keyword.
+### Conclusion ###
+Consequently, we choose 'Kidney' as our final result.
+### Result ###
+['Kidney']

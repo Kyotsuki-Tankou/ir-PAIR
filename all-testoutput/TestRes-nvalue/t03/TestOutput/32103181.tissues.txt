@@ -1,0 +1,10 @@
+###Keywords###
+The abstract does not mention any of the tissues listed in the schema directly. The focus is on T cells, tumour immunity, and the response to anti-PDL1 therapy.
+###Verify###
+The abstract mentions "tumours, normal adjacent tissue, and peripheral blood," but it does not specify the types of tissues that are being referred to in detail. This makes it difficult to verify any specific tissue from the schema.
+###Context###
+Given the lack of specific tissue mentions in the abstract, we need to consider the overall context. The study is about T cells and their distribution in various body compartments in the context of cancer, but it does not detail the specific tissues analyzed.
+###Conclusion###
+Since the abstract does not provide specific information about the tissues included in the study, we cannot accurately match any of the items from the schema to the input.
+###Result###
+null

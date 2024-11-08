@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the terms "human distal airways," "terminal and respiratory bronchioles (TRBs)," "lung," and "alveolar type-2 cells" are prominently mentioned, indicating that 'Lung' may be a proper result.
+###Verify###
+The abstract specifically mentions "human distal airways," "lung development," "regenerating lungs," and "human lung cell maps," which directly verifies that 'Lung' is indeed a relevant tissue type in this context.
+###Conclusion###
+Consequently, we choose 'Lung' as our final result.
+###Result###
+['Lung']

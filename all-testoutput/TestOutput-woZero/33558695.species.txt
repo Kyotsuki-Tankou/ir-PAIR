@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "human dorsolateral prefrontal cortex" directly indicates that 'Homo sapiens' may be the species studied.
+###Verify###
+The abstract mentions "human dorsolateral prefrontal cortex" and "spatial topography of gene expression in the six-layered human dorsolateral prefrontal cortex," which further verifies that 'Homo sapiens' is indeed the species used in the study.
+###Conclusion###
+Consequently, we choose 'Homo sapiens' as our final result.
+###Result###
+['Homo sapiens']

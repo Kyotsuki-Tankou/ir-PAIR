@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "murine model" is mentioned, indicating the use of mice in the study. This suggests that 'Mus musculus' might be the relevant species.
+###Verify###
+The abstract specifically states "using an inhalation exposure murine model," which directly verifies that 'Mus musculus' (mice) is the species used in this study.
+###Conclusion###
+Given the clear mention of a murine model, we can confidently conclude that 'Mus musculus' is the species involved in this study.
+###Result###
+['Mus musculus']

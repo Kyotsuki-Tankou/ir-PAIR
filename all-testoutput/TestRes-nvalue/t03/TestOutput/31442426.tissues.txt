@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "stress granules" is mentioned, indicating that 'Stress granules' may be a proper result.
+### Verify ###
+The abstract states, "Transcripts in these complexes localize to specific regions of the cell and can condense into non-membrane-bound structures such as stress granules," which directly verifies the relevance of 'Stress granules'.
+### Conclusion ###
+Since 'Stress granules' is both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that 'Stress granules' is the appropriate tissue type.
+### Result ###
+['Stress granules']

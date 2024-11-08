@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "Visium spatial gene expression platform" and "GeoMx digital spatial profiling" suggest the use of specific spatial transcriptomics technologies. Therefore, '10x Visium' and 'GeoMx DSP' may be proper results.
+### Verify ###
+The abstract explicitly mentions "Objective transcriptomic profiling using the Visium spatial gene expression platform" and "Using GeoMx digital spatial profiling," which directly verify the use of '10x Visium' and 'GeoMx DSP' technologies.
+### Context ###
+The context is clear as the abstract specifically names the technologies used for spatial profiling. There is no ambiguity, and the technologies are directly related to the methods described in the study.
+### Conclusion ###
+Consequently, we choose '10x Visium' and 'GeoMx DSP' as our final results based on the explicit mention and clear context provided in the abstract.
+### Result ###
+['10x Visium', 'GeoMx DSP']

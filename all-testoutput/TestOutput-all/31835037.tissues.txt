@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract and keywords, the term "heart" is prominently mentioned, indicating that 'Heart' may be a proper result.
+### Verify ###
+The abstract specifically mentions "embryonic heart" and "human developing heart," which directly verifies that 'Heart' is indeed a relevant tissue type in this context.
+### Conclusion ###
+Consequently, we choose 'Heart' as our final result.
+### Result ###
+['Heart']

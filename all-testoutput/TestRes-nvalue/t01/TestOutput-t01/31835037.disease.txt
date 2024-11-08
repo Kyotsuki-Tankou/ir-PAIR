@@ -1,0 +1,8 @@
+### Keywords ###
+From "heart development" in Keywords, it indicates that 'Heart development' may be a proper result.
+### Verify ###
+From "The process of cardiac morphogenesis in humans is incompletely understood" and "we present a molecular approach that reveals the comprehensive transcriptional landscape of cell types populating the embryonic heart at three developmental stages" in the Abstract, we can further verify that 'Heart development' is indeed the disease or condition studied.
+### Conclusion ###
+Consequently, we choose 'Heart development' as our final result.
+### Result ###
+['Heart development']

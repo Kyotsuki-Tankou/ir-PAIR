@@ -1,0 +1,8 @@
+### Keywords ###
+From the Abstract, the term "Alzheimer's disease" stands out as a significant keyword, suggesting it may be a proper result.
+### Verify ###
+The Abstract mentions "Alzheimer's disease (AD)" and describes the investigation of "transcriptional changes occurring in tissue domains in a 100-μm diameter around amyloid plaques," which verifies that 'Alzheimer's disease' is indeed the focus of the study.
+### Conclusion ###
+Based on the clear mention and focus on "Alzheimer's disease" in the Abstract, we conclude that 'Alzheimer's disease' is the appropriate disease identified in the input.
+### Result ###
+['Alzheimer disease']

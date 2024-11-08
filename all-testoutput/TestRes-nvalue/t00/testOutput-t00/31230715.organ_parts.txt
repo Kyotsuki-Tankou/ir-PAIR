@@ -1,0 +1,32 @@
+### Keywords ###
+- APEX-seq
+- RNA sequencing
+- Proximity labeling
+- APEX2
+- Subcellular locales
+- Human transcriptome
+- Localization
+- RNA classes
+- Transcript isoforms
+- Nuclear transcriptome
+- Nuclear pore
+- Cytoplasmic export
+- Messenger RNA
+- Mitochondria
+- Macromolecular machines
+- Spatial transcriptome
+- LADs
+- OXPHOS
+- UTRs
+- Cycloheximide
+- Motifs
+- Nocodazole
+- Retrotransposons
+- Spatial transcriptomics
+- Translation
+### Verify ###
+- The input text mentions "human transcriptome" and "subcellular locales," but it does not explicitly mention any specific organ parts from the provided schema.
+### Conclusion ###
+- No specific organ parts from the schema are mentioned in the input text.
+### Result ###
+null

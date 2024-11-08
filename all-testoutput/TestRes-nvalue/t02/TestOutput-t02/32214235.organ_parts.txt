@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the focus is on "all major human organs" and "human cell landscape (HCL)." Specific organ parts mentioned include "human organs," "human cell identity," and "human and mouse" comparative analysis. 
+### Verify ###
+The abstract explicitly mentions "all major human organs" and "human cell landscape," which implies a comprehensive analysis of various human tissues and organs. However, no specific organ parts from the schema are directly mentioned.
+### Context ###
+Given the comprehensive nature of the study on "all major human organs," it is reasonable to infer that a wide range of organ parts could be included. However, without specific mentions, we cannot definitively confirm the inclusion of any particular organ part from the schema.
+### Conclusion ###
+While the abstract suggests a broad and comprehensive analysis, it does not provide specific details about which organ parts are included. Therefore, we cannot confidently conclude the inclusion of any specific organ part from the schema based on the provided abstract.
+### Result ###
+null

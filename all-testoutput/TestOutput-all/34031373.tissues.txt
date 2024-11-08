@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the focus is on "small intestine," "enterocytes," "goblet cells," and "tuft cells." This suggests that 'Ileum' (a part of the small intestine) may be a proper result.
+### Verify ###
+The abstract mentions "small intestine" and specifically refers to "the crypt-villus axis," which is a characteristic feature of the small intestine, particularly the ileum. This further supports that 'Ileum' is likely the correct tissue.
+### Context ###
+Given the specific context of "enterocytes," "goblet cells," and "tuft cells," which are all cell types found in the small intestine, and the mention of the "crypt-villus axis," there is strong contextual evidence that the study pertains to the ileum.
+### Conclusion ###
+Consequently, we confirm 'Ileum' as the final result based on the keywords, verification, and contextual clues.
+### Result ###
+['Ileum']

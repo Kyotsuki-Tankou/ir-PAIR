@@ -1,0 +1,8 @@
+### Keywords ###
+From the Keywords "Drosophila development; Stereo-seq; gene regulatory networks; spatial transcriptomics," it is clear that the study focuses on "Drosophila."
+### Verify ###
+In the Abstract, the first sentence states, "Drosophila has long been a successful model organism in multiple biomedical fields." This directly confirms that the species of interest is "Drosophila."
+### Conclusion ###
+Given the clear mention of "Drosophila" in both the Keywords and the Abstract, we can confidently conclude that the species involved in this study is "Drosophila melanogaster."
+### Result ###
+['Drosophila melanogaster']

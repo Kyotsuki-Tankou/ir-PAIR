@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the prominent keywords are "neonatal mammalian heart," "regenerative potential," "fibrotic scar resolution," "new cardiomyocytes," "bulk and spatial transcriptomic analyses," and "spatial transcriptomics."
+###Verify###
+Upon reviewing the abstract, the term "spatial transcriptomics" is explicitly mentioned multiple times, which directly corresponds to an item in the provided schema.
+###Context###
+The context of the study involves using spatial transcriptomics to investigate the regenerative mechanisms of the neonatal mammalian heart. This further reinforces the presence and significance of "spatial transcriptomics" in the study.
+###Conclusion###
+The abstract clearly and repeatedly mentions "spatial transcriptomics," which is a direct match to one of the technologies listed in the schema.
+###Result###
+['Spatial Transcriptomics']

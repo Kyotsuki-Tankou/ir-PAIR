@@ -1,0 +1,15 @@
+### Keywords ###
+From the abstract, the terms "tumours," "normal adjacent tissue," and "peripheral blood" are mentioned in the context of cancer and T cell distribution. These terms suggest potential organ parts related to cancer and immune response.
+### Verify ###
+- **Tumours**: This term is general and could refer to various types of cancerous tissues. Specific types of tumors are not mentioned, so we need to consider common cancerous tissues.
+- **Normal adjacent tissue**: This implies tissues surrounding the tumor, which could be any organ part adjacent to common cancer sites.
+- **Peripheral blood**: This is a specific term referring to blood circulating in the body, which is a distinct organ part.
+### Context ###
+- The abstract focuses on cancer treatment and T cell distribution in various tissues, including tumors, adjacent normal tissues, and peripheral blood.
+- The context suggests a broad application across different cancer types, but no specific organ part is explicitly mentioned.
+### Conclusion ###
+Given the context and the terms used:
+- **Tumours** and **normal adjacent tissue** are too general to pinpoint specific organ parts without more context.
+- **Peripheral blood** is a specific organ part mentioned directly in the abstract.
+### Result ###
+['Peripheral blood']

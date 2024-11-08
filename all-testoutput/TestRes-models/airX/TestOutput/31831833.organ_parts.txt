@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "synovial tissue biopsies" suggests that 'Synovial tissue' may be a proper result.
+###Verify###
+The abstract states, "Synovial tissue biopsies from affected joints were studied with ST," which directly verifies the use of 'Synovial tissue' in the study.
+###Conclusion###
+Since the term 'Synovial tissue' is both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that 'Synovial tissue' is the appropriate organ part used.
+###Result###
+['Synovial tissue']

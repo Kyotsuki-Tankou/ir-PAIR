@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, the term "spatial transcriptomics" is prominently mentioned multiple times, indicating that it is a key technology used in the study.
+### Verify ###
+The abstract states:
+- "we conducted bulk and spatial transcriptomic analyses..."
+- "Importantly, spatial transcriptomics provided near single-cell resolution..."
+- "Spatial transcriptomics also defined the cardiac scar..."
+These statements clearly verify that "spatial transcriptomics" is the primary technology employed in the study.
+### Conclusion ###
+Given the clear and repeated mention of "spatial transcriptomics" in the abstract, we can confidently conclude that "spatial transcriptomics" is the appropriate technology to be extracted according to the schema.
+### Result ###
+["Spatial Transcriptomics"]

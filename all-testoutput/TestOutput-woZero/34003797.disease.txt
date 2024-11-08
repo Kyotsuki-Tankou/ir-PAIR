@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "acute kidney injury (AKI)", "ischemia/reperfusion injury (IRI)", and "cecal ligation puncture (CLP)" are prominently mentioned, indicating that 'Acute kidney injury', 'Murine ischemia', and possibly 'Kidney injury' may be relevant results.
+### Verify ###
+1. **Acute kidney injury (AKI)**: The abstract states, "the spatial distribution of acute kidney injury (AKI) is regional and affects cells heterogeneously," which directly verifies that 'Acute kidney injury' is a relevant disease.
+2. **Ischemia/reperfusion injury (IRI)**: The abstract mentions, "we then characterized the spatial transcriptomic signature of 2 murine AKI models: ischemia/reperfusion injury (IRI) and cecal ligation puncture (CLP)," confirming 'Murine ischemia' as relevant.
+3. **Kidney injury**: Given the context of the study focusing on kidney-related injuries, 'Kidney injury' is also a relevant term.
+### Context ###
+Since the verification step directly confirms the presence of 'Acute kidney injury', 'Murine ischemia', and 'Kidney injury' in the abstract, there is no need for additional context to support these conclusions.
+### Conclusion ###
+Consequently, we choose 'Acute kidney injury', 'Murine ischemia', and 'Kidney injury' as our final results based on the clear and consistent references in the abstract.
+### Result ###
+['Acute kidney injury', 'Murine ischemia', 'Kidney injury']

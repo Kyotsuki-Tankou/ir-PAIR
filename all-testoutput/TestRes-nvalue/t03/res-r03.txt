@@ -1,0 +1,7 @@
+total_score:49.25, cnt:100
+average:0.4925
+type: species, class_score[17.0, 12.5, 6.0, 8.75, 5.0], class_cnt[20, 20, 20, 20, 20]
+type: tissues, class_score[17.0, 12.5, 6.0, 8.75, 5.0], class_cnt[20, 20, 20, 20, 20]
+type: organ_parts, class_score[17.0, 12.5, 6.0, 8.75, 5.0], class_cnt[20, 20, 20, 20, 20]
+type: technologies, class_score[17.0, 12.5, 6.0, 8.75, 5.0], class_cnt[20, 20, 20, 20, 20]
+type: disease, class_score[17.0, 12.5, 6.0, 8.75, 5.0], class_cnt[20, 20, 20, 20, 20]

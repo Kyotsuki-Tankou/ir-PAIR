@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "embryonic stem cells," "mammalian development," "germ-layer specification," "axial organization," "embryos," "somitogenesis," and "development" are prominent. These terms suggest a focus on embryonic development processes.
+### Verify ###
+The abstract states, "Gastruloids are three-dimensional aggregates of embryonic stem cells that display key features of mammalian development after implantation, including germ-layer specification and axial organization," and "we compare mouse gastruloids with mouse embryos using single-cell RNA sequencing and spatial transcriptomics." This directly verifies that the study is focused on aspects of embryonic development.
+### Context ###
+The context further supports this focus, as the study involves comparing gastruloids with embryos to understand gene expression patterns and developmental processes like somitogenesis. The mention of "key regulators of somitogenesis" and the dynamics of the somitogenesis clock in gastruloids aligns with embryonic development themes.
+### Conclusion ###
+Based on the keywords, verification, and context, it is clear that the study primarily deals with embryonic development, particularly in the context of gastruloids as a model system.
+### Result ###
+["Embryo development"]

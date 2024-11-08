@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the focus is on "localize T cell receptor clones using the Visium spatial transcriptomics platform" and "tissue sections." The Keywords provided are "Immunology; Molecular Biology; Sequence analysis," which do not directly mention any specific organ parts.
+### Verify ###
+The Abstract mentions "tissue sections" and "tumor microenvironment," but does not specify which organ or tissue type these sections are from. The context of T cell localization suggests a focus on immune-related tissues, but no specific organ part from the schema is directly mentioned.
+### Context ###
+Given the context of "tumor microenvironment" and the general nature of "tissue sections," it is clear that the study involves tissue analysis but does not specify the exact type of tissue or organ part. The mention of "tumor microenvironment" could imply a focus on cancer-related tissues, but without a specific mention, it is not possible to pinpoint a particular organ part from the schema.
+### Conclusion ###
+Since the specific organ parts mentioned in the schema are not directly referenced in either the Keywords or the Abstract, and the context does not provide a clear match to any of the listed organ parts, we conclude that there is no suitable organ part to extract from the given input based on the provided schema.
+### Result ###
+null

@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Brain"]
+null
+["HDST"]
+["Brain Cortex"]
+ Abstract\nSpatial and molecular characteristics determine tissue function, yet high-resolution methods to capture both concurrently are lacking. Here, we developed high-definition spatial transcriptomics, which captures RNA from histological tissue sections on a dense, spatially barcoded bead array. Each experiment recovers several hundred thousand transcript-coupled spatial barcodes at 2-μm resolution, as demonstrated in mouse brain and primary breast cancer. This opens the way to high-resolution spatial analysis of cells and tissues.

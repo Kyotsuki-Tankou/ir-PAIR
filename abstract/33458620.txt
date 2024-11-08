@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Prostate"]
+["Prostate epithelial organoids"]
+["10x Visium", "scRNA"]
+["Normal atlas"]
+ Abstract\nVitamin D is an essential steroid hormone that regulates systemic calcium homeostasis and cell fate decisions. The prostate gland is hormonally regulated, requiring steroids for proliferation and differentiation of secretory luminal cells. Vitamin D deficiency is associated with an increased risk of lethal prostate cancer, which exhibits a dedifferentiated pathology, linking vitamin D sufficiency to epithelial differentiation. To determine vitamin D regulation of prostatic epithelial differentiation, patient-derived benign prostate epithelial organoids were grown in vitamin D-deficient or -sufficient conditions. Organoids were assessed by phenotype and single-cell RNA sequencing. Mechanistic validation demonstrated that vitamin D sufficiency promoted organoid growth and accelerated differentiation by inhibiting canonical Wnt activity and suppressing Wnt family member DKK3. Wnt and DKK3 were also reduced by vitamin D in prostate tissue explants by spatial transcriptomics. Wnt dysregulation is a known contributor to aggressive prostate cancer, thus findings further link vitamin D deficiency to lethal disease. \n Keywords:Cell Biology; Developmental Biology; Transcriptomics.

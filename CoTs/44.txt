@@ -1,0 +1,15 @@
+###schema###
+technologies:['CITE-seq', 'XYZeq', 'CUT&Tag', 'RNA-seq', 'STARmap', 'DBiT-seq', 'scATAC-seq', 'scRNA', 'EASI-FISH', 'PIC-seq', 'sci-Space', 'sciMAP-ATAC-seq', 'Slide-seqV2', 'Spatial Transcriptomics', 'seqFish', 'seqFISH+', 'Stereo-Seq', '10x Visium', ' RNA-seq', 'scATAC', 'LCM-seq', 'Tomo-seq', 'Proximity RNA-seq', 'sci-ATAC-seq', 'ClampFISH', 'VINE-seq', 'snRNA', 'HDST', 'GeoMx DSP', 'Seq-Scope', 'APEX-seq', 'RNAseq', 'MERFISH', 'ClumpSeq', 'Geo-seq', 'Slide-seq']
+###input###
+ Abstract
+Here we present a compendium of single-cell transcriptomic data from the model organism Mus musculus that comprises more than 100,000 cells from 20 organs and tissues. These data represent a new resource for cell biology, reveal gene expression in poorly characterized cell populations and enable the direct and controlled comparison of gene expression in cell types that are shared between tissues, such as T lymphocytes and endothelial cells from different anatomical locations. Two distinct technical approaches were used for most organs: one approach, microfluidic droplet-based 3'-end counting, enabled the survey of thousands of cells at relatively low coverage, whereas the other, full-length transcript analysis based on fluorescence-activated cell sorting, enabled the characterization of cell types with high sensitivity and coverage. The cumulative data provide the foundation for an atlas of transcriptomic cell biology.Let's think step by step.
+### Keywords ###
+From the "single-cell transcriptomic data" in the Abstract, it indicates that 'scRNA' may be a proper result.
+### Verify ###
+The Abstract mentions "microfluidic droplet-based 3'-end counting" and "full-length transcript analysis based on fluorescence-activated cell sorting," which are techniques commonly associated with single-cell RNA sequencing (scRNA-seq). This further verifies that 'scRNA' is likely a proper result.
+### Context ###
+While the Abstract does not explicitly mention "scRNA" by name, the described techniques and the focus on single-cell transcriptomic data strongly imply the use of scRNA-seq technology. There is no conflicting information that would require additional context to clarify.
+### Conclusion ###
+Consequently, we confirm 'scRNA' as our final result based on the strong implication from the described techniques and the focus on single-cell transcriptomic data.
+### Result ###
+['scRNA']

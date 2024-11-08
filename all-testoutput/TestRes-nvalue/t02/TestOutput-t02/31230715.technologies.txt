@@ -1,0 +1,13 @@
+### Keywords ###
+From the Abstract, the term "APEX-seq" is directly mentioned, indicating that 'APEX-seq' is a relevant technology. Additionally, "RNA sequencing" is mentioned, which could relate to 'RNA-seq'. From the Keywords, "spatial transcriptomics" is also noted, which corresponds to 'Spatial Transcriptomics' in the schema.
+### Verify ###
+- **APEX-seq**: The Abstract explicitly introduces "APEX-seq" as a method for RNA sequencing, confirming its relevance.
+- **RNA-seq**: While "RNA sequencing" is mentioned, it is in the context of describing APEX-seq. Therefore, 'RNA-seq' might be considered, but it is less specific compared to 'APEX-seq'.
+- **Spatial Transcriptomics**: The Keywords mention "spatial transcriptomics," and the Abstract discusses spatial mapping of the human transcriptome, which aligns with 'Spatial Transcriptomics'.
+### Context ###
+- The primary focus of the Abstract is on APEX-seq, which is a specific method for RNA sequencing with a spatial component. This suggests that 'APEX-seq' is the most precise match.
+- The mention of "spatial transcriptomics" in the Keywords supports the inclusion of 'Spatial Transcriptomics', but it is secondary to the primary method described, APEX-seq.
+### Conclusion ###
+Based on the direct mentions and the focus of the study, 'APEX-seq' is definitively a relevant technology. 'Spatial Transcriptomics' is also relevant due to its mention in the Keywords and the context of spatial mapping. 'RNA-seq' is less specific in this context and is encompassed by 'APEX-seq'.
+### Result ###
+['APEX-seq', 'Spatial Transcriptomics']

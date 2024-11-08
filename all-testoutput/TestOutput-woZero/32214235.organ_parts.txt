@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "human organs", "human cell landscape (HCL)", "single-cell hierarchy for many tissues", and "human and mouse" are prominent. These suggest a broad focus on various human tissues and organs.
+### Verify ###
+The abstract mentions "cell-type composition of all major human organs" and "single-cell hierarchy for many tissues", which indicates a comprehensive analysis of multiple human organ parts. Specific organs or tissues are not explicitly named, but the scope includes a wide range of human tissues.
+### Context ###
+Given the broad scope of the study encompassing "all major human organs" and the establishment of a "human cell landscape", it is clear that the study is not focused on a single specific organ part. Instead, it covers a wide array of tissues and organs.
+### Conclusion ###
+Since the study involves a comprehensive analysis of all major human organs and tissues without specifying any particular organ part, it is challenging to pinpoint a single item from the schema. The closest related terms would be general categories like "Human cell lines" or "Liver tissue", but these do not fully capture the broad scope of the study.
+### Result ###
+null

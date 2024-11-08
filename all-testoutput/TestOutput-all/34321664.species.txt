@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "mammalian brain", "embryonic mouse brain", "single-cell RNA sequencing", "spatial transcriptomics", and "developmental program". These keywords suggest a focus on brain development in a specific species.
+### Verify ###
+The abstract specifically mentions:
+- "embryonic mouse brain between gastrulation and birth"
+- "single-cell transcriptomic atlas"
+- "in situ mRNA sequencing to map the spatial expression patterns"
+These points verify that the study is focused on the development of the mouse brain, utilizing advanced sequencing techniques.
+### Context ###
+The abstract clearly states "embryonic mouse brain" and "mouse" multiple times, indicating that the species under study is Mus musculus. There is no ambiguity about the species as it is explicitly mentioned.
+### Conclusion ###
+Based on the clear and repeated mention of "mouse" and "embryonic mouse brain", it is evident that the species involved in the study is Mus musculus.
+### Result ###
+['Mus musculus']

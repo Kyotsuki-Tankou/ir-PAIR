@@ -1,0 +1,10 @@
+### Keywords ###
+From the keywords provided, "mouse lung" and "development" suggest a focus on the lung tissue, particularly in the context of its development.
+### Verify ###
+The keywords "alveolarization" and "spatial transcriptome" further support the focus on lung tissue, as alveolarization is a critical process in lung development.
+### Context ###
+Given that the keywords specifically mention "mouse lung" and "development", there is a clear indication that the study involves the lung tissue.
+### Conclusion ###
+Based on the keywords, it is evident that the study is centered around the lung tissue, particularly its development.
+### Result ###
+['Lung']

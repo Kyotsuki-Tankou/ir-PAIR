@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "Alzheimer's disease," "amyloid plaques," "spatial transcriptomics," "myelin," "oligodendrocyte genes," and "brain sections." These keywords suggest that the study is focused on the brain, particularly in the context of Alzheimer's disease and the cellular responses around amyloid plaques.
+### Verify ###
+The abstract mentions "transcriptional changes occurring in tissue domains in a 100-μm diameter around amyloid plaques using spatial transcriptomics" and "genome-wide spatial transcriptomics analysis provides an unprecedented approach to untangle the dysregulated cellular network in the vicinity of pathogenic hallmarks of AD and other brain diseases." This directly indicates that the tissue of interest is the brain.
+### Conclusion ###
+Consequently, we confirm that 'Brain' is the appropriate tissue type based on the provided abstract.
+### Result ###
+['Brain']

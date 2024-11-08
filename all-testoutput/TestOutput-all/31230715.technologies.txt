@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "APEX-seq" is prominently mentioned, indicating that 'APEX-seq' may be a proper result.
+### Verify ###
+The abstract states, "We introduce APEX-seq, a method for RNA sequencing based on direct proximity labeling of RNA using the peroxidase enzyme APEX2," which further verifies that 'APEX-seq' is the technology being discussed.
+### Context ###
+The abstract consistently focuses on the application and capabilities of APEX-seq, providing detailed information about its use in mapping the human transcriptome and identifying specific pathways. There is no ambiguity or need for additional context to confirm the technology.
+### Conclusion ###
+Consequently, we confirm 'APEX-seq' as the final result based on the clear and consistent focus on this technology in the abstract.
+### Result ###
+['APEX-seq']

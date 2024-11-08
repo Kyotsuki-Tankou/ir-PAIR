@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "whole-brain spatial transcriptomics," "neuroanatomical organization," "isocortex," "hippocampus," and "striatum" suggest that the study involves brain structures.
+### Verify ###
+The mention of "whole-brain spatial transcriptomics" and "neuroanatomical organization" directly implies that the study is focused on brain regions, which aligns with the keywords from the schema.
+### Context ###
+The description of identifying "spatially defining features" and the use of "molecular atlas" further reinforces the focus on brain structures.
+### Conclusion ###
+Based on the context and the specific terms used in the abstract, the study is clearly focused on brain structures. Therefore, the schema item 'Brain' is the most appropriate match.
+### Result ###
+['Brain']

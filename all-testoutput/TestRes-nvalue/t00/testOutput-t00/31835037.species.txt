@@ -1,0 +1,20 @@
+### Keywords
+- gene expression
+- heart development
+- human development
+- human developmental cell atlas
+- in situ sequencing
+- single-cell RNA-sequencing
+- spatial transcriptomics
+- spatially resolved transcriptomics
+### Verify
+- The input text discusses the process of cardiac morphogenesis in humans.
+- It mentions the use of single-cell RNA sequencing and spatial transcriptomics.
+- The study focuses on human embryonic cardiac cell types and developmental stages.
+### Context
+- The study is specifically about human cardiac development.
+- Techniques like single-cell RNA sequencing and spatial transcriptomics are used to map gene expression in human embryonic hearts.
+### Conclusion
+- The study is centered around the species "Homo sapiens" (humans).
+### Result
+- ["Homo sapiens"]

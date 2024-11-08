@@ -1,0 +1,27 @@
+### Keywords ###
+- Heart failure (HF)
+- Circulating proteins
+- Pathophysiological insights
+- Therapeutic targets
+- Aptamer-based proteomics
+- Immunological, complement, coagulation, natriuretic, matrix remodeling pathways
+- Advanced HF
+- Heart transplantation
+- Coronary sinus samples
+- Transcriptomic tools
+- Nt-proBNP, thrombospondin-2, interleukin-18 receptor, gelsolin, activated C5
+- Cardiac and systemic factors
+- HF development
+### Verify ###
+- Heart failure (HF) is explicitly mentioned and is the central focus of the study.
+- The study involves the characterization of circulating proteins associated with HF.
+- The use of aptamer-based proteomics is specified for identifying proteins.
+- Various pathways (immunological, complement, coagulation, natriuretic, matrix remodeling) are mentioned in relation to HF.
+- The study discusses advanced HF and changes post-heart transplantation.
+- Coronary sinus samples and transcriptomic tools are used to identify protein origins.
+- Specific proteins (Nt-proBNP, thrombospondin-2, interleukin-18 receptor, gelsolin, activated C5) are highlighted.
+- The findings relate to both cardiac and systemic factors in HF development.
+### Conclusion ###
+The input text primarily focuses on "Heart failure (HF)" and related aspects such as the identification of circulating proteins, pathways involved, and the use of specific tools and samples for research.
+### Result ###
+['Heart failure']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "patients with cancer," "T cells," and "human" suggest that the study is focused on human subjects. Therefore, 'Homo sapiens' may be a proper result.
+### Verify ###
+The abstract mentions "patients with different types of cancer" and "performing deep single-cell sequencing of RNA and T cell receptors in patients," which clearly indicates that the study involves human subjects. This further verifies that 'Homo sapiens' is indeed a proper result.
+### Context ###
+Given the detailed description of working with patients and human T cells, there is no ambiguity in the context that would require additional clarification. The focus on human subjects solidifies 'Homo sapiens' as the correct species.
+### Conclusion ###
+Consequently, we choose 'Homo sapiens' as our final result based on the clear and consistent focus on human subjects and their T cells in the abstract.
+### Result ###
+['Homo sapiens']

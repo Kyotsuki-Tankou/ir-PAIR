@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords "bone regeneration," "digit regeneration," and "mouse," it suggests that 'Bone' and 'Blastema' might be relevant tissues.
+### Verify ###
+In the Abstract, phrases like "Central to this regenerative process is the blastema," "regeneration of the amputated bone and surrounding soft tissue," and "spatial transcriptomics to characterize the transcriptional profile specifically within the blastema" strongly indicate that 'Blastema' and 'Bone' are proper results.
+### Context ###
+Upon reviewing the context, the abstract focuses on the regenerative process involving the blastema and bone in a mouse model. There are no additional clues that would suggest another tissue as the primary focus. The entire abstract centers around the blastema and bone regeneration.
+### Conclusion ###
+Consequently, we choose 'Blastema' and 'Bone' as our final results.
+### Result ###
+['Blastema', 'Bone']

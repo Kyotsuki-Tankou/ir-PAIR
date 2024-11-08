@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract and keywords, the terms "brain," "glioblastoma," and "endothelial cells" suggest that 'Brain' and possibly 'Tumor' could be relevant tissues.
+### Verify ###
+The abstract mentions:
+- "brain is largely blocked by the blood-brain-barrier (BBB)"
+- "glioblastoma (GBM), the most common malignant brain tumor in humans"
+- "single-cell RNA sequencing (scRNA-seq) of freshly isolated ECs from human glioblastoma and paired tumor peripheral tissues"
+These statements confirm that the study focuses on the 'Brain' and specifically on 'Tumor' tissues within the brain.
+### Conclusion ###
+Based on the verification, both 'Brain' and 'Tumor' are relevant tissues in the context of the study.
+### Result ###
+['Brain', 'Tumor']

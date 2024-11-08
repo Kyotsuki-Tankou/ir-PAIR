@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the terms "bladder cancer," "human bladder cancer," and "tumor" are directly mentioned. These terms suggest a focus on the bladder tissue.
+### Verify ###
+The Abstract specifically discusses "single nuclei RNA sequencing with spatial transcriptomics and single-cell resolution spatial proteomic analysis of human bladder cancer." This confirms that the study is centered around bladder tissue.
+### Context ###
+The context of the study involves "Neoadjuvant chemotherapy (NAC) prior to surgery and immune checkpoint therapy (ICT)" in the context of bladder cancer. The mention of "epithelial subpopulation" and "CDH12-enriched tumors" further reinforces the focus on bladder tissue, particularly the epithelial component of the bladder.
+### Conclusion ###
+Based on the direct mentions and the contextual clues, it is clear that the study is focused on the bladder tissue.
+### Result ###
+['Bladder']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, keywords such as "cancer treatment," "PD1," "PDL1," "T cells," "tumour immunity," and "different types of cancer" are prominent. These suggest a broad focus on cancer and immune response rather than a specific type of cancer.
+### Verify ###
+The abstract mentions "patients with different types of cancer" and "tumours," which indicates a general focus on cancer rather than a specific type. It also discusses "anti-PDL1 therapy," which is a treatment applicable to various cancers.
+### Context ###
+Given the mention of "different types of cancer" and the focus on T cell responses and anti-PDL1 therapy, the context suggests a pan-cancer approach rather than a focus on a specific type of cancer like "Breast cancer" or "Lung cancer."
+### Conclusion ###
+The abstract does not specify a particular type of cancer but rather discusses cancer in a broad sense, particularly in the context of immune response and therapy. The closest match in the schema that reflects this broad focus would be "Pan cancer."
+### Result ###
+['Pan cancer']

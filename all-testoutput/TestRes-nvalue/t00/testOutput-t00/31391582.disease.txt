@@ -1,0 +1,46 @@
+### Keywords ###
+- post-implantation development
+- mouse embryo
+- inner cell mass
+- epiblast
+- pluripotent state
+- germ layers
+- cell lineages
+- embryogenesis
+- fate-mapping
+- lineage-analysis
+- gastrulation
+- regionalization
+- cell fates
+- vertebrate embryos
+- genome-wide molecular annotation
+- lineage segregation
+- tissue architecture
+- spatially resolved transcriptome
+- germ layers development
+- pre- to late-gastrulation stages
+- spatiotemporal transcriptome
+- gene-expression profiles
+- molecular genealogy
+- pluripotency states
+- molecular determinants
+- lineage specification
+- tissue patterning
+- Hippo-Yap signalling
+- visceral endoderm
+- endoderm
+### Verify ###
+- Embryo development
+- Germ layer formation
+- Cell lineage specification
+- Gastrulation
+- Pluripotency states
+- Molecular determinants
+- Hippo-Yap signalling
+- Endoderm development
+### Context ###
+The input text focuses on the early stages of mouse embryo development, particularly post-implantation. It discusses the transition of cells from a naive to a primed pluripotent state, the formation of germ layers, and the specification of cell lineages during gastrulation. The study involves spatially resolved transcriptome analysis to understand the molecular mechanisms behind these processes, including the role of Hippo-Yap signalling and the contribution of visceral endoderm to endoderm development.
+### Conclusion ###
+The primary focus of the input text is on the developmental processes in the mouse embryo, particularly during the post-implantation stage, involving the formation of germ layers and the specification of cell lineages.
+### Result ###
+['Embryo development', 'Germ layer formation', 'Cell lineage specification', 'Gastrulation', 'Pluripotency states', 'Molecular determinants', 'Hippo-Yap signalling', 'Endoderm development']

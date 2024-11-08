@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract and keywords, the terms "colon," "liver," and "subcellular architectures" suggest that the study involves multiple tissues. Therefore, 'Colon' and 'Liver' may be proper results.
+### Verify ###
+The abstract mentions "tissue zonation according to the portal-central (liver), crypt-surface (colon) and inflammation-fibrosis (injured liver) axes," which directly references both the liver and colon. This further verifies that 'Colon' and 'Liver' are indeed proper results.
+### Context ###
+Given the detailed description of specific regions and conditions in both the liver and colon, there is no ambiguity in the context that would require additional clarification. The focus on these specific tissues solidifies 'Colon' and 'Liver' as the correct tissue types.
+### Conclusion ###
+Consequently, we choose 'Colon' and 'Liver' as our final results based on the clear and consistent focus on these tissues in the abstract.
+### Result ###
+['Colon', 'Liver']

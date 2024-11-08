@@ -1,0 +1,10 @@
+###Keywords###
+The abstract mentions "aptamer-based proteomics" and "transcriptomic tools," indicating that technologies related to protein analysis and transcriptomics are used. From the schema provided, there is no direct match for "aptamer-based proteomics," but "transcriptomic tools" suggests the use of technologies under the 'tissues' category. The heart is the focus of the study, so 'Heart' could be a relevant keyword.
+###Verify###
+The abstract does not provide a direct match for any specific technology from the 'tissues' category. However, it does discuss the use of "transcriptomic tools" in the context of studying the heart, which suggests that the research involves the 'Heart' tissue.
+###Context###
+The context of the study is the application of aptamer-based proteomics and transcriptomic tools to understand heart failure. The mention of coronary sinus samples indicates that the study involves cardiac tissue, which aligns with the 'Heart' tissue category in the schema.
+###Conclusion###
+Given the focus on heart failure and the use of transcriptomic tools in the context of cardiac tissue, 'Heart' is the most appropriate result from the provided schema.
+###Result###
+['Heart']

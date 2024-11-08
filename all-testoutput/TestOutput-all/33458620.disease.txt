@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "prostate gland," "prostate cancer," and "prostatic epithelial differentiation" stand out, suggesting that 'Prostate Cancer' and 'Prostate injury' may be relevant results.
+### Verify ###
+The abstract mentions "increased risk of lethal prostate cancer," "prostatic epithelial differentiation," and "prostate tissue explants," which directly verify that the study is focused on prostate-related diseases. This supports that 'Prostate Cancer' and 'Prostate injury' are proper results.
+### Context ###
+The context provided in the abstract links vitamin D deficiency to prostate cancer and epithelial differentiation issues, further reinforcing the focus on prostate-related diseases. There is no ambiguity that would require additional context.
+### Conclusion ###
+Consequently, we confirm that 'Prostate Cancer' and 'Prostate injury' are the appropriate disease types based on the given input.
+### Result ###
+['Prostate Cancer', 'Prostate injury']

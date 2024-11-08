@@ -1,0 +1,10 @@
+###Keywords###
+From the Keywords, we have "renal cell cancer" and "Homo sapiens" is implied as the species since it mentions "RCC patients treated with immune checkpoint inhibitors," which typically refers to human patients.
+###Verify###
+In the Abstract, we see mentions of "renal cell carcinoma (RCC)" and "RCC patients," which strongly suggests the species is Homo sapiens.
+###Context###
+The context of the study involves human patients with renal cell carcinoma, and the keywords and abstract consistently point towards human subjects.
+###Conclusion###
+The terms from the Keywords and the Abstract directly match "Homo sapiens" in the provided schema list.
+###Result###
+['Homo sapiens']

@@ -1,0 +1,10 @@
+### Keywords ###
+The terms "damaged epithelium," "epithelial healing," and "epithelial-specific loss" suggest that the study is focused on the epithelium tissue.
+### Verify ###
+The abstract mentions "injury-induced hypoxia is insufficient to trigger HIF1α in damaged epithelium" and "IL-17A-HIF1α axis drives glycolysis in wound front epithelia," which specifically highlight the epithelium as the primary tissue of interest.
+### Context ###
+The detailed description of processes occurring in the epithelium, such as the activation of HIF1α and the role of IL-17A, further solidifies that the focus is on epithelial tissue. There is no ambiguity in the context that would suggest another tissue type.
+### Conclusion ###
+Based on the consistent focus on epithelial tissue throughout the abstract, we can conclude that "Epithelium" is the correct tissue type to extract.
+### Result ###
+['Epithelium']

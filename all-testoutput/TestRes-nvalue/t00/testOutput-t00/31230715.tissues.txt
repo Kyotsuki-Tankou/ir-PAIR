@@ -1,0 +1,41 @@
+### Keywords
+- APEX-seq
+- RNA sequencing
+- Proximity labeling
+- APEX2
+- Subcellular locales
+- Human transcriptome
+- Localization
+- RNA classes
+- Transcript isoforms
+- Nuclear transcriptome
+- Nuclear pore
+- Cytoplasmic export
+- Messenger RNA
+- Mitochondria
+- Macromolecular machines
+- Spatial transcriptome
+- LADs
+- OXPHOS
+- UTRs
+- Cycloheximide
+- Motifs
+- Nocodazole
+- Retrotransposons
+- Spatial transcriptomics
+- Translation
+### Verify
+- **Subcellular locales**: Mentioned explicitly.
+- **Human transcriptome**: Mentioned explicitly.
+- **Nuclear transcriptome**: Mentioned explicitly.
+- **Cytoplasmic export**: Mentioned explicitly.
+- **Messenger RNA**: Mentioned explicitly.
+- **Mitochondria**: Mentioned explicitly.
+### Context
+- The paper discusses APEX-seq, a method for RNA sequencing that provides spatial mapping of the human transcriptome at a nanometer resolution.
+- It highlights the radial organization of the nuclear transcriptome and the export of processed transcripts through the nuclear pore.
+- It also identifies pathways for mRNA localization to mitochondria, associated with specific transcripts for building macromolecular machines.
+### Conclusion
+- The primary focus is on subcellular locales, particularly the nucleus and mitochondria, within the context of the human transcriptome.
+### Result
+- ['Nuclear', 'Mitochondria']

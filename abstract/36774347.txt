@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Lung"]
+null
+["10x Visium"]
+["COVID-19"]
+ Abstract\nProlonged lung pathology has been associated with COVID-19, yet the cellular and molecular mechanisms behind this chronic inflammatory disease are poorly understood. In this study, we combine advanced imaging and spatial transcriptomics to shed light on the local immune response in severe COVID-19. We show that activated adventitial niches are crucial microenvironments contributing to the orchestration of prolonged lung immunopathology. Up-regulation of the chemokines CCL21 and CCL18 associates to endothelial-to-mesenchymal transition and tissue fibrosis within these niches. CCL21 over-expression additionally links to the local accumulation of T cells expressing the cognate receptor CCR7. These T cells are imprinted with an exhausted phenotype and form lymphoid aggregates that can organize in ectopic lymphoid structures. Our work proposes immune-stromal interaction mechanisms promoting a self-sustained and non-resolving local immune response that extends beyond active viral infection and perpetuates tissue remodeling.

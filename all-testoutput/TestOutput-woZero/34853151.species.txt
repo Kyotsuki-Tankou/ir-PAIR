@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the term "female murine model" directly suggests that 'Mus musculus' may be a proper result.
+###Verify###
+The abstract mentions "An ischemia time of 34 minutes in a female murine model resulted in comparable injury to 22 minutes for males." This statement clearly indicates the use of a mouse model, further verifying that 'Mus musculus' is indeed a proper result.
+###Context###
+Since the term "female murine model" is explicitly mentioned and directly corresponds to 'Mus musculus' in the schema, there is no need for additional context to verify the result.
+###Conclusion###
+Consequently, we confirm 'Mus musculus' as our final result based on the clear and direct mention of the species used in the abstract.
+###Result###
+['Mus musculus']

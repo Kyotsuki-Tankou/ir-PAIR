@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the technology explicitly mentioned is "APEX-seq." This appears both in the Abstract and the Keywords sections.
+### Verify ###
+The Abstract describes the development and application of "an RNA proximity labeling technique, APEX-seq," which directly matches the technology listed in the schema.
+### Conclusion ###
+Based on the clear and direct mention of "APEX-seq" in both the Abstract and Keywords, we can confidently conclude that 'APEX-seq' is the appropriate technology to be extracted.
+### Result ###
+['APEX-seq']

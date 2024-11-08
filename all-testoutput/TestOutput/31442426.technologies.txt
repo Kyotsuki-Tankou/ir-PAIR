@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract and keywords, we identify "APEX-seq" as a key technology mentioned, which is a method used to map the spatial organization of the transcriptome.
+### Verify ###
+The abstract states, "We therefore developed an RNA proximity labeling technique, APEX-seq," and "Matching the spatial transcriptome, as revealed by APEX-seq," which confirms the relevance of "APEX-seq" to the study described.
+### Conclusion ###
+Given the direct mention and use of the technology in the abstract, we can conclude that "APEX-seq" is the appropriate result.
+### Result ###
+['APEX-seq']

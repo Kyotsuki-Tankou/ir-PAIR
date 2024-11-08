@@ -1,0 +1,8 @@
+###Keywords###
+The abstract mentions "mouse brain" and "primary breast cancer," which suggest that the tissues of interest are "Brain" and "Breast."
+###Verify###
+The abstract explicitly states the use of "mouse brain and primary breast cancer" in the study, which verifies the presence of "Brain" and "Breast" tissues.
+###Conclusion###
+Based on the explicit mention in the abstract, we can conclude that "Brain" and "Breast" are the tissues involved in the study.
+###Result###
+["Brain", "Breast"]

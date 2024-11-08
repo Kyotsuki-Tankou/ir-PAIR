@@ -1,0 +1,10 @@
+### Keywords
+From the abstract, the keywords that stand out are "heart failure," "circulating proteins," "aptamer-based proteomics," "immunological," "complement," "coagulation," "natriuretic," "matrix remodeling," "coronary sinus samples," and "transcriptomic tools." These suggest that the heart and its associated tissues could be relevant organ parts.
+### Verify
+The abstract mentions "heart failure" and "cardiac and systemic factors associated with HF development," which directly verifies that the heart is a relevant organ part.
+### Context
+While the abstract mentions the heart and its function in heart failure, it also discusses systemic factors. However, the schema focuses on specific organ parts and does not include general systems like the cardiovascular system. The mention of "coronary sinus samples" could imply a specific part of the heart, but the schema does not include this as a distinct organ part.
+### Conclusion
+Given the explicit mention of the heart and its role in heart failure, we can conclude that "Heart" is the relevant organ part. However, the schema does not include "coronary sinus," and the systemic nature of the disease implies that it may not directly correspond to a single item in the schema.
+### Result
+['Heart']

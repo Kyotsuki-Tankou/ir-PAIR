@@ -1,0 +1,8 @@
+###Keywords###
+From the Abstract, the term "fetal liver" is explicitly mentioned, indicating that 'Liver' and 'Fetal liver' might be relevant tissues.
+###Verify###
+The Abstract focuses extensively on the "fetal liver," discussing its role in metabolism, detoxification, and hematopoiesis. This strongly supports the inclusion of 'Liver' and 'Fetal liver' as relevant tissues.
+###Conclusion###
+Given the specific and repeated mention of "fetal liver" and the broader context of liver development and disease, it is clear that 'Liver' and 'Fetal liver' are the relevant tissues matching the schema.
+###Result###
+['Liver', 'Fetal liver']

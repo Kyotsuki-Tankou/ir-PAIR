@@ -1,0 +1,10 @@
+###Keywords###
+From the Keywords "skin" and "fibrosis," it suggests that 'Skin' might be the relevant organ part.
+###Verify###
+In the Abstract, phrases like "In the skin, tissue injury results in fibrosis" and "fibroblast fate during the physiologic response to skin injury" strongly indicate that 'Skin' is a proper result.
+###Context###
+Upon reviewing the context, there are no additional clues that would suggest another organ part as the primary focus. The entire abstract centers around skin injury, fibrosis, and fibroblast responses in the skin.
+###Conclusion###
+Consequently, we choose 'Skin' as our final result.
+###Result###
+['Skin']

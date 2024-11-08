@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, key terms include "spatial transcriptomics," "single-cell RNA sequencing," "infected lymph nodes," "mouse tumor model," and "cell-type-specific changes in gene expression." These suggest potential relevance to diseases such as "Cancer," "Tumor metastasis," and "Lymph."
+### Verify ###
+The abstract specifically mentions "a study of infected lymph nodes and of a mouse tumor model," which directly verifies the inclusion of "Lymph" and "Cancer" (through the mention of a tumor model).
+### Context ###
+Given the focus on "infected lymph nodes" and "mouse tumor model," it is reasonable to infer that the study involves understanding disease mechanisms, particularly those related to cancer and lymphatic systems.
+### Conclusion ###
+The abstract explicitly mentions studies on infected lymph nodes and a mouse tumor model, confirming the relevance of "Lymph" and "Cancer." 
+### Result ###
+["Lymph", "Cancer"]

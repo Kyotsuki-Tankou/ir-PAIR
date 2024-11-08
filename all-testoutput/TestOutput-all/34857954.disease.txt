@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, terms like "endometrium," "endometrial cancers," and "endometriotic lesions" suggest a focus on diseases related to the uterus. Specifically, "endometriosis" and "endometrial carcinoma" are mentioned, which directly correspond to diseases in the schema.
+### Verify ###
+The Abstract explicitly mentions "endometriosis and endometrial carcinoma," which are directly listed in the schema under diseases. This verifies that these are the relevant diseases studied.
+### Context ###
+The context provided in the Abstract supports the keywords, as it discusses the generation of cellular maps to understand the pathways and cell states in endometrial tissues, specifically in relation to these diseases.
+### Conclusion ###
+Based on the clear mention and focus on "endometriosis" and "endometrial carcinoma" in both the Abstract and the schema, we can confirm these as the relevant diseases.
+### Result ###
+['Endometriosis', 'Endometrial carcinoma']

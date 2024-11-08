@@ -1,0 +1,11 @@
+### Keywords ###
+From the provided keywords, the relevant technologies mentioned are "spatial transcriptomics" and "stereo-seq."
+### Verify ###
+- "spatial transcriptomics" is directly mentioned and is a well-known technology in the schema.
+- "stereo-seq" is also directly mentioned and matches a technology in the schema.
+### Context ###
+Given that there is no abstract available, the context is limited to the keywords provided. The keywords clearly indicate the use of specific technologies.
+### Conclusion ###
+Both "spatial transcriptomics" and "stereo-seq" are directly mentioned in the keywords and are present in the schema.
+### Result ###
+['spatial transcriptomics', 'stereo-seq']

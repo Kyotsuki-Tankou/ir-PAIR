@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the key terms related to disease are "high-grade serous ovarian cancer (HGSOC)" and "ovarian cancer."
+### Verify ###
+The Abstract specifically mentions "high-grade serous ovarian cancer (HGSOC)" as the primary focus of the study. This directly aligns with the disease term "HGSOC" in the schema.
+### Context ###
+The context of the study revolves around characterizing the heterogeneity of HGSOC within its tumor microenvironment, further supporting the presence of HGSOC as the primary disease of interest. There is no conflicting information that would require additional context.
+### Conclusion ###
+Based on the clear mention and focus on HGSOC in the Abstract, we confirm 'HGSOC' as our final result.
+### Result ###
+['HGSOC']

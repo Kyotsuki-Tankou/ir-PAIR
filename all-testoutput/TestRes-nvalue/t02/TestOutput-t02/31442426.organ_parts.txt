@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the terms "stress granules" and "subcellular localization" are prominently mentioned, indicating that 'Stress granules' may be a relevant organ part.
+###Verify###
+- The abstract specifically mentions "stress granules" and discusses their composition and localization within the cell. This directly verifies that 'Stress granules' is indeed a relevant organ part in this context.
+###Conclusion###
+Given the specific mention and focus on "stress granules" in the abstract, it is clear that 'Stress granules' is the appropriate match from the schema.
+###Result###
+['Stress granules']

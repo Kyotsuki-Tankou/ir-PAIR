@@ -1,0 +1,22 @@
+### Keywords
+- Alzheimer’s disease
+- amyloid plaque
+- astrocyte
+- cellular phase
+- complement cascade
+- in situ sequencing
+- microglia
+- myelination
+- oligodendrocyte
+- spatial transcriptomics
+### Verify
+- **Spatial Transcriptomics**: Explicitly mentioned in the input.
+- **in situ sequencing**: Explicitly mentioned in the input.
+### Conclusion
+The technologies used in the study are:
+- Spatial Transcriptomics
+- in situ sequencing
+### Result
+```json
+["Spatial Transcriptomics", "in situ sequencing"]
+```

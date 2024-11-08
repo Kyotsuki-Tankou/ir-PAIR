@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, the term "Pulmonary fibrosis" is prominently mentioned multiple times, indicating that it is a key disease focus of the study.
+### Verify ###
+The abstract states:
+- "Pulmonary fibrosis initiates a pneumonic cascade..."
+- "Here, we investigated the mechanism by which silica induces fibroblast activation via anoikis resistance and subsequent fibrosis."
+- "This result provides a new approach for treating pulmonary fibrosis..."
+These statements clearly verify that "Pulmonary fibrosis" is the primary disease being studied.
+### Conclusion ###
+Given the clear and repeated mention of "Pulmonary fibrosis" in the abstract, we can confidently conclude that "Pulmonary fibrosis" is the appropriate disease to be extracted according to the schema.
+### Result ###
+["Pulmonary fibrosis"]

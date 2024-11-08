@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, keywords such as "mouse digit tip blastemas," "single-cell RNA sequencing," and "regeneration" are prominent. The term "mouse" directly indicates a potential match to a species in the schema.
+###Verify###
+The phrase "over 38,000 cells from mouse digit tip blastemas" clearly verifies that the species being studied is "Mus musculus," which is the scientific name for the mouse.
+###Context###
+Not required in this case as the Keywords and Verify steps align well and provide sufficient evidence.
+###Conclusion###
+Consequently, we confirm 'Mus musculus' as the final result based on the clear and consistent references to mouse in the input.
+###Result###
+['Mus musculus']

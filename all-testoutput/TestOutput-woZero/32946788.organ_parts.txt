@@ -1,0 +1,14 @@
+###Keywords###
+From the Keywords, potential organ parts include 'Embryo' and 'AGM region'. 
+###Verify###
+From the Abstract:
+- "Hematopoietic stem cells (HSCs) first emerge in the embryonic aorta-gonad-mesonephros (AGM) region."
+- "Studies of model organisms defined intersecting signaling pathways that converge to promote HSC emergence predominantly in the ventral domain of the dorsal aorta."
+- "Here, to identify secreted signals underlying human HSC development, we combined spatial transcriptomics analysis of dorsoventral polarized signaling in the aorta with gene expression profiling of sorted cell populations and single cells."
+These phrases directly mention 'Embryo' and 'AGM region', verifying their relevance.
+###Context###
+The context confirms that both 'Embryo' and 'AGM region' are central to the study's focus on HSC development.
+###Conclusion###
+Consequently, we confirm both 'Embryo' and 'AGM region' as relevant organ parts.
+###Result###
+['Embryo', 'AGM region']

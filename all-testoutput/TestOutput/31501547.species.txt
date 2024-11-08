@@ -1,0 +1,8 @@
+### Keywords ###
+The keywords "mouse brain" and "primary breast cancer" from the abstract suggest that 'Mus musculus' and 'Gallus gallus' might be proper results since the study involves these organisms.
+### Verify ###
+The abstract states, "This opens the way to high-resolution spatial analysis of cells and tissues, as demonstrated in mouse brain and primary breast cancer." This confirms that 'Mus musculus' (mouse) and 'Gallus gallus' (chicken, commonly referred to as 'Gallus gallus') are the species being studied.
+### Conclusion ###
+Based on the provided information, 'Mus musculus' and 'Gallus gallus' are the species studied in the context of high-definition spatial transcriptomics.
+### Result ###
+['Mus musculus', 'Gallus gallus']

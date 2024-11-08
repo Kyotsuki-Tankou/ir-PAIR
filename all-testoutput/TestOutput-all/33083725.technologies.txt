@@ -1,0 +1,8 @@
+###Keywords###
+From the Abstract, the phrase "Spatially resolved transcriptomics" stands out as a potential match to the technologies listed in the schema.
+###Verify###
+The Abstract specifically mentions the use of "spatially resolved transcriptomics" to identify differentially regulated genes in the hippocampus and olfactory bulbs of AD mice. This directly corresponds to the technology "Spatial Transcriptomics" in the schema.
+###Conclusion###
+The use of "spatially resolved transcriptomics" clearly aligns with the technology "Spatial Transcriptomics" from the schema.
+###Result###
+['Spatial Transcriptomics']

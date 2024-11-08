@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords "CRISPR screen; MIBI; intra-tumoral heterogeneity; multi-omics; scRNA-seq; skin cancer; spatial transcriptomics; squamous cell carcinoma; tumor immunology; tumor microenvironment," the term "skin cancer" and "squamous cell carcinoma" suggest a focus on human skin tissues. This implies that 'Homo sapiens' might be the relevant species.
+### Verify ###
+In the Abstract, phrases like "human cSCCs and matched normal skin" and "single-cell characterization of human tumor xenografts" explicitly mention "human," which directly corresponds to 'Homo sapiens' in the schema.
+### Context ###
+The context of the study is clearly centered around human skin and cutaneous squamous cell carcinoma (cSCC), with specific mentions of human samples and xenografts. This further reinforces that the species in focus is 'Homo sapiens'.
+### Conclusion ###
+Given the explicit mentions of "human" in both the Keywords and the Abstract, and the context aligning with human skin tissues, we conclude that 'Homo sapiens' is the appropriate species to extract.
+### Result ###
+['Homo sapiens']

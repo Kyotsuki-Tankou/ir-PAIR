@@ -1,0 +1,15 @@
+###Keywords###
+From the input, the terms "brain tissue," "lateral hypothalamic area (LHA)," and "brain region" are prominently mentioned, indicating a focus on brain-related structures and functions.
+###Verify###
+The abstract states:
+- "We developed Expansion-Assisted Iterative Fluorescence In Situ Hybridization (EASI-FISH) to survey gene expression in brain tissue..."
+- "Using the EASI-FISH pipeline, we investigated the spatial distribution of dozens of molecularly defined cell types in the lateral hypothalamic area (LHA)..."
+- "Mapping cell types in the LHA revealed nine spatially and molecularly defined subregions."
+These statements clearly verify that the study is focused on the brain, specifically the lateral hypothalamic area.
+###Context###
+- The abstract mentions "thick brain sections (300 μm)" and "spatio-molecular domains that generalize across brains," further emphasizing the focus on brain tissue.
+- "The EASI-FISH pipeline democratizes mapping molecularly defined cell types, enabling discoveries about brain organization." This highlights the broader goal of understanding brain organization, which includes various brain regions.
+###Conclusion###
+Given the clear and repeated mention of "brain" and "lateral hypothalamic area (LHA)" in the abstract, we can confidently conclude that "Brain" and potentially "Brain Hypothalamus" are relevant matches according to the schema.
+###Result###
+['Brain', 'Brain Hypothalamus']

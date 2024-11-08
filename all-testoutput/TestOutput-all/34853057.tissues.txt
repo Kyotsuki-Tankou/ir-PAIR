@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the terms "intestinal epithelium," "small intestine," "colon," "ileal inflammation," and "colonic tumourigenesis" suggest the involvement of tissues related to the intestine. Specifically, "small intestine" and "colon" are directly mentioned.
+### Verify ###
+The abstract explicitly mentions "small intestine" and "colon," which are directly listed in the schema. Additionally, the context of the study revolves around these tissues, further supporting their relevance.
+### Conclusion ###
+Given the clear and direct mentions of "small intestine" and "colon" in the abstract, we can confidently conclude that these are the correct tissues to be extracted.
+### Result ###
+['Small intestine', 'Colon']

@@ -1,0 +1,10 @@
+###Keywords###
+The keywords "bone marrow mesenchymal stem cells" and "mouse" from the abstract suggest that the relevant organ part might be related to the bone marrow or skeletal system.
+###Verify###
+The abstract mentions "bone marrow mesenchymal lineage cells" and "marrow cavity," which are directly related to the bone marrow. This verifies the relevance of organ parts like "Bone marrow" from the schema.
+###Context###
+No additional context is needed as the abstract clearly specifies the organ part being studied.
+###Conclusion###
+Based on the direct mention in the Abstract, we can conclude that 'Bone marrow' is the appropriate organ part to be extracted.
+###Result###
+['Bone marrow']

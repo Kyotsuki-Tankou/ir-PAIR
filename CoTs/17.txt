@@ -1,0 +1,15 @@
+###schema###
+tissues:['Skin', 'Brain', 'Colon', 'Eymbro', 'Cortex', 'Gastrula', 'Bone', 'Embryo', 'Ileum', 'Spinal cord', 'Gland', 'Lymph', 'Liver', 'Basal cell', 'Plant part', 'Muscle', 'Thymus', 'Cervical', 'Leaf', 'Uterus', 'Skeleton', 'Bladder', 'Spleen', 'Epithelium', 'Lacrimal Gland', 'Lung', 'Overian', 'Bone marrow', 'Stress granules', 'Kidney', 'Neuron', 'Cerebella', 'Pancreas', 'Flower', 'Cell line', 'Pituitary', 'Blood vessel', 'Stomach', 'Blastema', 'Legs', 'Intestine', 'Head Neck', 'Blood', 'Breast', 'Prostate', 'Dorsal aorta', 'Synovial', 'Eye', 'Heart', 'Mucosa', 'Ovarian', 'Tumor', 'Ear'],
+###input###
+ Abstract
+Significant heterogeneities in gene expression among individual cells are typically interrogated using single whole cell approaches. However, tissues that have highly interconnected processes, such as in the brain, present unique challenges. Single-nucleus RNA sequencing (SNS) has emerged as an alternative method of assessing a cell's transcriptome through the use of isolated nuclei. However, studies directly comparing expression data between nuclei and whole cells are lacking. Here, we have characterized nuclear and whole cell transcriptomes in mouse single neurons and provided a normalization strategy to reduce method-specific differences related to the length of genic regions. We confirmed a high concordance between nuclear and whole cell transcriptomes in the expression of cell type and metabolic modeling markers, but less so for a subset of genes associated with mitochondrial respiration. Therefore, our results indicate that single-nucleus transcriptome sequencing provides an effective means to profile cell type expression dynamics in previously inaccessible tissues.Let's think step by step.
+### Keywords ###
+From the abstract, the term "brain" is explicitly mentioned in the context of tissues with highly interconnected processes. This indicates that 'Brain' may be a proper result.
+### Verify ###
+The abstract states, "tissues that have highly interconnected processes, such as in the brain," which directly verifies that 'Brain' is indeed a relevant tissue in the context of the study.
+### Context ###
+Since the verification step directly confirms the presence of 'Brain' in the abstract, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Consequently, we choose 'Brain' as our final result.
+### Result ###
+['Brain']

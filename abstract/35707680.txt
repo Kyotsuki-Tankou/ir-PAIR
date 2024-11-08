@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Brain"]
+null
+["10x Visium"]
+["Brain metastases cancer"]
+ Abstract\nWe present a protocol to localize T cell receptor clones using the Visium spatial transcriptomics platform. This approach permits simultaneous localization of both gene expression and T cell clonotypes in situ within tissue sections. T cell receptor sequences identified by this protocol are readily recapitulated by single-cell sequencing. This technique enables detailed studies of the spatial organization of the human T cell repertoire, such as the localization of infiltrating T cell clones within the tumor microenvironment. For complete details on the use and execution of this protocol, please refer to Sudmeier et al. (2022). \n Keywords:Immunology; Molecular Biology; Sequence analysis.

@@ -1,0 +1,14 @@
+### Keywords ###
+From the input, the keywords that stand out are "Left ventricular noncompaction cardiomyopathy (LVNC)", "left ventricles (LVs)", "cardiomyopathy", "PRDM16", "cardiac phenotypes", and "cardiomyocyte". These suggest a focus on heart-related conditions and specifically on the left ventricle.
+### Verify ###
+- "Left ventricular noncompaction cardiomyopathy (LVNC)" directly indicates a heart-related disease.
+- "left ventricles (LVs)" and "cardiomyopathy" further confirm the focus on the heart, specifically the left ventricle.
+- "PRDM16" and "cardiomyocyte-specific knockout (Prdm16cKO) mice" provide context that the study involves genetic aspects of heart development and disease.
+### Context ###
+- The abstract mentions "LV-specific dilation and dysfunction" and "biventricular noncompaction", which are specific heart conditions.
+- "PRDM16 functioned mechanistically as a compact myocardium-enriched transcription factor" indicates the role of this gene in heart development and disease.
+- "Chamber-specific transcriptional regulation by PRDM16" suggests a detailed study of heart-specific gene regulation.
+### Conclusion ###
+Given the clear focus on heart-related conditions, specifically "Left ventricular noncompaction cardiomyopathy (LVNC)" and the genetic aspects of heart development, the most relevant match from the schema is 'Heart development'.
+### Result ###
+['Heart development']

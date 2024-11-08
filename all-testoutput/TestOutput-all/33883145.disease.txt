@@ -1,0 +1,17 @@
+###Keywords###
+- From the abstract, the term "XYZeq" is explicitly mentioned, indicating that 'XYZeq' may be a proper result.
+- Additionally, "mouse tumor models" suggests a focus on cancer, particularly "tumor" which might relate to terms like 'Tumor metastasis' or 'Cancer' in the schema.
+###Verify###
+- The abstract states:
+  - "we developed XYZeq, a workflow that encodes spatial metadata into scRNA-seq libraries."
+  - "We used XYZeq to profile mouse tumor models to capture spatially barcoded transcriptomes from tens of thousands of cells."
+  These statements clearly verify the use of 'XYZeq' technology in the study.
+- Regarding the disease aspect, the abstract mentions "mouse tumor models" and "tumor-associated mesenchymal stem cells (MSCs)," which aligns with 'Tumor metastasis' or 'Cancer' from the schema.
+###Context###
+- The keywords and the abstract both strongly indicate the use of 'XYZeq'.
+- The context of "mouse tumor models" and "tumor-associated mesenchymal stem cells" supports the association with 'Tumor metastasis' or 'Cancer'.
+###Conclusion###
+- Consequently, we confirm 'XYZeq' as the technology used.
+- For the disease, 'Tumor metastasis' is a specific term that fits well with the context of the study, making it a more precise choice over the general term 'Cancer'.
+###Result###
+['XYZeq', 'Tumor metastasis']

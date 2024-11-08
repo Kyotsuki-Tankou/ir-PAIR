@@ -1,0 +1,13 @@
+###Keywords###
+From the input, the terms "hippocampus" and "olfactory bulbs" are explicitly mentioned, indicating that 'Brain' may be a proper result since both the hippocampus and olfactory bulbs are parts of the brain.
+###Verify###
+The abstract states:
+- "our goal was to simultaneously uncover novel and known molecular targets in the structured layers of the hippocampus and olfactory bulbs"
+- "we identify Bok, implicated in mitochondrial physiology and cell death, as a spatially downregulated gene in the hippocampus of mouse and human AD brains"
+These statements clearly verify the focus on brain tissues, specifically the hippocampus and olfactory bulbs.
+###Context###
+Since the keywords and the abstract both strongly indicate the focus on brain tissues, there is no need for additional context to confirm the result.
+###Conclusion###
+Consequently, we confirm 'Brain' as the final result based on the explicit mentions and detailed descriptions in the abstract.
+###Result###
+['Brain']

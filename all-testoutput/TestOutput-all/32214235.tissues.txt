@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "all major human organs" and "many tissues" suggest that multiple tissues from the provided schema could be relevant. Specific mentions include "human organs" and "human cell landscape."
+### Verify ###
+The Abstract mentions "all major human organs" and "many tissues," indicating a comprehensive analysis across various tissues. It also discusses "a single-cell hierarchy for many tissues that have not been well characterized," further supporting the involvement of multiple tissues.
+### Context ###
+Given the broad scope of the study, it is reasonable to infer that a wide range of tissues from the schema could be included. The focus on "major human organs" and "many tissues" suggests a comprehensive approach covering multiple tissue types.
+### Conclusion ###
+Based on the keywords, verification, and context, it is clear that the study involves a wide array of tissues. However, without specific mentions of individual tissues, we can only infer that multiple tissues from the schema are likely included.
+### Result ###
+['Skin', 'Brain', 'Colon', 'Cortex', 'Bone', 'Embryo', 'Ileum', 'Spinal cord', 'Gland', 'Lymph', 'Liver', 'Basal cell', 'Muscle', 'Thymus', 'Cervical', 'Uterus', 'Skeleton', 'Bladder', 'Spleen', 'Epithelium', 'Lacrimal Gland', 'Lung', 'Overian', 'Bone marrow', 'Kidney', 'Neuron', 'Cerebella', 'Pancreas', 'Cell line', 'Pituitary', 'Blood vessel', 'Stomach', 'Intestine', 'Head Neck', 'Blood', 'Breast', 'Prostate', 'Dorsal aorta', 'Synovial', 'Eye', 'Heart', 'Mucosa', 'Ovarian', 'Tumor', 'Ear']

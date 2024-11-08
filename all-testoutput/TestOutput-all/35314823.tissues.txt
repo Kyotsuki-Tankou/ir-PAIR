@@ -1,0 +1,13 @@
+### Keywords ###
+From the Abstract, the primary focus is on the "olfactory system," "olfactory sensory neurons," and the "olfactory bulb (OB)." This suggests a strong emphasis on neural and sensory tissues related to smell.
+### Verify ###
+The Abstract specifically mentions "the mouse OB" (olfactory bulb) and the projection of axons to form glomeruli within the OB. This directly points to the "Olfactory bulb" as a key tissue being studied.
+### Context ###
+To ensure accuracy, we consider the context:
+- "The stereotyped positioning of glomeruli in the OB suggests an importance for this organization in odor perception."
+- "Using a combination of single-cell RNA sequencing, spatial transcriptomics and machine learning, we have generated a map of most glomerular positions in the mouse OB."
+These details reinforce that the study's primary focus is on the olfactory bulb, particularly in mice.
+### Conclusion ###
+Given the clear and consistent references to the olfactory bulb in both the Abstract and the context, we can confidently conclude that "Olfactory bulb" is the relevant tissue.
+### Result ###
+['Olfactory bulb']

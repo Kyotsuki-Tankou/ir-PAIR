@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, "deep single-cell sequencing of RNA and T cell receptors" suggests the use of technologies related to single-cell RNA sequencing and T cell receptor sequencing. This implies potential matches with 'scRNA' and possibly other single-cell sequencing technologies.
+### Verify ###
+The Abstract explicitly mentions "deep single-cell sequencing of RNA," which directly corresponds to 'scRNA'. Additionally, the focus on T cell receptors does not explicitly mention any other specific technologies from the schema, but the context of single-cell sequencing strongly supports 'scRNA'.
+### Context ###
+While the Abstract does not mention other specific technologies like 'CITE-seq' or 'scATAC-seq', the primary focus on single-cell RNA sequencing is clear. There is no conflicting information that would require additional context to clarify the use of 'scRNA'.
+### Conclusion ###
+Based on the explicit mention of "deep single-cell sequencing of RNA," we can confidently conclude that 'scRNA' is the appropriate technology identified in the input.
+### Result ###
+['scRNA']

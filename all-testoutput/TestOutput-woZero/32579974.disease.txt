@@ -1,0 +1,13 @@
+### Keywords ###
+From the abstract and keywords, the following terms are relevant to the schema:
+- "cutaneous squamous cell carcinoma (cSCC)"
+- "skin cancer"
+- "squamous cell carcinoma"
+### Verify ###
+The abstract directly mentions "cutaneous squamous cell carcinoma (cSCC)" and "squamous cell carcinoma," which are clear indicators of the disease being studied. Additionally, the keywords include "skin cancer" and "squamous cell carcinoma," further confirming the focus on this specific type of cancer.
+### Context ###
+The context of the study is centered around the cellular composition and architecture of cSCC, with detailed analyses using single-cell RNA sequencing, spatial transcriptomics, and multiplexed ion beam imaging. This context strongly supports the identification of "Squamous cell carcinoma" as the primary disease of interest.
+### Conclusion ###
+Based on the direct mentions in both the abstract and keywords, as well as the contextual focus of the study, we can conclusively verify that "Squamous cell carcinoma" is the correct disease to extract.
+### Result ###
+['Squamous cell carcinoma']

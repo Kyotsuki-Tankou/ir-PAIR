@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, the term "mouse embryo" indicates that 'Embryo' may be a proper result. Additionally, the mention of "stress granules" suggests that 'Stress granules' could also be relevant.
+### Verify ###
+1. **Embryo**: The abstract mentions "PIC transcriptome analysis detects genes specifically expressed in small distinct areas of the mouse embryo," which directly supports the inclusion of 'Embryo'.
+2. **Stress granules**: The abstract also states "PIC transcriptome analysis is applicable to the subcellular and subnuclear microstructures (stress granules and nuclear speckles, respectively)," confirming the relevance of 'Stress granules'.
+### Context ###
+Not required in this case as the verification directly supports the keywords.
+### Conclusion ###
+Consequently, we choose 'Embryo' and 'Stress granules' as our final results.
+### Result ###
+['Embryo', 'Stress granules']

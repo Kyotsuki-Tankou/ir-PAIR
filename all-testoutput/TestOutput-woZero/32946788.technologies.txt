@@ -1,0 +1,8 @@
+### Keywords ###
+From the "spatial transcriptomics analysis" in the Abstract, it suggests that "Spatial Transcriptomics" might be a relevant technology used in the study.
+### Verify ###
+The Abstract explicitly mentions "spatial transcriptomics analysis of dorsoventral polarized signaling in the aorta," which directly corresponds to the "Spatial Transcriptomics" technology listed in the schema.
+### Conclusion ###
+Given the clear mention of "spatial transcriptomics" in the Abstract, it is evident that "Spatial Transcriptomics" is the technology used in the study.
+### Result ###
+['Spatial Transcriptomics']

@@ -1,0 +1,13 @@
+###Keywords###
+From the input, the term "Seq-Scope" is explicitly mentioned, indicating that 'Seq-Scope' may be a proper result.
+###Verify###
+The abstract states:
+- "Here, we report Seq-Scope, a spatial barcoding technology with a resolution comparable to an optical microscope."
+- "Seq-Scope is based on a solid-phase amplification of randomly barcoded single-molecule oligonucleotides using an Illumina sequencing platform."
+These statements clearly verify the use of 'Seq-Scope' technology in the study.
+###Context###
+Since the keywords and the abstract both strongly indicate the use of 'Seq-Scope', there is no need for additional context to confirm the result.
+###Conclusion###
+Consequently, we confirm 'Seq-Scope' as the final result based on the explicit mentions and detailed descriptions in the abstract.
+###Result###
+['Seq-Scope']

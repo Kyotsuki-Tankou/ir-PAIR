@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Brain"]
+[""]
+["scRNA"]
+["Glioblastomas"]
+ Abstract\nPassage of systemically delivered pharmacological agents into the brain is largely blocked by the blood-brain-barrier (BBB), an organotypic specialization of brain endothelial cells (ECs). Tumor vessels in glioblastoma (GBM), the most common malignant brain tumor in humans, are abnormally permeable, but this phenotype is heterogeneous and may differ between the tumor's center and invasive front. Here, through single-cell RNA sequencing (scRNA-seq) of freshly isolated ECs from human glioblastoma and paired tumor peripheral tissues, we have constructed a molecular atlas of human brain ECs providing unprecedented molecular insight into the heterogeneity of the human BBB and its molecular alteration in glioblastoma. We identified 5 distinct EC phenotypes representing different states of EC activation and BBB impairment, and associated with different anatomical locations within and around the tumor. This unique data resource provides key information for designing rational therapeutic regimens and optimizing drug delivery. \n Keywords:Brain cancer; Endothelial cells; Vascular Biology.

@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "adult mouse brain" directly indicates the species involved in the study.
+### Verify ###
+The Abstract explicitly mentions "adult mouse brain," which clearly points to 'Mus musculus' as the species being studied.
+### Context ###
+Given the direct mention of "mouse brain," there is no need for additional context to infer the species. The context fully supports 'Mus musculus' as the correct species.
+### Conclusion ###
+Based on the clear and direct mention of "mouse brain" in the Abstract, we can conclusively determine that 'Mus musculus' is the appropriate species to be extracted.
+### Result ###
+['Mus musculus']

@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, the term "primary pancreatic tumors" is explicitly mentioned, indicating that 'Pancreas' and 'Tumor' may be relevant tissues.
+### Verify ###
+The abstract states:
+- "Applying multimodal intersection analysis to primary pancreatic tumors"
+This statement directly verifies that 'Pancreas' and 'Tumor' are indeed relevant tissues in the context of the study.
+### Context ###
+Since the verification step directly confirms the presence of 'Pancreas' and 'Tumor' in the abstract, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Consequently, we choose 'Pancreas' and 'Tumor' as our final results.
+### Result ###
+['Pancreas', 'Tumor']

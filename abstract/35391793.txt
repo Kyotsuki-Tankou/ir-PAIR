@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Lung"]
+null
+["Stereo-Seq"]
+["Normal atlas"]
+ No abstract available \n Keywords:Stereo-seq; alveolarization; development; mouse lung; spatial transcriptome.

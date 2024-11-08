@@ -1,0 +1,18 @@
+### Keywords ###
+From the input, the following species are mentioned directly:
+- Zebrafish
+- Chicken
+- Mouse
+- Human
+### Verify ###
+We need to match these mentions to the corresponding entries in the schema:
+- Zebrafish corresponds to 'Danio rerio'
+- Chicken corresponds to 'Gallus gallus'
+- Mouse corresponds to 'Mus musculus'
+- Human corresponds to 'Homo sapiens'
+### Context ###
+The context clearly mentions "genome-wide RNA tomography sequencing on zebrafish, chicken, mouse, and human embryos," which directly corresponds to the species listed in the schema. There is no ambiguity in the context that would require further clarification.
+### Conclusion ###
+Based on the direct mentions and clear context, we can confidently conclude that the species used in the study are 'Danio rerio', 'Gallus gallus', 'Mus musculus', and 'Homo sapiens'.
+### Result ###
+['Danio rerio', 'Gallus gallus', 'Mus musculus', 'Homo sapiens']

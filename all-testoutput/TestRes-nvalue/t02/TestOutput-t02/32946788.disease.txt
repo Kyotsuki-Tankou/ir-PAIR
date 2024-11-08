@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, "embryo" and "hematopoiesis" are potential indicators, but they are not direct matches to the disease schema. However, "HSC development" is closely related to "Embryo development" and "Normal atlas" as it involves the early stages of hematopoietic stem cell emergence.
+### Verify ###
+From the Abstract, the phrases "Hematopoietic stem cells (HSCs) first emerge in the embryonic aorta-gonad-mesonephros (AGM) region" and "to identify secreted signals underlying human HSC development" directly relate to the early developmental processes, which aligns with "Embryo development" and "Normal atlas".
+### Context ###
+The context of the study focuses on the early emergence and development of hematopoietic stem cells in the embryonic stage, which is a fundamental biological process rather than a disease. This aligns more closely with developmental processes rather than specific diseases listed in the schema.
+### Conclusion ###
+Given the context and verification, "Embryo development" and "Normal atlas" are the most relevant choices from the schema, as they encompass the developmental aspect of HSCs in the embryonic stage.
+### Result ###
+['Embryo development', 'Normal atlas']

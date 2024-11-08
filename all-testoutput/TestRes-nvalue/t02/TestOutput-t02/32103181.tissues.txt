@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, the terms "tumours," "normal adjacent tissue," and "peripheral blood" stand out. These suggest that the relevant tissues might include 'Tumor,' 'Epithelium' (for normal adjacent tissue), and 'Blood.'
+### Verify ###
+- **Tumor**: The abstract mentions "tumours" multiple times, indicating that 'Tumor' is a primary focus.
+- **Epithelium**: The phrase "normal adjacent tissue" could imply epithelial tissue, as epithelium is often adjacent to tumors.
+- **Blood**: The term "peripheral blood" directly indicates the involvement of 'Blood.'
+### Context ###
+- The abstract discusses T cells in various contexts, including within tumors, adjacent normal tissue, and peripheral blood. This context supports the involvement of these tissues.
+- "Normal adjacent tissue" is a bit generic but is often epithelial in the context of tumors.
+### Conclusion ###
+Based on the clear references to "tumours," "normal adjacent tissue," and "peripheral blood," we can confidently conclude that the relevant tissues are 'Tumor,' 'Epithelium,' and 'Blood.'
+### Result ###
+['Tumor', 'Epithelium', 'Blood']

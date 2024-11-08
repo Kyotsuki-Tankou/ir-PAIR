@@ -1,0 +1,10 @@
+###Keywords###
+The abstract mentions "brain regions," "mouse hippocampus," "prefrontal cortex," and "cell types," indicating a focus on specific regions and cell types within the brain.
+###Verify###
+The terms "hippocampus" and "prefrontal cortex" are specific regions within the brain, which strongly suggest that 'Brain' is a relevant tissue.
+###Context###
+The abstract specifically discusses "single-cell investigation of differential isoform expression (DIE) between brain regions," which further emphasizes the focus on brain tissues. There is no mention of other tissues like skin, colon, or liver, reinforcing the focus on the brain.
+###Conclusion###
+Given the clear and repeated emphasis on brain regions and cell types within the brain, it is conclusive that 'Brain' is the appropriate tissue based on the provided schema and input.
+###Result###
+["Brain"]

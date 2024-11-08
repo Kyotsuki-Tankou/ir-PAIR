@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, we see "Drosophila development," "Stereo-seq," "gene regulatory networks," and "spatial transcriptomics." These suggest a focus on the development of Drosophila and the use of spatial transcriptomics technology, particularly Stereo-seq. The mention of "embryos and larvae" in the Abstract indicates a focus on developmental stages.
+### Verify ###
+The Abstract mentions "dissected the spatiotemporal transcriptomic changes of developing Drosophila with high resolution and sensitivity" and "3D reconstruction of the spatial transcriptomes of Drosophila embryos and larvae." This directly indicates that the tissues of interest are related to Drosophila development, specifically embryos and larvae.
+### Context ###
+Given the detailed focus on "embryonic and larval midguts" and "larval testis," it is clear that the study involves multiple tissues during the developmental stages of Drosophila. The terms "embryo" and "larva" are explicitly mentioned, which correspond to specific developmental stages.
+### Conclusion ###
+Based on the context and the specific mentions of "embryonic and larval" tissues, we can conclude that the relevant tissues are 'Embryo' and potentially 'Midgut' and 'Testis,' although 'Midgut' and 'Testis' are not directly listed in the schema.
+### Result ###
+['Embryo']

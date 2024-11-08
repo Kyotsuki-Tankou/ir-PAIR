@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "mouse brain" and "primary breast cancer" are mentioned, indicating that 'Mus musculus' (mouse) and potentially 'Homo sapiens' (human, implied by "primary breast cancer") might be relevant species.
+### Verify ###
+The abstract specifically mentions "mouse brain," which directly verifies 'Mus musculus' as a relevant species. The mention of "primary breast cancer" suggests human tissue, which verifies 'Homo sapiens'.
+### Context ###
+Given the detailed focus on "mouse brain" and the implication of human tissue in "primary breast cancer," there is no need for additional context to confirm the relevance of 'Mus musculus' and 'Homo sapiens'.
+### Conclusion ###
+Consequently, we confirm 'Mus musculus' and 'Homo sapiens' as the final results based on the clear and consistent focus on these species throughout the abstract.
+### Result ###
+['Mus musculus', 'Homo sapiens']

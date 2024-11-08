@@ -1,0 +1,13 @@
+### Keywords ###
+The keywords from the input that correspond to the schema are "single-cell RNA sequencing," "spatial transcriptomics," and "multiplexed ion beam imaging."
+### Verify ###
+The abstract mentions:
+- "combined single-cell RNA sequencing with spatial transcriptomics"
+- "multiplexed ion beam imaging from a series of human cSCCs"
+These statements verify that the technologies 'single-cell RNA sequencing,' 'spatial transcriptomics,' and 'multiplexed ion beam imaging' are indeed used in the study.
+### Context ###
+The abstract provides a clear context that the study utilizes these technologies to understand the cellular composition and architecture of cutaneous squamous cell carcinoma (cSCC).
+### Conclusion ###
+Since the keywords match the technologies mentioned in the abstract, we can conclude that 'single-cell RNA sequencing,' 'spatial transcriptomics,' and 'multiplexed ion beam imaging' are the appropriate results.
+### Result ###
+['single-cell RNA sequencing', 'spatial transcriptomics', 'multiplexed ion beam imaging']

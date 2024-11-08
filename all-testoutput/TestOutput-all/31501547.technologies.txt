@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "high-definition spatial transcriptomics" and "spatial transcriptomics" are explicitly mentioned, indicating that 'Spatial Transcriptomics' may be a proper result.
+### Verify ###
+The abstract states, "Here, we developed high-definition spatial transcriptomics, which captures RNA from histological tissue sections on a dense, spatially barcoded bead array," which directly verifies the use of 'Spatial Transcriptomics' technology, albeit in a high-definition form.
+### Context ###
+The term "high-definition spatial transcriptomics" is a specific variant of "spatial transcriptomics." Given that the schema includes "Spatial Transcriptomics" but not "high-definition spatial transcriptomics," it is reasonable to conclude that the general term 'Spatial Transcriptomics' encompasses the specific method described.
+### Conclusion ###
+Since the term 'Spatial Transcriptomics' is both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that 'Spatial Transcriptomics' is the appropriate technology used.
+### Result ###
+['Spatial Transcriptomics']

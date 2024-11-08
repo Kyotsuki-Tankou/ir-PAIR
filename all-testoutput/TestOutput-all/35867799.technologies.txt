@@ -1,0 +1,13 @@
+### Keywords ###
+From the abstract, the following technologies are mentioned:
+- "single-cell and spatial RNA sequencing"
+- "ultrahigh-resolution Seq-Scope analyses"
+### Verify ###
+- "single-cell and spatial RNA sequencing" suggests the use of technologies like 'scRNA', 'Spatial Transcriptomics', or similar.
+- "ultrahigh-resolution Seq-Scope analyses" directly mentions 'Seq-Scope'.
+### Context ###
+The abstract combines multiple technologies to study acne lesions, emphasizing both single-cell and spatial aspects of RNA sequencing, along with Seq-Scope for high-resolution analysis. This context supports the identification of the mentioned technologies.
+### Conclusion ###
+Based on the explicit mentions and the context provided, the technologies used in the study are 'scRNA', 'Spatial Transcriptomics', and 'Seq-Scope'.
+### Result ###
+['scRNA', 'Spatial Transcriptomics', 'Seq-Scope']

@@ -1,0 +1,12 @@
+###Keywords###
+The input abstract mentions "large scale single cell transcriptome analysis," which suggests the use of a technology that involves RNA sequencing at the single-cell level. This points towards 'scRNA' as a potential result from the schema.
+###Verify###
+The abstract explicitly states:
+- "by employing large scale single cell transcriptome analysis"
+This statement confirms the use of a technology that fits the description of 'scRNA' from the schema.
+###Context###
+No additional context is necessary as the keywords and verify steps both confirm the use of 'scRNA' technology.
+###Conclusion###
+Based on the explicit mention and the nature of the analysis described in the abstract, we can conclude that 'scRNA' is the correct result.
+###Result###
+['scRNA']

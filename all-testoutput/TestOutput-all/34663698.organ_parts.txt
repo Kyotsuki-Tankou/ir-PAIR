@@ -1,0 +1,16 @@
+### Keywords ###
+From the input, the keywords that stand out are "cranial suture," "developing cranium," and "skeletal innervation." These suggest that 'Cranial suture' and 'Bone' might be relevant organ parts.
+### Verify ###
+In the abstract, it is mentioned:
+- "cranial suture closure"
+- "developing cranium"
+- "skeletal innervation"
+- "bone morphogenetic protein (BMP)"
+- "suture mesenchyme"
+These phrases directly verify that 'Cranial suture' and 'Bone' are indeed relevant organ parts.
+### Context ###
+Since the abstract explicitly mentions "cranial suture" and discusses the development and innervation of the cranium and bone, there is no ambiguity or need for further context to verify these organ parts.
+### Conclusion ###
+Consequently, based on the explicit mention in the abstract, we choose 'Cranial suture' and 'Bone' as our final results.
+### Result ###
+['Cranial suture', 'Bone']

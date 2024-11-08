@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, keywords such as "Heart failure (HF)," "heart," "aptamer-based proteomics," "coronary sinus samples," and "transcriptomic tools" are prominent. These suggest a focus on the heart and related tissues.
+###Verify###
+The abstract mentions "Heart failure (HF)" and "heart transplantation," which directly indicate the focus on the heart. Additionally, "coronary sinus samples" are mentioned, which are specific to the heart.
+###Conclusion###
+Given the clear focus on the heart and related samples, the most appropriate match from the schema is "Heart."
+###Result###
+['Heart']

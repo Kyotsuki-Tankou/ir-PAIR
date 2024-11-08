@@ -1,0 +1,8 @@
+###Keywords###
+From the input, the keywords "Arabidopsis leaves" and "single-cell Stereo-seq" are prominent. The term "Arabidopsis" directly relates to a plant model, and "leaves" specifies the tissue type being studied.
+###Verify###
+The abstract mentions "Arabidopsis leaves" as the primary focus of the study, where the technique "scStereo-seq" is applied to characterize cell subtypes within the leaves. This directly verifies the relevance of "Plant part" from the schema.
+###Conclusion###
+Based on the keywords and verification, the study is explicitly focused on plant leaves, specifically those of Arabidopsis. Therefore, "Plant part" is a fitting result.
+###Result###
+['Plant part']

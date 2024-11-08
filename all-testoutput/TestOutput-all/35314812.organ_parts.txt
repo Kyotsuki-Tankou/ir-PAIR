@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, the terms "mouse brain," "kidney," and "ductal carcinoma in situ tissues" are explicitly mentioned, indicating that 'Brain,' 'Kidney,' and 'Ductal carcinoma in situ' may be proper results.
+### Verify ###
+1. **Mouse Brain**: The abstract mentions "existing mouse brain datasets" and "detect topological patterns of different cell types and cell states in mouse brain," which verifies that 'Brain' is a relevant result.
+2. **Kidney**: The abstract also mentions "existing kidney datasets" and the application of CellTrek to these datasets, confirming that 'Kidney' is a relevant result.
+3. **Ductal Carcinoma in Situ**: The abstract discusses performing experiments on "two ductal carcinoma in situ tissues" and identifying "tumor subclones that were restricted to different ducts," which verifies that 'Ductal carcinoma in situ' is a relevant result.
+### Context ###
+Not required in this case as the verification directly supports the keywords.
+### Conclusion ###
+Consequently, we confirm 'Brain,' 'Kidney,' and 'Ductal carcinoma in situ' as our final results based on the clear and consistent information provided in both the keywords and the abstract.
+### Result ###
+['Brain', 'Kidney', 'Ductal carcinoma in situ']

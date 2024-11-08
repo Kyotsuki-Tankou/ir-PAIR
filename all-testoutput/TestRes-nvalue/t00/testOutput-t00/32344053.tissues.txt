@@ -1,0 +1,43 @@
+### Keywords ###
+- Atopic dermatitis
+- Skin
+- Immune cells
+- Epidermal cells
+- Interstitial fluid
+- Biopsy
+- Suction blistering
+- Single-cell RNA sequencing
+- Transcriptomic
+- Proteomic
+- Inflammatory pathways
+- Cytokines
+- Myeloid cells
+- Dendritic cells
+- Macrophages
+### Verify ###
+- **Skin**: Mentioned as the primary tissue of interest.
+- **Immune cells**: Mentioned in the context of cells captured by suction blistering and biopsies.
+- **Epidermal cells**: Mentioned in the context of cells captured by suction blistering.
+- **Interstitial fluid**: Mentioned as a component sampled by suction blistering.
+- **Biopsy**: Mentioned as a conventional method compared to suction blistering.
+- **Suction blistering**: Highlighted as a method used for sampling.
+- **Single-cell RNA sequencing**: Mentioned as a technique used for analysis.
+- **Transcriptomic**: Mentioned in the context of characterizing AD.
+- **Proteomic**: Mentioned in the context of characterizing AD.
+- **Inflammatory pathways**: Mentioned in the context of transcriptional profiles.
+- **Cytokines**: Mentioned specifically (IL13, IL22, IL26).
+- **Myeloid cells**: Mentioned as most strongly enriched in AD.
+- **Dendritic cells**: Mentioned in the context of top upregulated proteins.
+- **Macrophages**: Mentioned in the context of top upregulated proteins.
+### Context ###
+- The study focuses on atopic dermatitis (AD), a skin disease.
+- Methods include suction blistering and conventional biopsies.
+- Analyses involve both transcriptomic (single-cell RNA sequencing) and proteomic (Olink proteomics) approaches.
+- Key findings include differences in cell capture between methods and specific upregulation of cytokines and proteins in AD.
+### Conclusion ###
+- The study primarily involves **Skin** as the tissue of interest.
+- Other relevant tissues/cells include **Immune cells**, **Epidermal cells**, **Myeloid cells**, **Dendritic cells**, and **Macrophages**.
+### Result ###
+```json
+["Skin", "Immune cells", "Epidermal cells", "Myeloid cells", "Dendritic cells", "Macrophages"]
+```

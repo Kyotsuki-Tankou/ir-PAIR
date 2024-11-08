@@ -1,0 +1,295 @@
+-----31230715.txt-----
+ERROR in  31230715.txt type= species
+lastword=- ["Homo sapiens"]
+ans:["Homo sapiens"]
+-----------
+-----31230715.txt-----
+ERROR in  31230715.txt type= tissues
+lastword=- ['Nuclear', 'Mitochondria']
+ans:null
+-----------
+-----31230715.txt-----
+ERROR in  31230715.txt type= technologies
+lastword=- ['APEX-seq', 'RNA-seq', 'Spatial Transcriptomics']
+ans:["APEX-seq"]
+-----------
+-----31391582.txt-----
+ERROR in  31391582.txt type= species
+lastword=- ["Mus musculus"]
+ans:["Mus musculus"]
+-----------
+-----31391582.txt-----
+ERROR in  31391582.txt type= tissues
+lastword=- ['Embryo', 'Germ layers', 'Epiblast', 'Endoderm', 'Visceral endoderm']
+ans:["Embryo"]
+-----------
+-----31442426.txt-----
+ERROR in  31442426.txt type= tissues
+lastword=- **null** (No specific tissues mentioned in the input text corresponding to the schema.)
+ans:["Stress granules"]
+-----------
+-----31442426.txt-----
+ERROR in  31442426.txt type= organ_parts
+lastword=The abstract does not mention any specific organ parts from the provided schema. Therefore, the extracted list for `organ_parts` is empty, and we return 'null'.
+ans:null
+-----------
+-----31501547.txt-----
+ERROR in  31501547.txt type= organ_parts
+lastword=```
+ans:null
+-----------
+-----31831833.txt-----
+ERROR in  31831833.txt type= species
+lastword=- ['Homo sapiens']
+ans:["Homo sapiens"]
+-----------
+-----31831833.txt-----
+ERROR in  31831833.txt type= organ_parts
+lastword=- **['Synovial tissue']**
+ans:["Synovial tissue"]
+-----------
+-----31831833.txt-----
+ERROR in  31831833.txt type= technologies
+lastword=- ['Spatial Transcriptomics']
+ans:["Spatial Transcriptomics"]
+-----------
+-----31831833.txt-----
+ERROR in  31831833.txt type= disease
+lastword=- ['Rheumatoid arthritis (RA)', 'Spondyloarthritis (SpA)', 'Chronic Inflammatory Disease']
+ans:["Rheumatoid arthritis (RA) and Spondyloarthritis (SpA)"]
+-----------
+-----31835037.txt-----
+ERROR in  31835037.txt type= species
+lastword=- ["Homo sapiens"]
+ans:["Homo sapiens"]
+-----------
+-----31835037.txt-----
+ERROR in  31835037.txt type= organ_parts
+lastword=- ['Heart', 'Embryo', 'Human cell lines', 'Transmural cross-section of the heart', 'Mouse ventricle', 'Myocardium', 'Coronal brain section', 'Liver tissue', 'Skeletal muscle (quadriceps)', 'Lung organoid', 'Kidney organoid', 'Colon', 'Cortex']
+ans:["Heart"]
+-----------
+-----31862877.txt-----
+ERROR in  31862877.txt type= species
+lastword=- ['Homo sapiens']
+ans:["Homo sapiens"]
+-----------
+-----31862877.txt-----
+ERROR in  31862877.txt type= organ_parts
+lastword=```
+ans:null
+-----------
+-----31932730.txt-----
+ERROR in  31932730.txt type= species
+lastword=- ['Homo sapiens'] (based on inference from context)
+ans:["Homo sapiens"]
+-----------
+-----31932730.txt-----
+ERROR in  31932730.txt type= tissues
+lastword=- ["Pancreas"]
+ans:["Pancreas"]
+-----------
+-----31932730.txt-----
+ERROR in  31932730.txt type= disease
+lastword=- ["Pancreatic cancer"]
+ans:["Pancreatic cancer"]
+-----------
+-----32066983.txt-----
+ERROR in  32066983.txt type= species
+lastword=- ["Mus musculus"]
+ans:["Mus musculus"]
+-----------
+-----32066983.txt-----
+ERROR in  32066983.txt type= technologies
+lastword=- ['scRNA', 'RNA-seq']
+ans:["Geo-seq"]
+-----------
+-----32076263.txt-----
+ERROR in  32076263.txt type= species
+lastword=- ["Mus musculus"]
+ans:["Homo sapiens", "Mus musculus"]
+-----------
+-----32076263.txt-----
+ERROR in  32076263.txt type= tissues
+lastword=- ['Embryo', 'Gastrula', 'Bone marrow', 'Cell line']
+ans:["Gastrula"]
+-----------
+-----32097654.txt-----
+ERROR in  32097654.txt type= species
+lastword=- ["Mus musculus"]
+ans:["Mus musculus"]
+-----------
+-----32097654.txt-----
+ERROR in  32097654.txt type= tissues
+lastword=- ['Blastema', 'Digit tip', 'Fibroblast', 'Bone marrow', 'Cell line']
+ans:["Blastema"]
+-----------
+-----32097654.txt-----
+ERROR in  32097654.txt type= organ_parts
+lastword=- ['Mouse digit tip blastemas', 'Unamputated control digit tips', 'Fibroblasts', 'Mest']
+ans:null
+-----------
+-----32097654.txt-----
+ERROR in  32097654.txt type= technologies
+lastword=- ["single-cell RNA-seq"]
+ans:["scRNA"]
+-----------
+-----32097654.txt-----
+ERROR in  32097654.txt type= disease
+lastword=- ['Digit Regeneration', 'Tissue repair']
+ans:["Digit Regeneration"]
+-----------
+-----32103181.txt-----
+ERROR in  32103181.txt type= species
+lastword=- ["Homo sapiens"]
+ans:["Homo sapiens"]
+-----------
+-----32103181.txt-----
+ERROR in  32103181.txt type= organ_parts
+lastword=- ['Tumour', 'Normal adjacent tissue', 'Peripheral blood']
+ans:null
+-----------
+-----32103181.txt-----
+ERROR in  32103181.txt type= technologies
+lastword=- ['RNA-seq', 'scRNA']
+ans:["scRNA"]
+-----------
+-----32103181.txt-----
+ERROR in  32103181.txt type= disease
+lastword=- ['Cancer', 'Tumor metastasis', 'T cell depletion', 'Cancer immunity cycle', 'Anti-PDL1 therapy', 'Intratumoural T cells', 'Peripheral blood', 'Normal adjacent tissue', 'Clonotypic expansion', 'Effector-like T cells']
+ans:["Kidney cancer"]
+-----------
+-----32214235.txt-----
+ERROR in  32214235.txt type= organ_parts
+lastword=- ['Human cell lines', 'Mouse Embryo', 'Embryo', 'Mouse aorta', 'Mouse atrium', 'Mouse ventricle', 'Postmortem brain', 'Liver tissue', 'Myocardium', 'Ileum', 'Femur', 'Hindpaw', 'Brain', 'Right atrial appendage (RAA)', 'Microglia', 'Medulla', 'Whole Mouse Bladder', 'Oral mucosa', 'Heart', 'Coronal Brain', 'Lumbar spinal cord (L3/L4)', 'Lumbar spinal cord (L5/S1)', 'Kidney-resident macrophages (KRMs)', 'Cervical cancer', 'Human cortex', 'Cortex', 'Skeletal Muscle', 'Skin irAE']
+ans:[""]
+-----------
+-----32214235.txt-----
+ERROR in  32214235.txt type= technologies
+lastword=- ["RNA-seq"]
+ans:["scRNA"]
+-----------
+-----32286228.txt-----
+ERROR in  32286228.txt type= species
+lastword=- ["Mus musculus"]
+ans:["Mus musculus"]
+-----------
+-----32286228.txt-----
+ERROR in  32286228.txt type= organ_parts
+lastword=- ["Bone marrow"]
+ans:null
+-----------
+-----32344053.txt-----
+ERROR in  32344053.txt type= species
+lastword=- ["Homo sapiens"]
+ans:["Homo sapiens"]
+-----------
+-----32344053.txt-----
+ERROR in  32344053.txt type= tissues
+lastword=```
+ans:["Skin"]
+-----------
+-----32344053.txt-----
+ERROR in  32344053.txt type= organ_parts
+lastword=- **['Skin', 'Atopic dermatitis lesional skin']**
+ans:null
+-----------
+-----32344053.txt-----
+ERROR in  32344053.txt type= technologies
+lastword=```
+ans:["scRNA"]
+-----------
+-----32344053.txt-----
+ERROR in  32344053.txt type= disease
+lastword=- ['Atopic dermatitis', 'Single-cell RNA sequencing', 'Suction blistering', 'Transcriptomic', 'Proteomic', 'Inflammatory pathways', 'IL13', 'IL22', 'Myeloid cells', 'Dendritic cell', 'Macrophage']
+ans:["Atopic dermatitis"]
+-----------
+-----32457985.txt-----
+ERROR in  32457985.txt type= technologies
+lastword=```
+ans:["Tomo-seq"]
+-----------
+-----32579974.txt-----
+ERROR in  32579974.txt type= species
+lastword=- ["Homo sapiens"]
+ans:["Homo sapiens"]
+-----------
+-----32579974.txt-----
+ERROR in  32579974.txt type= organ_parts
+lastword=- ['Skin', 'Squamous Cell Carcinoma', 'Cutaneous squamous cell carcinoma (cSCC)']
+ans:null
+-----------
+-----32579974.txt-----
+ERROR in  32579974.txt type= disease
+lastword=- ["Squamous cell carcinoma", "Skin cancer"]
+ans:["Squamous cell carcinoma"]
+-----------
+-----32637622.txt-----
+ERROR in  32637622.txt type= species
+lastword=- ["Mus musculus"]
+ans:["Mus musculus"]
+-----------
+-----32637622.txt-----
+ERROR in  32637622.txt type= technologies
+lastword=- ["Spatial Transcriptomics"]
+ans:["Spatial Transcriptomics"]
+-----------
+-----32637622.txt-----
+ERROR in  32637622.txt type= disease
+lastword=- ['Brain development', 'Brain Cortex', 'Brain Hippocampus', 'Brain Cortex Olfactory bulb', 'Brain Hypothalamus', 'Neuron regeneration', 'Spin cord development', 'Brain metastases cancer', 'Brain injury', 'Secondary Brain Injury', 'Injured brain', 'Schizophrenia and Autism spectrum disorder', 'Zika virus', 'CNS lymphoma', 'Seizure epileptic brain', 'Embryonic brain', 'Brain Cortex Olfactory bulb', 'Brain Cortex', 'Brain Hippocampus', 'Brain Hypothalamus', 'Brain development', 'Brain metastases cancer', 'Brain injury', 'Secondary Brain Injury', 'Injured brain', 'Schizophrenia and Autism spectrum disorder', 'Zika virus', 'CNS lymphoma', 'Seizure epileptic brain', 'Embryonic brain']
+ans:["Normal atlas"]
+-----------
+-----32702314.txt-----
+ERROR in  32702314.txt type= tissues
+lastword=- ['Brain']
+ans:["Brain"]
+-----------
+-----32702314.txt-----
+ERROR in  32702314.txt type= technologies
+lastword=```
+ans:["Spatial Transcriptomics"]
+-----------
+-----32702314.txt-----
+ERROR in  32702314.txt type= disease
+lastword=- ["Alzheimer’s disease", "amyloid plaque", "astrocyte", "microglia", "oligodendrocyte", "myelination", "complement cascade"]
+ans:["Alzheimer disease"]
+-----------
+-----32946788.txt-----
+ERROR in  32946788.txt type= species
+lastword=The extracted item corresponding to the schema is 'Homo sapiens' as it is the species under study in the context provided. Other species mentioned in the keywords are not directly studied but used as references for model organisms.
+ans:["Homo sapiens"]
+-----------
+-----32946788.txt-----
+ERROR in  32946788.txt type= organ_parts
+lastword=- ['Embryo', 'AGM region', 'HSC', 'Endothelin', 'Single cell transcriptome', 'Spatial transcriptome']
+ans:null
+-----------
+-----32946788.txt-----
+ERROR in  32946788.txt type= technologies
+lastword=```
+ans:["LCM-seq"]
+-----------
+-----32946788.txt-----
+ERROR in  32946788.txt type= disease
+lastword=The extracted keywords do not directly correspond to any diseases listed in the schema, so the result is an empty list, represented as 'null'.
+ans:["Embryo development"]
+-----------
+-----31501547.txt-----
+ERROR in  31501547.txt type= disease
+lastword=```
+ans:["Brain Cortex"]
+-----------
+-----32076263.txt-----
+ERROR in  32076263.txt type= species
+lastword=Mus musculus
+ans:["Homo sapiens", "Mus musculus"]
+-----------
+-----32579974.txt-----
+ERROR in  32579974.txt type= tissues
+lastword=Ski
+ans:["Skin"]
+-----------
+-----32702314.txt-----
+ERROR in  32702314.txt type= technologies
+lastword=(Note: "seqFISH" and "seqFISH+" are included as they are specific forms of in situ sequencing that might be relevant, though the exact match for "in situ sequencing" is not directly listed in the schema.)
+ans:["Spatial Transcriptomics"]
+-----------

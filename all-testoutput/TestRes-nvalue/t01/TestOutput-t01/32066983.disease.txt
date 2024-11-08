@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "mouse SCN" and "mouse SCN at single-cell resolution" indicate the species involved, which is 'Mus musculus'. Additionally, the context revolves around the "suprachiasmatic nucleus (SCN)" and its role in circadian behaviors, which suggests a focus on brain function and development.
+### Verify ###
+The abstract mentions "mouse SCN" and "mouse SCN at single-cell resolution," which clearly verifies that the species being studied is 'Mus musculus'. The study focuses on the SCN, which is part of the brain, specifically the ventral hypothalamus, indicating a focus on brain function and development.
+### Context ###
+The abstract does not explicitly mention any diseases but focuses on the identification and characterization of cell types in the SCN, their circadian and light-induced gene expression patterns, and the creation of a standardized SCN atlas. This context suggests a focus on normal brain function and development rather than any specific disease.
+### Conclusion ###
+Since the keywords and the context in the abstract both confirm the species 'Mus musculus' and suggest a focus on normal brain function and development, we can conclude that 'Normal' is the most relevant term from the disease schema.
+### Result ###
+['Mus musculus', 'Normal']

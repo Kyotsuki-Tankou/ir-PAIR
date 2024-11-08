@@ -1,0 +1,8 @@
+### Keywords
+The abstract mentions "single-cell mRNA sequencing," "human organs," and "human cell landscape (HCL)," which are key terms related to the technologies used in the study. From these terms, "RNA-seq" stands out as a technology used for sequencing.
+### Verify
+The abstract directly states that "single-cell mRNA sequencing" was used to determine the cell-type composition, which aligns with the "RNA-seq" technology mentioned in the schema.
+### Conclusion
+Given that "RNA-seq" is explicitly mentioned as the technology used for single-cell mRNA sequencing in the abstract, we can confidently conclude that "RNA-seq" is the correct result.
+### Result
+['RNA-seq']

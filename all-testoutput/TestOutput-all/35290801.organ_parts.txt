@@ -1,0 +1,13 @@
+### Keywords ###
+From the Keywords, we see "lung cancer" which directly suggests a specific organ part related to the lungs. Additionally, the Abstract mentions "mouse model of lung cancer," indicating the organ part involved is related to lung tissue.
+### Verify ###
+In the Abstract, it is stated that "we applied Perturb-map to knock out dozens of genes in parallel in a mouse model of lung cancer." This confirms that the study is focused on lung tissue, specifically in the context of cancer.
+### Context ###
+Given the explicit mention of "lung cancer" and the use of a "mouse model of lung cancer," the context strongly supports the involvement of lung tissue. The study's focus on tumor growth, histopathology, and immune composition further reinforces this.
+### Conclusion ###
+Based on the direct mentions and the contextual clues, it is clear that the organ part involved in this study is related to lung tissue, specifically in the context of cancer.
+### Result ###
+["Lung organoid", "Upper pulmonary branches", "Primary PDAC tumor", "Postmortem Lung", "Lung"] 
+Given the specific context of lung cancer and the mention of a mouse model, the most precise match from the schema would be "Lung." 
+### Final Result ###
+["Lung"]

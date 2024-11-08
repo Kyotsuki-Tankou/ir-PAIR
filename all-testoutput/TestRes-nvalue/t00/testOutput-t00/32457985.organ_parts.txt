@@ -1,0 +1,13 @@
+### Keywords ###
+- **Organ Parts**: 'aortic microenvironment', 'hematopoietic stem cells', 'zebrafish', 'chicken', 'mouse', 'human embryos'
+### Verify ###
+- **Organ Parts**: 
+  - 'aortic microenvironment' -> **Closest Match**: 'Mouse aorta'
+  - 'hematopoietic stem cells' -> **Closest Match**: 'IPS cells' (as they can differentiate into various cell types including hematopoietic cells)
+  - 'zebrafish', 'chicken', 'mouse', 'human embryos' -> **Closest Match**: 'Embryo'
+### Context ###
+- The context involves the study of the aortic microenvironment in various embryos (zebrafish, chicken, mouse, human) to understand the regulation of hematopoietic stem cell generation. This suggests a focus on embryonic structures and specific microenvironments related to blood cell formation.
+### Conclusion ###
+- Based on the context and the closest matches, the relevant organ parts are 'Mouse aorta', 'IPS cells', and 'Embryo'.
+### Result ###
+['Mouse aorta', 'IPS cells', 'Embryo']

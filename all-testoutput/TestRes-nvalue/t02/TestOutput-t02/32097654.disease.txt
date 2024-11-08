@@ -1,0 +1,14 @@
+###Keywords###
+From the input, the terms "digit tip regeneration," "blastema," "fibroblast heterogeneity," and "single-cell RNA-seq" are prominent. These suggest a focus on regeneration processes, particularly in the context of digit tips.
+###Verify###
+The abstract mentions:
+- "Innate regeneration following digit tip amputation"
+- "Digit tip regeneration is mediated by the blastema"
+- "single-cell RNA sequencing of over 38,000 cells from mouse digit tip blastemas"
+These statements verify that the study is centered around "Digit Regeneration."
+###Context###
+While the abstract does not explicitly mention any specific disease, it focuses on the regeneration process of digit tips, which aligns with the concept of "Digit Regeneration" rather than any specific disease listed in the schema.
+###Conclusion###
+Given the clear focus on the regeneration of digit tips and the use of single-cell RNA sequencing to study this process, "Digit Regeneration" is the most appropriate match from the provided schema.
+###Result###
+["Digit Regeneration"]

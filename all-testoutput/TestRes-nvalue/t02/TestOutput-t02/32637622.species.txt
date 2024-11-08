@@ -1,0 +1,11 @@
+### Keywords ###
+From the abstract, the term "adult mouse brain" is explicitly mentioned, which directly corresponds to a species in the schema.
+### Verify ###
+- The term "adult mouse brain" clearly indicates the species involved is 'Mus musculus'.
+### Context ###
+- The abstract focuses on generating a systematic classification of the adult mouse brain using spatial transcriptomics.
+- The study aims to deduce the neuroanatomical organization of the brain, which is specific to 'Mus musculus'.
+### Conclusion ###
+Given the explicit mention and focus on the adult mouse brain, it is clear that 'Mus musculus' is the relevant species to extract.
+### Result ###
+['Mus musculus']

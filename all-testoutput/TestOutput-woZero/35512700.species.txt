@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the term "Drosophila" is explicitly mentioned multiple times, indicating that 'Drosophila melanogaster' may be a proper result.
+### Verify ###
+The abstract states, "Drosophila has long been a successful model organism in multiple biomedical fields," which directly verifies that 'Drosophila melanogaster' is indeed the species being studied.
+### Conclusion ###
+Consequently, we confirm 'Drosophila melanogaster' as our final result.
+### Result ###
+['Drosophila melanogaster']

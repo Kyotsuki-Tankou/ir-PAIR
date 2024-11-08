@@ -1,0 +1,10 @@
+###Keywords###
+The abstract mentions "deep single-cell sequencing of RNA and T cell receptors in patients with different types of cancer," which suggests that 'Homo sapiens' (as the study is conducted on patients) may be the proper result.
+###Verify###
+The phrases "patients with different types of cancer" and "peripheral blood" in the abstract confirm that the study is focused on human subjects, reinforcing the identification of 'Homo sapiens'.
+###Context###
+There is no need for additional context as the verification directly supports the keyword.
+###Conclusion###
+Since the keywords and the context in the abstract both point to 'Homo sapiens', we can confidently conclude that 'Homo sapiens' is the correct species involved in this study.
+###Result###
+['Homo sapiens']

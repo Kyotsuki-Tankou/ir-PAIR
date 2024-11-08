@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, "stress granules" is mentioned, which directly corresponds to one of the items in the schema. The Abstract also discusses "stress granules" in the context of RNA localization and proximity labeling.
+### Verify ###
+The Abstract explicitly mentions "stress granules" and describes a method (APEX-seq) to map the RNA composition within these structures. This verifies that 'Stress granules' is indeed a relevant item from the schema.
+### Context ###
+The context of the study is clearly focused on the spatial organization and composition of RNAs within stress granules. There is no ambiguity or need for additional context to confirm the relevance of 'Stress granules'.
+### Conclusion ###
+Based on the clear and consistent mention of 'stress granules' in both the Abstract and Keywords, we confirm 'Stress granules' as the appropriate item to extract.
+### Result ###
+['Stress granules']

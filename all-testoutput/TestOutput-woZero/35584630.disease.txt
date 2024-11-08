@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "brain metastases" and "metastatic disease in the brain" are explicitly mentioned, indicating that 'Brain metastases cancer' may be a proper result.
+### Verify ###
+The abstract states, "Metastatic disease in the brain is difficult to control and predicts poor prognosis. Here, we analyze human brain metastases," which directly verifies that 'Brain metastases cancer' is indeed a relevant disease in the context of the study.
+### Context ###
+Since the verification step directly confirms the presence of 'Brain metastases cancer' in the abstract, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Consequently, we choose 'Brain metastases cancer' as our final result.
+### Result ###
+['Brain metastases cancer']

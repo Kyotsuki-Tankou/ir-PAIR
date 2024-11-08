@@ -1,0 +1,11 @@
+### Keywords ###
+From the abstract, the keyword "mouse tumor model" suggests the species "Mus musculus."
+### Verify ###
+- The abstract explicitly mentions "mouse tumor model," which directly indicates the use of "Mus musculus."
+### Context ###
+- The study involves "infected lymph nodes" and a "mouse tumor model," both of which are clearly associated with mice.
+- The development and application of DestVI are demonstrated using these mouse models, reinforcing the focus on "Mus musculus."
+### Conclusion ###
+The explicit mention of "mouse tumor model" and the context of the study strongly confirm that "Mus musculus" is the relevant species.
+### Result ###
+['Mus musculus']

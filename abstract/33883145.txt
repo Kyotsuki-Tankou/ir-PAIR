@@ -1,0 +1,6 @@
+["Homo sapiens", "Mus musculus"]
+["Liver"]
+null
+["XYZeq"]
+["Liver cancer"]
+ Abstract\nSingle-cell RNA sequencing (scRNA-seq) of tissues has revealed remarkable heterogeneity of cell types and states but does not provide information on the spatial organization of cells. To better understand how individual cells function within an anatomical space, we developed XYZeq, a workflow that encodes spatial metadata into scRNA-seq libraries. We used XYZeq to profile mouse tumor models to capture spatially barcoded transcriptomes from tens of thousands of cells. Analyses of these data revealed the spatial distribution of distinct cell types and a cell migration-associated transcriptomic program in tumor-associated mesenchymal stem cells (MSCs). Furthermore, we identify localized expression of tumor suppressor genes by MSCs that vary with proximity to the tumor core. We demonstrate that XYZeq can be used to map the transcriptome and spatial localization of individual cells in situ to reveal how cell composition and cell states can be affected by location within complex pathological tissue.

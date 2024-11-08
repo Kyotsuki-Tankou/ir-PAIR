@@ -1,0 +1,10 @@
+### Keywords ###
+From the "Keywords," "skin cancer" and "squamous cell carcinoma" suggest a focus on skin-related conditions. "Normal skin" is also mentioned in the context of the study, indicating that 'Skin' may be a proper result.
+### Verify ###
+The Abstract mentions "we combined single-cell RNA sequencing with spatial transcriptomics and multiplexed ion beam imaging from a series of human cSCCs and matched normal skin," which directly verifies that 'Skin' is indeed the tissue of focus in this study.
+### Context ###
+Since the Abstract and Keywords both clearly point to 'Skin' as the primary tissue of interest, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm 'Skin' as our final result based on the clear and consistent information provided in both the Abstract and Keywords.
+### Result ###
+['Skin']

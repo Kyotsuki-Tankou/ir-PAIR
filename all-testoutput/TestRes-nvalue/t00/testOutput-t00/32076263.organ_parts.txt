@@ -1,0 +1,40 @@
+### Keywords ###
+- Gastruloids
+- Embryonic stem cells
+- Germ-layer specification
+- Axial organization
+- Single-cell RNA sequencing
+- Spatial transcriptomics
+- Embryonic cell types
+- Somitogenesis
+- Live imaging
+- FGF signalling
+- Short-tail phenotype
+- Matrigel
+- Somites
+- Rostral-caudal patterning
+- Anterior-to-posterior direction
+- High-throughput
+### Verify ###
+- Gastruloids: Mentioned
+- Embryonic stem cells: Mentioned
+- Germ-layer specification: Mentioned
+- Axial organization: Mentioned
+- Single-cell RNA sequencing: Mentioned
+- Spatial transcriptomics: Mentioned
+- Embryonic cell types: Mentioned
+- Somitogenesis: Mentioned
+- Live imaging: Mentioned
+- FGF signalling: Mentioned
+- Short-tail phenotype: Mentioned
+- Matrigel: Mentioned
+- Somites: Mentioned
+- Rostral-caudal patterning: Mentioned
+- Anterior-to-posterior direction: Mentioned
+- High-throughput: Mentioned
+### Context ###
+The paper discusses the use of gastruloids, which are three-dimensional aggregates of embryonic stem cells, to study mammalian development. It compares mouse gastruloids with mouse embryos using advanced techniques like single-cell RNA sequencing and spatial transcriptomics. The study identifies various embryonic cell types in gastruloids and shows similarities in the expression of key regulators of somitogenesis. Live imaging demonstrates the activity of the somitogenesis clock in gastruloids. The paper also explores the effects of reduced FGF signalling and the role of Matrigel in inducing correct somite patterning.
+### Conclusion ###
+The paper primarily focuses on the comparison between mouse gastruloids and mouse embryos, particularly in the context of embryonic development and somitogenesis. It does not directly mention any specific organ parts from the provided schema.
+### Result ###
+null

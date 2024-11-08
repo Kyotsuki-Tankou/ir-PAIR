@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "human diabetic skin," "human microvascular endothelial cells," and "diabetic mice." This suggests that the primary species of interest is 'Homo sapiens,' with some experimental work involving 'Mus musculus' (mice).
+### Verify ###
+The study primarily focuses on "human diabetic skin" and "human microvascular endothelial cells," indicating that 'Homo sapiens' is the main species. Additionally, the mention of "diabetic mice" (type 1 and type 2 diabetic models) indicates the involvement of 'Mus musculus' in the experimental setup.
+### Context ###
+The detailed focus on human skin and endothelial cells, along with the specific mention of diabetic mice for experimental validation, provides clear context that both 'Homo sapiens' and 'Mus musculus' are relevant species in this study.
+### Conclusion ###
+Based on the keywords, verification, and contextual clues, we confirm that both 'Homo sapiens' and 'Mus musculus' are appropriate species to be included in the result.
+### Result ###
+['Homo sapiens', 'Mus musculus']

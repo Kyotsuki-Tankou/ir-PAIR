@@ -1,0 +1,16 @@
+###schema###
+tissues:['Skin', 'Brain', 'Colon', 'Eymbro', 'Cortex', 'Gastrula', 'Bone', 'Embryo', 'Ileum', 'Spinal cord', 'Gland', 'Lymph', 'Liver', 'Basal cell', 'Plant part', 'Muscle', 'Thymus', 'Cervical', 'Leaf', 'Uterus', 'Skeleton', 'Bladder', 'Spleen', 'Epithelium', 'Lacrimal Gland', 'Lung', 'Overian', 'Bone marrow', 'Stress granules', 'Kidney', 'Neuron', 'Cerebella', 'Pancreas', 'Flower', 'Cell line', 'Pituitary', 'Blood vessel', 'Stomach', 'Blastema', 'Legs', 'Intestine', 'Head Neck', 'Blood', 'Breast', 'Prostate', 'Dorsal aorta', 'Synovial', 'Eye', 'Heart', 'Mucosa', 'Ovarian', 'Tumor', 'Ear'],
+###input###
+ Abstract
+Tumor-infiltrating myeloid cells (TIMs) comprise monocytes, macrophages, dendritic cells, and neutrophils, and have emerged as key regulators of cancer growth. These cells can diversify into a spectrum of states, which might promote or limit tumor outgrowth but remain poorly understood. Here, we used single-cell RNA sequencing (scRNA-seq) to map TIMs in non-small-cell lung cancer patients. We uncovered 25 TIM states, most of which were reproducibly found across patients. To facilitate translational research of these populations, we also profiled TIMs in mice. In comparing TIMs across species, we identified a near-complete congruence of population structures among dendritic cells and monocytes; conserved neutrophil subsets; and species differences among macrophages. By contrast, myeloid cell population structures in patients' blood showed limited overlap with those of TIMs. This study determines the lung TIM landscape and sets the stage for future investigations into the potential of TIMs as immunotherapy targets. 
+ Keywords:dendritic cell heterogeneity; macrophage heterogeneity; mouse-human comparison; myeloid cells; neutrophil heterogeneity; single-cell analysis; tumor immunology; tumor microenvironment.Let's think step by step.
+### Keywords ###
+From the Keywords, "tumor immunology" and "tumor microenvironment" suggest a focus on cancer-related tissues. "Lung" is specifically mentioned in the context of "non-small-cell lung cancer patients," indicating that 'Lung' may be a proper result.
+### Verify ###
+From the Abstract, "we used single-cell RNA sequencing (scRNA-seq) to map TIMs in non-small-cell lung cancer patients" directly verifies that 'Lung' is indeed the tissue of focus in this study.
+### Context ###
+Since the Abstract and Keywords both clearly point to 'Lung' as the primary tissue of interest, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm 'Lung' as our final result based on the clear and consistent information provided in both the Abstract and Keywords.
+### Result ###
+['Lung']

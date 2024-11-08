@@ -1,0 +1,10 @@
+###Keywords###
+From the Abstract, terms like "aptamer-based proteomics," "transcriptomic tools," and "systematic characterization of circulating proteins" suggest the use of specific technologies for protein and gene expression analysis. However, none of these terms directly match the technologies listed in the schema.
+###Verify###
+The Abstract mentions "aptamer-based proteomics" and "transcriptomic tools," but these terms do not directly correspond to any of the technologies listed in the schema such as 'CITE-seq', 'RNA-seq', 'STARmap', etc. 
+###Context###
+Given the mention of "transcriptomic tools," it is possible that RNA sequencing technologies were used, as RNA-seq is a common transcriptomic tool. However, the specific technology names from the schema are not explicitly mentioned.
+###Conclusion###
+Based on the context, it is reasonable to infer that some form of RNA sequencing technology might have been used, but without explicit mention, we cannot definitively conclude which specific technology from the schema was employed.
+###Result###
+null

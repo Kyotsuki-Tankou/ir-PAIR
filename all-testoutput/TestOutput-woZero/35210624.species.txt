@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the focus is on the "mouse brain" and "mouse hippocampal neuroepithelium," indicating that 'Mus musculus' may be the proper result.
+### Verify ###
+The Abstract specifically mentions "in the mouse brain using single-cell and spatial transcriptomics" and "mouse hippocampal neuroepithelium," which directly verifies that 'Mus musculus' is indeed the species of focus in this study.
+### Context ###
+Since the Abstract clearly points to 'Mus musculus' as the primary species of interest, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm 'Mus musculus' as our final result based on the clear and consistent information provided in the Abstract.
+### Result ###
+['Mus musculus']

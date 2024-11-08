@@ -1,0 +1,8 @@
+###Keywords###
+From the input, the terms "spatial transcriptomics," "single-cell RNA profile," and "molecular atlas" suggest that a technology related to spatial transcriptomics is used in the study. The keyword here is "Spatial Transcriptomics."
+###Verify###
+The abstract mentions "whole-brain spatial transcriptomics" and "molecular information," which implies the use of a spatial transcriptomics technology.
+###Conclusion###
+Given the explicit mention of "spatial transcriptomics," we can confidently conclude that 'Spatial Transcriptomics' is the technology used in the study.
+###Result###
+['Spatial Transcriptomics']

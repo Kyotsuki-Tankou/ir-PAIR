@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, we have terms like "Hemopexin," "Intracerebral hemorrhage," and "Secondary brain injury." These terms suggest a focus on the brain and specific conditions related to brain injury and therapeutic interventions.
+### Verify ###
+The Abstract mentions "stereotactically injected saline, heme, or heme‒hemopexin into the striatum of C57BL/6J mice" and "spatially resolved map of transcriptome-wide gene expression changes in the heme-exposed brain." These details strongly indicate that the study is focused on the brain, specifically the striatum, which is a part of the brain.
+### Context ###
+Given the Abstract's clear focus on "intracranial hemorrhage," "heme-exposed brain," and "striatum of C57BL/6J mice," it is reasonable to infer that the study's primary organ part of interest is the brain, particularly the striatum. The Keywords, while detailed about the therapeutic and pathological aspects, do not explicitly list "striatum," but the context from the Abstract provides the necessary linkage.
+### Conclusion ###
+Based on the context provided by the Abstract, we can conclude that the primary organ part relevant to this study is the brain, specifically the striatum.
+### Result ###
+['Striatum']

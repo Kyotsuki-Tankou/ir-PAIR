@@ -1,0 +1,12 @@
+### Keywords ###
+- aptamer-based proteomics
+- transcriptomic tools
+### Verify ###
+- technologies: ['CITE-seq', 'XYZeq', 'CUT&Tag', 'RNA-seq', 'STARmap', 'DBiT-seq', 'scATAC-seq', 'scRNA', 'EASI-FISH', 'PIC-seq', 'sci-Space', 'sciMAP-ATAC-seq', 'Slide-seqV2', 'Spatial Transcriptomics', 'seqFish', 'seqFISH+', 'Stereo-Seq', '10x Visium', ' RNA-seq', 'scATAC', 'LCM-seq', 'Tomo-seq', 'Proximity RNA-seq', 'sci-ATAC-seq', 'ClampFISH', 'VINE-seq', 'snRNA', 'HDST', 'GeoMx DSP', 'Seq-Scope', 'APEX-seq', 'RNAseq', 'MERFISH', 'ClumpSeq', 'Geo-seq', 'Slide-seq']
+### Context ###
+- The input mentions "aptamer-based proteomics" and "transcriptomic tools" but does not specify which specific transcriptomic technologies were used.
+- The context suggests the use of proteomic and transcriptomic methods but lacks detailed names of the technologies from the provided schema.
+### Conclusion ###
+- The specific technologies from the schema are not explicitly mentioned in the input.
+### Result ###
+null

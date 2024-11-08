@@ -1,0 +1,10 @@
+###Keywords###
+From the input, the term "adult mouse brain" directly indicates the species involved. This term suggests that 'Mus musculus' may be the proper result.
+###Verify###
+- From "adult mouse brain" in the Abstract, we can verify that 'Mus musculus' is indeed a proper result.
+###Context###
+No additional context is needed as the term "adult mouse brain" clearly specifies the species involved.
+###Conclusion###
+Consequently, we confirm 'Mus musculus' as our final result based on the clear and direct mention in the Abstract.
+###Result###
+['Mus musculus']

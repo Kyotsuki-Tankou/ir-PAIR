@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "brain," "glioblastoma (GBM)," and "brain endothelial cells (ECs)" are prominently mentioned, suggesting potential relevance to the tissues listed in the schema.
+### Verify ###
+- "brain" is directly mentioned multiple times in the context of the blood-brain-barrier (BBB) and glioblastoma.
+- "glioblastoma (GBM)" is a type of brain tumor, reinforcing the relevance of "Brain."
+- "brain endothelial cells (ECs)" further emphasize the focus on the brain tissue.
+### Context ###
+Given the specific focus on glioblastoma, a type of brain tumor, and the detailed discussion of the blood-brain-barrier, which is a feature specific to the brain, there is strong contextual support for "Brain" as the relevant tissue.
+### Conclusion ###
+Based on the direct mentions and the contextual emphasis on brain-related structures and diseases, we confirm "Brain" as the final result.
+### Result ###
+['Brain']

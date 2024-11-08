@@ -1,0 +1,11 @@
+### Keywords ###
+From "single-cell mRNA sequencing" in the Abstract, it indicates that 'RNA-seq' or 'scRNA' may be relevant technologies.
+### Verify ###
+- From "we use single-cell mRNA sequencing to determine the cell-type composition of all major human organs" in the Abstract, we can verify that 'scRNA' is indeed a proper result.
+- Additionally, "single-cell analysis" and "single-cell HCL analysis" suggest a focus on single-cell technologies, further supporting 'scRNA'.
+### Context ###
+Not required in this case as the verification directly supports the result without ambiguity.
+### Conclusion ###
+Consequently, we confirm 'scRNA' as our final result.
+### Result ###
+['scRNA']

@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, the species mentioned are "zebrafish," "chicken," "mouse," and "human." These correspond to 'Danio rerio,' 'Gallus gallus,' 'Mus musculus,' and 'Homo sapiens' respectively.
+### Verify ###
+- "zebrafish" corresponds to 'Danio rerio.'
+- "chicken" corresponds to 'Gallus gallus.'
+- "mouse" corresponds to 'Mus musculus.'
+- "human" corresponds to 'Homo sapiens.'
+### Context ###
+The abstract clearly mentions these species in the context of performing genome-wide RNA tomography sequencing, which directly aligns with the schema's requirement for species identification.
+### Conclusion ###
+Given the clear and direct mentions of the species in the abstract, we can confidently conclude that 'Danio rerio,' 'Gallus gallus,' 'Mus musculus,' and 'Homo sapiens' are the relevant species to extract.
+### Result ###
+['Danio rerio', 'Gallus gallus', 'Mus musculus', 'Homo sapiens']

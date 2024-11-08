@@ -1,0 +1,10 @@
+### Keywords ###
+From the mention of "mouse OB" (olfactory bulb) in the Abstract, it suggests that 'Mus musculus' may be the proper result.
+### Verify ###
+The Abstract specifically states, "Using a combination of single-cell RNA sequencing, spatial transcriptomics and machine learning, we have generated a map of most glomerular positions in the mouse OB." This directly indicates that the species studied is the mouse, aligning with 'Mus musculus'.
+### Context ###
+The context provided in the Abstract focuses on the olfactory system of mammals, specifically mentioning the mouse olfactory bulb (OB). There is no mention of any other species, which further supports the conclusion that 'Mus musculus' is the correct species.
+### Conclusion ###
+Consequently, we choose 'Mus musculus' as our final result.
+### Result ###
+['Mus musculus']

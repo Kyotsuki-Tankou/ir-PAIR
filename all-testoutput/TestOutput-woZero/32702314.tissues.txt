@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the terms "mouse brain sections" and "human brain sections" indicate that 'Brain' may be a proper result.
+### Verify ###
+The Abstract mentions "in an AD mouse model, the transcriptional changes occurring in tissue domains in a 100-μm diameter around amyloid plaques using spatial transcriptomics," which specifically refers to brain tissue. This further verifies that 'Brain' is likely a proper result.
+### Context ###
+The context of the study is focused on Alzheimer's disease (AD), which primarily affects the brain. The use of mouse and human brain sections for in situ sequencing and the investigation of amyloid plaques, which are characteristic of AD, reinforce that the tissue of interest is the brain. There is no conflicting information that would require additional context to clarify.
+### Conclusion ###
+Consequently, we confirm 'Brain' as our final result based on the specific references to brain tissue in both the mouse model and human sections, as well as the focus on AD, which is a brain-related disease.
+### Result ###
+['Brain']

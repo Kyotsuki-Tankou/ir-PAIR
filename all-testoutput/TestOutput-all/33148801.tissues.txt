@@ -1,0 +1,15 @@
+### Keywords ###
+From the input, the focus is on "Duchenne muscular dystrophy (DMD)," "skeletal muscle," "myofibers," and "myonuclei." This suggests that 'Muscle' and 'Skeletal muscle' are relevant tissues.
+### Verify ###
+The abstract mentions:
+- "DMD is a fatal muscle disorder characterized by cycles of degeneration and regeneration of multinucleated myofibers."
+- "we performed single-nucleus transcriptomics of skeletal muscle of mice with dystrophin exon 51 deletion."
+These statements confirm that the study is centered around muscle tissue, specifically skeletal muscle.
+### Context ###
+The context further supports this:
+- The study involves a mouse model of DMD, which primarily affects muscle tissue.
+- The focus on "myofibers" and "myonuclei" within the skeletal muscle aligns with the known pathology of DMD.
+### Conclusion ###
+Given the clear focus on skeletal muscle and the specific mention of myofibers and myonuclei, it is evident that 'Muscle' and 'Skeletal muscle' are the correct tissues relevant to this study.
+### Result ###
+['Muscle', 'Skeletal muscle']

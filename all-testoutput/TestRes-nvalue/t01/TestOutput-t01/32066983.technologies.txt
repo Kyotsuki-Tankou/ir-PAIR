@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the term "single-cell RNA-sequencing" is prominently mentioned, indicating that 'RNA-seq' or 'scRNA' may be relevant technologies.
+###Verify###
+The abstract states, "We have used single-cell RNA-sequencing to identify the basic cell types in the mouse SCN and to characterize their circadian and light-induced gene expression patterns." This directly references the use of single-cell RNA-sequencing, which corresponds to 'scRNA' in the schema.
+###Context###
+Given the direct and clear mention of "single-cell RNA-sequencing" in both the abstract and the result, there is no need for additional context to verify the keyword.
+###Conclusion###
+Consequently, we confirm 'scRNA' as our final result based on the clear and consistent references in the abstract.
+###Result###
+['scRNA']

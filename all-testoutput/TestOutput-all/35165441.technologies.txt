@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "VINE-seq" is prominently mentioned, indicating that 'VINE-seq' may be a proper result.
+### Verify ###
+The abstract states, "Here we develop vessel isolation and nuclei extraction for sequencing (VINE-seq) to profile the major vascular and perivascular cell types of the human brain," which directly references the technology 'VINE-seq'. This further verifies that 'VINE-seq' is indeed a relevant and proper result.
+### Context ###
+Given the direct and clear mention of "VINE-seq" in both the abstract and the result, there is no need for additional context to verify the keyword.
+### Conclusion ###
+Consequently, we confirm 'VINE-seq' as our final result based on the clear and consistent references in the abstract.
+### Result ###
+['VINE-seq']

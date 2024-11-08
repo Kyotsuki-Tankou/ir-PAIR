@@ -1,0 +1,8 @@
+### Keywords ###
+The keywords from the input include "Alzheimer's disease," "amyloid plaque," "astrocyte," "cellular phase," "complement cascade," "in situ sequencing," "microglia," "myelination," "oligodendrocyte," and "spatial transcriptomics." These terms suggest a focus on the cellular and molecular aspects of Alzheimer's disease, particularly in the context of the brain.
+### Verify ###
+The abstract specifically mentions "Alzheimer's disease" as the subject of the study, and it discusses the use of a mouse model to study the transcriptional changes around amyloid plaques. This confirms that Alzheimer's disease is the disease being studied.
+### Conclusion ###
+Based on the presence of Alzheimer's disease as the main subject of the study in both the abstract and the keywords, we can conclude that the disease being studied matches the schema.
+### Result ###
+["Alzheimer’s disease"]

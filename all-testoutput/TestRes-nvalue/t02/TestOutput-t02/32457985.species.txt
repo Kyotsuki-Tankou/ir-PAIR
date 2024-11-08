@@ -1,0 +1,12 @@
+### Keywords ###
+From the Abstract, we identify the following species-related terms: "zebrafish", "chicken", "mouse", and "human".
+### Verify ###
+- "zebrafish" corresponds to "Danio rerio"
+- "chicken" corresponds to "Gallus gallus"
+- "mouse" corresponds to "Mus musculus"
+- "human" corresponds to "Homo sapiens"
+These terms are explicitly mentioned in the Abstract and directly match items in the provided schema.
+### Conclusion ###
+The species mentioned in the Abstract clearly correspond to specific items in the schema. Therefore, we can confidently select these items as our results.
+### Result ###
+['Danio rerio', 'Gallus gallus', 'Mus musculus', 'Homo sapiens']

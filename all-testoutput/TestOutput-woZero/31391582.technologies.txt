@@ -1,0 +1,12 @@
+###Keywords###
+The abstract mentions "spatially resolved transcriptome" and "high-resolution digitized in situ gene-expression profiles," which suggest the use of spatial transcriptomics technologies. Potential matches from the schema could include 'Spatial Transcriptomics', 'Slide-seq', 'Slide-seqV2', 'seqFish', 'seqFISH+', 'STEREO-seq', etc.
+###Verify###
+The abstract states, "Here we report a spatially resolved transcriptome of cell populations at defined positions in the germ layers during development from pre- to late-gastrulation stages." This directly implies the use of a technology capable of spatially resolved transcriptomics. 
+###Context###
+To further narrow down, we need to consider the context:
+- "high-resolution digitized in situ gene-expression profiles" suggests a technology that can provide high-resolution spatial data.
+- The study involves detailed spatial mapping of gene expression during embryonic development, which is a common application for technologies like 'Slide-seq' and 'Slide-seqV2'.
+###Conclusion###
+Given the emphasis on spatial resolution and the specific context of embryonic development, 'Slide-seqV2' is a highly likely candidate due to its advanced capabilities in providing high-resolution spatial transcriptomics data.
+###Result###
+['Slide-seqV2']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "pigs" is prominently mentioned, indicating that 'Sus scrofa' (pig) may be the proper result.
+### Verify ###
+The abstract specifically mentions "a comprehensive transcriptomic survey of pigs" and "transcriptomes of seven tissues from pigs," which further verifies that 'Sus scrofa' is indeed the relevant species in this context.
+### Context ###
+Given the detailed focus on pigs and the comparative analysis with other vertebrates, there is no need for additional context to confirm the relevance of 'Sus scrofa'.
+### Conclusion ###
+Consequently, we confirm 'Sus scrofa' as the final result based on the clear and consistent focus on pigs throughout the abstract.
+### Result ###
+['Sus scrofa']

@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "brain metastases" is directly mentioned multiple times, which suggests a strong association with diseases related to brain metastasis. Additionally, "metastatic disease in the brain" and "tumor microenvironment" further support this.
+### Verify ###
+The phrases "brain metastases," "metastatic disease in the brain," and "tumor microenvironment" explicitly indicate a focus on brain metastasis. This provides strong evidence that 'brain metastases cancer' is the relevant disease.
+### Conclusion ###
+Given the clear and repeated mention of "brain metastases" in the abstract, we can confidently conclude that 'brain metastases cancer' is the correct disease to be extracted.
+### Result ###
+['brain metastases cancer']

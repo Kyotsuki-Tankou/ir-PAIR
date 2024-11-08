@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "ovarian cancer" and "nonmalignant ovarian tissues" are explicitly mentioned, indicating that 'Ovarian' and 'Tumor' are relevant tissues in the context of the study.
+### Verify ###
+The abstract states, "The tumors of 7 treatment-naïve patients with HGSOC at early or late stages and five age-matched nonmalignant ovarian samples were analyzed," which directly verifies that 'Ovarian' and 'Tumor' are indeed relevant tissues in the context of the study.
+### Context ###
+Since the verification step directly confirms the presence of 'Ovarian' and 'Tumor' in the abstract, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Consequently, we choose 'Ovarian' and 'Tumor' as our final results.
+### Result ###
+['Ovarian', 'Tumor']

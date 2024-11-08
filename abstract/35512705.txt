@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Embryo"]
+null
+["Stereo-Seq"]
+["Embryonic development"]
+ Abstract\nSpatially resolved transcriptomic technologies are promising tools to study complex biological processes such as mammalian embryogenesis. However, the imbalance between resolution, gene capture, and field of view of current methodologies precludes their systematic application to analyze relatively large and three-dimensional mid- and late-gestation embryos. Here, we combined DNA nanoball (DNB)-patterned arrays and in situ RNA capture to create spatial enhanced resolution omics-sequencing (Stereo-seq). We applied Stereo-seq to generate the mouse organogenesis spatiotemporal transcriptomic atlas (MOSTA), which maps with single-cell resolution and high sensitivity the kinetics and directionality of transcriptional variation during mouse organogenesis. We used this information to gain insight into the molecular basis of spatial cell heterogeneity and cell fate specification in developing tissues such as the dorsal midbrain. Our panoramic atlas will facilitate in-depth investigation of longstanding questions concerning normal and abnormal mammalian development. \n Keywords:brain; cell atlas; cell differentiation; cell lineages; development; developmental diseases; mouse organogenesis; progenitors; single-cell; spatial transcriptomics.

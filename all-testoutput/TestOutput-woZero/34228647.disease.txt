@@ -1,0 +1,10 @@
+### Keywords ###
+The keywords extracted from the abstract and keywords section are "glioblastoma (GBM)," "brain tumor," "blood-brain-barrier (BBB)," "endothelial cells (ECs)," and "brain." These keywords suggest that the study is focused on a brain-related disease, specifically glioblastoma.
+### Verify ###
+The abstract mentions "glioblastoma (GBM), the most common malignant brain tumor in humans." This directly indicates that the disease being studied is glioblastoma. Additionally, the context of the study involving the blood-brain-barrier and endothelial cells further supports that the disease focus is on glioblastoma.
+### Context ###
+Given the explicit mention of glioblastoma and its relevance to brain tumors, there is no need for additional context to verify the disease type.
+### Conclusion ###
+Based on the clear and direct references to glioblastoma in the abstract, we can conclude that 'Glioblastoma' is the appropriate disease to be extracted.
+### Result ###
+['Glioblastoma']

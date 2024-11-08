@@ -1,0 +1,10 @@
+###Keywords###
+The abstract mentions "human brain vasculature" and "human brain" multiple times, indicating that the study is focused on humans.
+###Verify###
+Phrases like "human brain vasculature," "143,793 single-nucleus transcriptomes from 25 hippocampus and cortex samples of 9 individuals with Alzheimer's disease and 8 individuals with no cognitive impairment," and "human arteriovenous organization" strongly confirm that the study is conducted on humans.
+###Context###
+The context consistently emphasizes the human brain and its vasculature, with no mention of other species. The use of human samples and the focus on human-specific conditions like Alzheimer's disease further solidify this.
+###Conclusion###
+Given the clear and consistent focus on human subjects, we conclude that 'Homo sapiens' is the correct species.
+###Result###
+['Homo sapiens']

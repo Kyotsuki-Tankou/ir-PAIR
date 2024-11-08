@@ -1,0 +1,25 @@
+### Keywords
+- gene expression
+- heart development
+- human development
+- human developmental cell atlas
+- in situ sequencing
+- single-cell RNA-sequencing
+- spatial transcriptomics
+- spatially resolved transcriptomics
+### Verify
+- Heart development
+- Human embryonic cardiac cell types
+- Embryonic heart
+- Anatomical domains
+- Spatial transcriptomics
+- In situ sequencing
+### Context
+- The study focuses on the cardiac morphogenesis process in humans.
+- It involves exploring gene expression in the embryonic heart at three developmental stages.
+- Techniques used include single-cell RNA sequencing and in situ sequencing.
+- The goal is to map cell-type-specific gene expression to specific anatomical domains.
+### Conclusion
+The study primarily revolves around the heart and its development, particularly in the embryonic stages.
+### Result
+- ['Heart', 'Embryo', 'Human cell lines', 'Transmural cross-section of the heart', 'Mouse ventricle', 'Myocardium', 'Coronal brain section', 'Liver tissue', 'Skeletal muscle (quadriceps)', 'Lung organoid', 'Kidney organoid', 'Colon', 'Cortex']

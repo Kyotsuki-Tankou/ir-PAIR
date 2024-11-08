@@ -1,0 +1,31 @@
+### Keywords ###
+- suprachiasmatic nucleus (SCN)
+- ventral hypothalamus
+- single-cell RNA-sequencing
+- mouse SCN
+- cell types
+- circadian gene expression
+- neuronal subtypes
+- spatial distribution
+- three-dimensional reconstruction
+- standardized SCN atlas
+- gene regulation
+- circadian pacemaker
+### Verify ###
+- SCN: Spinal cord, Neuron
+- ventral hypothalamus: Brain
+- mouse SCN: Neuron
+- cell types: Neuron
+- circadian gene expression: Neuron
+- neuronal subtypes: Neuron
+- spatial distribution: Neuron
+- three-dimensional reconstruction: Neuron
+- standardized SCN atlas: Neuron
+- gene regulation: Neuron
+- circadian pacemaker: Neuron
+### Context ###
+The context focuses on the suprachiasmatic nucleus (SCN), a specific region within the brain, and its role in circadian behaviors. The study involves detailed analysis of neuronal subtypes within the SCN using single-cell RNA-sequencing, emphasizing their spatial distribution and gene expression patterns.
+### Conclusion ###
+The primary tissue type discussed in the input is related to the brain, specifically the SCN, which is composed of various neuronal subtypes.
+### Result ###
+['Brain', 'Neuron']

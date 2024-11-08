@@ -1,0 +1,14 @@
+### Keywords ###
+The abstract mentions "skin suction blistering," "epidermal and immune cells," "single-cell RNA sequencing," and "proteomic information from interstitial fluid." These keywords suggest that the study involved the skin tissue and potentially its cellular and molecular aspects.
+### Verify ###
+The abstract provides more specific details:
+- "suction blistering captured epidermal and most immune cells equally well as biopsies"
+- "We used skin suction blistering, a painless and nonscarring procedure that can simultaneously sample skin cells and interstitial fluid"
+- "Using single-cell RNA sequencing, we found comparable transcriptional profiles of key inflammatory pathways between blister and biopsy AD"
+These statements confirm that the study focused on skin tissue and its cellular aspects using RNA sequencing techniques.
+### Context ###
+There is no ambiguity in the context, as the abstract clearly states the methods and results, specifically mentioning the skin and its cells.
+### Conclusion ###
+Based on the explicit mention of skin and the use of single-cell RNA sequencing, it can be concluded that the study involved the 'Skin' tissue.
+### Result ###
+['Skin']

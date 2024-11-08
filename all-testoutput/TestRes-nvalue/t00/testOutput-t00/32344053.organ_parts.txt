@@ -1,0 +1,60 @@
+### Keywords
+- Atopic dermatitis
+- Skin
+- Suction blistering
+- Biopsy
+- Single-cell RNA sequencing
+- Transcriptomic
+- Proteomic
+- Epidermal cells
+- Immune cells
+- Mast cells
+- CD163+ macrophages
+- Inflammatory pathways
+- KRT1/KRT10
+- KRT16/KRT6A
+- S100A8/S100A9
+- IL13
+- IL22
+- Th2 cells
+- Th22 cells
+- T cells
+- Natural killer T cells
+- IL26
+- Myeloid cells
+- Dendritic cells
+- CLEC7A
+- Amphiregulin/AREG
+- EREG
+- Macrophage
+- CCL13
+- Olink proteomics
+### Verify
+- **Atopic dermatitis**: Mentioned as the primary focus.
+- **Skin**: Context is about skin disease and sampling.
+- **Suction blistering**: Highlighted as a method for sampling.
+- **Biopsy**: Compared with suction blistering.
+- **Single-cell RNA sequencing**: Used for transcriptomic analysis.
+- **Transcriptomic/Proteomic**: Mentioned as levels of characterization.
+- **Epidermal cells/Immune cells**: Mentioned in the context of cells captured.
+- **Mast cells/CD163+ macrophages**: Specifically noted in biopsy isolates.
+- **Inflammatory pathways**: Mentioned in the context of transcriptional profiles.
+- **KRT1/KRT10, KRT16/KRT6A, S100A8/S100A9**: Highlighted transcripts.
+- **IL13, IL22**: Mentioned cytokines in Th2 and Th22 cells.
+- **Th2 cells/Th22 cells**: Context of cytokine expression.
+- **T cells/Natural killer T cells**: Mentioned in cytokine expression context.
+- **IL26**: Another mentioned cytokine.
+- **Myeloid cells**: Highlighted as most strongly enriched.
+- **Dendritic cells/CLEC7A, Amphiregulin/AREG, EREG**: Top upregulated proteins.
+- **Macrophage/CCL13**: Mentioned in proteomic analyses.
+- **Olink proteomics**: Mentioned in keywords.
+### Context
+- The study focuses on atopic dermatitis (AD), a skin condition.
+- Methods include suction blistering and conventional biopsies.
+- Analysis involves both transcriptomic (single-cell RNA sequencing) and proteomic (Olink proteomics) levels.
+- Key findings relate to differences in cell capture and resolution between methods, and specific cellular and molecular characteristics of AD.
+### Conclusion
+- The study primarily deals with skin (specifically atopic dermatitis) and various cellular and molecular aspects related to it.
+- Techniques like suction blistering and biopsies are used to sample skin cells and interstitial fluid.
+### Result
+- **['Skin', 'Atopic dermatitis lesional skin']**

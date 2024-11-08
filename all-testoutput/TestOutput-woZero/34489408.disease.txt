@@ -1,0 +1,14 @@
+### Keywords ###
+From the Abstract, the keywords that stand out are "colorectal cancer (CRC)," "metastasis," "liver metastases," and "tumor microenvironment (TME)."
+### Verify ###
+- "colorectal cancer (CRC)" directly matches the schema term "Colorectal cancer."
+- "metastasis" and "liver metastases" suggest "Liver metastasis cancer" from the schema.
+- "tumor microenvironment (TME)" does not directly match any schema term but is contextually relevant to cancer studies.
+### Context ###
+- The abstract focuses on the transcriptional landscape of primary CRC, matched liver metastases, and the response to preoperative chemotherapy.
+- The study emphasizes the complexity and diversity of the stromal context in liver metastases of CRC, indicating a strong focus on "Liver metastasis cancer."
+- There is no conflicting information that would require additional context to clarify the relevance of "Colorectal cancer" and "Liver metastasis cancer."
+### Conclusion ###
+Based on the strong contextual evidence and direct mentions of colorectal cancer and liver metastases, we can conclude that "Colorectal cancer" and "Liver metastasis cancer" are the relevant terms to extract.
+### Result ###
+['Colorectal cancer', 'Liver metastasis cancer']

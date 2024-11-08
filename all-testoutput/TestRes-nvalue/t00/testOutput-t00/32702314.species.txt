@@ -1,0 +1,28 @@
+### Keywords ###
+- Alzheimer’s disease
+- amyloid plaque
+- astrocyte
+- cellular phase
+- complement cascade
+- in situ sequencing
+- microglia
+- myelination
+- oligodendrocyte
+- spatial transcriptomics
+### Verify ###
+- **Alzheimer’s disease**: Mentioned in the abstract.
+- **amyloid plaque**: Mentioned in the abstract.
+- **astrocyte**: Not explicitly mentioned in the abstract.
+- **cellular phase**: Implied by "multicellular gene co-expression network".
+- **complement cascade**: Mentioned in the context of "complement system".
+- **in situ sequencing**: Mentioned in the abstract.
+- **microglia**: Not explicitly mentioned in the abstract.
+- **myelination**: Implied by "myelin and oligodendrocyte genes".
+- **oligodendrocyte**: Mentioned in the abstract.
+- **spatial transcriptomics**: Mentioned in the abstract.
+### Context ###
+- The abstract mentions "multicellular gene co-expression network" which may imply involvement of various cell types including astrocytes and microglia, even though they are not explicitly named.
+### Conclusion ###
+- The keywords "astrocyte" and "microglia" are not explicitly mentioned in the abstract but are inferred from the context of multicellular interactions and brain tissue studies.
+### Result ###
+['Mus musculus', 'Homo sapiens']

@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, the phrases "human organs," "human cell landscape (HCL)," and "human and mouse comparative analysis" suggest that 'Homo sapiens' and 'Mus musculus' are the species involved.
+### Verify ###
+1. "human organs" and "human cell landscape (HCL)" directly imply the involvement of 'Homo sapiens'.
+2. "single-cell comparative analysis of landscapes from human and mouse" explicitly mentions 'Mus musculus'.
+### Context ###
+The context is clear from the phrases mentioned above, which directly point to the species 'Homo sapiens' and 'Mus musculus'. There is no ambiguity requiring further context.
+### Conclusion ###
+Based on the keywords and verification, we can confidently conclude that both 'Homo sapiens' and 'Mus musculus' are the species involved in this study.
+### Result ###
+['Homo sapiens', 'Mus musculus']

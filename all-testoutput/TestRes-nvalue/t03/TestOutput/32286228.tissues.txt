@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "bone marrow mesenchymal lineage cells," "marrow cavity," and "marrow adipose tissue" are explicitly mentioned, indicating that 'Bone marrow' and potentially 'Blood vessel' may be relevant tissues.
+### Verify ###
+- The abstract states: "Bone marrow mesenchymal lineage cells are a heterogeneous cell population involved in bone homeostasis," which directly verifies the presence of 'Bone marrow'.
+- The abstract also mentions "they exist abundantly as pericytes and stromal cells that form a ubiquitous 3D network inside the marrow cavity," which suggests a role for 'Blood vessel' due to the mention of pericytes and stromal cells.
+### Context ###
+- The abstract focuses on the differentiation paths of mesenchymal progenitors into osteoblasts and adipocytes within the bone marrow.
+- The mention of "marrow vasculature" further supports the relevance of 'Blood vessel' in the context of the study.
+### Conclusion ###
+Given the explicit mention of "bone marrow" and the contextual support for "blood vessel" related components, we confirm 'Bone marrow' and 'Blood vessel' as relevant tissues.
+### Result ###
+['Bone marrow', 'Blood vessel']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, terms like "pigs," "biomedical model," and "human biology and disease" are mentioned, but no specific disease from the schema is directly referenced.
+### Verify ###
+The abstract focuses on the transcriptomic survey of pigs and their potential use as a biomedical model. It discusses tissue specialization processes and comparative analysis with other vertebrates but does not mention any specific disease from the provided schema.
+### Context ###
+The context of the abstract is centered around the use of pigs as a model for understanding tissue specialization and evolutionary biology, rather than focusing on any specific disease.
+### Conclusion ###
+Since no specific disease from the schema is mentioned or implied in the abstract, we conclude that there is no relevant disease to extract.
+### Result ###
+null

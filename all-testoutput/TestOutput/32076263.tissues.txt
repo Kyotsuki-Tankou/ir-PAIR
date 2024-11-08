@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, the term "mouse gastruloids" and "mouse embryos" suggest that the study involves both gastruloids and embryos of mice. This indicates that 'Gastrula' and 'Embryo' may be appropriate results.
+### Verify ###
+The abstract mentions:
+- "mouse gastruloids" and "mouse embryos"
+- "We compare mouse gastruloids with mouse embryos using single-cell RNA sequencing and spatial transcriptomics."
+These statements verify that both 'Gastrula' and 'Embryo' are indeed relevant to the study.
+### Context ###
+The context from the abstract also indicates that the study is focused on comparing gastruloids with embryos, which supports the identification of 'Gastrula' and 'Embryo' as the relevant tissues.
+### Conclusion ###
+Given the explicit mention of both 'mouse gastruloids' and 'mouse embryos' in the abstract, and the context of the study involving these tissues, we can conclude that 'Gastrula' and 'Embryo' are the correct results.
+### Result ###
+['Gastrula', 'Embryo']

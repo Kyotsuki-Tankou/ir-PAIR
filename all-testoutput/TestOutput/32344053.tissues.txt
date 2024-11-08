@@ -1,0 +1,10 @@
+###Keywords
+The keywords from the abstract are "atopic dermatitis," "transcriptomic and proteomic levels," "skin suction blistering," "single-cell RNA sequencing," and "inflammatory pathways." These suggest that the result may be related to 'Skin' or 'Atopic dermatitis' from the schema.
+###Verify
+The abstract states, "We used skin suction blistering... to compare results with conventional biopsies." This verifies that the study is focused on the 'Skin' tissue. Additionally, the reference to "atopic dermatitis" confirms that 'Atopic dermatitis' is also a relevant topic.
+###Context
+The study mentions using "single-cell RNA sequencing" and "proteomic analyses," which imply a detailed analysis of the skin at a cellular and molecular level. This could be relevant to 'Atopic dermatitis' in the schema, as it is a disease affecting the skin.
+###Conclusion
+Given the focus on 'Skin' and the specific condition of 'Atopic dermatitis,' both are relevant results based on the information provided in the abstract.
+###Result
+['Skin', 'Atopic dermatitis']

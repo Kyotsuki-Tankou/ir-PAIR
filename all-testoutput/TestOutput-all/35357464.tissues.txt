@@ -1,0 +1,12 @@
+###Keywords###
+From the input, the terms "uterine microenvironments," "mouse uterus," "embryo implantation site," and "uterine glands" directly indicate the tissues involved. These terms suggest that 'Uterus,' 'Embryo,' and 'Gland' may be proper results.
+###Verify###
+- From "uterine microenvironments" and "mouse uterus" in the Abstract, we can verify that 'Uterus' is indeed a proper result.
+- From "embryo implantation site" in the Abstract, we can verify that 'Embryo' is also a proper result.
+- From "uterine glands" in the Abstract, we can verify that 'Gland' is a proper result as well.
+###Context###
+No additional context is needed as the terms "uterine microenvironments," "mouse uterus," "embryo implantation site," and "uterine glands" clearly specify the tissues involved.
+###Conclusion###
+Consequently, we confirm 'Uterus,' 'Embryo,' and 'Gland' as our final results based on the clear and direct mentions in the Abstract.
+###Result###
+['Uterus', 'Embryo', 'Gland']

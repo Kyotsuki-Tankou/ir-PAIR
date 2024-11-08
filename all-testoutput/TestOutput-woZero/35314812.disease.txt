@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, terms like "ductal carcinoma in situ" and "mouse brain and kidney datasets" suggest a focus on specific diseases and normal tissue development.
+### Verify ###
+- "ductal carcinoma in situ" directly matches the schema.
+- "mouse brain and kidney datasets" suggests involvement of normal tissue development or disease states related to these organs.
+### Context ###
+- The study involves both normal tissue (mouse brain and kidney) and a specific disease (ductal carcinoma in situ).
+- The method developed (CellTrek) is applied to both normal and disease contexts to understand spatial organization.
+### Conclusion ###
+Given the explicit mention of "ductal carcinoma in situ" and the context involving normal tissue development, the relevant items from the schema are "Ductal carcinoma in situ" and "Normal atlas" for the mouse brain and kidney parts.
+### Result ###
+["Ductal carcinoma in situ", "Normal atlas"]

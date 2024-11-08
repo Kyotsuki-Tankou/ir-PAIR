@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "primary pancreatic tumors" suggests a focus on human biology, indicating that 'Homo sapiens' may be a proper result.
+### Verify ###
+The abstract mentions "primary pancreatic tumors," which are typically studied in the context of human disease. This further verifies that 'Homo sapiens' is likely the correct species.
+### Conclusion ###
+Consequently, we choose 'Homo sapiens' as our final result based on the context of the study focusing on human pancreatic tumors.
+### Result ###
+['Homo sapiens']

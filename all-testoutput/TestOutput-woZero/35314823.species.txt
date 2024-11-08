@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "mouse OB" (olfactory bulb) indicates that 'Mus musculus' may be a proper result.
+### Verify ###
+The abstract mentions "mouse OB" and "glomerular positions in the mouse OB," which further verifies that 'Mus musculus' is the species being studied.
+### Conclusion ###
+Consequently, we choose 'Mus musculus' as our final result.
+### Result ###
+['Mus musculus']

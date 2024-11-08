@@ -1,0 +1,15 @@
+### Keywords ###
+From the abstract, the following tissues are directly mentioned:
+- 'Brain'
+- 'Neuroepithelial'
+- 'Nervous system'
+- 'Mouse hippocampal neuroepithelium'
+- 'Microglia'
+### Verify ###
+The abstract specifically discusses the mammalian brain and its specialized cells, including neuroepithelial progenitor cells and microglia. It also mentions the mouse hippocampal neuroepithelium, which is a part of the brain.
+### Context ###
+The focus of the study is on the brain and its components, particularly the neuroepithelial progenitor cells and microglia. There is no mention of other tissues outside the brain context.
+### Conclusion ###
+Based on the explicit mentions and the focus of the study, we can confidently conclude that 'Brain' is the relevant tissue mentioned in the abstract.
+### Result ###
+['Brain']

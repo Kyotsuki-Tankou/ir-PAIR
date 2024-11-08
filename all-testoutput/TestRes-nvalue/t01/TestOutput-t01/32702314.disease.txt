@@ -1,0 +1,10 @@
+###Keywords###
+From the Keywords "Alzheimer's disease," "amyloid plaque," "brain sections," and "brain diseases," it suggests that 'Brain' or 'Brain cortex' might be relevant disease categories.
+###Verify###
+In the Abstract, phrases like "Alzheimer's disease (AD)," "amyloid plaques of Alzheimer's disease," and "in situ sequencing on mouse and human brain sections" strongly indicate that 'Alzheimer disease' and 'Brain' are proper results.
+###Context###
+Upon reviewing the context, the focus is specifically on Alzheimer's disease and the molecular changes around amyloid plaques in the brain. There are no additional clues that would suggest another disease as the primary focus.
+###Conclusion###
+Consequently, we choose 'Alzheimer disease' and 'Brain' as our final results.
+###Result###
+['Alzheimer disease', 'Brain']

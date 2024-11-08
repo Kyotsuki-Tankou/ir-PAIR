@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, the term "human leprosy granulomas" suggests that the study is focused on humans. This indicates that 'Homo sapiens' may be a relevant result.
+### Verify ###
+The abstract specifically states:
+- "we investigated the single-cell phenotypes associated with antimicrobial responses in human leprosy granulomas"
+This directly verifies the presence of 'Homo sapiens' in the context of the study.
+### Context ###
+Given the direct mention of "human" in the abstract, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm 'Homo sapiens' as the appropriate result based on the explicit references in the abstract.
+### Result ###
+['Homo sapiens']

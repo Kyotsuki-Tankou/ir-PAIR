@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "mouse" is explicitly mentioned, indicating that 'Mus musculus' may be the correct species.
+###Verify###
+The abstract specifically mentions "neonatal mice," which directly verifies that 'Mus musculus' is indeed the relevant species in this context.
+###Conclusion###
+Consequently, we choose 'Mus musculus' as our final result.
+###Result###
+['Mus musculus']

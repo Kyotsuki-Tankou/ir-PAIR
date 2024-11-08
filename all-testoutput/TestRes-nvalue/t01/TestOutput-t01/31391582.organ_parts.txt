@@ -1,0 +1,12 @@
+### Keywords ###
+From the Abstract, the key terms related to organ parts are "mouse embryo," "epiblast," "germ layers," and "visceral endoderm." These terms suggest a focus on early embryonic development and the formation of foundational tissue layers.
+### Verify ###
+- "mouse embryo" is explicitly mentioned and is a central focus of the study.
+- "epiblast" and "germ layers" are specific components of the early embryo involved in the formation of different tissues.
+- "visceral endoderm" is a specific tissue type within the embryo.
+### Context ###
+The study is centered around the post-implantation development of the mouse embryo, particularly focusing on the transition from naive to primed pluripotent states, the formation of germ layers, and the specification of cell lineages. This context strongly supports the identification of "Mouse Embryo" and its related components as the primary organ parts discussed.
+### Conclusion ###
+Given the explicit mention and focus on the "mouse embryo," "epiblast," "germ layers," and "visceral endoderm," it is clear that "Mouse Embryo" is the most encompassing and relevant organ part identified in the input.
+### Result ###
+['Mouse Embryo']

@@ -1,0 +1,11 @@
+###Keywords###
+From the input, the terms "mouse brain" and "primary breast cancer" are explicitly mentioned, indicating potential organ parts to extract.
+###Verify###
+- "mouse brain" is mentioned as one of the tissues where the technology was demonstrated.
+- "primary breast cancer" is also mentioned as another tissue where the technology was applied.
+###Context###
+Since both "mouse brain" and "primary breast cancer" are directly mentioned in the context of the experiments, there is no ambiguity or need for further context to confirm these as the relevant organ parts.
+###Conclusion###
+Based on the explicit mentions in the abstract, we can conclude that "Mouse brain" and "Primary breast cancer" are the appropriate organ parts to extract.
+###Result###
+['Mouse brain', 'Primary breast cancer']

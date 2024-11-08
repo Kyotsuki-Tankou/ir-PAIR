@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "tumor," "melanoma," and "interface cell state" are prominent. The context suggests a focus on the interaction between tumor cells and neighboring tissues, particularly in a zebrafish model of melanoma.
+### Verify ###
+The abstract mentions "zebrafish model of melanoma" and "human patient samples," indicating a study on tumor tissues. Specific terms like "tumor boundary" and "interface" further verify the focus on tumor-related tissues.
+### Context ###
+The abstract consistently discusses tumor-microenvironment interactions, particularly in the context of melanoma. There is no mention of specific organ parts like "Main olfactory bulb" or "Liver tissue," but the general context of tumor tissues is clear.
+### Conclusion ###
+Given the consistent focus on tumor tissues, particularly melanoma, and the lack of mention of specific organ parts from the schema, the most relevant term from the schema would be 'Melanoma' or 'Tumor.' However, 'Melanoma' is not explicitly listed in the schema, so 'Tumor' is the closest match.
+### Result ###
+['Tumor']

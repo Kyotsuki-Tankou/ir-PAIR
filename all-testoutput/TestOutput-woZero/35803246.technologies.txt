@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, keywords such as "single-cell/nucleus RNA-seq," "spatial single-cell transcriptomics," "TCR-seq," "RNA/ATAC-seq," and "multiplexed imaging" are prominent. These terms suggest the use of specific technologies for analysis.
+### Verify ###
+- "single-cell/nucleus RNA-seq" directly matches 'RNA-seq' and 'snRNA'.
+- "spatial single-cell transcriptomics" suggests technologies like 'Spatial Transcriptomics' or 'Slide-seq'.
+- "TCR-seq" is not directly listed in the schema but is a type of sequencing technology.
+- "RNA/ATAC-seq" matches 'RNA-seq' and 'scATAC-seq'.
+- "multiplexed imaging" is not directly listed in the schema but implies advanced imaging techniques possibly related to some of the spatial technologies.
+### Context ###
+Given the mention of "single-cell/nucleus RNA-seq," "spatial single-cell transcriptomics," and "RNA/ATAC-seq," we can infer the use of several sequencing and imaging technologies. The context supports the presence of these technologies in the study, aligning with the keywords identified.
+### Conclusion ###
+Based on the explicit mentions and the context provided, the technologies used in the study that match the schema include 'RNA-seq,' 'snRNA,' 'Spatial Transcriptomics,' and 'scATAC-seq.'
+### Result ###
+['RNA-seq', 'snRNA', 'Spatial Transcriptomics', 'scATAC-seq']

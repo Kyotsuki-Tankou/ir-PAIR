@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "transcriptomic survey" and "characterize four transcript types," which suggests the use of transcriptomic technologies. The term "transcriptome" is closely associated with RNA sequencing technologies. However, specific technologies like 'RNA-seq' are not directly mentioned.
+### Verify ###
+The phrases "transcriptomic survey," "characterize four transcript types," and "comparative analysis of the transcriptomes" strongly imply the use of RNA sequencing technologies. While 'RNA-seq' is a common method for such studies, the abstract does not explicitly name the technology used.
+### Context ###
+Given the focus on transcriptomic analysis and the comprehensive nature of the study, it is highly likely that RNA sequencing technologies were employed. The absence of specific technology names means we need to infer the most probable technology based on the context.
+### Conclusion ###
+Based on the context and the nature of the study, 'RNA-seq' is the most likely technology used for the comprehensive transcriptomic survey and analysis described in the abstract.
+### Result ###
+['RNA-seq']

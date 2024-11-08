@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "aortic microenvironment" and "hematopoietic stem cells" are prominently mentioned. This suggests that 'Embryo' may be a proper result since the study involves embryos of various species.
+###Verify###
+The abstract states, "we performed genome-wide RNA tomography sequencing on zebrafish, chicken, mouse, and human embryos." This statement clearly indicates that the study is focused on embryos, further verifying that 'Embryo' is indeed a proper result.
+###Context###
+Since the term "embryos" is explicitly mentioned and directly corresponds to 'Embryo' in the schema, there is no need for additional context to verify the result.
+###Conclusion###
+Consequently, we confirm 'Embryo' as our final result based on the clear and direct mention of the tissue type used in the abstract.
+###Result###
+['Embryo']

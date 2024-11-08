@@ -1,0 +1,11 @@
+###Keywords###
+The input mentions "human glioblastoma" and "human brain ECs," indicating that the species involved in the study is likely "Homo sapiens."
+###Verify###
+The abstract explicitly states:
+- "the most common malignant brain tumor in humans"
+- "single-cell RNA sequencing (scRNA-seq) of freshly isolated ECs from human glioblastoma and paired tumor peripheral tissues"
+These statements clearly verify that the study is conducted on "Homo sapiens."
+###Conclusion###
+Given the direct and clear references to "humans" in the context of glioblastoma and brain endothelial cells, we can confidently conclude that "Homo sapiens" is the appropriate species to be extracted according to the schema.
+###Result###
+["Homo sapiens"]

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "spatially-resolved transcriptomics," "single-cell RNA labeling," and "spatio-temporal analysis of the transcriptome" suggest the use of advanced sequencing technologies. Specific technologies mentioned or implied include "spatial transcriptomics" and "single-cell RNA sequencing."
+### Verify ###
+The abstract explicitly mentions "spatially-resolved transcriptomics" and "single-cell RNA labeling," which directly correspond to technologies in the schema such as "Spatial Transcriptomics" and "scRNA."
+### Context ###
+The context of the study involves combining spatially-resolved transcriptomics with single-cell RNA labeling to analyze early zebrafish development. This combination suggests the use of specific technologies that can provide both spatial and temporal resolution of RNA data.
+### Conclusion ###
+Based on the clear mentions and the context of the study, the technologies used are "Spatial Transcriptomics" and "scRNA."
+### Result ###
+['Spatial Transcriptomics', 'scRNA']

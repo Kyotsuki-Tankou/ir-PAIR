@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "cutaneous squamous cell carcinoma (cSCC)" and "normal skin" directly indicate the tissues involved. This suggests that 'Skin' may be a proper result.
+### Verify ###
+The abstract mentions "from a series of human cSCCs and matched normal skin," which explicitly verifies that 'Skin' is indeed a relevant tissue in the context of the study.
+### Context ###
+Since the verification step directly confirms the presence of 'Skin' in the abstract, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Consequently, we choose 'Skin' as our final result.
+### Result ###
+['Skin']

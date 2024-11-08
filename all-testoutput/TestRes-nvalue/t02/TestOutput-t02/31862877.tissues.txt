@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, the term "heart" is explicitly mentioned multiple times, indicating that 'Heart' may be a proper result.
+### Verify ###
+The abstract states:
+- "Heart failure (HF) is a major public health problem"
+- "inability of the heart to maintain sufficient output of blood"
+- "likely cardiac and specific cellular origins for several of the proteins"
+These statements clearly verify the focus on the 'Heart' in the study.
+### Context ###
+Since the keywords and the abstract both strongly indicate the focus on the 'Heart', there is no need for additional context to confirm the result.
+### Conclusion ###
+Consequently, we confirm 'Heart' as the final result based on the explicit mentions and detailed descriptions in the abstract.
+### Result ###
+['Heart']

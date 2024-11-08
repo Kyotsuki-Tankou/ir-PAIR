@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, terms like "human organs," "human cell landscape (HCL)," and "human and mouse comparative analysis" suggest that 'Normal' might be a proper result, as the study seems to focus on the general composition and comparison of human cells without a specific disease context.
+###Verify###
+The abstract mentions "a comprehensive single-cell atlas has not been achieved for humans" and "we use single-cell mRNA sequencing to determine the cell-type composition of all major human organs." These statements indicate a broad, normal生理状态 focus rather than a disease-specific one, further supporting 'Normal' as a correct result.
+###Context###
+Since the abstract clearly emphasizes the creation of a comprehensive atlas of human cells without mentioning any specific disease, there is no need for additional context to verify the result.
+###Conclusion###
+Based on the clear focus on normal human cell composition and comparison, we can conclude that 'Normal' is the correct result.
+###Result###
+['Normal']

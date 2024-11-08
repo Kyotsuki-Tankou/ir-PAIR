@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the focus is on "Heart failure (HF)" and "heart transplantation," which directly relate to the heart. This suggests that 'Heart' may be a proper result.
+### Verify ###
+The abstract mentions "inability of the heart to maintain sufficient output of blood" and "cardiac and specific cellular origins for several of the proteins," which clearly indicate the study's focus on the heart. This further supports that 'Heart' is likely the correct tissue.
+### Context ###
+Given the specific context of "Heart failure," a condition that directly affects the heart, and the use of terms like "coronary sinus samples" and "cardiac origins," there is strong contextual evidence that the study pertains to the heart.
+### Conclusion ###
+Consequently, we confirm 'Heart' as the final result based on the keywords, verification, and contextual clues.
+### Result ###
+['Heart']

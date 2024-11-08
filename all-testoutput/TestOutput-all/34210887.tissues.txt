@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, the term "developing mouse embryos" stands out, suggesting that 'Embryo' might be a relevant tissue.
+### Verify ###
+In the abstract, it is mentioned:
+- "Applying sci-Space to developing mouse embryos"
+This directly verifies that 'Embryo' is indeed a relevant tissue.
+### Context ###
+Since the abstract explicitly mentions "developing mouse embryos," there is no ambiguity or need for further context to verify this tissue.
+### Conclusion ###
+Consequently, based on the explicit mention in the abstract, we choose 'Embryo' as our final result.
+### Result ###
+['Embryo']

@@ -1,0 +1,10 @@
+###Keywords###
+From the Keywords and Abstract, terms like "cancer," "tumour," "T cells," and "peripheral blood" suggest that organ parts related to cancer and immune response might be relevant. Possible organ parts could include 'Tumor,' 'Blood,' and specific types of cancer tissues like 'Gastric cancer,' 'Breast Cancer,' 'Primary PDAC tumor,' etc.
+###Verify###
+In the Abstract, phrases like "patients with different types of cancer," "tumours," "normal adjacent tissue," and "peripheral blood" are mentioned. These phrases indicate that the study involves multiple types of cancer tissues and blood.
+###Context###
+Upon reviewing the context, the study focuses on the distribution of T cells in various tissues including tumours, normal adjacent tissues, and peripheral blood. The mention of "different types of cancer" suggests a broad focus rather than a specific organ part.
+###Conclusion###
+Given the broad focus on various cancer types and the inclusion of peripheral blood, the most relevant organ parts would be 'Tumor' and 'Blood.' Specific types of cancer tissues cannot be pinpointed without more specific information.
+###Result###
+['Tumor', 'Blood']

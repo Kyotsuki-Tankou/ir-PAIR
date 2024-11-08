@@ -1,0 +1,16 @@
+###schema###
+species:['Canis lupus familiaris', 'Arabidopsis thaliana', 'Xenopus tropicalis', 'Maize', 'Drosophila melanogaster', 'Danio rerio', 'Ambystoma mexicanum', 'Gallus gallus', 'Homo sapiens', 'Rattus norvegicus', 'Mus musculus', 'Macaca fascicularis', 'Glycine max', 'Xenopus laevis', 'Caenorhabditis elegans', 'Oryctolagus cuniculus', 'Phalaenopsis aphrodite', 'Sus scrofa']
+###input###
+ Abstract
+Analysis of the pattern of proteins or messengerRNAs (mRNAs) in histological tissue sections is a cornerstone in biomedical research and diagnostics. This typically involves the visualization of a few proteins or expressed genes at a time. We have devised a strategy, which we call "spatial transcriptomics," that allows visualization and quantitative analysis of the transcriptome with spatial resolution in individual tissue sections. By positioning histological sections on arrayed reverse transcription primers with unique positional barcodes, we demonstrate high-quality RNA-sequencing data with maintained two-dimensional positional information from the mouse brain and human breast cancer. Spatial transcriptomics provides quantitative gene expression data and visualization of the distribution of mRNAs within tissue sections and enables novel types of bioinformatics analyses, valuable in research and diagnostics.Let's think step by step.
+###Keywords###
+From the input, the terms "mouse brain" and "human breast cancer" directly indicate the species involved. These terms suggest that 'Mus musculus' and 'Homo sapiens' may be proper results.
+###Verify###
+- From "mouse brain" in the Abstract, we can verify that 'Mus musculus' is indeed a proper result.
+- From "human breast cancer" in the Abstract, we can verify that 'Homo sapiens' is also a proper result.
+###Context###
+No additional context is needed as the terms "mouse brain" and "human breast cancer" clearly specify the species involved.
+###Conclusion###
+Consequently, we confirm 'Mus musculus' and 'Homo sapiens' as our final results based on the clear and direct mentions in the Abstract.
+###Result###
+['Mus musculus', 'Homo sapiens']

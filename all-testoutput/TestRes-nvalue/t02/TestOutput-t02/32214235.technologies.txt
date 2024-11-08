@@ -1,0 +1,10 @@
+### Keywords ###
+From the term "single-cell mRNA sequencing" in the Abstract, it suggests that 'RNA-seq' or 'scRNA' may be proper results.
+### Verify ###
+The Abstract mentions "single-cell mRNA sequencing" and "single-cell HCL analysis," which indicates the use of single-cell RNA sequencing technologies. Both 'RNA-seq' and 'scRNA' are relevant terms, but 'scRNA' is more specific to single-cell analysis.
+### Context ###
+The context emphasizes "single-cell" analysis multiple times, reinforcing that 'scRNA' is more precise for this study compared to the general 'RNA-seq'.
+### Conclusion ###
+Consequently, we choose 'scRNA' as our final result based on the specific focus on single-cell mRNA sequencing and the repeated emphasis on single-cell analysis in the Abstract.
+### Result ###
+['scRNA']

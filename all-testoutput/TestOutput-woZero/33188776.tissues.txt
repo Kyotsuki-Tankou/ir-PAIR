@@ -1,0 +1,14 @@
+### Keywords ###
+From the input, the keywords that stand out are "mouse embryos," "brain," and "pigmented epithelium in an eye field." This suggests that 'Embryo,' 'Brain,' and 'Eye' might be relevant tissues.
+### Verify ###
+In the abstract, it is mentioned:
+- "Application to mouse embryos revealed major tissue types in early organogenesis"
+- "fine features like microvasculature in a brain"
+- "pigmented epithelium in an eye field"
+This directly verifies that 'Embryo,' 'Brain,' and 'Eye' are indeed relevant tissues.
+### Context ###
+Since the abstract explicitly mentions "mouse embryos," "brain," and "eye field," there is no ambiguity or need for further context to verify these tissues.
+### Conclusion ###
+Consequently, based on the explicit mention in the abstract, we choose 'Embryo,' 'Brain,' and 'Eye' as our final results.
+### Result ###
+['Embryo', 'Brain', 'Eye']

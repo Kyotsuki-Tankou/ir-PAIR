@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, the terms "single-cell RNA sequencing" and "spatial transcriptomics" are mentioned, indicating potential matches with the technologies listed in the schema.
+### Verify ###
+- "single-cell RNA sequencing" can be matched to 'scRNA' in the schema.
+- "spatial transcriptomics" directly matches 'Spatial Transcriptomics' in the schema.
+### Context ###
+The abstract discusses the use of these technologies to compare gene expression patterns in mouse gastruloids and embryos, providing a clear context that confirms the application of these specific technologies.
+### Conclusion ###
+Both technologies mentioned in the abstract are directly relevant and confirmed by the context, leading to the conclusion that 'scRNA' and 'Spatial Transcriptomics' are the correct results.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

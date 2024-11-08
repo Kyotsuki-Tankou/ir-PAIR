@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Ovarian"]
+["Follicles"]
+["10x Visium"]
+["Infertility"]
+ Abstract\nOvarian aging precedes that of any other mammalian organ and is the primary cause of female age-related infertility. The biological mechanisms responsible for ovarian aging remain unclear. Previous studies have been limited by their use of bulk RNA-sequencing, which masks the dynamic and heterogeneous nature of the ovary. In this study, we spatially resolved the transcriptomic landscape of ovaries from young and aged outbred mice. In total, we defined eight main ovarian cell populations, all of which were characterized by significant transcriptomic changes between young and aged samples. Further sub-cluster analysis revealed separate transcriptomes for distinct granulosa cell populations found in young versus aged mice, in addition to an oocyte sub-cluster population completely absent from aged mouse ovaries. This study provides a new perspective on mammalian ovarian aging using spatial transcriptomics to achieve deeper understanding of the localization and cell-population-specific mechanisms underlying age-related fertility decline. \n Keywords:Cellular physiology; Omics; Physiology; Transcriptomics.

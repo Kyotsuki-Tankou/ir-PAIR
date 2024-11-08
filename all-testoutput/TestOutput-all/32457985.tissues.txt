@@ -1,0 +1,17 @@
+### Keywords ###
+From the input, the terms "aortic microenvironment," "hematopoietic stem cells," and "embryos" are prominent. These suggest potential matches like 'Embryo,' 'Dorsal aorta,' and 'Bone marrow.'
+### Verify ###
+- "human embryos" and "zebrafish, chicken, mouse, and human embryos" clearly indicate the involvement of 'Embryo.'
+- "aortic microenvironment" suggests a focus on the 'Dorsal aorta.'
+- "hematopoietic stem cells" are typically associated with 'Bone marrow,' although the context is more about their generation site.
+### Context ###
+- The abstract mentions "genome-wide RNA tomography sequencing on zebrafish, chicken, mouse, and human embryos," which emphasizes the role of 'Embryo.'
+- "The resulting anterior-posterior and dorsal-ventral transcriptional maps provided a powerful resource for exploring genes and regulatory pathways active in the aortic microenvironment." This further supports the importance of 'Dorsal aorta.'
+- "By performing interspecies comparative RNA sequencing analyses and functional assays, we explored the complexity of the aortic microenvironment landscape and the fine-tuning of various factors interacting to control hematopoietic stem cell generation." This indicates a focus on the microenvironment where hematopoietic stem cells are generated, which is closely related to 'Bone marrow.'
+### Conclusion ###
+Given the context and specific mentions:
+- 'Embryo' is directly mentioned and clearly relevant.
+- 'Dorsal aorta' is specifically mentioned in the context of the aortic microenvironment.
+- 'Bone marrow' is implied due to the focus on hematopoietic stem cells, though not directly mentioned.
+### Result ###
+['Embryo', 'Dorsal aorta', 'Bone marrow']

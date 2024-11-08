@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, we see "spatial transcriptomics," which suggests that the type of analysis involves spatial transcriptomics.
+### Verify ###
+In the Abstract, it is stated that "APEX-seq in nine distinct subcellular locales produced a nanometer-resolution spatial map of the human transcriptome." This indicates the use of spatial transcriptomics.
+### Context ###
+The Abstract also mentions "a method for RNA sequencing based on direct proximity labeling of RNA," which implies a focus on high-resolution spatial mapping within single cells. This suggests a combination of single-cell and spatial transcriptomics techniques.
+### Conclusion ###
+Given that the method involves both high-resolution spatial mapping and RNA sequencing at the subcellular level, it aligns with both single-cell and spatial transcriptomics. Therefore, the type of analysis is best described as 'Single-cell and Spatial transcriptomics'.
+### Result ###
+['Single-cell and Spatial transcriptomics']

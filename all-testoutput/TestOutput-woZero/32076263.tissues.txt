@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keywords "gastruloids" and "mouse embryos" are prominent. Additionally, terms like "embryonic stem cells," "germ-layer specification," and "somitogenesis" suggest a focus on early developmental stages.
+### Verify ###
+The abstract mentions "mouse gastruloids" and "mouse embryos," indicating a comparison between these two entities. The terms "embryonic cell types" and "somitogenesis" further reinforce the focus on early developmental tissues.
+### Context ###
+Upon reviewing the context, the abstract discusses the similarities between gastruloids and embryos, particularly in terms of gene expression patterns and developmental processes like somitogenesis. This suggests a strong connection to embryonic tissues.
+### Conclusion ###
+Given the emphasis on "gastruloids" and their comparison with "mouse embryos," along with the discussion of embryonic development, it is reasonable to conclude that "Gastrula" and "Embryo" are the relevant tissues.
+### Result ###
+['Gastrula', 'Embryo']

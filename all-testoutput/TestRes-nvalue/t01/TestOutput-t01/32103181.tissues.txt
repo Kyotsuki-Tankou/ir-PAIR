@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the tissues mentioned include "tumours," "normal adjacent tissue," and "peripheral blood."
+### Verify ###
+- "tumours" could correspond to various tissues where tumors can develop, such as "Breast," "Liver," "Lung," etc.
+- "normal adjacent tissue" is not specific but implies tissues surrounding the tumor, which could be any of the tissues listed in the schema.
+- "peripheral blood" directly corresponds to "Blood" in the schema.
+### Context ###
+The abstract focuses on T cells and their distribution in cancer patients, emphasizing tumor immunity. It mentions "different types of cancer," which implies a range of tissues where tumors can occur. However, specific tissues are not explicitly listed.
+### Conclusion ###
+Given the context of cancer research and the mention of "different types of cancer," it is reasonable to infer that the study includes various tissues where tumors are common. However, without explicit mentions, we can only definitively include "Blood" based on the direct mention of "peripheral blood."
+### Result ###
+["Blood"]

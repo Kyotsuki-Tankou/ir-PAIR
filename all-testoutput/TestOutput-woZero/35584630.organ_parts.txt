@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the terms "human brain metastases" and "brain metastasis tumor microenvironment" suggest that 'Brain' may be a proper result.
+### Verify ###
+The Abstract mentions "we analyze human brain metastases" and "these clonally unrelated, phenotypically distinct CD8+T cell populations occupy discrete niches within the brain metastasis tumor microenvironment," which further supports that 'Brain' is indeed the organ part being studied.
+### Conclusion ###
+Consequently, we confirm 'Brain' as our final result.
+### Result ###
+['Brain']

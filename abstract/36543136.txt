@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Muscle"]
+null
+["10x Visium"]
+["Normal atlas"]
+ Abstract\nStriated muscle is a highly organized structure composed of well-defined anatomical domains with integrated but distinct assignments. So far, the lack of a direct correlation between tissue architecture and gene expression has limited our understanding of how each unit responds to physio-pathologic contexts. Here, we show how the combined use of spatially resolved transcriptomics and immunofluorescence can bridge this gap by enabling the unbiased identification of such domains and the characterization of their response to external perturbations. Using a spatiotemporal analysis, we follow changes in the transcriptome of specific domains in muscle in a model of denervation. Furthermore, our approach enables us to identify the spatial distribution and nerve dependence of atrophic signaling pathway and polyamine metabolism to glycolytic fibers. Indeed, we demonstrate that perturbations of polyamine pathway can affect muscle function. Our dataset serves as a resource for future studies of the mechanisms underlying skeletal muscle homeostasis and innervation. \n Keywords:Amd1; Amd2; CP: Molecular biology; Smox; denervation; muscular atrophy; polyamine; putrescin; skeletal muscle; spatial transcriptomics.

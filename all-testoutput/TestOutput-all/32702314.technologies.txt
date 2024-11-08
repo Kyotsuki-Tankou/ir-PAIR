@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "spatial transcriptomics" and "in situ sequencing" are prominently mentioned, indicating that these technologies are used in the study. Therefore, 'Spatial Transcriptomics' and 'in situ sequencing' (which corresponds to 'seqFISH' in the schema) may be proper results.
+### Verify ###
+The abstract states, "We investigate here... using spatial transcriptomics" and "We confirm the majority of the observed alterations at the cellular level using in situ sequencing on mouse and human brain sections." This directly references the use of 'Spatial Transcriptomics' and 'in situ sequencing' (seqFISH), verifying that these are indeed relevant and proper results.
+### Context ###
+Given the direct and clear mention of "spatial transcriptomics" and "in situ sequencing" in both the abstract and the keywords, there is no need for additional context to verify these keywords.
+### Conclusion ###
+Consequently, we confirm 'Spatial Transcriptomics' and 'seqFISH' as our final results based on the clear and consistent references in the abstract.
+### Result ###
+['Spatial Transcriptomics', 'seqFISH']

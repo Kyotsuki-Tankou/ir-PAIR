@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, key terms include "T cells," "tumour immunity," "cancer," "normal adjacent tissue," and "peripheral blood." These suggest a focus on cancer and its interaction with the immune system, particularly in tumor and adjacent tissues.
+### Verify ###
+The abstract discusses the distribution of T cells in "tumours, normal adjacent tissue, and peripheral blood." This context aligns with organ parts related to cancer and immune response, such as "Tumor," "Cancer," and potentially "Blood."
+### Context ###
+Given the emphasis on tumor environments and the immune response within and around tumors, the most relevant organ parts would be those directly involved in cancerous tissues and their immediate surroundings.
+### Conclusion ###
+The most appropriate choices from the provided schema are "Tumor" and "Normal adjacent tissue," as they best reflect the study's focus on the distribution and behavior of T cells in cancerous and adjacent normal tissues.
+### Result ###
+["Tumor", "Normal adjacent tissue"]

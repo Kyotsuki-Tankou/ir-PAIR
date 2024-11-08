@@ -1,0 +1,21 @@
+{
+    "species": [
+        "Mus musculus"
+    ],
+    "tissues": [
+        "Brain"
+    ],
+    "organ_parts": [
+        "Brain"
+    ],
+    "technologies": [
+        "RNA-seq",
+        "Spatial Transcriptomics"
+    ],
+    "disease": [
+        "Brain development"
+    ],
+    "type": [
+        "Single-cell and Spatial transcriptomics"
+    ]
+}

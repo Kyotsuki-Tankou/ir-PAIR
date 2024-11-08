@@ -1,0 +1,22 @@
+### Keywords ###
+- mouse embryo
+- inner cell mass
+- epiblast
+- pluripotent state
+- germ layers
+- cell lineages
+- gastrulation
+- vertebrate embryos
+- transcriptome
+- gene-expression profiles
+- tissue lineages
+- pluripotency states
+- Hippo-Yap signalling
+- visceral endoderm
+- endoderm
+### Verify ###
+- **species mentioned**: mouse embryo (Mus musculus)
+### Conclusion ###
+- The species relevant to the input is "Mus musculus".
+### Result ###
+- ["Mus musculus"]

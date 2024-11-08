@@ -1,0 +1,10 @@
+###Keywords###
+The keywords "brain maps," "adult mouse brain," "spatial transcriptomics," "isocortex," "hippocampus," "striatum," and "molecular atlas" suggest that brain-related organ parts might be relevant.
+###Verify###
+The abstract mentions specific brain regions such as "isocortex," "hippocampus," and "striatum," which are directly related to the brain. This verifies the relevance of brain-related organ parts like "Striatum," "Hippocampus," and "Coronal brain section" from the schema.
+###Context###
+The abstract does not provide direct evidence for "Coronal brain section," which is the given result. We need to look for any contextual clues that might link the abstract's content to coronal brain sections.
+###Conclusion###
+Given the focus on the systematic classification of the adult mouse brain and the mention of specific brain regions, it is reasonable to infer that "Coronal brain section" could be a relevant organ part, as coronal sections are commonly used in neuroanatomical studies to visualize and classify brain regions.
+###Result###
+['Coronal brain section']

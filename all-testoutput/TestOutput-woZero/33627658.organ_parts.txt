@@ -1,0 +1,19 @@
+###Keywords###
+- "single-cell combinatorial indexing on Microbiopsies Assigned to Positions for the Assay for Transposase Accessible Chromatin"
+- "sciMAP-ATAC"
+- "adult mouse primary somatosensory cortex"
+- "human primary visual cortex"
+- "mouse brain"
+###Verify###
+- The abstract mentions "sciMAP-ATAC" as a method used for spatially resolved, single-cell profiling of chromatin states.
+- It specifies the application of sciMAP-ATAC in "the adult mouse primary somatosensory cortex and in the human primary visual cortex."
+- Additionally, it discusses the characterization of cerebral ischemic infarction in "the mouse brain."
+###Context###
+- The focus is on cortical regions and the brain, specifically mentioning the somatosensory cortex and visual cortex.
+- The term "mouse brain" is used in the context of studying cerebral ischemic infarction.
+###Conclusion###
+- The primary organ parts mentioned and directly related to the experiments are "Cortex" and "Mouse brain."
+- "Cortex" is explicitly mentioned in both mouse and human contexts.
+- "Mouse brain" is specifically mentioned in relation to the ischemic infarction model.
+###Result###
+['Cortex', 'Mouse brain']

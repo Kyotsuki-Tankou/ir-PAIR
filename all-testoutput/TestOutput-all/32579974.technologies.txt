@@ -1,0 +1,13 @@
+###Keywords###
+From the Keywords, we have "scRNA-seq", "spatial transcriptomics", and "MIBI" which are directly related to the technologies used in the study.
+###Verify###
+In the Abstract, we see mentions of:
+- "single-cell RNA sequencing" which corresponds to 'scRNA'.
+- "spatial transcriptomics" which directly matches 'Spatial Transcriptomics'.
+- "multiplexed ion beam imaging" which corresponds to 'MIBI'.
+###Context###
+Not required in this case as the verification directly supports the keywords.
+###Conclusion###
+The technologies mentioned in the Abstract and Keywords clearly match the items in the provided schema.
+###Result###
+['scRNA', 'Spatial Transcriptomics', 'MIBI']

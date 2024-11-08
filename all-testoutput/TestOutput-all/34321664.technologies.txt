@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, the terms "single-cell RNA sequencing" and "spatial transcriptomics" are mentioned, which directly correspond to technologies in the schema.
+### Verify ###
+- "single-cell RNA sequencing" aligns with 'scRNA' in the schema.
+- "spatial transcriptomics" aligns with 'Spatial Transcriptomics' in the schema.
+- "in situ mRNA sequencing" is not explicitly listed in the schema but is closely related to spatial transcriptomics technologies like 'seqFish' or 'seqFISH+'.
+### Context ###
+- The study involves characterizing cell states in the embryonic mouse brain, which suggests a need for high-resolution spatial and single-cell technologies.
+- The mention of "in situ mRNA sequencing" further supports the use of spatial transcriptomics technologies.
+### Conclusion ###
+Based on the explicit mentions and the context of the study, we can conclude that 'scRNA' and 'Spatial Transcriptomics' are the appropriate technologies to be extracted. While 'in situ mRNA sequencing' is mentioned, it is not directly listed in the schema, so we focus on the explicitly mentioned technologies.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

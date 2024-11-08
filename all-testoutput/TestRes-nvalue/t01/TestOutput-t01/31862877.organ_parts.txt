@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the primary focus is on "Heart failure (HF)," "circulating proteins," "aptamer-based proteomics," "pathophysiological insights," "therapeutic targets," "advanced HF," "heart transplantation," and "cardiac and systemic factors."
+###Verify###
+The abstract explicitly mentions "Heart failure (HF)" as the central topic of the study. This directly corresponds to the term "Heart failure" in the schema.
+###Context###
+The study involves the characterization of proteins associated with heart failure, including their changes across different stages of the disease and their regression after heart transplantation. This context further reinforces the focus on "Heart failure."
+###Conclusion###
+Given the clear and consistent focus on "Heart failure" throughout the abstract, it is the most appropriate match from the provided schema.
+###Result###
+["Heart failure"]

@@ -1,0 +1,22 @@
+### Keywords ###
+From the input, the relevant organ parts mentioned are:
+- 'Embryo' (zebrafish, chicken, mouse, and human embryos)
+- 'Mouse Embryo'
+- 'Human cell lines' (implied by human embryos)
+- 'Mouse aorta' (aortic microenvironment)
+### Verify ###
+- **Embryo**: The abstract explicitly mentions "zebrafish, chicken, mouse, and human embryos."
+- **Mouse Embryo**: Specifically mentioned as one of the species studied.
+- **Human cell lines**: Implied by the mention of human embryos, though not directly stated.
+- **Mouse aorta**: The study focuses on the "aortic microenvironment," specifically in mouse embryos.
+### Context ###
+- The study involves genome-wide RNA tomography sequencing on various embryos, focusing on the aortic microenvironment.
+- The mention of "aortic microenvironment" directly relates to the "Mouse aorta."
+- The use of human embryos implies the involvement of human cell lines, though not explicitly stated.
+### Conclusion ###
+- **Embryo**: Confirmed by explicit mention.
+- **Mouse Embryo**: Confirmed by explicit mention.
+- **Human cell lines**: Implied but not directly stated; context supports its inclusion.
+- **Mouse aorta**: Confirmed by focus on the aortic microenvironment in mouse embryos.
+### Result ###
+['Embryo', 'Mouse Embryo', 'Human cell lines', 'Mouse aorta']

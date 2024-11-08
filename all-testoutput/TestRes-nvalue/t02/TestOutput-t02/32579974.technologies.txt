@@ -1,0 +1,15 @@
+### Keywords ###
+From the abstract, the following technologies are explicitly mentioned or implied:
+- "single-cell RNA sequencing" suggests `scRNA-seq`
+- "spatial transcriptomics" suggests `Spatial Transcriptomics`
+- "multiplexed ion beam imaging" suggests `MIBI` (though not listed in the schema, it is a relevant technology)
+### Verify ###
+- "single-cell RNA sequencing" directly corresponds to `scRNA-seq` in the schema.
+- "spatial transcriptomics" directly corresponds to `Spatial Transcriptomics` in the schema.
+- "multiplexed ion beam imaging" (MIBI) is not listed in the schema, so it is not considered in the final result.
+### Context ###
+The abstract clearly mentions the use of "single-cell RNA sequencing" and "spatial transcriptomics," which are directly matched with `scRNA-seq` and `Spatial Transcriptomics` in the schema. There is no ambiguity or need for further context to confirm these matches.
+### Conclusion ###
+Based on the explicit mentions in the abstract and the direct correspondence with the schema, we can confidently conclude that the technologies used are `scRNA-seq` and `Spatial Transcriptomics`.
+### Result ###
+['scRNA-seq', 'Spatial Transcriptomics']

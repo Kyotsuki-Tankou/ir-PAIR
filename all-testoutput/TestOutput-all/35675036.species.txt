@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the term "mouse models" suggests that 'Mus musculus' may be a proper result.
+### Verify ###
+The phrase "ovarian cancer tumor growth in mouse models" in the Abstract further supports that 'Mus musculus' is indeed the species used in the study.
+### Conclusion ###
+Consequently, we confirm 'Mus musculus' as our final result.
+### Result ###
+['Mus musculus']

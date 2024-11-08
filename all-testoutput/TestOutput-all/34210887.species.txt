@@ -1,0 +1,10 @@
+### Keywords ###
+From the phrase "developing mouse embryos" in the Abstract, it indicates that 'Mus musculus' may be a proper result.
+### Verify ###
+The Abstract specifically mentions "applying sci-Space to developing mouse embryos" and "captured approximate spatial coordinates and whole transcriptomes of about 120,000 nuclei" from these embryos, which further verifies that 'Mus musculus' is indeed the species being studied.
+### Context ###
+The context of the study focuses on the application of a new method (sci-Space) to mouse embryos, emphasizing the spatial resolution of gene expression in these embryos. This context reinforces the focus on 'Mus musculus' without introducing any conflicting information.
+### Conclusion ###
+Consequently, we confirm 'Mus musculus' as our final result based on the clear and consistent focus on mouse embryos throughout the abstract.
+### Result ###
+['Mus musculus']

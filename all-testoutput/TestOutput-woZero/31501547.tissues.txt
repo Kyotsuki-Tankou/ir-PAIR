@@ -1,0 +1,12 @@
+### Keywords ###
+From the Abstract, the keywords "mouse brain" and "primary breast cancer" suggest the tissues involved. These directly correspond to 'Brain' and 'Breast' from the schema.
+### Verify ###
+- "mouse brain" directly matches 'Brain' in the schema.
+- "primary breast cancer" directly matches 'Breast' in the schema.
+### Context ###
+- The abstract discusses "high-definition spatial transcriptomics" applied to "histological tissue sections," specifically mentioning "mouse brain and primary breast cancer."
+- This context confirms that the study involves these two specific tissues.
+### Conclusion ###
+Given the direct mentions and the context, it is clear that 'Brain' and 'Breast' are the relevant tissues to extract.
+### Result ###
+['Brain', 'Breast']

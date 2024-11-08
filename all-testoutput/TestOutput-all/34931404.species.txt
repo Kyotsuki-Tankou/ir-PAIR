@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, keywords such as "GAN mice," "gastric cancer," "GAN-p53KO," "GAN-KP," and "mouse model" are prominent. These suggest a focus on a specific species used in the study.
+###Verify###
+Upon reviewing the abstract, we see mentions of "GAN mice," "mouse stomach," and "syngeneic mouse," which directly correspond to a specific species.
+###Conclusion###
+The abstract clearly indicates the use of mice in the study, specifically "GAN mice," which corresponds to "Mus musculus" in the provided schema.
+###Result###
+['Mus musculus']

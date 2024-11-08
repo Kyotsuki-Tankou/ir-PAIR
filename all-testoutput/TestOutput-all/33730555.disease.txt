@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, the terms "lacrimal gland," "organoids," and "single-cell sequencing" are prominent. The term "lacrimal gland" suggests a focus on a specific gland, which might relate to diseases involving gland development or function.
+### Verify ###
+- The abstract mentions "lacrimal gland" extensively, indicating a focus on this particular gland.
+- The term "organoids" suggests a model system for studying gland development and function.
+- "Single-cell sequencing" indicates a detailed analysis of cellular heterogeneity, which is relevant to understanding gland development and diseases.
+### Context ###
+- The abstract discusses the establishment of 3D organoid culture conditions for the lacrimal gland, which is crucial for studying its development and function.
+- The mention of "CRISPR-Cas9-mediated genome editing" and "Pax6" as a master regulator for eye development further emphasizes the study's focus on gland development.
+- The ability of human lacrimal gland organoids to phenocopy tear secretion and engraft in mice suggests a focus on the functional aspects of the gland.
+### Conclusion ###
+Given the strong focus on the lacrimal gland and its development, the most relevant term from the schema is 'Gland development.' This term encompasses the study's emphasis on understanding the lacrimal gland's structure and function through organoid models and single-cell sequencing.
+### Result ###
+['Gland development']

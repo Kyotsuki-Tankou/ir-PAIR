@@ -1,0 +1,17 @@
+### Keywords ###
+From the abstract and keywords, the following tissues are mentioned directly or implied:
+- 'Colon'
+- 'Liver'
+- 'Subcellular architectures of nucleus and cytoplasm' (implies 'Cell line' or 'Epithelium')
+### Verify ###
+- "tissue zonation according to the portal-central (liver)" explicitly mentions 'Liver'.
+- "crypt-surface (colon)" explicitly mentions 'Colon'.
+- "subcellular architectures of nucleus and cytoplasm" suggests detailed cellular analysis, which could involve 'Cell line' or 'Epithelium'.
+### Context ###
+To ensure accuracy:
+- The mention of "tissue sections" and specific axes like "portal-central" and "crypt-surface" confirms the focus on 'Liver' and 'Colon'.
+- The subcellular analysis could indeed relate to 'Cell line' or 'Epithelium', but without specific mention of a cell line, 'Epithelium' is more broadly applicable.
+### Conclusion ###
+Given the explicit mentions and the context of the study, the relevant tissues are 'Colon', 'Liver', and 'Epithelium'.
+### Result ###
+['Colon', 'Liver', 'Epithelium']

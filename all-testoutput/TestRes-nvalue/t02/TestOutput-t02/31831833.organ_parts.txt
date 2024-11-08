@@ -1,0 +1,10 @@
+###Keywords###
+From the Abstract, we identify key terms such as "synovial biopsies", "rheumatoid arthritis (RA)", "spondyloarthritis (SpA)", and "Spatial Transcriptomics (ST)". These terms suggest a focus on synovial tissue and inflammatory diseases.
+###Verify###
+In the Abstract, we see specific mentions of "synovial tissue biopsies from affected joints" and "Spatial Transcriptomics (ST) as a proof of principle approach for unbiased mRNA studies at the site of inflammation". These phrases strongly indicate that the primary focus is on synovial tissue.
+###Context###
+Given the explicit mention of "synovial tissue biopsies", we need to determine if this term directly corresponds to any items in the provided schema. The schema includes "Synovial tissue", which is a direct match.
+###Conclusion###
+The term "synovial tissue" from the Abstract directly matches an item in the provided schema, confirming its relevance.
+###Result###
+['Synovial tissue']

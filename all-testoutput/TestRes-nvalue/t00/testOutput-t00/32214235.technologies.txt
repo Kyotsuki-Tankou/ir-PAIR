@@ -1,0 +1,17 @@
+### Keywords ###
+- Single-cell analysis
+- Single-cell mRNA sequencing
+- Human cell landscape (HCL)
+- Single-cell HCL analysis pipeline
+- Comparative analysis of human and mouse
+- Stem and progenitor cells
+- Differentiated cells
+- Transcriptomic stochasticity
+### Verify ###
+- technologies: ['CITE-seq', 'XYZeq', 'CUT&Tag', 'RNA-seq', 'STARmap', 'DBiT-seq', 'scATAC-seq', 'scRNA', 'EASI-FISH', 'PIC-seq', 'sci-Space', 'sciMAP-ATAC-seq', 'Slide-seqV2', 'Spatial Transcriptomics', 'seqFish', 'seqFISH+', 'Stereo-Seq', '10x Visium', ' RNA-seq', 'scATAC', 'LCM-seq', 'Tomo-seq', 'Proximity RNA-seq', 'sci-ATAC-seq', 'ClampFISH', 'VINE-seq', 'snRNA', 'HDST', 'GeoMx DSP', 'Seq-Scope', 'APEX-seq', 'RNAseq', 'MERFISH', 'ClumpSeq', 'Geo-seq', 'Slide-seq']
+### Context ###
+- The input mentions "single-cell mRNA sequencing," which is a form of RNA-seq focused on single cells.
+### Conclusion ###
+- The technology used in the input that matches the schema is "RNA-seq."
+### Result ###
+- ["RNA-seq"]

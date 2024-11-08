@@ -1,0 +1,10 @@
+###Keywords
+The abstract discusses "primary pancreatic tumors" and the analysis of "ductal cells," "macrophages," "dendritic cells," and "cancer cells," which suggests that 'Primary PDAC tumor' and possibly 'Pancreatic adenocarcinoma' from the schema might be relevant.
+###Verify
+The abstract states, "Applying multimodal intersection analysis to primary pancreatic tumors," which confirms 'Primary PDAC tumor' as a relevant organ part. Additionally, "pancreatic tumors" could be associated with 'Pancreatic adenocarcinoma'.
+###Context
+The abstract specifically mentions the analysis of primary pancreatic tumors, indicating a detailed focus on this particular type of tumor, rather than the broader category of 'Pancreatic adenocarcinoma'.
+###Conclusion
+Based on the direct mention of 'primary pancreatic tumors' and the specific focus on this condition, 'Primary PDAC tumor' is the most appropriate result.
+###Result
+['Primary PDAC tumor']

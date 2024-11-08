@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, the keyword "mouse brain" suggests that 'Mus musculus' might be the relevant species.
+### Verify ###
+In the abstract, it is mentioned:
+- "in the mouse brain"
+This directly verifies that 'Mus musculus' is indeed the relevant species.
+### Context ###
+Since the abstract explicitly mentions "mouse brain," there is no ambiguity or need for further context to verify this species.
+### Conclusion ###
+Consequently, based on the explicit mention in the abstract, we choose 'Mus musculus' as our final result.
+### Result ###
+['Mus musculus']

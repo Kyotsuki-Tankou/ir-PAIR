@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the phrases "human cSCCs and matched normal skin" and "human tumor xenografts" suggest that the species involved is 'Homo sapiens'.
+### Verify ###
+In the Abstract, it is explicitly mentioned that the study involves "human cSCCs and matched normal skin" and "single-cell characterization of human tumor xenografts," which directly verifies that 'Homo sapiens' is the species studied.
+### Context ###
+Not required in this case as the verification directly supports the result without ambiguity.
+### Conclusion ###
+Consequently, we confirm 'Homo sapiens' as our final result.
+### Result ###
+['Homo sapiens']

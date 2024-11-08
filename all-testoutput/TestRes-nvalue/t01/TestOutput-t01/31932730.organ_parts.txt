@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the terms "primary pancreatic tumors" and "multimodal intersection analysis" suggest that 'Primary PDAC tumor' may be a relevant organ part.
+### Verify ###
+The phrase "Applying multimodal intersection analysis to primary pancreatic tumors" in the Abstract directly supports that 'Primary PDAC tumor' is indeed the organ part being studied.
+### Conclusion ###
+Consequently, we confirm 'Primary PDAC tumor' as our final result.
+### Result ###
+['Primary PDAC tumor']

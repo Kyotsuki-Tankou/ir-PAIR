@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, the keyword that stands out is "Homo sapiens," as the study involves "rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients," which are human diseases.
+### Verify ###
+In the abstract, it is mentioned:
+- "synovial biopsies from rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients"
+This directly verifies that the species involved is 'Homo sapiens'.
+### Context ###
+Since the abstract explicitly mentions "patients," which implies humans, there is no ambiguity or need for further context to verify the species.
+### Conclusion ###
+Consequently, based on the explicit mention in the abstract, we choose 'Homo sapiens' as our final result.
+### Result ###
+["Homo sapiens"]

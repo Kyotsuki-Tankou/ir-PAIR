@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the mention of "human cSCCs and matched normal skin" indicates that the species involved is 'Homo sapiens'.
+### Verify ###
+The abstract explicitly states, "To define the cellular composition and architecture of cutaneous squamous cell carcinoma (cSCC), we combined single-cell RNA sequencing with spatial transcriptomics and multiplexed ion beam imaging from a series of human cSCCs and matched normal skin." This clearly verifies that the species studied is 'Homo sapiens'.
+### Conclusion ###
+The abstract provides clear and direct evidence that the species involved in the study is 'Homo sapiens'.
+### Result ###
+['Homo sapiens']

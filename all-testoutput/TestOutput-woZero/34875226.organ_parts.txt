@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the terms "brain tissue," "thick brain sections," and "lateral hypothalamic area (LHA)" suggest that 'Brain' and 'hypothalamus' might be the relevant organ parts.
+### Verify ###
+The abstract mentions "brain tissue," "thick brain sections," and specifically "lateral hypothalamic area (LHA)," which are clear indicators that 'Brain' and 'hypothalamus' are indeed the organ parts involved in the study.
+### Conclusion ###
+Given the explicit mentions of "brain tissue" and "lateral hypothalamic area (LHA)," we can confidently conclude that 'Brain' and 'hypothalamus' are the correct organ parts to be extracted.
+### Result ###
+['Brain', 'hypothalamus']

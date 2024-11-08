@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords "fetal liver; single-cell RNA sequencing; spatial transcriptomics," there is a direct indication of the species used in the study, which is "humans."
+### Verify ###
+In the Abstract, the phrases "in humans" and "human fetal livers" explicitly mention the species used in the study, confirming that the research was conducted on human subjects.
+### Context ###
+Not required in this case as the verification directly supports the keyword.
+### Conclusion ###
+Consequently, we choose "Homo sapiens" as our final result based on the explicit mention in the text.
+### Result ###
+['Homo sapiens']

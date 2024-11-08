@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the terms "Neuroendocrine prostate cancer (NEPC)" and "prostate cancer" directly indicate the disease 'Prostate Cancer'.
+### Verify ###
+The abstract mentions "NEPC is a lethal subtype of prostate cancer" and "prostate tumors from 7 patients," which further confirm that the disease studied is 'Prostate Cancer'.
+### Conclusion ###
+Since the keywords and the abstract both consistently point to 'Prostate Cancer', we can confidently conclude that 'Prostate Cancer' is the correct disease.
+### Result ###
+['Prostate Cancer']

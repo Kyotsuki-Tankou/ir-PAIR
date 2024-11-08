@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Heart"]
+["Ileum", "Heart"]
+["10x Visium"]
+["Heart failure"]
+ Abstract\nA significant fraction of sudden death in children and young adults is due to viral myocarditis, an inflammatory disease of the heart. In this study, by using integrated single-cell and spatial transcriptomics, we created a high-resolution, spatially resolved transcriptome map of reovirus-induced myocarditis in neonatal mouse hearts. We assayed hearts collected at three timepoints after infection and studied the temporal, spatial and cellular heterogeneity of host-virus interactions. We further assayed the intestine, the primary site of reovirus infection, to establish a full chronology of molecular events that ultimately lead to myocarditis. We found that inflamed endothelial cells recruit cytotoxic T cells and undergo pyroptosis in the myocarditic tissue. Analyses of spatially restricted gene expression in myocarditic regions and the border zone identified immune-mediated cell-type-specific injury and stress responses. Overall, we observed a complex network of cellular phenotypes and spatially restricted cell-cell interactions associated with reovirus-induced myocarditis in neonatal mice.

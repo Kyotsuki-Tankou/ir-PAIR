@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, the terms "gastruloids" and "mouse embryos" are prominent. These suggest potential matches with 'Gastruloid' and 'Mouse Embryo' from the schema.
+### Verify ###
+1. **Gastruloid**: The Abstract mentions "Gastruloids are three-dimensional aggregates of embryonic stem cells" and "we compare mouse gastruloids with mouse embryos," directly indicating the use of 'Gastruloid'.
+2. **Mouse Embryo**: The Abstract also states "we compare mouse gastruloids with mouse embryos," which directly aligns with 'Mouse Embryo' from the schema.
+### Context ###
+The context of the study involves comparing gastruloids with actual mouse embryos to understand their developmental similarities. This reinforces the presence of both 'Gastruloid' and 'Mouse Embryo' in the study.
+### Conclusion ###
+Based on the direct mentions and the contextual support, both 'Gastruloid' and 'Mouse Embryo' are relevant and should be included in the result.
+### Result ###
+['Gastruloid', 'Mouse Embryo']

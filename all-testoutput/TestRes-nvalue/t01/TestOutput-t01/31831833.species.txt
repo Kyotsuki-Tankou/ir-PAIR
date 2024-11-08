@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the focus is on "synovial biopsies from rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients" and the use of "Spatial Transcriptomics (ST)" for analyzing "transcriptomic profiles in tissue sections." The species is not directly mentioned in the Abstract.
+### Verify ###
+The Abstract discusses human patients with rheumatoid arthritis and spondyloarthritis, implying that the species involved is Homo sapiens. There is no mention of any other species from the provided schema.
+### Context ###
+The context of the study involves human patients and synovial tissue biopsies, which strongly suggests that the species under investigation is Homo sapiens.
+### Conclusion ###
+Based on the Keywords, Verify, and Context steps, it is clear that the species involved in the study is Homo sapiens.
+### Result ###
+['Homo sapiens']

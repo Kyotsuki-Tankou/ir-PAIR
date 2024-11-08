@@ -1,0 +1,8 @@
+###Keywords###
+From the input, the term "APEX-seq" is explicitly mentioned as a method for RNA sequencing.
+###Verify###
+The abstract states, "We introduce APEX-seq, a method for RNA sequencing based on direct proximity labeling of RNA using the peroxidase enzyme APEX2." This directly verifies that "APEX-seq" is a technology used in the study.
+###Conclusion###
+Given the explicit mention and detailed description of "APEX-seq" in the abstract, it is clear that this technology is relevant and used in the study.
+###Result###
+['APEX-seq']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "olfactory system", "olfactory bulb (OB)", and "glomeruli" are prominent. These suggest a focus on the olfactory system and its components.
+### Verify ###
+In the Abstract, we see mentions of "olfactory sensory neurons", "project their axons to a stereotyped location in the olfactory bulb (OB)", and "glomerular location and odor discrimination". These phrases indicate a focus on the olfactory bulb and its structural components.
+### Context ###
+Given the specific mention of "olfactory bulb (OB)" and "glomeruli", we need to determine if these terms directly correspond to any items in the provided schema. The schema includes terms like "Olfactory bulb" and "Brain", which are directly related.
+### Conclusion ###
+The terms from the Keywords and the Abstract directly match specific items in the provided schema list. The closest and most relevant terms are "Olfactory bulb" and "Brain".
+### Result ###
+['Olfactory bulb', 'Brain']

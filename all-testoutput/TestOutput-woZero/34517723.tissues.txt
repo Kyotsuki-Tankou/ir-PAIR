@@ -1,0 +1,10 @@
+###Keywords###
+From the Keywords, we have "inflammasomes", "inflammation", "interleukin-1", "monocytes", "smooth muscle myocytes", and "vasculitis". These terms suggest a focus on immune response and vascular tissues.
+###Verify###
+In the Abstract, the Keywords indicate a study involving immune components and vascular tissues. Specifically, "smooth muscle myocytes" and "vasculitis" point towards vascular tissues, while "monocytes" and "inflammasomes" suggest an immune context.
+###Context###
+Given the mention of "smooth muscle myocytes" and "vasculitis", we need to determine if these terms directly correspond to any items in the provided schema. The schema includes terms like "Blood vessel" and "Muscle", which are related to the mentioned terms.
+###Conclusion###
+The terms from the Keywords and the Abstract suggest a focus on vascular and muscle tissues. The closest related terms in the schema are "Blood vessel" and "Muscle", which are directly relevant to the study's focus on smooth muscle myocytes and vasculitis.
+###Result###
+["Blood vessel", "Muscle"]

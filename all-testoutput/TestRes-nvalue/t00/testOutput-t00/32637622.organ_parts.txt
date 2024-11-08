@@ -1,0 +1,23 @@
+### Keywords ###
+- Brain maps
+- Adult mouse brain
+- Whole-brain spatial transcriptomics
+- Neuroanatomical organization
+- Isocortex
+- Hippocampus
+- Striatum
+- Molecular atlas
+- Single-cell RNA profile
+- Brain palette
+### Verify ###
+- Brain
+- Mouse
+- Striatum
+- Hippocampus
+- Cortex (implied by isocortex)
+### Context ###
+The context indicates a detailed study on the adult mouse brain, focusing on its spatial organization and molecular characteristics. The use of whole-brain spatial transcriptomics highlights the molecular aspects of different brain regions, including isocortex, hippocampus, and striatum.
+### Conclusion ###
+The study primarily revolves around the brain, particularly the adult mouse brain, and delves into specific regions such as the striatum and hippocampus.
+### Result ###
+["Brain", "Striatum", "Hippocampus", "Mouse"]

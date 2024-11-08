@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, terms like "kidney," "acute kidney injury (AKI)," "renal medulla," "S3 proximal tubules," "outer cortical signature," and "renal pelvis" suggest a focus on specific regions within the kidney. 
+### Verify ###
+The abstract mentions "mapping 30 dominant cell types to a human nephrectomy" and "localized regions of reduced overall expression were associated with injury pathways." This indicates a detailed study of kidney regions, particularly the renal pelvis, which is a specific part of the kidney involved in urine transport.
+### Context ###
+Given the detailed focus on the spatial distribution of AKI and the mention of specific kidney regions like the renal medulla and S3 proximal tubules, it further supports the involvement of the renal pelvis in the study. The context does not introduce any conflicting information that would necessitate a different conclusion.
+### Conclusion ###
+Consequently, we confirm that "Renal pelvis" is the appropriate result based on the provided schema and input.
+### Result ###
+["Renal pelvis"]

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the phrases "single-nucleus transcriptomics" and "transcriptional abnormalities" suggest that a technology related to transcriptomics is used. The most relevant technology from the schema that fits this context is 'scRNA' (single-cell RNA sequencing).
+### Verify ###
+The abstract mentions "single-nucleus transcriptomics of skeletal muscle," which directly implies the use of a technology capable of analyzing transcriptomes at the single-nucleus level. 'scRNA' (single-cell RNA sequencing) is a widely used technique for such analyses, making it a strong candidate.
+### Context ###
+While 'scRNA' is a strong candidate, it is important to ensure there are no other technologies mentioned that could be more specific or relevant. The abstract focuses on single-nucleus transcriptomics, which is closely related to single-cell RNA sequencing. There is no mention of other specific technologies like 'CITE-seq', 'STARmap', or 'Slide-seq'.
+### Conclusion ###
+Given the focus on single-nucleus transcriptomics and the absence of other specific technology mentions, 'scRNA' is the most appropriate technology to extract from the abstract.
+### Result ###
+['scRNA']

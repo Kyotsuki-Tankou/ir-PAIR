@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the key terms related to diseases are "prostate cancer" and "lethal prostate cancer." These terms suggest potential matches like 'Prostate Cancer' and 'Lethal prostate cancer' (though 'Lethal prostate cancer' is not directly listed in the schema, it implies a severe form of 'Prostate Cancer').
+### Verify ###
+- "prostate cancer" is explicitly mentioned, which directly corresponds to 'Prostate Cancer' in the schema.
+- "lethal prostate cancer" indicates a severe form of prostate cancer, reinforcing the relevance of 'Prostate Cancer'.
+### Context ###
+- The abstract discusses "vitamin D deficiency" and its association with "an increased risk of lethal prostate cancer," providing a context that links vitamin D regulation to the progression and severity of prostate cancer.
+- "To determine vitamin D regulation of prostatic epithelial differentiation, patient-derived benign prostate epithelial organoids were grown in vitamin D-deficient or -sufficient conditions." This further emphasizes the focus on prostate tissue and its pathological conditions.
+### Conclusion ###
+Given the explicit mention of "prostate cancer" and the context linking vitamin D deficiency to the severity of prostate cancer, 'Prostate Cancer' is the correct and relevant disease to be extracted.
+### Result ###
+['Prostate Cancer']

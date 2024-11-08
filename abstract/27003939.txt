@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Embryo"]
+["Gastrulation"]
+["Geo-seq"]
+["Embryonic brain"]
+ Abstract\nGastrulation of the mouse embryo entails progressive restriction of lineage potency and the organization of the lineage progenitors into a body plan. Here we performed a high-resolution RNA sequencing analysis on single mid-gastrulation mouse embryos to collate a spatial transcriptome that correlated with the regionalization of cell fates in the embryo. 3D rendition of the quantitative data enabled the visualization of the spatial pattern of all expressing genes in the epiblast in a digital whole-mount in situ format. The dataset also identified genes that (1) are co-expressed in a specific cell population, (2) display similar global pattern of expression, (3) have lineage markers, (4) mark domains of transcriptional and signaling activity associated with cell fates, and (5) can be used as zip codes for mapping the position of single cells isolated from the mid-gastrula stage embryo and the embryo-derived stem cells to the equivalent epiblast cells for delineating their prospective cell fates.

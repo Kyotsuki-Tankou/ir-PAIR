@@ -1,0 +1,7 @@
+["Mus musculus"]
+["Brain"]
+["Olfactory bulb"]
+["Slide-seqV2"]
+["Olfactory bulb"]
+ Abstract\nThe olfactory system's ability to detect and discriminate between the vast array of chemicals present in the environment is critical for an animal's survival. In mammals, the first step of this odor processing is executed by olfactory sensory neurons, which project their axons to a stereotyped location in the olfactory bulb (OB) to form glomeruli. The stereotyped positioning of glomeruli in the OB suggests an importance for this organization in odor perception. However, because the location of only a limited subset of glomeruli has been determined, it has been challenging to determine the relationship between glomerular location and odor discrimination. Using a combination of single-cell RNA sequencing, spatial transcriptomics and machine learning, we have generated a map of most glomerular positions in the mouse OB. These observations significantly extend earlier studies and suggest an overall organizational principle in the OB that may be used by the brain to assist in odor decoding.
+ decoding.

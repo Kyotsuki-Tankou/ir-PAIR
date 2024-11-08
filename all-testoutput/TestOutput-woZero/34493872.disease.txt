@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords "Breast cancers," "disease progression," "therapy," "single-cell and spatially resolved transcriptomics," and "human breast cancers" suggest that 'Breast cancer' may be a proper result.
+### Verify ###
+In the abstract, phrases like "Breast cancers are complex cellular ecosystems," "single-cell and spatially resolved transcriptomics analysis of human breast cancers," and "clinical outcome" further verify that 'Breast cancer' is indeed a relevant and proper result.
+### Context ###
+There is no need for additional context as the abstract clearly and consistently focuses on breast cancer and its cellular composition and organization.
+### Conclusion ###
+Consequently, we confirm 'Breast cancer' as the final result based on the clear and direct references in the abstract.
+### Result ###
+['Breast cancer']

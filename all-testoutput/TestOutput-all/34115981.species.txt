@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, we identify "colon" and "liver" as potential matches to the species in the schema. However, these are organ parts, not species.
+### Verify ###
+Reviewing the Abstract, there is no direct mention of any specific species. The focus is on the technology (Seq-Scope) and its application to tissue sections, specifically mentioning "liver" and "colon."
+### Context ###
+Given the lack of direct species mentions, we need to infer from the context. The mention of "liver" and "colon" suggests human or mouse models, as these are common in biomedical research. However, without explicit mention, we cannot definitively conclude which species is used.
+### Conclusion ###
+The abstract does not provide a clear indication of the species used in the study. The keywords and context suggest human or mouse, but without explicit confirmation, we cannot accurately determine the species.
+### Result ###
+null

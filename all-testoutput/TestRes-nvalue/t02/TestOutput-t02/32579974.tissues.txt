@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the primary focus is on "cutaneous squamous cell carcinoma (cSCC)" and "normal skin." The study involves single-cell RNA sequencing, spatial transcriptomics, and multiplexed ion beam imaging.
+###Verify###
+The abstract explicitly mentions "human cSCCs and matched normal skin," which directly corresponds to the "Skin" tissue from the schema.
+###Context###
+The context of the study revolves around the cellular composition and architecture of cSCC, which is a type of skin cancer. The use of human cSCCs and normal skin samples further reinforces the relevance of "Skin" as the primary tissue of interest.
+###Conclusion###
+Given the clear and direct mention of "human cSCCs and matched normal skin" in the abstract, it is evident that the primary tissue involved in the study is "Skin."
+###Result###
+Skin

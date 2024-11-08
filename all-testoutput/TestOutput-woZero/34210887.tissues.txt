@@ -1,0 +1,11 @@
+###Keywords###
+From the input, the term "developing mouse embryos" is mentioned, which suggests that 'Embryo' might be a relevant tissue type according to the schema.
+###Verify###
+The abstract states:
+- "Applying sci-Space to developing mouse embryos..."
+- "We identify thousands of genes exhibiting anatomically patterned expression..."
+These statements confirm that the study focuses on 'Embryo' tissue.
+###Conclusion###
+Since both the keywords and the verification point to 'Embryo', we can conclude that it is the correct tissue type to be extracted according to the schema.
+###Result###
+["Embryo"]

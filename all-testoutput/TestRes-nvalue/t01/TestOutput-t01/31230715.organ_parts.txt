@@ -1,0 +1,15 @@
+###Keywords###
+From the abstract, the terms related to organ parts are not explicitly mentioned. However, the context involves subcellular locales and human transcriptome, which might indirectly relate to certain organ parts. The keywords provided at the end of the abstract (LADs, OXPHOS, UTRs, cycloheximide, motifs, nocodazole, retrotransposons, spatial transcriptomics, translation) do not directly correspond to any organ parts listed in the schema.
+###Verify###
+The abstract discusses:
+- "nine distinct subcellular locales"
+- "human transcriptome"
+- "nuclear transcriptome"
+- "mitochondria"
+These terms suggest a focus on cellular and subcellular structures rather than specific organ parts. None of the terms directly match the organ parts listed in the schema.
+###Context###
+Given the focus on subcellular structures and the human transcriptome, it is unlikely that the abstract refers to any specific organ parts from the schema. The study seems to be more about the methodology (APEX-seq) and its application at the cellular level rather than the organ level.
+###Conclusion###
+Based on the lack of direct mention or clear implication of any specific organ parts from the schema, we conclude that there are no relevant organ parts mentioned in the abstract.
+###Result###
+null

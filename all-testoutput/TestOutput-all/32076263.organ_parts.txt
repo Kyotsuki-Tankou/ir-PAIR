@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "gastruloids" and "mouse embryos" are explicitly mentioned. This indicates that 'Gastruloid' and 'Mouse Embryo' may be proper results.
+### Verify ###
+The abstract states, "Here we compare mouse gastruloids with mouse embryos using single-cell RNA sequencing and spatial transcriptomics," which directly verifies that both 'Gastruloid' and 'Mouse Embryo' are indeed relevant organ parts in the context of the study.
+### Context ###
+Since the verification step directly confirms the presence of 'Gastruloid' and 'Mouse Embryo' in the abstract, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Consequently, we choose 'Gastruloid' and 'Mouse Embryo' as our final results.
+### Result ###
+['Gastruloid', 'Mouse Embryo']

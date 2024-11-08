@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the key terms related to technologies are "multimodal single-cell and spatial transcriptomics analyses." This suggests the use of technologies that can perform single-cell and spatial transcriptomics.
+### Verify ###
+The abstract mentions "multimodal single-cell and spatial transcriptomics analyses," which indicates the use of advanced sequencing technologies capable of both single-cell and spatial resolution. Technologies like scRNA-seq, scATAC-seq, and Spatial Transcriptomics are likely candidates.
+### Context ###
+Upon reviewing the context, the abstract emphasizes the integration of single-cell and spatial transcriptomics, which narrows down the potential technologies to those that can perform both types of analyses. 
+### Conclusion ###
+Given the focus on "multimodal single-cell and spatial transcriptomics," the most relevant technologies from the schema would be those that encompass both single-cell and spatial capabilities. The closest matches from the schema are 'scRNA', 'scATAC-seq', and 'Spatial Transcriptomics'.
+### Result ###
+['scRNA', 'scATAC-seq', 'Spatial Transcriptomics']

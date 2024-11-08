@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "human liver," "hepatic parenchymal and non-parenchymal cells," "interzonal hepatocytes," "cholangiocyte progenitors," and "T and B lymphocytes and natural killer cells" are relevant. These terms suggest a focus on the liver and its cellular components.
+### Verify ###
+The abstract specifically mentions "the human liver" and various cell types within it, such as "hepatocytes," "cholangiocytes," and "mesenchymal cells." It also discusses the application of single-cell RNA sequencing and single-nucleus RNA sequencing to study these cells. There is no mention of any disease state in the abstract; it focuses on the healthy human liver.
+### Context ###
+Given the focus on the healthy human liver and the detailed study of its cellular components, there is no indication of any disease state. The abstract is centered around understanding the transcriptional landscape of the liver in a healthy state.
+### Conclusion ###
+Based on the context and the absence of any disease-related terms in the abstract, the most appropriate term from the schema that fits the context is "Normal," as it refers to the healthy state of the liver being studied.
+### Result ###
+['Normal']

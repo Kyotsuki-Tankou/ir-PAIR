@@ -1,0 +1,14 @@
+###Keywords###
+From the abstract, the terms "spatially-resolved transcriptomics" and "single-cell RNA labeling" are key indicators of the technologies used.
+###Verify###
+1. **Spatially-resolved transcriptomics**: The abstract mentions "combine spatially-resolved transcriptomics and single-cell RNA labeling," which directly points to technologies involving spatial resolution of transcripts.
+2. **Single-cell RNA labeling**: This indicates a technology focused on single-cell analysis, potentially aligning with 'scRNA' or similar technologies.
+###Context###
+- **Spatially-resolved transcriptomics**: This could align with technologies like 'Spatial Transcriptomics', 'Slide-seq', or 'STARmap'.
+- **Single-cell RNA labeling**: This suggests technologies like 'scRNA' or 'CITE-seq'.
+###Conclusion###
+Given the context and specific mentions:
+- **Spatial Transcriptomics** is a strong match for "spatially-resolved transcriptomics."
+- **scRNA** is a likely match for "single-cell RNA labeling."
+###Result###
+['Spatial Transcriptomics', 'scRNA']

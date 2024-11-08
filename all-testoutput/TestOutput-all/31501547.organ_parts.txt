@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the terms "mouse brain" and "primary breast cancer" suggest that the organ parts involved could be 'Mouse Brain' and 'Breast Cancer'.
+### Verify ###
+The phrase "as demonstrated in mouse brain and primary breast cancer" explicitly mentions "mouse brain" and "primary breast cancer," which directly correspond to 'Mouse Brain' and 'Breast Cancer' in the schema.
+### Conclusion ###
+Given the clear mention of "mouse brain" and "primary breast cancer" in the abstract, we can confidently conclude that 'Mouse Brain' and 'Breast Cancer' are the correct organ parts to be extracted.
+### Result ###
+['Mouse Brain', 'Breast Cancer']

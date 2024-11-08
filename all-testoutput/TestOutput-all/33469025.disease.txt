@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the key terms related to diseases or conditions are "brain regions," "mouse hippocampus," "prefrontal cortex," and "cell types." There is no direct mention of any specific disease from the schema list.
+### Verify ###
+The phrases "brain regions," "mouse hippocampus," and "prefrontal cortex" suggest a focus on brain anatomy and function rather than a specific disease. The context is more about understanding the molecular and cellular complexity of the brain rather than studying a particular disease.
+### Context ###
+The study is centered around the differential isoform expression in different brain regions and cell types, particularly in the hippocampus and prefrontal cortex of mice. This indicates a focus on normal brain development and function rather than any pathological condition.
+### Conclusion ###
+Given the lack of direct mention of any specific disease and the focus on normal brain anatomy and function, we conclude that there is no suitable disease type to extract from the given input based on the provided schema.
+### Result ###
+null

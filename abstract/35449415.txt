@@ -1,0 +1,6 @@
+["Mus musculus"]
+null
+null
+["10x Visium"]
+["Cancer"]
+ Abstract\nMost spatial transcriptomics technologies are limited by their resolution, with spot sizes larger than that of a single cell. Although joint analysis with single-cell RNA sequencing can alleviate this problem, current methods are limited to assessing discrete cell types, revealing the proportion of cell types inside each spot. To identify continuous variation of the transcriptome within cells of the same type, we developed Deconvolution of Spatial Transcriptomics profiles using Variational Inference (DestVI). Using simulations, we demonstrate that DestVI outperforms existing methods for estimating gene expression for every cell type inside every spot. Applied to a study of infected lymph nodes and of a mouse tumor model, DestVI provides high-resolution, accurate spatial characterization of the cellular organization of these tissues and identifies cell-type-specific changes in gene expression between different tissue regions or between conditions. DestVI is available as part of the open-source software package scvi-tools ( https://scvi-tools.org ).

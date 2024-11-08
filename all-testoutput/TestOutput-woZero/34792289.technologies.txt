@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, the terms "single-cell RNA sequencing (scRNA-seq)" and "single-nucleus RNA sequencing (snRNA-seq)" are explicitly mentioned, suggesting that 'scRNA' and 'snRNA' may be proper results. Additionally, the phrase "spatial transcriptomics data set" indicates the use of 'Spatial Transcriptomics'.
+### Verify ###
+- The abstract states: "using matched single-cell RNA sequencing (scRNA-seq) and single-nucleus RNA sequencing (snRNA-seq)" which directly verifies the presence of 'scRNA' and 'snRNA'.
+- The abstract also mentions: "validated the distinct spatial distribution... by an independent spatial transcriptomics data set," which verifies the use of 'Spatial Transcriptomics'.
+### Context ###
+- No additional context is needed as the abstract clearly mentions the specific technologies used in the study.
+### Conclusion ###
+Consequently, we confirm 'scRNA', 'snRNA', and 'Spatial Transcriptomics' as our final results based on the explicit mentions in the abstract.
+### Result ###
+['scRNA', 'snRNA', 'Spatial Transcriptomics']

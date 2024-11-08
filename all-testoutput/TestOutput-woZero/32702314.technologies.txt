@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords "Alzheimer’s disease; amyloid plaque; astrocyte; cellular phase; complement cascade; in situ sequencing; microglia; myelination; oligodendrocyte; spatial transcriptomics," the term "spatial transcriptomics" directly matches one of the technologies in the schema.
+### Verify ###
+In the Abstract, the phrase "using spatial transcriptomics" is explicitly mentioned, confirming the use of this technology in the study. Additionally, "in situ sequencing" is also mentioned, which is another technology used for analyzing gene expression in tissue sections.
+### Context ###
+The context of the study involves investigating transcriptional changes around amyloid plaques in an Alzheimer's disease mouse model. The use of "spatial transcriptomics" and "in situ sequencing" is clearly stated, indicating these technologies are central to the research methodology.
+### Conclusion ###
+Based on the Keywords, Verify, and Context steps, we can conclude that "spatial transcriptomics" and "in situ sequencing" are the technologies used in the study.
+### Result ###
+['spatial transcriptomics', 'in situ sequencing']

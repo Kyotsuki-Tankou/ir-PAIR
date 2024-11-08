@@ -1,0 +1,8 @@
+### Keywords ###
+The abstract mentions "AD mouse model," "amyloid plaques," "spatial transcriptomics," and "in situ sequencing." These keywords suggest that the species studied might be a rodent, and "spatial transcriptomics" indicates a technology used in the study.
+### Verify ###
+The term "AD mouse model" specifically refers to a mouse model of Alzheimer's disease. This directly verifies that the species involved is "Mus musculus," which is a mouse.
+### Conclusion ###
+Based on the context and the specific methodology mentioned in the abstract, "Mus musculus" is the correct species identified in the input.
+### Result ###
+['Mus musculus']

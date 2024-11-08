@@ -1,0 +1,13 @@
+###Keywords###
+From the keywords "Single-cell RNA sequencing" and "Spatial transcriptomics," we can deduce that these technologies might be proper results based on the provided schema.
+###Verify###
+The input text mentions:
+1. "we performed single-cell RNA sequencing of 24,919 murine cerebellar cells"
+2. "Further spatial transcriptomics technology enabled visualization of their spatial locations in cerebellum"
+These statements directly confirm the use of "Single-cell RNA sequencing" and "Spatial transcriptomics" technologies.
+###Context###
+Given the direct and clear mentions of both "Single-cell RNA sequencing" and "Spatial transcriptomics" in both the abstract and the keywords, there is no need for additional context to verify these keywords.
+###Conclusion###
+Since the keywords and the verification both point to "Single-cell RNA sequencing" and "Spatial transcriptomics," we can conclude that these are the correct results.
+###Result###
+["Single-cell RNA sequencing", "Spatial transcriptomics"]

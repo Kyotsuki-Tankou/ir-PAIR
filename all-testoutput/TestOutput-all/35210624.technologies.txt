@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, keywords like "single-cell transcriptomics," "spatial transcriptomics," and "in vivo barcoding" suggest the use of advanced sequencing and labeling technologies. The mention of "reconstructing thousands of clones" and "high-throughput dense reconstruction" implies sophisticated analytical methods.
+###Verify###
+The abstract specifically mentions "single-cell and spatial transcriptomics" and "in vivo barcoding," which directly correspond to technologies listed in the schema.
+###Conclusion###
+The keywords and the verification both clearly indicate the use of "single-cell transcriptomics" and "spatial transcriptomics," which are directly mentioned in the input text.
+###Result###
+["single-cell transcriptomics", "spatial transcriptomics"]

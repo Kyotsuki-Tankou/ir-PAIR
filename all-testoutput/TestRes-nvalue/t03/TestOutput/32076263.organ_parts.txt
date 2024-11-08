@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "gastruloids" and "mouse embryos" are prominent. The schema includes 'Gastruloid' and 'Mouse Embryo' as potential matches.
+### Verify ###
+The Abstract mentions "mouse gastruloids" and "mouse embryos" explicitly, indicating that both 'Gastruloid' and 'Mouse Embryo' are directly relevant to the study.
+### Context ###
+The study compares mouse gastruloids with mouse embryos, emphasizing their use in exploring development and somitogenesis. This context supports the inclusion of both 'Gastruloid' and 'Mouse Embryo' as they are central to the research described.
+### Conclusion ###
+Based on the explicit mentions and the context of the study, both 'Gastruloid' and 'Mouse Embryo' are appropriate results.
+### Result ###
+['Gastruloid', 'Mouse Embryo']

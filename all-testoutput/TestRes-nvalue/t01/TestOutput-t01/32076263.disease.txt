@@ -1,0 +1,28 @@
+###Keywords###
+- Gastruloids
+- Embryonic stem cells
+- Mammalian development
+- Germ-layer specification
+- Axial organization
+- Single-cell RNA sequencing
+- Spatial transcriptomics
+- Mouse embryos
+- Somitogenesis
+- FGF signalling
+- Matrigel
+- Somites
+- Rostral-caudal patterning
+- Anterior-to-posterior direction
+###Verify###
+- The abstract primarily discusses "gastruloids" and their comparison with "mouse embryos."
+- Key processes mentioned include "germ-layer specification," "axial organization," and "somitogenesis."
+- The study involves techniques like "single-cell RNA sequencing" and "spatial transcriptomics."
+###Context###
+- The abstract focuses on the developmental aspects of gastruloids and their similarity to mouse embryos.
+- There is no direct mention of any specific diseases from the provided schema.
+- The terms related to diseases are not explicitly linked to any conditions listed in the schema.
+###Conclusion###
+- The abstract does not mention any specific diseases that match the provided schema.
+- The focus is on developmental processes and the use of gastruloids as a model system.
+###Result###
+null

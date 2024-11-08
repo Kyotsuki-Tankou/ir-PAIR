@@ -1,0 +1,14 @@
+###Keywords###
+From the abstract, the terms "suprachiasmatic nucleus (SCN)" and "ventral hypothalamus" are prominently mentioned. These terms are directly related to specific regions of the brain.
+###Verify###
+The abstract states:
+- "Mammalian circadian behaviors are orchestrated by the suprachiasmatic nucleus (SCN) in the ventral hypothalamus"
+- "We have used single-cell RNA-sequencing to identify the basic cell types in the mouse SCN"
+- "Through a complete three-dimensional reconstruction of the mouse SCN at single-cell resolution"
+These points verify that the study is focused on the SCN, which is a part of the brain, specifically the hypothalamus.
+###Context###
+Given the detailed focus on the SCN within the hypothalamus and the creation of a standardized SCN atlas, there is no need for additional context to confirm the result.
+###Conclusion###
+Consequently, we choose 'Brain' as our final result, as the SCN is a specific region within the brain.
+###Result###
+['Brain']

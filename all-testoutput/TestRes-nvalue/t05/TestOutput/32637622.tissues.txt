@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "adult mouse brain" is prominently mentioned, indicating that 'Brain' may be a proper result.
+### Verify ###
+The abstract specifically mentions "adult mouse brain" and discusses the use of "whole-brain spatial transcriptomics" to classify and understand the neuroanatomical organization of the brain. This directly verifies that 'Brain' is indeed a relevant tissue type in this context.
+### Conclusion ###
+Since the term 'Brain' is both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that 'Brain' is the appropriate tissue type.
+### Result ###
+['Brain']

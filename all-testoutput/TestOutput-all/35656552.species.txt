@@ -1,0 +1,10 @@
+### Keywords ###
+From the provided keywords, "postnatal mouse brain development" stands out, suggesting that 'Mus musculus' might be the relevant species.
+### Verify ###
+The keyword "postnatal mouse brain development" directly indicates the use of mice, which corresponds to the species 'Mus musculus'.
+### Context ###
+Since the keywords explicitly mention "mouse," there is no ambiguity or need for further context to verify the species.
+### Conclusion ###
+Based on the clear mention of "mouse" in the keywords, we confirm 'Mus musculus' as the relevant species.
+### Result ###
+['Mus musculus']

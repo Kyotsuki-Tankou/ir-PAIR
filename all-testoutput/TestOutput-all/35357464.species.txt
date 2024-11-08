@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "mouse uterus" directly indicates the species involved. Therefore, 'Mus musculus' is the likely correct species.
+###Verify###
+The phrase "mouse uterus" in the abstract explicitly mentions the species being studied, which supports 'Mus musculus' as the correct species.
+###Conclusion###
+Since the keywords and the context in the abstract both point to 'Mus musculus', we can confidently conclude that 'Mus musculus' is the correct species involved in this study.
+###Result###
+['Mus musculus']

@@ -1,0 +1,13 @@
+###schema###
+tissues:['Skin', 'Brain', 'Colon', 'Eymbro', 'Cortex', 'Gastrula', 'Bone', 'Embryo', 'Ileum', 'Spinal cord', 'Gland', 'Lymph', 'Liver', 'Basal cell', 'Plant part', 'Muscle', 'Thymus', 'Cervical', 'Leaf', 'Uterus', 'Skeleton', 'Bladder', 'Spleen', 'Epithelium', 'Lacrimal Gland', 'Lung', 'Overian', 'Bone marrow', 'Stress granules', 'Kidney', 'Neuron', 'Cerebella', 'Pancreas', 'Flower', 'Cell line', 'Pituitary', 'Blood vessel', 'Stomach', 'Blastema', 'Legs', 'Intestine', 'Head Neck', 'Blood', 'Breast', 'Prostate', 'Dorsal aorta', 'Synovial', 'Eye', 'Heart', 'Mucosa', 'Ovarian', 'Tumor', 'Ear'],
+###input###
+ Abstract
+Paralysis occurring in amyotrophic lateral sclerosis (ALS) results from denervation of skeletal muscle as a consequence of motor neuron degeneration. Interactions between motor neurons and glia contribute to motor neuron loss, but the spatiotemporal ordering of molecular events that drive these processes in intact spinal tissue remains poorly understood. Here, we use spatial transcriptomics to obtain gene expression measurements of mouse spinal cords over the course of disease, as well as of postmortem tissue from ALS patients, to characterize the underlying molecular mechanisms in ALS. We identify pathway dynamics, distinguish regional differences between microglia and astrocyte populations at early time points, and discern perturbations in several transcriptional pathways shared between murine models of ALS and human postmortem spinal cords.Let's think step by step.
+###Keywords###
+From the abstract, the term "spinal cords" is prominently mentioned, indicating that 'Spinal cord' may be a proper result.
+###Verify###
+The abstract specifically mentions "mouse spinal cords" and "human postmortem spinal cords," which directly verifies that 'Spinal cord' is indeed a relevant tissue type in this context.
+###Conclusion###
+Consequently, we choose 'Spinal cord' as our final result.
+###Result###
+['Spinal cord']

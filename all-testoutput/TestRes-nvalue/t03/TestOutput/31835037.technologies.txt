@@ -1,0 +1,13 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "single-cell RNA sequencing," "spatial transcriptomics," and "in situ sequencing." These terms suggest potential matches with the technologies listed in the schema.
+### Verify ###
+- **Single-cell RNA sequencing**: This directly matches 'scRNA' in the schema.
+- **Spatial transcriptomics**: This directly matches 'Spatial Transcriptomics' in the schema.
+- **In situ sequencing**: This could imply several technologies, but the most relevant from the schema would be 'seqFISH+' or 'Slide-seqV2', given their use in spatially resolved transcriptomics.
+### Context ###
+- The abstract mentions "a molecular approach that reveals the comprehensive transcriptional landscape of cell types populating the embryonic heart," which involves both single-cell resolution and spatial mapping.
+- The use of "in situ sequencing" to refine results and create a spatial subcellular map suggests a technology capable of high-resolution spatial mapping, which aligns with 'seqFISH+' or 'Slide-seqV2'.
+### Conclusion ###
+Based on the explicit mentions and the context provided, we can confidently conclude that the technologies used in the study include 'scRNA', 'Spatial Transcriptomics', and likely 'seqFISH+' or 'Slide-seqV2'. However, since 'seqFISH+' and 'Slide-seqV2' are not explicitly mentioned, we prioritize the directly mentioned technologies.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

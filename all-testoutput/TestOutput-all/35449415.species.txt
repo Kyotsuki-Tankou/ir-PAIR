@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "mouse tumor model" and "infected lymph nodes" suggest potential species involved. The term "mouse" indicates 'Mus musculus', and "lymph nodes" are typically associated with mammals, which could include 'Homo sapiens', 'Rattus norvegicus', etc.
+### Verify ###
+The abstract specifically mentions "a study of infected lymph nodes and of a mouse tumor model." This directly verifies that 'Mus musculus' is involved. There is no explicit mention of other species.
+### Context ###
+Given the specific mention of a "mouse tumor model," the primary focus is on 'Mus musculus'. The context does not provide additional clues for other species.
+### Conclusion ###
+Consequently, we choose 'Mus musculus' as our final result.
+### Result ###
+['Mus musculus']

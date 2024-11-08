@@ -1,0 +1,11 @@
+###Keywords###
+From the abstract, the terms "brain sections" and "mouse model" are explicitly mentioned, indicating that 'Brain' may be a proper result. Additionally, "amyloid plaques" and "Alzheimer's disease" suggest a focus on neurological tissues.
+###Verify###
+- The abstract states: "using in situ sequencing on mouse and human brain sections," which directly verifies the presence of 'Brain'.
+- The context of Alzheimer's disease and amyloid plaques further supports the focus on brain tissue.
+###Context###
+- No additional context is needed as the abstract clearly mentions the specific tissue (brain) where the study was conducted.
+###Conclusion###
+Consequently, we confirm 'Brain' as our final result based on the explicit mentions and context in the abstract.
+###Result###
+['Brain']

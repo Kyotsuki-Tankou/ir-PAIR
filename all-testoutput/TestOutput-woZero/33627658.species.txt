@@ -1,0 +1,14 @@
+###Keywords###
+- "adult mouse primary somatosensory cortex"
+- "human primary visual cortex"
+- "mouse brain"
+###Verify###
+- "adult mouse primary somatosensory cortex" and "mouse brain" suggest 'Mus musculus' as a relevant species.
+- "human primary visual cortex" suggests 'Homo sapiens' as another relevant species.
+###Context###
+- The abstract mentions the application of sciMAP-ATAC in both "adult mouse primary somatosensory cortex" and "human primary visual cortex," indicating the use of two different species: mice and humans.
+- The study also involves "a model of transient middle cerebral artery occlusion in the mouse brain," further confirming the use of mice.
+###Conclusion###
+Given the clear mentions of both mouse and human tissues in the abstract, it is evident that the study involves two species: 'Mus musculus' and 'Homo sapiens'.
+###Result###
+['Mus musculus', 'Homo sapiens']

@@ -1,0 +1,10 @@
+###Keywords###
+From the input, the term "high-grade serous ovarian cancer (HGSOC)" directly indicates that 'Ovarian cancer' may be a proper result.
+###Verify###
+From the Abstract, phrases like "high-grade serous ovarian cancer (HGSOC)" and "ovarian cancer cells" further verify that 'Ovarian cancer' is indeed a relevant organ part since the study focuses on ovarian cancer and its tumor microenvironment.
+###Context###
+Not required in this case as the Keywords and Verify steps align well and provide sufficient evidence.
+###Conclusion###
+Consequently, we confirm 'Ovarian cancer' as the final result based on the clear and consistent references to ovarian cancer in the input.
+###Result###
+['Ovarian cancer']

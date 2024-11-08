@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "oral carcinomas," "melanoma," "tumours," "metastasis," and "Schwann cells" are prominent. These suggest a focus on cancer and neural components, potentially pointing to 'Tumor' and 'Neuron' as relevant tissue types.
+### Verify ###
+- "oral carcinomas and melanoma" indicate a focus on different types of tumors, supporting 'Tumor' as a relevant match.
+- "Schwann cells" and "innervation" suggest involvement of neural components, which could imply 'Neuron' or 'Brain'.
+### Context ###
+- The abstract mentions "dietary palmitic acid (PA) promotes metastasis in oral carcinomas and melanoma in mice." This emphasizes the study's focus on cancer and metastasis.
+- "genes with this prometastatic memory predominantly relate to a neural signature that stimulates intratumoural Schwann cells" provides context that the neural aspect is specifically related to the tumor environment rather than the brain itself.
+### Conclusion ###
+Given the context, the primary focus is on tumors and their metastatic properties, with a secondary focus on neural components within the tumor environment. Therefore, 'Tumor' is the most directly relevant tissue type, while 'Neuron' is less directly relevant but still pertinent due to the involvement of Schwann cells.
+### Result ###
+['Tumor', 'Neuron']

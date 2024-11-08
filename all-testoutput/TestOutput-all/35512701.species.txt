@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the term "zebrafish" is explicitly mentioned, indicating that 'Danio rerio' may be a proper result.
+###Verify###
+- The abstract states: "we employed Stereo-seq to profile 91 zebrafish embryo sections," which directly verifies the presence of 'Danio rerio'.
+###Context###
+- No additional context is needed as the abstract clearly mentions the specific species used in the study.
+###Conclusion###
+Consequently, we confirm 'Danio rerio' as our final result based on the explicit mention in the abstract.
+###Result###
+['Danio rerio']

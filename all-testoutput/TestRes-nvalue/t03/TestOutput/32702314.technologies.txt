@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, the terms "spatial transcriptomics" and "in situ sequencing" are mentioned in the context of the study's methodologies.
+### Verify ###
+The abstract states:
+- "We investigate here... using spatial transcriptomics."
+- "We confirm the majority of the observed alterations at the cellular level using in situ sequencing on mouse and human brain sections."
+These statements clearly indicate that "spatial transcriptomics" and "in situ sequencing" are the technologies used in the study.
+### Context ###
+Since both "spatial transcriptomics" and "in situ sequencing" are directly mentioned and used in the context of the study's methods, there is no need for additional context to verify these technologies.
+### Conclusion ###
+Given the explicit mention and use of "spatial transcriptomics" and "in situ sequencing" in the abstract, we can confidently conclude that these are the correct technologies to be extracted according to the schema.
+### Result ###
+["spatial transcriptomics", "in situ sequencing"]

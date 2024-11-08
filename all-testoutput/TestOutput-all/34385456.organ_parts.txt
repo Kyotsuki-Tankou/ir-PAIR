@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the primary focus is on "human bladder cancer," "single nuclei RNA sequencing," "spatial transcriptomics," and "single-cell resolution spatial proteomic analysis." These terms suggest a detailed study on bladder cancer and its cellular characteristics.
+###Verify###
+The abstract specifically mentions "human bladder cancer" and various analytical techniques applied to this context. This directly aligns with terms related to bladder anatomy and pathology in the schema.
+###Context###
+The abstract discusses the identification of an epithelial subpopulation within bladder cancer that predicts therapeutic response. This subpopulation is characterized by the expression of Cadherin 12 (CDH12) and other markers. The study involves detailed molecular and spatial analysis of bladder tissue, which implies a focus on specific parts of the bladder, particularly the epithelial layers.
+###Conclusion###
+Given the explicit mention of "human bladder cancer" and the focus on epithelial subpopulations, the most relevant terms from the schema would be those related to bladder anatomy, particularly the "Detrusor layer of bladder" and "Whole Bladder."
+###Result###
+['Detrusor layer of bladder', 'Whole Bladder']

@@ -1,0 +1,25 @@
+###Keywords###
+From the abstract, the following tissues are directly mentioned:
+- "31 adult pig tissues"
+- "47 skeletal muscles"
+- "six adipose depots"
+- "subcutaneous adipose tissues"
+###Verify###
+The abstract specifies:
+- "transcriptomic survey of pigs"
+- "characterize four transcript types (lncRNAs, TUCPs, miRNAs, and circRNAs) and protein-coding genes in 31 adult pig tissues and two cell lines"
+- "transcriptomic variability among 47 skeletal muscles, and six adipose depots"
+- "comparative analysis of the transcriptomes of seven tissues from pigs and nine other vertebrates"
+- "long-range promoter-enhancer interaction analysis in subcutaneous adipose tissues"
+###Context###
+To ensure accuracy, we need to consider the context:
+- The study involves a comprehensive analysis of various tissues, including skeletal muscles and adipose depots.
+- The mention of "subcutaneous adipose tissues" indicates a focus on specific types of adipose tissues.
+- The comparative analysis across vertebrates suggests a broad examination of tissue specialization.
+###Conclusion###
+Given the specific mentions and the context, the relevant tissues from the schema that are directly or indirectly referenced include:
+- 'Muscle' (due to "47 skeletal muscles")
+- 'Skin' (due to "subcutaneous adipose tissues")
+- 'Adipose' (though not explicitly listed in the schema, "adipose depots" suggest a focus on adipose tissues, which can be linked to 'Skin' in the context of subcutaneous adipose)
+###Result###
+['Muscle', 'Skin']

@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Brain"]
+null
+["10x Visium"]
+["Normal atlas"]
+ Abstract\nThe mammalian brain contains many specialized cells that develop from a thin sheet of neuroepithelial progenitor cells. Single-cell transcriptomics revealed hundreds of molecularly diverse cell types in the nervous system, but the lineage relationships between mature cell types and progenitor cells are not well understood. Here we show in vivo barcoding of early progenitors to simultaneously profile cell phenotypes and clonal relations in the mouse brain using single-cell and spatial transcriptomics. By reconstructing thousands of clones, we discovered fate-restricted progenitor cells in the mouse hippocampal neuroepithelium and show that microglia are derived from few primitive myeloid precursors that massively expand to generate widely dispersed progeny. We combined spatial transcriptomics with clonal barcoding and disentangled migration patterns of clonally related cells in densely labeled tissue sections. Our approach enables high-throughput dense reconstruction of cell phenotypes and clonal relations at the single-cell and tissue level in individual animals and provides an integrated approach for understanding tissue architecture.

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "mouse brain and kidney datasets" suggests the use of 'Mus musculus'. Additionally, the mention of "two ductal carcinoma in situ tissues" implies the study might also involve 'Homo sapiens'.
+### Verify ###
+The abstract explicitly mentions "mouse brain and kidney datasets," which strongly indicates the use of 'Mus musculus'. However, the reference to "two ductal carcinoma in situ tissues" is less specific but commonly associated with human studies, suggesting 'Homo sapiens'.
+### Context ###
+Given the context, "mouse brain and kidney datasets" directly points to 'Mus musculus'. For "ductal carcinoma in situ tissues," while not explicitly stating 'Homo sapiens', this type of tissue is typically studied in humans, providing a strong implication.
+### Conclusion ###
+Consequently, we confirm that 'Mus musculus' is definitely used, and 'Homo sapiens' is likely used based on the context of the tissue type mentioned.
+### Result ###
+['Mus musculus', 'Homo sapiens']

@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, the terms "olfactory bulb (OB)" and "glomeruli" are mentioned, which are specific structures within the olfactory system. This suggests that "Main olfactory bulb" may be a relevant result.
+### Verify ###
+The abstract specifically states:
+- "project their axons to a stereotyped location in the olfactory bulb (OB) to form glomeruli"
+- "generated a map of most glomerular positions in the mouse OB"
+This directly verifies the presence of "Main olfactory bulb" in the context of the study.
+### Context ###
+Given the direct mention of the olfactory bulb and glomeruli in the abstract, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm "Main olfactory bulb" as the appropriate result based on the explicit references in the abstract.
+### Result ###
+["Main olfactory bulb"]

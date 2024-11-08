@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "human transcriptome" is mentioned, indicating that 'Homo sapiens' may be a proper result.
+###Verify###
+The abstract specifically mentions "the human transcriptome," which directly verifies that 'Homo sapiens' is indeed a relevant species in this context.
+###Conclusion###
+Consequently, we choose 'Homo sapiens' as our final result.
+###Result###
+['Homo sapiens']

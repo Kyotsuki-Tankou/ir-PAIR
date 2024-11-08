@@ -1,0 +1,11 @@
+###Keywords###
+From the abstract, the terms "mouse embryos" and "developmental biology, cancer biology, neuroscience, and clinical pathology" suggest potential disease-related contexts. Specifically, "mouse embryos" indicates a focus on early development, which could relate to 'Embryo development' or 'Embryonic development'.
+###Verify###
+- The abstract mentions "Application to mouse embryos revealed major tissue types in early organogenesis," which directly verifies the involvement of 'Embryo development' or 'Embryonic development'.
+- The mention of potential applications in "developmental biology, cancer biology, neuroscience, and clinical pathology" does not specify any particular disease but suggests a broad range of possible applications.
+###Context###
+No additional context is needed as the term "mouse embryos" and the context of early organogenesis clearly specify the focus on embryonic development.
+###Conclusion###
+Based on the clear mention of "mouse embryos" and the context of early organogenesis, we can confidently conclude that 'Embryo development' or 'Embryonic development' is the appropriate disease-related context.
+###Result###
+['Embryo development', 'Embryonic development']

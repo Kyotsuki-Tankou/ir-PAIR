@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the term "human transcriptome" indicates that 'Homo sapiens' might be a proper result.
+###Verify###
+The abstract explicitly mentions "human transcriptome," "direct proximity labeling of RNA," and "comprehensive investigations of the spatial transcriptome," all of which verify that 'Homo sapiens' is indeed a relevant result.
+###Context###
+No additional context is necessary as the keywords and the abstract content directly align with the schema.
+###Conclusion###
+Consequently, we choose 'Homo sapiens' as our final result.
+###Result###
+['Homo sapiens']

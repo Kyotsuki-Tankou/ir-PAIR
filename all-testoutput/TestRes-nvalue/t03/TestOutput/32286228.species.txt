@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the keyword "mouse" is directly mentioned, indicating that 'Mus musculus' may be a proper result.
+### Verify ###
+The abstract states, "we computationally defined mesenchymal progenitors at different stages and delineated their bi-lineage differentiation paths in young, adult and aging mice," which further verifies that 'Mus musculus' is indeed the species used in the study.
+### Conclusion ###
+Consequently, we confirm 'Mus musculus' as our final result based on the clear and consistent information provided in both the keywords and the abstract.
+### Result ###
+['Mus musculus']

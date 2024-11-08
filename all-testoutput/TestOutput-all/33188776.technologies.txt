@@ -1,0 +1,13 @@
+###Keywords###
+From the abstract, the key technology mentioned is "deterministic barcoding in tissue for spatial omics sequencing (DBiT-seq)." Other related terms include "next-generation sequencing (NGS)" and "microfluidic channels," but the primary technology focus is on DBiT-seq.
+###Verify###
+The abstract specifically introduces and details the use of DBiT-seq for co-mapping mRNAs and proteins in tissue slides. This direct mention confirms that DBiT-seq is the central technology used in the study.
+###Context###
+The context further supports this:
+- "Parallel microfluidic channels were used to deliver DNA barcodes to the surface of a tissue slide, and crossflow of two sets of barcodes, A1-50 and B1-50, followed by ligation in situ, yielded a 2D mosaic of tissue pixels, each containing a unique full barcode AB."
+- "Application to mouse embryos revealed major tissue types in early organogenesis as well as fine features like microvasculature in a brain and pigmented epithelium in an eye field."
+These details reinforce the use of DBiT-seq as the primary technology for spatial omics sequencing.
+###Conclusion###
+Given the explicit mention and detailed description of DBiT-seq in the abstract, it is clear that DBiT-seq is the relevant technology from the provided schema.
+###Result###
+['DBiT-seq']

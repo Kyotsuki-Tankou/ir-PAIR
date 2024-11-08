@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the term "spatial transcriptomics" suggests that 'Spatial Transcriptomics' may be a proper result for the technology used. However, the schema provided is for diseases, not technologies. Therefore, we should look for any diseases mentioned in the abstract.
+###Verify###
+The abstract does not mention any specific diseases. It focuses on the generation of a systematic classification of the adult mouse brain using spatial transcriptomics.
+###Context###
+Since the abstract does not mention any diseases, we cannot verify any disease-related results based on the provided schema.
+###Conclusion###
+Based on the information provided in the abstract, there are no diseases mentioned that correspond to the schema.
+###Result###
+null

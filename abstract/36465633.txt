@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Gland"]
+["Gonad tissue", "Adrenal tissue"]
+["10x Visium"]
+["Gland development"]
+ Abstract\nHuman fetal adrenal glands produce substantial amounts of dehydroepiandrosterone (DHEA), which is one of the most important precursors of sex hormones. However, the underlying biological mechanism remains largely unknown. Herein, we sequenced human fetal adrenal glands and gonads from 7 to 14 gestational weeks (GW)via10× Genomics single-cell transcriptome techniques, reconstructed their location information by spatial transcriptomics. Relative to gonads, adrenal glands begin to synthesize steroids early. The coordination among steroidogenic cells and multiple non-steroidogenic cells promotes adrenal cortex construction and steroid synthesis. Notably, during the window of sexual differentiation (8-12 GW), key enzyme gene expression shifts to accelerate DHEA synthesis in males and cortisol synthesis in females. Our research highlights the robustness of the action of fetal adrenal glands on gonads to modify the process of sexual differentiation. \n Keywords:Sc-RNA sequencing; adrenal glands; sexual differentiation; spatial transcriptomics; steroidogenic regulation network.

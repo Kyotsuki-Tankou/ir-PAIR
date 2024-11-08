@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "Melanoma brain metastasis (MBM)," "brain," "extracranial melanoma metastases (ECMs)," "neuronal-like cell state," and "spatial transcriptomics" suggest that the study is focused on the brain, particularly in the context of melanoma metastasis. Therefore, 'Brain' may be a proper result.
+### Verify ###
+The abstract mentions "single-cell/nucleus RNA-seq in 22 treatment-naive MBMs," which directly indicates that the tissue of interest is the brain, specifically in the context of melanoma metastasis. Additionally, the discussion of "neuronal-like cell state" and "spatial transcriptomics" further supports that the brain is the primary tissue being studied.
+### Context ###
+Given the detailed focus on melanoma brain metastasis (MBM) and the specific mention of brain-related cellular states and spatial analyses, there is no need for additional context to verify the tissue type. The study's emphasis on brain metastasis and the associated biological processes solidifies 'Brain' as the correct tissue type.
+### Conclusion ###
+Consequently, we confirm that 'Brain' is the appropriate tissue type based on the provided abstract.
+### Result ###
+['Brain']

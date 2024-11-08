@@ -1,0 +1,10 @@
+### Keywords ###
+The keywords from the abstract include "single-cell RNA sequencing" and "suction blistering," which suggest advanced sequencing technologies and a novel method for sample collection.
+### Verify ###
+The abstract mentions the use of "single-cell RNA sequencing" and "suction blistering," which are both methods used to study the transcriptomic and proteomic levels of atopic dermatitis. This aligns with the keywords provided.
+### Context ###
+The abstract describes the use of suction blistering as a method for sampling skin cells and interstitial fluid, which is compared to conventional biopsies. It also mentions the use of single-cell RNA sequencing to analyze the transcriptional profiles of key inflammatory pathways.
+### Conclusion ###
+Based on the context provided, "single-cell RNA sequencing" is a technology that was used in the study, as mentioned in the abstract. However, "suction blistering" is a method for sample collection and not a technology listed in the schema.
+### Result ###
+['single-cell RNA sequencing']

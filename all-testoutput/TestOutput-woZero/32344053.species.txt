@@ -1,0 +1,10 @@
+###Keywords###
+From the input, the term "humans" directly indicates the species involved. This term suggests that 'Homo sapiens' may be a proper result.
+###Verify###
+- From "humans" in the Abstract, we can verify that 'Homo sapiens' is indeed a proper result.
+###Context###
+No additional context is needed as the term "humans" clearly specifies the species involved.
+###Conclusion###
+Consequently, we confirm 'Homo sapiens' as our final result based on the clear and direct mention in the Abstract.
+###Result###
+['Homo sapiens']

@@ -1,0 +1,8 @@
+### Keywords ###
+The keywords from the abstract include "spatial transcriptomics," "histological tissue sections," "mouse brain," and "primary breast cancer."
+### Verify ###
+The abstract mentions "mouse brain and primary breast cancer" as examples where the technology was demonstrated.
+### Conclusion ###
+Based on the abstract, the relevant diseases from the schema are 'Breast cancer' and possibly 'Brain injury' or 'Brain development,' although the latter two are less direct matches.
+### Result ###
+['Breast cancer']

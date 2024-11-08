@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "heart development," "human embryonic cardiac cell types," and "human developing heart." These suggest that 'Heart' and potentially 'Embryo' might be relevant organ parts.
+### Verify ###
+In the abstract, it is mentioned:
+- "the embryonic heart at three developmental stages"
+- "human embryonic cardiac cell types"
+- "human developing heart"
+This directly verifies that 'Heart' and 'Embryo' are indeed relevant organ parts.
+### Context ###
+Since the abstract explicitly mentions "embryonic heart" and "human developing heart," there is no ambiguity or need for further context to verify these organ parts.
+### Conclusion ###
+Consequently, based on the explicit mention in the abstract, we choose 'Heart' and 'Embryo' as our final results.
+### Result ###
+['Heart', 'Embryo']

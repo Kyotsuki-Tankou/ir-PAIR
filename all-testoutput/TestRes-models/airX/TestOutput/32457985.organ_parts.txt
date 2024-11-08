@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "zebrafish" is mentioned, which suggests that 'Zebrafish' may be a proper result. Additionally, "chicken," "mouse," and "human embryos" are also listed, but they do not match the schema exactly, so 'Zebrafish' is the primary focus.
+### Verify ###
+The abstract states that "we performed genome-wide RNA tomography sequencing on zebrafish," which confirms that 'Zebrafish' is indeed a relevant result.
+### Context ###
+No additional context is needed as the abstract explicitly mentions 'zebrafish' as the organism used in the study.
+### Conclusion ###
+Based on the explicit mention of 'zebrafish' in the abstract, we can conclude that 'Zebrafish' is the correct result.
+### Result ###
+['Zebrafish']

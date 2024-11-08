@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keyword that stands out is "single-cell RNA sequencing (scRNA-seq)." This suggests that 'scRNA' or 'RNA-seq' may be proper results.
+### Verify ###
+The abstract mentions "deep single-cell RNA sequencing (scRNA-seq)" multiple times, directly verifying that this technology was used in the study. This supports that 'scRNA' and 'RNA-seq' are proper results.
+### Context ###
+Since the verification step directly confirms the use of scRNA-seq without ambiguity, there is no need for additional context to clarify the technology used.
+### Conclusion ###
+Consequently, we confirm that 'scRNA' and 'RNA-seq' are the appropriate technologies based on the given input.
+### Result ###
+['scRNA', 'RNA-seq']

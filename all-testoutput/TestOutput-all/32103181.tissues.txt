@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, the terms "tumour," "normal adjacent tissue," and "peripheral blood" are mentioned in the context of cancer treatment and T cell distribution. This suggests that 'Tumor', 'Epithelium' (as normal adjacent tissue could imply epithelial tissue), and 'Blood' may be relevant tissues.
+### Verify ###
+1. **Tumor**: The abstract states, "by performing deep single-cell sequencing of RNA and T cell receptors in patients with different types of cancer," which directly verifies the involvement of 'Tumor'.
+2. **Epithelium**: The term "normal adjacent tissue" is used, which can imply epithelial tissue, especially in the context of cancer studies where adjacent normal tissue is often epithelial.
+3. **Blood**: The abstract mentions "peripheral blood," which directly verifies the involvement of 'Blood'.
+### Context ###
+- **Tumor**: The study focuses on cancer patients and the distribution of T cells in tumours, making 'Tumor' a highly relevant tissue.
+- **Epithelium**: While "normal adjacent tissue" is not explicitly defined as epithelial, in cancer studies, it often refers to epithelial tissue surrounding the tumour.
+- **Blood**: The mention of "peripheral blood" in the context of T cell distribution confirms its relevance.
+### Conclusion ###
+Based on the direct mentions and contextual implications, 'Tumor', 'Epithelium', and 'Blood' are confirmed as relevant tissues.
+### Result ###
+['Tumor', 'Epithelium', 'Blood']

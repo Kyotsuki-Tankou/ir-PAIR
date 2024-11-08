@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "liver" is explicitly mentioned multiple times, indicating that 'Liver' may be a proper result.
+### Verify ###
+The abstract focuses on "healthy and obese human and murine liver" and discusses "spatial proteogenomic atlas of the liver," which further verifies that 'Liver' is indeed a relevant and proper result.
+### Context ###
+Not required in this case as the keywords and the abstract content directly align with the schema.
+### Conclusion ###
+Consequently, we confirm 'Liver' as our final result based on the clear and consistent information provided in both the keywords and the abstract.
+### Result ###
+['Liver']

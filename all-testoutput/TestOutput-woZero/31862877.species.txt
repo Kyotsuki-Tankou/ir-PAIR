@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "Heart failure (HF)," "circulating proteins," "population-based cohort," "cardiac," and "heart transplantation" suggest that the study is focused on human health, particularly cardiac-related issues. Therefore, 'Homo sapiens' may be a proper result.
+### Verify ###
+The abstract mentions "a population-based cohort" and "heart transplantation," which are typically associated with human subjects. Additionally, the context of public health and the specific mention of human-related proteins like Nt-proBNP further verify that 'Homo sapiens' is indeed a proper result.
+### Context ###
+Given the detailed focus on human health issues such as heart failure, the use of human-specific proteins, and the mention of coronary sinus samples, there is no ambiguity in the context that would require additional clarification. The focus on these human-specific areas solidifies 'Homo sapiens' as the correct species.
+### Conclusion ###
+Consequently, we choose 'Homo sapiens' as our final result based on the clear and consistent focus on human health and human-specific biological factors in the abstract.
+### Result ###
+['Homo sapiens']

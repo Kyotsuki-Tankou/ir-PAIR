@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "Arabidopsis leaves" is prominently mentioned, indicating that 'Leaf' may be a proper result.
+### Verify ###
+The abstract states, "Here, we present scStereo-seq (single-cell spatial enhanced resolution omics sequencing) that enabled us to show the bona fide single-cell spatial transcriptome profiles of Arabidopsis leaves." This directly references the study being conducted on leaves, specifically of Arabidopsis. This further verifies that 'Leaf' is indeed a relevant and proper result.
+### Context ###
+Given the direct and clear mention of "Arabidopsis leaves" in both the abstract and the keywords, there is no need for additional context to verify the keyword.
+### Conclusion ###
+Consequently, we confirm 'Leaf' as our final result based on the clear and consistent references in the abstract and keywords.
+### Result ###
+['Leaf']

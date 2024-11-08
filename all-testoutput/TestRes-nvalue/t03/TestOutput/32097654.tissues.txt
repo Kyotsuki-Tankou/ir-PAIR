@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, terms like "digit tip amputation," "blastema," and "mouse digit tip blastemas" suggest a focus on regenerative processes in a specific tissue. The term "digit tip" implies a tissue related to limbs or extremities.
+###Verify###
+The abstract mentions "mouse digit tip blastemas and unamputated control digit tips," which indicates that the study is specifically focused on the tissue of the digit tip in mice. This aligns with the concept of "Bone" or "Muscle," as digits contain both bone and muscle tissues.
+###Context###
+While the abstract does not explicitly mention "Bone" or "Muscle," the context of digit tip regeneration involves both bone and muscle tissues. The blastema, which is central to the study, is a structure that involves multiple tissue types, including bone and muscle, during regeneration.
+###Conclusion###
+Given the focus on digit tip regeneration, which inherently involves both bone and muscle tissues, "Bone" and "Muscle" are the most appropriate matches from the provided schema.
+###Result###
+["Bone", "Muscle"]

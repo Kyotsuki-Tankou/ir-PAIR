@@ -1,0 +1,12 @@
+### Keywords ###
+From the Keywords "AGM region; HSC; embryo; endothelin; hematopoiesis; single cell transcriptome; spatial transcriptome," the term "spatial transcriptome" suggests the use of spatial transcriptomics technology.
+### Verify ###
+- The Abstract mentions "combined spatial transcriptomics analysis of dorsoventral polarized signaling in the aorta," which directly indicates the use of spatial transcriptomics technology.
+- Other technologies listed in the schema are not explicitly mentioned in either the Keywords or the Abstract.
+### Context ###
+- The study involves "gene expression profiling of sorted cell populations and single cells," which could imply the use of various sequencing technologies, but the specific mention of "spatial transcriptomics" narrows it down to that particular technology.
+- The focus on "dorsoventral polarized signaling in the aorta" and "single cell transcriptome" further supports the use of spatial transcriptomics for detailed spatial resolution.
+### Conclusion ###
+Given the explicit mention of "spatial transcriptomics" in both the Keywords and the Abstract, and the context aligning with the use of this technology, we can conclude that 'Spatial Transcriptomics' is the relevant technology to extract.
+### Result ###
+['Spatial Transcriptomics']

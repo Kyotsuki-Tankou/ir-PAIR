@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Colon"]
+null
+["10x Visium"]
+["Colon development"]
+ Abstract\nThe intestinal barrier is composed of a complex cell network defining highly compartmentalized and specialized structures. Here, we use spatial transcriptomics to define how the transcriptomic landscape is spatially organized in the steady state and healing murine colon. At steady state conditions, we demonstrate a previously unappreciated molecular regionalization of the colon, which dramatically changes during mucosal healing. Here, we identified spatially-organized transcriptional programs defining compartmentalized mucosal healing, and regions with dominant wired pathways. Furthermore, we showed that decreased p53 activation defined areas with increased presence of proliferating epithelial stem cells. Finally, we mapped transcriptomics modules associated with human diseases demonstrating the translational potential of our dataset. Overall, we provide a publicly available resource defining principles of transcriptomic regionalization of the colon during mucosal healing and a framework to develop and progress further hypotheses.

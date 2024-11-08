@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "high-grade serous ovarian cancer (HGSOC)" and "ovarian tissues" are explicitly mentioned, suggesting that 'Ovarian cancer' or 'Ovarian tissue' may be relevant organ parts.
+### Verify ###
+The abstract focuses on the analysis of "tumors of 7 treatment-naïve patients with HGSOC" and "nonmalignant ovarian samples," which further verifies that 'Ovarian cancer' and 'Ovarian tissue' are indeed relevant and proper results.
+### Context ###
+Not required in this case as the keywords and the abstract content directly align with the schema.
+### Conclusion ###
+Consequently, we confirm 'Ovarian cancer' and 'Ovarian tissue' as our final results based on the clear and consistent information provided in both the keywords and the abstract.
+### Result ###
+['Ovarian cancer', 'Ovarian tissue']

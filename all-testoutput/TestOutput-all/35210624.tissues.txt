@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the terms "mouse brain," "hippocampal neuroepithelium," and "microglia" indicate the tissue types involved. The primary focus is on the "brain" and specific regions within it like the "hippocampal neuroepithelium."
+### Verify ###
+The abstract mentions "in the mouse brain," "hippocampal neuroepithelium," and "microglia," which are all components of the brain. This confirms that the primary tissue type studied is the 'Brain.'
+### Conclusion ###
+Since the keywords and the abstract both consistently point to the 'Brain' as the primary tissue type, we can confidently conclude that 'Brain' is the correct tissue.
+### Result ###
+['Brain']

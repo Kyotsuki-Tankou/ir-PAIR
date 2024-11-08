@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, keywords like "heart regeneration," "regenerating cardiomyocytes," and "adult mouse heart" suggest that 'Heart' might be the relevant tissue.
+### Verify ###
+In the Abstract, phrases such as "using the mammalian neonatal heart regeneration model," "regenerating cardiomyocytes," and "adult mouse heart from ischemia/reperfusion (I/R) injury" strongly indicate that 'Heart' is indeed the tissue studied.
+### Context ###
+Upon reviewing the context, the entire abstract focuses on the heart, its regeneration, and the role of Nrf1 in cardiomyocytes. There are no additional clues that suggest another tissue as the primary focus.
+### Conclusion ###
+Consequently, we choose 'Heart' as our final result.
+### Result ###
+['Heart']

@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "single-cell RNA sequencing" directly indicates the technology 'scRNA'.
+### Verify ###
+The abstract mentions "single-cell RNA sequencing of over 38,000 cells from mouse digit tip blastemas," which further confirms that the technology used in the study is 'scRNA'.
+### Conclusion ###
+Since the keywords and the abstract both consistently point to 'scRNA', we can confidently conclude that 'scRNA' is the correct technology.
+### Result ###
+['scRNA']

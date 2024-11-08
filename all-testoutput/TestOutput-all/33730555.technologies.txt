@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "single-cell sequencing" and "organoids" are prominent. These suggest potential matches with the technologies listed in the schema.
+###Verify###
+The abstract mentions "single-cell atlas of human lacrimal gland tissue and organoids," which directly implies the use of single-cell sequencing technologies. The term "single-cell sequencing" is explicitly mentioned in the keywords.
+###Context###
+Given the focus on "single-cell sequencing" and the creation of a single-cell atlas, we need to consider which specific single-cell technologies might be used. The schema includes several single-cell technologies such as 'scRNA', 'scATAC-seq', and 'sci-ATAC-seq'. The context strongly supports the use of single-cell RNA sequencing technologies.
+###Conclusion###
+The abstract clearly indicates the use of single-cell sequencing technologies, with 'scRNA' being a specific and relevant match from the provided schema.
+###Result###
+['scRNA']

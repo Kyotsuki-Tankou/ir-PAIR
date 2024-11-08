@@ -1,0 +1,31 @@
+### Keywords ###
+- Alzheimer’s disease
+- amyloid plaque
+- astrocyte
+- cellular phase
+- complement cascade
+- in situ sequencing
+- microglia
+- myelination
+- oligodendrocyte
+- spatial transcriptomics
+### Verify ###
+- Alzheimer’s disease: Mentioned in the abstract.
+- amyloid plaque: Mentioned in the abstract.
+- astrocyte: Not explicitly mentioned in the abstract.
+- cellular phase: Implied by discussion of transcriptional changes and cellular interactions.
+- complement cascade: Mentioned in the abstract.
+- in situ sequencing: Mentioned in the abstract.
+- microglia: Not explicitly mentioned in the abstract.
+- myelination: Mentioned in the context of myelin and oligodendrocyte genes.
+- oligodendrocyte: Mentioned in the abstract.
+- spatial transcriptomics: Mentioned in the abstract.
+### Context ###
+- The abstract discusses the investigation of transcriptional changes in tissue domains around amyloid plaques in an AD mouse model using spatial transcriptomics.
+- It highlights early alterations in genes related to myelin and oligodendrocytes and later changes involving the complement system, oxidative stress, lysosomes, and inflammation.
+- The study confirms these alterations at the cellular level using in situ sequencing on mouse and human brain sections.
+### Conclusion ###
+- The primary focus is on the brain tissue, specifically around amyloid plaques.
+- Astrocytes and microglia are not explicitly mentioned but are relevant cellular components in the context of Alzheimer's disease and brain tissue.
+### Result ###
+- ['Brain']

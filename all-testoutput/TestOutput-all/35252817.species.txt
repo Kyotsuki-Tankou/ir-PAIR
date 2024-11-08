@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, "Omics," "Oncology," and "Pathology" suggest a focus on cancer research, particularly in the context of high-grade serous ovarian carcinoma. The species involved is not explicitly mentioned in the keywords.
+### Verify ###
+From the Abstract, the study focuses on "high-grade serous ovarian carcinoma using intact tumor tissue" and involves "patients" categorized by their response to chemotherapy. The use of the term "patients" implies that the species being studied is Homo sapiens.
+### Context ###
+The Abstract clearly indicates that the study is conducted on human patients with ovarian carcinoma, making the species Homo sapiens. There is no ambiguity or need for additional context to verify this.
+### Conclusion ###
+Based on the clear indication in the Abstract that the study involves human patients, we can confidently conclude that the species of interest is Homo sapiens.
+### Result ###
+['Homo sapiens']

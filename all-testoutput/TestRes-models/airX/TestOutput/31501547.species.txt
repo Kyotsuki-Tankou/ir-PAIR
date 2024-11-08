@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "mouse brain" and "primary breast cancer," indicating that the study involves at least two species: 'Mus musculus' (mouse) and 'Homo sapiens' (human).
+### Verify ###
+The abstract explicitly mentions "mouse brain," which corresponds to 'Mus musculus' in the schema. It also mentions "primary breast cancer," which is typically studied in humans, corresponding to 'Homo sapiens'.
+### Context ###
+The context of the study includes both "mouse brain" and "primary breast cancer," which are two different species. The technology described is applied to both, indicating that the results are relevant to both 'Mus musculus' and 'Homo sapiens'.
+### Conclusion ###
+Based on the direct mentions of "mouse brain" and "primary breast cancer," we can conclude that both 'Mus musculus' and 'Homo sapiens' are the species involved in this study.
+### Result ###
+['Mus musculus', 'Homo sapiens']

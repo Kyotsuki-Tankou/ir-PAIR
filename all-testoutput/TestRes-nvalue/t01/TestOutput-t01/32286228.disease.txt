@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, the terms "bone marrow mesenchymal lineage cells," "osteoporosis," "mesenchymal stem cells," "osteoblasts," "adipocytes," and "marrow adipogenic lineage precursors (MALPs)" are mentioned. These terms suggest a focus on bone marrow and related cellular processes.
+### Verify ###
+The abstract explicitly states:
+- "Bone marrow mesenchymal lineage cells are a heterogeneous cell population involved in bone homeostasis and diseases such as osteoporosis."
+- "One identified subpopulation is a unique cell type that expresses adipocyte markers but contains no lipid droplets."
+- "Functionally they play critical roles in maintaining marrow vasculature and suppressing bone formation."
+These statements directly verify the involvement of "Bone marrow" and related diseases such as "Osteoporosis."
+### Context ###
+Since the verification step directly confirms the presence of "Bone marrow" and the context of osteoporosis, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Consequently, we choose 'Bone marrow' and 'Osteoporosis' as our final results.
+### Result ###
+['Bone marrow', 'Osteoporosis']

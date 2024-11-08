@@ -1,0 +1,22 @@
+### Keywords ###
+- Alzheimer’s disease
+- amyloid plaque
+- astrocyte
+- cellular phase
+- complement cascade
+- in situ sequencing
+- microglia
+- myelination
+- oligodendrocyte
+- spatial transcriptomics
+### Verify ###
+From the input, we need to extract items corresponding to the provided schema, specifically looking for any organ parts mentioned. The relevant parts from the input are:
+- "mouse model"
+- "brain sections"
+- "human brain sections"
+### Context ###
+The context of the study revolves around Alzheimer's disease and the analysis of brain tissue. The terms "mouse model" and "brain sections" suggest that the primary organ part being studied is the brain, specifically in the context of Alzheimer's disease.
+### Conclusion ###
+Based on the context and the specific mentions of "mouse brain sections" and "human brain sections," the relevant organ part from the schema is "Brain."
+### Result ###
+["Brain"]

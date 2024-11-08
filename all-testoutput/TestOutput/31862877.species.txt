@@ -1,0 +1,10 @@
+###Keywords###
+The abstract mentions "heart failure (HF)" and "cardiac and specific cellular origins for several proteins," suggesting that the species 'Homo sapiens' is likely the subject of the study.
+###Verify###
+The term "heart failure" is explicitly associated with human health issues, and the phrase "cardiac and specific cellular origins for several proteins" implies research on human physiology, which further supports the idea that 'Homo sapiens' is the appropriate species.
+###Context###
+No additional context is necessary as the keywords and the abstract content directly align with the schema.
+###Conclusion###
+Based on the clear references to heart failure and the use of cardiac and cellular origins in the context of human health, 'Homo sapiens' is the most relevant species mentioned in the abstract.
+###Result###
+['Homo sapiens']

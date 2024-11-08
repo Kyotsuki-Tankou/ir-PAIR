@@ -1,0 +1,10 @@
+### Keywords ###
+The terms "aptamer-based proteomics" and "transcriptomic tools" in the abstract suggest that technologies such as 'CITE-seq', 'PIC-seq', 'sci-Space', 'sciMAP-ATAC-seq', 'Spatial Transcriptomics', 'seqFish', 'seqFISH+', 'Stereo-Seq', '10x Visium', 'RNA-seq', 'scATAC', 'LCM-seq', 'Tomo-seq', 'Proximity RNA-seq', 'sci-ATAC-seq', 'ClampFISH', 'VINE-seq', 'snRNA', 'HDST', 'GeoMx DSP', 'Seq-Scope', 'APEX-seq', 'RNAseq', 'MERFISH', 'ClumpSeq', 'Geo-seq', and 'Slide-seq' could be relevant to the study.
+### Verify ###
+The abstract states that "transcriptomic tools" were used to describe likely cardiac and specific cellular origins for several proteins. This directly supports the relevance of the mentioned technologies in the schema.
+### Context ###
+There is no need for additional context as the mention of "transcriptomic tools" in the abstract directly corresponds to the technologies listed in the schema.
+### Conclusion ###
+Based on the explicit mention of "transcriptomic tools" and the direct relevance to the listed technologies, we can conclude that several of the technologies from the schema were likely used in the study.
+### Result ###
+['CITE-seq', 'PIC-seq', 'sci-Space', 'sciMAP-ATAC-seq', 'Spatial Transcriptomics', 'seqFish', 'seqFISH+', 'Stereo-Seq', '10x Visium', 'RNA-seq', 'scATAC', 'LCM-seq', 'Tomo-seq', 'Proximity RNA-seq', 'sci-ATAC-seq', 'ClampFISH', 'VINE-seq', 'snRNA', 'HDST', 'GeoMx DSP', 'Seq-Scope', 'APEX-seq', 'RNAseq', 'MERFISH', 'ClumpSeq', 'Geo-seq', 'Slide-seq']

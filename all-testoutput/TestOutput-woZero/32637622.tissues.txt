@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, terms like "adult mouse brain," "whole-brain spatial transcriptomics," and "neuroanatomical organization of the brain" indicate that 'Brain' is the relevant tissue.
+### Verify ###
+The abstract mentions "adult mouse brain" and focuses on the "neuroanatomical organization of the brain," which clearly verifies that the tissue being studied is 'Brain'.
+### Conclusion ###
+Since the keywords and the context in the abstract both confirm the tissue, we can conclude that 'Brain' is the correct result.
+### Result ###
+['Brain']

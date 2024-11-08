@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keywords "bone marrow mesenchymal lineage cells," "osteoblasts," "adipocytes," "single cell transcriptome analysis," and "mouse" suggest that the study is focused on bone marrow, specifically its mesenchymal lineage cells and their differentiation into osteoblasts and adipocytes.
+### Verify ###
+The abstract states, "we computationally defined mesenchymal progenitors at different stages and delineated their bi-lineage differentiation paths in young, adult and aging mice," which directly indicates that the tissue of interest is the bone marrow.
+### Context ###
+The context is provided by the use of "bone marrow mesenchymal lineage cells" and the mention of "marrow cavity," which is a specific part of the bone, further confirming that the study is focused on bone tissue.
+### Conclusion ###
+Consequently, we confirm 'Bone' as the appropriate tissue type based on the provided abstract.
+### Result ###
+['Bone']

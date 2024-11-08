@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords include "zebrafish model of melanoma," "human patient samples," and "human melanoma." This suggests that the primary species studied is 'Danio rerio' (zebrafish), but there is also a mention of human samples.
+### Verify ###
+The abstract specifically states, "Using a zebrafish model of melanoma," which directly indicates that 'Danio rerio' is a key species in the study. Additionally, it mentions "human patient samples," suggesting that 'Homo sapiens' is also relevant.
+### Context ###
+The study primarily focuses on a zebrafish model to understand tumor-microenvironment interactions and then extends these findings to human melanoma. The use of zebrafish as a model organism is explicit, while the human aspect is more about validating the findings from the zebrafish model.
+### Conclusion ###
+Based on the keywords, verification, and context, both 'Danio rerio' and 'Homo sapiens' are relevant species in this study. However, since the primary experimental model is zebrafish, 'Danio rerio' should be listed first.
+### Result ###
+['Danio rerio', 'Homo sapiens']

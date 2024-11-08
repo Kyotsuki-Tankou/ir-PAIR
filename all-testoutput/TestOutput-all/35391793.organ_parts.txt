@@ -1,0 +1,8 @@
+### Keywords ###
+From the Keywords "Stereo-seq; alveolarization; development; mouse lung; spatial transcriptome," the term "mouse lung" directly indicates the organ part involved in the study.
+### Verify ###
+The keyword "mouse lung" clearly specifies the organ part being studied. Given the context of "alveolarization" and "development," which are processes related to lung development, the focus on the lung is further verified.
+### Conclusion ###
+The clear mention of "mouse lung" in the keywords allows us to confidently conclude that the organ part involved in the study is the "mouse lung."
+### Result ###
+['Mouse lung']

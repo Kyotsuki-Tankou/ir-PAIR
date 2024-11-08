@@ -1,0 +1,10 @@
+###Keywords###
+From "human leprosy granulomas" and "leprosy biopsy specimens" in the Abstract, it indicates that 'Skin' may be a proper result since leprosy primarily affects the skin.
+###Verify###
+From "human leprosy granulomas" and "leprosy biopsy specimens" in the Abstract, we can further verify that 'Skin' is indeed a proper result as leprosy is known to manifest in the skin.
+###Context###
+Not required in this case as the verification directly supports the keyword.
+###Conclusion###
+Consequently, we confirm 'Skin' as our final result.
+###Result###
+['Skin']

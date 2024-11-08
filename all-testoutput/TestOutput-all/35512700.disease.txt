@@ -1,0 +1,13 @@
+###Keywords###
+From the abstract, the terms "Drosophila development" and "Stereo-seq" are prominently mentioned. The study focuses on the spatiotemporal transcriptomic changes in developing Drosophila.
+###Verify###
+The abstract states:
+- "Here, utilizing spatial enhanced resolution omics-sequencing (Stereo-seq), we dissected the spatiotemporal transcriptomic changes of developing Drosophila with high resolution and sensitivity."
+- "We demonstrated that Stereo-seq data can be used for the 3D reconstruction of the spatial transcriptomes of Drosophila embryos and larvae."
+These statements clearly indicate that the study is centered around "Drosophila development" and uses "Stereo-seq" technology.
+###Context###
+The context of the study is explicitly about the development of Drosophila and the use of Stereo-seq to understand spatiotemporal transcriptomic changes. There is no ambiguity in the context that would require further clarification.
+###Conclusion###
+Based on the clear and direct mention of "Drosophila development" and the use of "Stereo-seq" technology, we can confidently conclude that "Drosophila development" is the relevant disease or condition to be extracted according to the schema.
+###Result###
+["Drosophila development"]

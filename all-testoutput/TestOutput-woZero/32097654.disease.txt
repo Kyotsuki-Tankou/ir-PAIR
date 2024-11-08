@@ -1,0 +1,14 @@
+### Keywords ###
+From the Keywords, "digit tip regeneration" and "blastema" are prominent, suggesting a focus on regeneration processes, particularly in the context of digit tips. "Mammals" and "mouse digit tip blastemas" indicate the study's focus on regenerative processes in mammalian digits.
+### Verify ###
+The Abstract mentions:
+- "Innate regeneration following digit tip amputation"
+- "Digit tip regeneration is mediated by the blastema"
+- "single-cell RNA sequencing of over 38,000 cells from mouse digit tip blastemas"
+These points verify that the study is specifically focused on the regeneration of digit tips in mice, involving the blastema structure.
+### Context ###
+The context of the study revolves around understanding the cellular and molecular mechanisms of digit tip regeneration, which is a form of tissue repair and regeneration.
+### Conclusion ###
+Given the clear focus on "digit tip regeneration" and the involvement of blastema, the most relevant disease term from the schema that aligns with this context is "Digit Regeneration."
+### Result ###
+['Digit Regeneration']

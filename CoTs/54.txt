@@ -1,0 +1,16 @@
+###schema###
+technologies:['CITE-seq', 'XYZeq', 'CUT&Tag', 'RNA-seq', 'STARmap', 'DBiT-seq', 'scATAC-seq', 'scRNA', 'EASI-FISH', 'PIC-seq', 'sci-Space', 'sciMAP-ATAC-seq', 'Slide-seqV2', 'Spatial Transcriptomics', 'seqFish', 'seqFISH+', 'Stereo-Seq', '10x Visium', ' RNA-seq', 'scATAC', 'LCM-seq', 'Tomo-seq', 'Proximity RNA-seq', 'sci-ATAC-seq', 'ClampFISH', 'VINE-seq', 'snRNA', 'HDST', 'GeoMx DSP', 'Seq-Scope', 'APEX-seq', 'RNAseq', 'MERFISH', 'ClumpSeq', 'Geo-seq', 'Slide-seq']
+###input###
+ Abstract
+To advance our understanding of the genetic programs that drive cell and tissue specialization, it is necessary to obtain a comprehensive overview of gene expression patterns. Here, we have used spatial transcriptomics to generate high-resolution, anteroposterior gene expression maps of C. elegans males and hermaphrodites. To explore these maps, we have developed computational methods for discovering region- and tissue-specific genes. We have found extensive sex-specific gene expression differences in the germline and sperm and discovered genes that are specifically expressed in the male reproductive tract. These include a group of uncharacterized genes that encode small secreted proteins that are required for male fertility. We conclude that spatial gene expression maps provide a powerful resource for identifying tissue-specific gene functions in C. elegans. Importantly, we found that expression maps from different animals can be precisely aligned, enabling transcriptome-wide comparisons of gene expression patterns. 
+ Keywords:C.聽elegans; CEL-seq; germline; mRNA sequencing; male fertility; spatial transcriptomics; sperm.Let's think step by step.
+### Keywords ###
+From the Keywords, we see "spatial transcriptomics" which suggests that a technology related to spatial transcriptomics might be used. However, "Tomo-seq" is not directly mentioned in the Keywords.
+### Verify ###
+In the Abstract, it is stated that "we have used spatial transcriptomics to generate high-resolution, anteroposterior gene expression maps of C. elegans males and hermaphrodites." This indicates the use of a spatial transcriptomics technology, but it does not specifically mention "Tomo-seq."
+### Context ###
+Given that "Tomo-seq" is not directly mentioned in either the Keywords or the Abstract, we need to consider the context more deeply. The Abstract emphasizes the use of spatial transcriptomics for high-resolution mapping, which suggests a technology capable of detailed spatial resolution. "Tomo-seq" is known for its ability to provide high-resolution spatial transcriptomic data, which aligns with the described methodology.
+### Conclusion ###
+Based on the context and the nature of the described methodology, it is reasonable to infer that "Tomo-seq" could be the technology used, despite it not being explicitly mentioned. The high-resolution spatial mapping described fits well with the capabilities of "Tomo-seq."
+### Result ###
+["Tomo-seq"]

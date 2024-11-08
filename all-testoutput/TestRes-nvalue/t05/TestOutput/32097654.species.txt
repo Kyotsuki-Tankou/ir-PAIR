@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "mouse digit tip blastemas" is prominently mentioned, indicating that 'Mus musculus' may be a proper result.
+### Verify ###
+The abstract specifically mentions "mouse digit tip blastemas," which directly verifies that 'Mus musculus' is indeed a relevant species in this context.
+### Conclusion ###
+Consequently, we choose 'Mus musculus' as our final result.
+### Result ###
+['Mus musculus']

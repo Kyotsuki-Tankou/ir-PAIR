@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract and Keywords, the terms "Atopic dermatitis (AD)" and "atopic dermatitis" are directly mentioned, suggesting that 'Atopic dermatitis' is the relevant disease.
+### Verify ###
+The Abstract focuses extensively on Atopic dermatitis (AD), discussing its pathogenesis, treatment options, and the use of skin suction blistering to characterize the disease on transcriptomic and proteomic levels. This directly aligns with 'Atopic dermatitis' in the schema.
+### Context ###
+The context of the study is entirely centered around Atopic dermatitis, with no mention of other diseases. The methods and results are specifically tailored to understanding and characterizing AD, further reinforcing the focus on this particular disease.
+### Conclusion ###
+Consequently, we confirm that 'Atopic dermatitis' is the appropriate disease based on the given information.
+### Result ###
+['Atopic dermatitis']

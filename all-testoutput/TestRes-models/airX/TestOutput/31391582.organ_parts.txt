@@ -1,0 +1,13 @@
+### Keywords ###
+The abstract mentions "post-implantation development of the mouse embryo," "germ layers," "gastrulation stages," and "spatiotemporal transcriptome." These terms suggest that 'Mouse Embryo' and possibly 'Embryo' or 'Gastrulation' might be relevant to the schema.
+### Verify ###
+The abstract provides further evidence for these keywords:
+- "During post-implantation development of the mouse embryo" directly refers to the 'Mouse Embryo'.
+- "Germ layers are formed and cell lineages are specified, leading to the establishment of the blueprint for embryogenesis" supports the relevance of 'Gastrulation'.
+- "This spatiotemporal transcriptome provides high-resolution digitized in situ gene-expression profiles" could be related to the concept of 'Embryo' development.
+### Context ###
+The study focuses on the early development of the mouse embryo, including the formation of germ layers and the specification of cell lineages. The spatially resolved transcriptome analysis is a key part of this study.
+### Conclusion ###
+Based on the direct mention and the context provided, 'Mouse Embryo' and 'Gastrulation' are the most relevant items in the schema. 'Embryo' can also be considered, although it is more general.
+### Result ###
+['Mouse Embryo', 'Gastrulation', 'Embryo']

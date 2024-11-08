@@ -1,0 +1,10 @@
+### Keywords ###
+The term "mouse" is explicitly mentioned in the Keywords, indicating that 'Mus musculus' may be a proper result.
+### Verify ###
+The abstract refers to the study employing "large scale single cell transcriptome analysis" in "young, adult and aging mice," which further verifies that 'Mus musculus' is indeed a relevant and proper result.
+### Context ###
+Not required in this case as the keywords and the abstract content directly align with the schema.
+### Conclusion ###
+Consequently, we confirm 'Mus musculus' as our final result based on the clear and consistent information provided in both the keywords and the abstract.
+### Result ###
+['Mus musculus']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "spatially resolved transcriptomics" suggests that technologies related to spatial transcriptomics may be relevant. Keywords like "hippocampus" and "olfactory bulbs" indicate the focus areas, but for the technology, "Spatial Transcriptomics" and "Slide-seq" are potential matches from the schema.
+### Verify ###
+The abstract explicitly mentions "Spatially resolved transcriptomics was used to identify high-confidence genes that were differentially regulated in AD mice relative to controls." This directly points to the use of "Spatial Transcriptomics" technology.
+### Context ###
+There is no ambiguity in the context as the term "spatially resolved transcriptomics" is clearly mentioned and directly corresponds to "Spatial Transcriptomics" in the schema. There is no mention of other technologies from the schema that could confuse the identification.
+### Conclusion ###
+Based on the clear and direct mention of "spatially resolved transcriptomics" in the abstract, we can confidently conclude that "Spatial Transcriptomics" is the technology used.
+### Result ###
+['Spatial Transcriptomics']

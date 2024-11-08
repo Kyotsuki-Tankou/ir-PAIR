@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "adult mouse brain" and "whole-brain spatial transcriptomics" are prominently mentioned, indicating that 'Brain' is a key tissue involved in the study.
+### Verify ###
+The abstract explicitly states "adult mouse brain" and discusses the use of "whole-brain spatial transcriptomics" to classify and understand the neuroanatomical organization of the brain. This directly verifies that 'Brain' is indeed the primary tissue being analyzed.
+### Conclusion ###
+Based on the clear and direct mentions in the abstract, we can conclusively determine that 'Brain' is the correct and primary tissue involved in the study.
+### Result ###
+['Brain']

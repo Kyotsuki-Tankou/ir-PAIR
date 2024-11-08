@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract and keywords, "Stereo-seq" is explicitly mentioned as the technology used for the study.
+###Verify###
+The abstract states, "utilizing spatial enhanced resolution omics-sequencing (Stereo-seq), we dissected the spatiotemporal transcriptomic changes of developing Drosophila." This confirms that Stereo-seq is the primary technology employed in the study.
+###Conclusion###
+Given the clear mention and usage of Stereo-seq in the abstract, it is evident that this technology is central to the study.
+###Result###
+["Stereo-seq"]

@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords "AKI; spatial; transcriptomics," the term "AKI" (Acute Kidney Injury) directly corresponds to a disease listed in the schema.
+### Verify ###
+In the Abstract, phrases like "female bilateral ischemia-reperfusion injury model," "spatial maps of gene expression across the injury and repair time course," and "injured proximal tubule cells" clearly indicate a focus on acute kidney injury (AKI) and its progression.
+### Context ###
+The study involves a detailed analysis of gene expression patterns and cell-cell interactions in the context of kidney injury and repair, specifically highlighting the transition from AKI to CKD (Chronic Kidney Disease). This context strongly supports the identification of "Acute kidney injury" as the primary disease studied.
+### Conclusion ###
+Based on the direct mention of AKI and the detailed study of its mechanisms and progression, we can confidently conclude that "Acute kidney injury" is the disease being investigated.
+### Result ###
+["Acute kidney injury"]

@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "Brain" is explicitly mentioned multiple times, indicating that 'Brain' may be a proper result.
+### Verify ###
+- The abstract states: "Brain maps are essential...," "adult mouse brain," and "the complex and detailed neuroanatomical organization of the brain," which directly verifies the presence of 'Brain'.
+### Context ###
+- No additional context is needed as the abstract clearly focuses on the brain and its spatial organization.
+### Conclusion ###
+Consequently, we confirm 'Brain' as our final result based on the explicit and frequent mentions in the abstract.
+### Result ###
+['Brain']

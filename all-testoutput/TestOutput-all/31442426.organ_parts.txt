@@ -1,0 +1,10 @@
+###Keywords###
+The keywords from the input that might correspond to the schema are "Human cell lines" and "NIH3T3 cells," as these are common cell lines used in research.
+###Verify###
+The abstract mentions the development of an RNA proximity labeling technique, APEX-seq, and its application in probing the spatial organization of the transcriptome. It does not explicitly mention any specific organ parts. However, the use of cell lines like "Human cell lines" and "NIH3T3 cells" is implied in such research contexts.
+###Context###
+Given the nature of the study, which involves subcellular localization and the use of cell lines, it is reasonable to infer that the research was conducted using these cell lines as models.
+###Conclusion###
+Since the abstract implies the use of cell lines and these are listed in the schema, we can conclude that "Human cell lines" and "NIH3T3 cells" are the appropriate results.
+###Result###
+['Human cell lines', 'NIH3T3 cells']

@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "mouse cortical astrocytes" and "brain regions" directly indicate the tissue 'Brain'.
+### Verify ###
+The abstract mentions "transcriptome changes of mouse cortical astrocytes" and "specific brain regions using spatial transcriptomics," which further confirm that the tissue studied is 'Brain'.
+### Conclusion ###
+Since the keywords and the abstract both consistently point to 'Brain', we can confidently conclude that 'Brain' is the correct tissue.
+### Result ###
+['Brain']

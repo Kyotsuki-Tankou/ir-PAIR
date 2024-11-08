@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "single-cell analysis," "cell-type composition of all major human organs," and "human cell landscape (HCL)." These keywords suggest that the study is focused on "Human cell lines" and "Brain," as these are likely to be among the major organs discussed.
+### Verify ###
+The abstract states, "We have uncovered a single-cell hierarchy for many tissues that have not been well characterized." This implies that multiple tissues are being studied, which supports the potential inclusion of "Human cell lines" and "Brain."
+### Context ###
+The mention of "major human organs" and the construction of a scheme for the "human cell landscape" indicates that the study involves a comprehensive analysis of various human tissues and organs. This context strengthens the relevance of "Human cell lines" and "Brain."
+### Conclusion ###
+Given the context and the comprehensive nature of the study, we can conclude that both "Human cell lines" and "Brain" are appropriate results based on the schema.
+### Result ###
+['Human cell lines', 'Brain']

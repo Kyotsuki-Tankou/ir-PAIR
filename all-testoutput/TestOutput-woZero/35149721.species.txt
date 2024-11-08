@@ -1,0 +1,8 @@
+### Keywords ###
+From "murine colon" in the Abstract, it indicates that 'Mus musculus' may be a proper result.
+### Verify ###
+From "Here, we use spatial transcriptomics to define how the transcriptomic landscape is spatially organized in the steady state and healing murine colon" in the Abstract, we can further verify that 'Mus musculus' may be a proper result.
+### Conclusion ###
+Consequently, we choose 'Mus musculus' as our final result.
+### Result ###
+['Mus musculus']

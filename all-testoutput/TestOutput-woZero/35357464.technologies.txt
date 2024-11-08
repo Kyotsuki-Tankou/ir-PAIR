@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the technologies mentioned are "spatial transcriptomics" and "single-cell RNA-seq."
+### Verify ###
+The abstract specifically states:
+- "we performed the spatial transcriptomics and single-cell RNA-seq assays"
+- "The spatial transcriptomic annotation identified 11 domains of distinct gene signatures"
+- "The scRNA-Seq identified 12 types of cells in the D7.5 uterus"
+These statements clearly verify the use of "Spatial Transcriptomics" and "scRNA" technologies.
+### Conclusion ###
+Given the clear mention and detailed description of both "spatial transcriptomics" and "single-cell RNA-seq" in the abstract, we can confidently conclude that these are the technologies used in the study.
+### Result ###
+['Spatial Transcriptomics', 'scRNA']

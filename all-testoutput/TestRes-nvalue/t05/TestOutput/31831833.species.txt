@@ -1,0 +1,8 @@
+###Keywords###
+The abstract mentions "rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients," which indicates that 'Homo sapiens' may be a proper result.
+###Verify###
+The abstract focuses on "unbiased mRNA studies at the site of inflammation in these chronic inflammatory diseases," confirming that the study is conducted on human patients, which supports 'Homo sapiens' as the relevant species.
+###Conclusion###
+Based on the information provided in the abstract, we can conclude that 'Homo sapiens' is the correct species.
+###Result###
+['Homo sapiens']

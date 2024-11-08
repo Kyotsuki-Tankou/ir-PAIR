@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords "Expression profiling; Mouse models; Nephrology," the term "acute kidney injury (AKI)" is mentioned in the Abstract, indicating a focus on kidney-related pathology.
+### Verify ###
+In the Abstract, the phrases "acute kidney injury (AKI)" and "2 murine AKI models: ischemia/reperfusion injury (IRI) and cecal ligation puncture (CLP)" directly mention the disease being studied. 
+### Context ###
+The context of the study involves characterizing the spatial transcriptomic signature of AKI in murine models, which aligns with the disease focus on "acute kidney injury."
+### Conclusion ###
+Consequently, we choose "Acute kidney injury" as our final result based on the direct mentions and the study's focus.
+### Result ###
+['Acute kidney injury']

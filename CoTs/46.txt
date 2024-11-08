@@ -1,0 +1,15 @@
+###schema###
+species:['Canis lupus familiaris', 'Arabidopsis thaliana', 'Xenopus tropicalis', 'Maize', 'Drosophila melanogaster', 'Danio rerio', 'Ambystoma mexicanum', 'Gallus gallus', 'Homo sapiens', 'Rattus norvegicus', 'Mus musculus', 'Macaca fascicularis', 'Glycine max', 'Xenopus laevis', 'Caenorhabditis elegans', 'Oryctolagus cuniculus', 'Phalaenopsis aphrodite', 'Sus scrofa']
+###input###
+ Abstract
+The hypothalamus controls essential social behaviors and homeostatic functions. However, the cellular architecture of hypothalamic nuclei-including the molecular identity, spatial organization, and function of distinct cell types-is poorly understood. Here, we developed an imaging-based in situ cell-type identification and mapping method and combined it with single-cell RNA-sequencing to create a molecularly annotated and spatially resolved cell atlas of the mouse hypothalamic preoptic region. We profiled ~1 million cells, identified ~70 neuronal populations characterized by distinct neuromodulatory signatures and spatial organizations, and defined specific neuronal populations activated during social behaviors in male and female mice, providing a high-resolution framework for mechanistic investigation of behavior circuits. The approach described opens a new avenue for the construction of cell atlases in diverse tissues and organisms.Let's think step by step.
+### Keywords ###
+From the abstract, there is no direct mention of the species name. However, the context implies the use of mice ("male and female mice") and the term "mouse hypothalamic preoptic region," which suggests 'Mus musculus' might be the species used.
+### Verify ###
+The abstract explicitly mentions "male and female mice" and "mouse hypothalamic preoptic region," which strongly indicates that the species used in the study is 'Mus musculus'.
+### Context ###
+Since the abstract directly references "male and female mice" and the specific anatomical region of the mouse, there is no need for additional context to verify the species.
+### Conclusion ###
+Consequently, we confirm that 'Mus musculus' is the correct species used in the study.
+### Result ###
+['Mus musculus']

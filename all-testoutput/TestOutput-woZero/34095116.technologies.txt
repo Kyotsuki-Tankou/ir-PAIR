@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "single-cell RNA sequencing" and "Spatial Transcriptomics (ST) technology." These directly correspond to the technologies listed in the schema.
+### Verify ###
+The abstract mentions "we combine the advantages of single-cell RNA sequencing and Spatial Transcriptomics (ST) technology," which directly verifies the use of these technologies in the study.
+### Context ###
+Since the verification step directly confirms the presence of both "single-cell RNA sequencing" and "Spatial Transcriptomics (ST) technology" without ambiguity, there is no need for additional context to clarify the technologies used.
+### Conclusion ###
+Consequently, we confirm that 'single-cell RNA sequencing' and 'Spatial Transcriptomics' are the appropriate technologies based on the given input.
+### Result ###
+['single-cell RNA sequencing', 'Spatial Transcriptomics']

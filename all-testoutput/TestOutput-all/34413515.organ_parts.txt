@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, the terms "mouse cortical astrocytes" and "brain regions" suggest that 'Brain' and 'Cortex' may be relevant organ parts.
+### Verify ###
+- The abstract mentions "mouse cortical astrocytes," which directly verifies 'Cortex'.
+- The term "specific brain regions" supports the inclusion of 'Brain'.
+### Context ###
+Not required in this case as the verification directly supports the keywords.
+### Conclusion ###
+Based on the clear references to "mouse cortical astrocytes" and "brain regions," both 'Brain' and 'Cortex' are relevant organ parts.
+### Result ###
+['Brain', 'Cortex']

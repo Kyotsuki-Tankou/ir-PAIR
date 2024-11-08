@@ -1,0 +1,20 @@
+### Keywords ###
+From the input, the keywords that stand out are "31 adult pig tissues," "47 skeletal muscles," "six adipose depots," and "subcutaneous adipose tissues." These suggest a focus on various tissues, particularly skeletal muscles and adipose tissues.
+### Verify ###
+In the Abstract, specific mentions include:
+- "31 adult pig tissues"
+- "47 skeletal muscles"
+- "six adipose depots"
+- "subcutaneous adipose tissues"
+### Context ###
+The context of the study involves a comprehensive transcriptomic survey of pigs, focusing on various tissues including skeletal muscles and adipose tissues. The mention of "subcutaneous adipose tissues" and "skeletal muscles" provides clear context for the types of tissues being studied.
+### Conclusion ###
+Based on the Keywords, Verify, and Context steps, the specific tissues mentioned in the schema that correspond to the input are "Skeletal muscle" and "Adipose tissue" (though "Adipose tissue" is not explicitly listed in the schema, "subcutaneous adipose tissues" and "adipose depots" suggest a focus on adipose-related tissues).
+### Result ###
+['Skeletal muscle', 'Adipose tissue'] (Note: Since "Adipose tissue" is not explicitly listed in the schema, we can consider "Adipose depots" or "Subcutaneous adipose tissues" if they are more specific matches within the schema)
+Given the schema provided, the closest matches would be:
+['Skeletal muscle', 'Adipose tissue'] (assuming "Adipose tissue" is a general term that can encompass "adipose depots" and "subcutaneous adipose tissues")
+If "Adipose tissue" is not acceptable, we can refine to:
+['Skeletal muscle', 'Subcutaneous adipose tissues'] (if "Subcutaneous adipose tissues" is a more specific match in the schema)
+Since "Adipose tissue" is not explicitly listed, the most accurate extraction based on the schema would be:
+['Skeletal muscle', 'Subcutaneous adipose tissues']

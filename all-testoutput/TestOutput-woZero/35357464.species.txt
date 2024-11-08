@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "mouse uterus" indicates that 'Mus musculus' may be a proper result.
+### Verify ###
+The abstract mentions "the mouse uterus" and "Mus musculus" is the scientific name for the common house mouse, which further supports that 'Mus musculus' is the correct species.
+### Context ###
+Not required in this case as the verification directly supports the keyword.
+### Conclusion ###
+Consequently, we choose 'Mus musculus' as our final result.
+### Result ###
+['Mus musculus']

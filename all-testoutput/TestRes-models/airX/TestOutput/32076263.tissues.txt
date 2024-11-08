@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, keywords such as "gastruloids," "mouse gastruloids," "mouse embryos," "single-cell RNA sequencing," and "spatial transcriptomics" indicate that the study involves both "Gastrula" and "Embryo" as tissues, as well as the use of "RNA-seq" and "Spatial Transcriptomics" technologies.
+### Verify ###
+The abstract mentions "mouse gastruloids" and "mouse embryos" directly, confirming that these are the tissues under study. It also refers to "single-cell RNA sequencing" and "spatial transcriptomics" as methods used, which aligns with the schema's technology list.
+### Context ###
+The abstract discusses the comparison between gastruloids and mouse embryos, indicating that the study is focused on developmental biology, particularly on the gastrulation process and somitogenesis. This provides additional context for the tissue types and technologies involved.
+### Conclusion ###
+Based on the keywords, verify, and context, we can conclude that the study involves "Gastrula" and "Embryo" tissues and uses "RNA-seq" and "Spatial Transcriptomics" technologies.
+### Result ###
+['Gastrula', 'Embryo', 'RNA-seq', 'Spatial Transcriptomics']

@@ -1,0 +1,48 @@
+### Keywords ###
+- Cutaneous squamous cell carcinoma (cSCC)
+- Single-cell RNA sequencing
+- Spatial transcriptomics
+- Multiplexed ion beam imaging
+- Human cSCCs
+- Normal skin
+- Tumor subpopulations
+- Tumor-specific keratinocyte (TSK)
+- Fibrovascular niche
+- Ligand-receptor networks
+- T regulatory cell (Treg)
+- CD8 T cells
+- Tumor stroma
+- Human tumor xenografts
+- In vivo CRISPR screens
+- Gene networks
+- Tumorigenesis
+- Skin cancer
+- Squamous cell carcinoma
+- Tumor immunology
+- Tumor microenvironment
+### Verify ###
+- **Cutaneous squamous cell carcinoma (cSCC)**: Mentioned in the abstract.
+- **Single-cell RNA sequencing**: Mentioned in the abstract.
+- **Spatial transcriptomics**: Mentioned in the abstract.
+- **Multiplexed ion beam imaging**: Mentioned in the abstract.
+- **Human cSCCs**: Mentioned in the abstract.
+- **Normal skin**: Mentioned in the abstract.
+- **Tumor subpopulations**: Mentioned in the abstract.
+- **Tumor-specific keratinocyte (TSK)**: Mentioned in the abstract.
+- **Fibrovascular niche**: Mentioned in the abstract.
+- **Ligand-receptor networks**: Mentioned in the abstract.
+- **T regulatory cell (Treg)**: Mentioned in the abstract.
+- **CD8 T cells**: Mentioned in the abstract.
+- **Tumor stroma**: Mentioned in the abstract.
+- **Human tumor xenografts**: Mentioned in the abstract.
+- **In vivo CRISPR screens**: Mentioned in the abstract.
+- **Gene networks**: Mentioned in the abstract.
+- **Tumorigenesis**: Mentioned in the abstract.
+- **Skin cancer**: Mentioned in the abstract.
+- **Squamous cell carcinoma**: Mentioned in the abstract.
+- **Tumor immunology**: Mentioned in the abstract.
+- **Tumor microenvironment**: Mentioned in the abstract.
+### Conclusion ###
+All keywords extracted from the abstract are consistent with the content mentioned.
+### Result ###
+- ['Skin', 'Squamous Cell Carcinoma', 'Cutaneous squamous cell carcinoma (cSCC)']

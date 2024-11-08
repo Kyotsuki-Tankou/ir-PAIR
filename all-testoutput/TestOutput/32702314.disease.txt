@@ -1,0 +1,10 @@
+### Keywords ###
+The keywords from the abstract include "Alzheimer’s disease," "amyloid plaque," "astrocyte," "cellular phase," "complement cascade," "in situ sequencing," "microglia," "myelination," "oligodendrocyte," and "spatial transcriptomics." These terms suggest a focus on Alzheimer's disease and its associated molecular and cellular changes, especially in the context of amyloid plaques.
+### Verify ###
+The abstract explicitly states that the study is conducted using a mouse model of Alzheimer's disease and employs "spatial transcriptomics" to analyze the changes around amyloid plaques. This confirms that the disease being studied is Alzheimer's disease.
+### Context ###
+The abstract does not provide specific details about the tissue or organ involved other than mentioning the analysis is done in the vicinity of amyloid plaques within the brain. Given that the disease is Alzheimer's disease, and the analysis is focused on the molecular changes around the plaques, it is reasonable to infer that the brain is the primary organ of interest.
+### Conclusion ###
+Based on the context and the specific disease mentioned in the abstract, the disease being studied is Alzheimer's disease.
+### Result ###
+['Alzheimer disease']

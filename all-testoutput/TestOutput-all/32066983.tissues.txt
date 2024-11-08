@@ -1,0 +1,10 @@
+###Keywords###
+From the input, the terms "suprachiasmatic nucleus (SCN)" and "ventral hypothalamus" suggest that 'Brain' might be a proper result. Additionally, the mention of "mouse SCN" indicates the species but does not change the tissue focus.
+###Verify###
+- The input text specifically mentions "suprachiasmatic nucleus (SCN) in the ventral hypothalamus," which is a region of the brain. This confirms that 'Brain' is indeed a correct result based on the provided schema.
+###Context###
+No additional context is needed as the terms "suprachiasmatic nucleus (SCN)" and "ventral hypothalamus" clearly specify the tissue involved.
+###Conclusion###
+Since the keywords and the verification both point to 'Brain', we can conclude that it is the correct result.
+###Result###
+["Brain"]

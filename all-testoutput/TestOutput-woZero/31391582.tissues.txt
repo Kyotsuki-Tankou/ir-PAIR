@@ -1,0 +1,21 @@
+### Keywords ###
+From the abstract, the key terms related to tissues are "mouse embryo," "inner cell mass," "epiblast," "germ layers," "cell lineages," "gastrulation," and "visceral endoderm."
+### Verify ###
+The abstract mentions:
+- "post-implantation development of the mouse embryo"
+- "descendants of the inner cell mass in the early epiblast"
+- "formation of the germ layers"
+- "cell lineages are specified"
+- "gastrulation stages"
+- "visceral endoderm"
+These terms suggest a focus on early embryonic development, particularly involving the "Embryo" and "Gastrula."
+### Context ###
+Given the context of the study:
+- The study is centered around the early stages of mouse embryo development.
+- It involves the transition from naive to primed pluripotent states.
+- The formation and regionalization of germ layers are key aspects.
+- The mention of "visceral endoderm" and its contribution to the endoderm indicates a focus on early embryonic tissues.
+### Conclusion ###
+Based on the keywords and context, the relevant tissues from the schema that are explicitly or implicitly mentioned are "Embryo" and "Gastrula."
+### Result ###
+["Embryo", "Gastrula"]

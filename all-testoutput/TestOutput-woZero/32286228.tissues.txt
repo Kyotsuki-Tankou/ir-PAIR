@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, "bone marrow mesenchymal stem cells" and "marrow adipogenic lineage precursors (MALPs)" suggest a focus on the bone marrow. The term "bone marrow" is explicitly mentioned, indicating that 'Bone marrow' may be a proper result.
+### Verify ###
+From the Abstract, "Bone marrow mesenchymal lineage cells are a heterogeneous cell population involved in bone homeostasis" and "we computationally defined mesenchymal progenitors at different stages and delineated their bi-lineage differentiation paths in young, adult and aging mice" directly verify that 'Bone marrow' is indeed the tissue of focus in this study.
+### Context ###
+Since both the Abstract and Keywords clearly and consistently point to 'Bone marrow' as the primary tissue of interest, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm 'Bone marrow' as our final result based on the clear and consistent information provided in both the Abstract and Keywords.
+### Result ###
+['Bone marrow']

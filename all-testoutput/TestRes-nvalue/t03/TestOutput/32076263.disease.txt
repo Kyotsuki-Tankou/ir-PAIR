@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, the keywords that stand out are "gastruloids," "embryonic stem cells," "mammalian development," "somitogenesis," and "mouse embryos." These suggest that 'Embryo development' and 'Muscle regeneration' (due to the mention of somitogenesis) may be relevant results.
+### Verify ###
+- **Embryo development**: The abstract mentions "key features of mammalian development after implantation," "compare mouse gastruloids with mouse embryos," and "various embryonic cell types," which strongly verify that 'Embryo development' is a proper result.
+- **Muscle regeneration**: The term "somitogenesis" is directly related to the development of somites, which are precursors to muscles, verifying 'Muscle regeneration' as a relevant result.
+### Context ###
+- The context of the study revolves around the development stages of embryos and the formation of somites, which are critical for muscle development. This further supports the relevance of 'Embryo development' and 'Muscle regeneration.'
+### Conclusion ###
+Based on the keywords, verification, and contextual clues, we confirm 'Embryo development' and 'Muscle regeneration' as the final results.
+### Result ###
+['Embryo development', 'Muscle regeneration']

@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, keywords such as "single-cell RNA sequencing (scRNA-seq)," "spatial transcriptomics," "multimodal intersection analysis," and "primary pancreatic tumors" are prominent. These terms suggest the use of specific technologies for analyzing gene expression and tissue composition.
+### Verify ###
+Upon reviewing the abstract, the following technologies are explicitly mentioned:
+- "single-cell RNA sequencing (scRNA-seq)"
+- "spatial transcriptomics"
+### Context ###
+The abstract combines "a microarray-based spatial transcriptomics method" with "scRNA-Seq generated from the same sample." This indicates the use of both "Spatial Transcriptomics" and "scRNA" technologies. The term "scRNA-seq" is a clear match for "scRNA" in the schema, and "spatial transcriptomics" directly corresponds to "Spatial Transcriptomics" in the schema.
+### Conclusion ###
+The abstract explicitly mentions the use of "single-cell RNA sequencing (scRNA-seq)" and "spatial transcriptomics," which directly match the technologies listed in the schema.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

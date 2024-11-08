@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "primary pancreatic tumors" and "ductal cells, macrophages, dendritic cells and cancer cells," which suggest a focus on human biology, particularly in the context of cancer research.
+### Verify ###
+The abstract mentions "primary pancreatic tumors" and the specific cell types associated with human pathology. This directly implies that the study is conducted on human tissue.
+### Context ###
+Since the verification step directly confirms the presence of human-specific tissue and cell types without ambiguity, there is no need for additional context to clarify the species.
+### Conclusion ###
+Consequently, we confirm that 'Homo sapiens' is the appropriate species based on the given input.
+### Result ###
+['Homo sapiens']

@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, the terms "developing mouse embryos" and "mouse embryos" are explicitly mentioned. This suggests that "Mouse Embryo" or "Embryo" may be relevant results.
+### Verify ###
+The abstract specifically states:
+- "Applying sci-Space to developing mouse embryos"
+This directly verifies the presence of "Mouse Embryo" and "Embryo" in the context of the study.
+### Context ###
+Given the direct mention of "mouse embryos" in the abstract, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm "Mouse Embryo" and "Embryo" as the appropriate results based on the explicit references in the abstract.
+### Result ###
+["Mouse Embryo", "Embryo"]

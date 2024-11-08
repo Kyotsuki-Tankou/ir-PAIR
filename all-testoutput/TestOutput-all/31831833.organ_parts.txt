@@ -1,0 +1,11 @@
+###Keywords###
+From the "Abstract," the key terms related to organ parts are "synovial biopsies," "affected joints," and "synovial tissue."
+###Verify###
+The abstract specifically mentions:
+- "We aimed to explore synovial biopsies from rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients..."
+- "Synovial tissue biopsies from affected joints were studied..."
+These statements directly indicate that the focus is on "synovial tissue."
+###Conclusion###
+Given the clear and repeated mention of "synovial tissue" and the context of studying biopsies from affected joints, it is evident that "Synovial tissue" is the specific organ part being studied.
+###Result###
+["Synovial tissue"]

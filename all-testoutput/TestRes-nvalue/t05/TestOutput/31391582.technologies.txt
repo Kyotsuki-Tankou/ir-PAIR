@@ -1,0 +1,12 @@
+###Keywords###
+From the "Abstract," the keywords that stand out are "spatially resolved transcriptome," "cell populations," "germ layers," and "gastrulation stages." These suggest that the technology used might be related to spatial transcriptomics, such as 'STARmap' or '10x Visium'.
+###Verify###
+The Abstract mentions "a spatially resolved transcriptome of cell populations at defined positions in the germ layers during development from pre- to late-gastrulation stages." This directly aligns with spatial transcriptomics technologies, which are designed to capture gene expression data in a spatial context.
+###Context###
+The context further supports the use of spatial transcriptomics technologies:
+- The study involves "high-resolution digitized in situ gene-expression profiles," which is a hallmark of spatial transcriptomics.
+- The mention of "time and space" continuum in pluripotency states and lineage specification points to a technology that can capture both spatial and temporal information, which is characteristic of spatial transcriptomics.
+###Conclusion###
+Given the context and the direct mention of a spatially resolved transcriptome, it is reasonable to conclude that a spatial transcriptomics technology like 'STARmap' or '10x Visium' was used in this study.
+###Result###
+['STARmap', '10x Visium']

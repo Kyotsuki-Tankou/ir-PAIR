@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract and keywords, the relevant tissue mentioned is "skin." The study focuses on atopic dermatitis, which is a skin condition.
+### Verify ###
+The abstract explicitly mentions "skin suction blistering" and "skin cells," which confirms that the tissue being studied is indeed "Skin."
+### Conclusion ###
+Given the clear and consistent mention of "skin" throughout the abstract, we can confidently conclude that "Skin" is the correct tissue to be extracted.
+### Result ###
+['Skin']

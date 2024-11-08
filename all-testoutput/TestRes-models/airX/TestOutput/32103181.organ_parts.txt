@@ -1,0 +1,10 @@
+###Keywords###
+The keywords from the abstract are "T cells," "tumour immunity," "anti-PDL1 therapy," "peripheral blood," and "cancer." These suggest that the organ part associated with the cancer treatment and T cell analysis might be relevant. However, none of these keywords directly match the organ parts listed in the schema.
+###Verify###
+The abstract does not mention any specific organ parts. It discusses the analysis of T cells in various types of cancer and their interaction with anti-PDL1 therapy but does not specify which organ is being analyzed.
+###Context###
+Since there is no direct mention of an organ part in the abstract, we need to infer from the context. The abstract discusses T cells and their interaction with cancer, which suggests that the analysis might be related to a type of cancer. However, it does not specify which type of cancer or organ is involved.
+###Conclusion###
+Given the lack of direct mention or clear inference of an organ part in the abstract, it is not possible to identify a specific organ part from the provided schema.
+###Result###
+null

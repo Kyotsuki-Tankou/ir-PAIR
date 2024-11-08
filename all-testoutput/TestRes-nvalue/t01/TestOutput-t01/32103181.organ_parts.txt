@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "tumour," "cancer," "T cells," and "peripheral blood" are prominent. However, specific organ parts are not explicitly mentioned.
+###Verify###
+The abstract discusses T cells in the context of tumours, normal adjacent tissue, and peripheral blood, but it does not specify particular organ parts from the given schema.
+###Context###
+To further clarify, the abstract focuses on the mechanisms of anti-PDL1 therapy and T cell distribution in cancer patients, which is a broad and systemic approach rather than focusing on specific organ parts.
+###Conclusion###
+Given the lack of specific mention of organ parts from the schema in the abstract, we cannot conclusively identify any specific organ parts related to the study.
+###Result###
+null

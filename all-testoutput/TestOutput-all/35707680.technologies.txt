@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "Visium spatial transcriptomics platform" directly indicates the technology '10x Visium'.
+### Verify ###
+The abstract mentions "localize T cell receptor clones using the Visium spatial transcriptomics platform," which confirms the use of '10x Visium' technology.
+### Conclusion ###
+Since the keywords and the abstract both consistently point to '10x Visium', we can confidently conclude that '10x Visium' is the correct technology used in the study.
+### Result ###
+['10x Visium']

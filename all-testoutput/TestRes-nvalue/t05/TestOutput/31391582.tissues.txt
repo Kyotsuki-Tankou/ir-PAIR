@@ -1,0 +1,10 @@
+### Keywords ###
+The keyword from the input that corresponds to the schema is "mouse embryo."
+### Verify ###
+The abstract mentions "post-implantation development of the mouse embryo," verifying that it is the correct tissue to extract according to the schema.
+### Context ###
+The abstract provides detailed information about the development stages of the mouse embryo, including the transition from naive to primed pluripotent state and the formation of germ layers. This context supports the relevance of "Embryo" as a tissue type.
+### Conclusion ###
+Since the keyword matches the tissue mentioned in the abstract and the context supports its relevance, we can conclude that "Embryo" is the appropriate result.
+### Result ###
+['Embryo']

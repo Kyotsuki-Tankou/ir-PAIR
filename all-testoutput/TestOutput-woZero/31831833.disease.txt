@@ -1,0 +1,11 @@
+### Keywords ###
+From the abstract, the diseases mentioned are "rheumatoid arthritis (RA)" and "spondyloarthritis (SpA)." These directly correspond to items in the schema.
+### Verify ###
+- "rheumatoid arthritis (RA)" is explicitly mentioned and matches 'Rheumatoid arthritis (RA)' in the schema.
+- "spondyloarthritis (SpA)" is explicitly mentioned and matches 'Spondyloarthritis (SpA)' in the schema.
+### Context ###
+The abstract focuses on the analysis of synovial biopsies from patients with RA and SpA, providing a clear context that these are the primary diseases under investigation.
+### Conclusion ###
+Given the direct mentions and clear context, we can confirm that 'Rheumatoid arthritis (RA)' and 'Spondyloarthritis (SpA)' are the relevant diseases.
+### Result ###
+['Rheumatoid arthritis (RA)', 'Spondyloarthritis (SpA)']

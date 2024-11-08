@@ -1,0 +1,28 @@
+### Keywords ###
+- Tumour immunity
+- T cells
+- Clonotypes
+- Cancer
+- Anti-PDL1 therapy
+- Intratumoural T cells
+- Peripheral blood
+- Normal adjacent tissue
+### Verify ###
+- Tumour immunity: Mentioned in the context of understanding the mechanisms of anti-PDL1 therapy.
+- T cells: Central to the study, discussed in terms of clonotypes and their distribution.
+- Clonotypes: Highlighted as a key focus for understanding T cell distribution.
+- Cancer: The context of the study, specifically different types of cancer.
+- Anti-PDL1 therapy: Discussed in relation to patient response.
+- Intratumoural T cells: Studied in detail for their profiles and expansion.
+- Peripheral blood: Mentioned as a site where expanded clonotypes can be detected.
+- Normal adjacent tissue: Studied alongside tumour tissue for clonotypic expansion.
+### Context ###
+- The study involves deep single-cell sequencing of RNA and T cell receptors.
+- The focus is on understanding the distribution of T cell clonotypes in various tissues (tumour, normal adjacent tissue, peripheral blood).
+- The findings suggest that clonotypic expansion in tumour and normal adjacent tissue is linked to better response to anti-PDL1 therapy.
+- Detection of expanded clonotypes in peripheral blood offers a potential approach for patient identification.
+### Conclusion ###
+- The study primarily revolves around T cells and their clonotypes in the context of cancer and anti-PDL1 therapy.
+- The tissues of interest include tumour, normal adjacent tissue, and peripheral blood.
+### Result ###
+- ['Tumour', 'Normal adjacent tissue', 'Peripheral blood']

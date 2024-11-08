@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the mention of "human brain metastases" directly indicates the species involved. The keyword here is "human."
+###Verify###
+The abstract specifically states "we analyze human brain metastases," which clearly verifies that the species studied is "Homo sapiens."
+###Conclusion###
+Given the clear mention of "human" in both the context and the specific methodology, we can confidently conclude that the species involved in the study is "Homo sapiens."
+###Result###
+['Homo sapiens']

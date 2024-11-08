@@ -1,0 +1,15 @@
+###schema###
+technologies:['CITE-seq', 'XYZeq', 'CUT&Tag', 'RNA-seq', 'STARmap', 'DBiT-seq', 'scATAC-seq', 'scRNA', 'EASI-FISH', 'PIC-seq', 'sci-Space', 'sciMAP-ATAC-seq', 'Slide-seqV2', 'Spatial Transcriptomics', 'seqFish', 'seqFISH+', 'Stereo-Seq', '10x Visium', ' RNA-seq', 'scATAC', 'LCM-seq', 'Tomo-seq', 'Proximity RNA-seq', 'sci-ATAC-seq', 'ClampFISH', 'VINE-seq', 'snRNA', 'HDST', 'GeoMx DSP', 'Seq-Scope', 'APEX-seq', 'RNAseq', 'MERFISH', 'ClumpSeq', 'Geo-seq', 'Slide-seq']
+###input###
+ Abstract
+The hypothalamus controls essential social behaviors and homeostatic functions. However, the cellular architecture of hypothalamic nuclei-including the molecular identity, spatial organization, and function of distinct cell types-is poorly understood. Here, we developed an imaging-based in situ cell-type identification and mapping method and combined it with single-cell RNA-sequencing to create a molecularly annotated and spatially resolved cell atlas of the mouse hypothalamic preoptic region. We profiled ~1 million cells, identified ~70 neuronal populations characterized by distinct neuromodulatory signatures and spatial organizations, and defined specific neuronal populations activated during social behaviors in male and female mice, providing a high-resolution framework for mechanistic investigation of behavior circuits. The approach described opens a new avenue for the construction of cell atlases in diverse tissues and organisms.Let's think step by step.
+### Keywords ###
+From the "imaging-based in situ cell-type identification and mapping method" and "combined it with single-cell RNA-sequencing" in the Abstract, it suggests that advanced imaging and sequencing technologies were used. "MERFISH" is mentioned in the result, indicating it might be a keyword related to the technologies used.
+### Verify ###
+The Abstract mentions "imaging-based in situ cell-type identification and mapping method," which aligns with the capabilities of MERFISH (Multiplexed Error-Robust Fluorescence In Situ Hybridization), a technology known for its high-resolution spatial mapping and multiplexed RNA detection.
+### Context ###
+While the Abstract does not explicitly name "MERFISH," the description of the method used fits well with the characteristics of MERFISH. The combination of imaging-based in situ identification and single-cell RNA-sequencing strongly suggests a technology like MERFISH, which is capable of both high-resolution spatial mapping and RNA sequencing.
+### Conclusion ###
+Given the alignment of the described methods with the capabilities of MERFISH and the provided result, it is reasonable to conclude that "MERFISH" is the appropriate technology identified in the input.
+### Result ###
+['MERFISH']

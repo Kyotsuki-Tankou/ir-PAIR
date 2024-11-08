@@ -1,0 +1,10 @@
+###Keywords###
+From the phrases "single-cell RNA sequencing" and "spatial transcriptomics" in the Abstract and Keywords, it indicates that 'RNA-seq' and 'Spatial Transcriptomics' may be proper results.
+###Verify###
+The Abstract specifically mentions:
+- "Human embryonic cardiac cell types identified by single-cell RNA sequencing" which verifies 'RNA-seq'.
+- "Spatial transcriptomics identified unique gene profiles" which verifies 'Spatial Transcriptomics'.
+###Conclusion###
+Consequently, we confirm 'RNA-seq' and 'Spatial Transcriptomics' as our final results.
+###Result###
+['RNA-seq', 'Spatial Transcriptomics']

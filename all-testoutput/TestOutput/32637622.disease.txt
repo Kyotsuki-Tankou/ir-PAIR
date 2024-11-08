@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "adult mouse brain," "whole-brain spatial transcriptomics," and "molecular atlas." These keywords indicate that the species involved is 'Mus musculus' (mouse) and the disease or condition being studied is related to brain organization.
+### Verify ###
+The phrase "adult mouse brain" in the abstract directly confirms the species 'Mus musculus'. The focus on "whole-brain spatial transcriptomics" and the creation of a "molecular atlas" for the brain further supports the study of brain organization.
+### Context ###
+The context provided in the abstract does not introduce any conflicting information about the species or the disease condition.
+### Conclusion ###
+Given the clear mention of "adult mouse brain" in the abstract, we can confidently conclude that 'Mus musculus' is the correct species, and the disease or condition being studied is related to brain organization, which can be categorized under 'Brain development' in the schema.
+### Result ###
+['Mus musculus', 'Brain development']

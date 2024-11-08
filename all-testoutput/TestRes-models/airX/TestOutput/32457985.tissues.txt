@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "aortic microenvironment" and "hematopoietic stem cells" suggest that tissues related to blood formation or vascular systems might be relevant.
+### Verify ###
+The input mentions "genome-wide RNA tomography sequencing on zebrafish, chicken, mouse, and human embryos" and "the aortic microenvironment, where the first hematopoietic stem cells are generated during development." This verifies that the study is focusing on the aortic microenvironment and hematopoietic stem cells, which are related to blood and the vascular system.
+### Context ###
+The input specifically discusses the aortic microenvironment and hematopoietic stem cells, which are not explicitly listed in the schema. However, since the study is related to the aorta, which is a blood vessel, we can infer that 'Blood vessel' might be a relevant tissue.
+### Conclusion ###
+Based on the context provided by the input, we can conclude that the primary tissue relevant to this study is the aortic microenvironment, which is part of the blood vessel system.
+### Result ###
+['Blood vessel']

@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, the terms "mouse organogenesis," "development," and "developmental diseases" suggest potential relevance to diseases related to development. Specific mentions include "dorsal midbrain" and "spatial cell heterogeneity," which may imply brain development and related abnormalities.
+### Verify ###
+- "mouse organogenesis" and "development" directly indicate processes related to embryonic and tissue development, which could be associated with diseases like "Embryo development," "Brain development," and "Normal atlas."
+- The term "developmental diseases" suggests a broader category that could encompass various developmental disorders.
+### Context ###
+The Abstract focuses on creating a spatiotemporal transcriptomic atlas (MOSTA) for mouse organogenesis, which primarily deals with normal developmental processes. However, the mention of "developmental diseases" hints at potential applications in understanding abnormal development.
+### Conclusion ###
+Based on the clear focus on normal development and the mention of developmental diseases, we can confirm 'Embryo development,' 'Brain development,' and 'Normal atlas' as relevant diseases. The context supports these choices, as the primary aim is to understand normal and potentially abnormal development.
+### Result ###
+['Embryo development', 'Brain development', 'Normal atlas']

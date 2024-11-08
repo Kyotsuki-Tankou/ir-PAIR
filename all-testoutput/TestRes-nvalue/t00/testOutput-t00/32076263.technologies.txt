@@ -1,0 +1,9 @@
+### Keywords ###
+- single-cell RNA sequencing
+- spatial transcriptomics
+### Verify ###
+- technologies: ['single-cell RNA sequencing', 'spatial transcriptomics']
+### Conclusion ###
+The technologies mentioned in the input that match the schema are 'single-cell RNA sequencing' and 'spatial transcriptomics'.
+### Result ###
+['single-cell RNA sequencing', 'spatial transcriptomics']

@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Prostate"]
+null
+["scRNA"]
+["Prostatic cancer"]
+ Abstract\nProstate cancer is the second most common malignancy in men worldwide and consists of a mixture of tumor and non-tumor cell types. To characterize the prostate cancer tumor microenvironment, we perform single-cell RNA-sequencing on prostate biopsies, prostatectomy specimens, and patient-derived organoids from localized prostate cancer patients. We uncover heterogeneous cellular states in prostate epithelial cells marked by high androgen signaling states that are enriched in prostate cancer and identify a population of tumor-associated club cells that may be associated with prostate carcinogenesis. ERG-negative tumor cells, compared to ERG-positive cells, demonstrate shared heterogeneity with surrounding luminal epithelial cells and appear to give rise to common tumor microenvironment responses. Finally, we show that prostate epithelial organoids harbor tumor-associated epithelial cell states and are enriched with distinct cell types and states from their parent tissues. Our results provide diagnostically relevant insights and advance our understanding of the cellular states associated with prostate carcinogenesis.

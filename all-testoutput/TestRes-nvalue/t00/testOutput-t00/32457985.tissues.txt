@@ -1,0 +1,22 @@
+### Keywords ###
+- stem cell
+- niche
+- aortic microenvironment
+- hematopoietic stem cells
+- genome-wide RNA tomography sequencing
+- zebrafish, chicken, mouse, human embryos
+- anterior-posterior and dorsal-ventral transcriptional maps
+- interspecies comparative RNA sequencing analyses
+- functional assays
+- ADM-RAMP2
+- SVEP1
+- stem cell production in vitro
+- clinical cell therapy
+### Verify ###
+- **Tissues**: The input mentions "aortic microenvironment" and "hematopoietic stem cells," which are related to blood and vascular systems. Specifically, "Dorsal aorta" and "Blood" from the schema are directly relevant.
+### Context ###
+- The study focuses on the aortic microenvironment where hematopoietic stem cells are generated. This context aligns with the "Dorsal aorta" and "Blood" tissues in the schema.
+### Conclusion ###
+- The relevant tissues extracted from the input based on the schema are "Dorsal aorta" and "Blood."
+### Result ###
+["Dorsal aorta", "Blood"]

@@ -1,0 +1,8 @@
+### Keywords ###
+From the Abstract, the phrase "Spatial Transcriptomics (ST)" is indicated as a potential technology being used in the study.
+### Verify ###
+The Abstract mentions "We aimed to explore synovial biopsies from rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients, using Spatial Transcriptomics (ST)" which confirms that 'Spatial Transcriptomics' is indeed the technology being used in the study.
+### Conclusion ###
+Consequently, we confirm 'Spatial Transcriptomics' as our final result.
+### Result ###
+['Spatial Transcriptomics']

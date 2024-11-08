@@ -1,0 +1,10 @@
+### Keywords ###
+The input discusses the "post-implantation development of the mouse embryo," "germ layers," and "cell lineages." These terms suggest that 'Embryo development' could be a relevant term from the schema.
+### Verify ###
+The abstract specifically mentions "development from pre- to late-gastrulation stages," which is a critical phase in embryo development, further confirming 'Embryo development' as a suitable term.
+### Context ###
+The abstract details a study that includes "a spatially resolved transcriptome of cell populations at defined positions in the germ layers," which indicates a focus on the developmental processes of the embryo, reinforcing the relevance of 'Embryo development.'
+### Conclusion ###
+Given the evidence from the keywords, verify, and context, 'Embryo development' is a relevant term based on the schema.
+### Result ###
+['Embryo development']

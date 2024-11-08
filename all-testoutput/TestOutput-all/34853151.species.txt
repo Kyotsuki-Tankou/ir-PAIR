@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, we have "AKI" (Acute Kidney Injury) and "spatial transcriptomics". These terms suggest a focus on a specific disease and a technological approach but do not directly indicate the species used.
+### Verify ###
+In the Abstract, we see mentions of "female murine model" and "male murine model". The term "murine" refers to mice, which directly corresponds to a species in the provided schema.
+### Context ###
+Given the specific mention of "female murine model" and "male murine model", we need to determine if these terms directly correspond to any items in the provided schema. The schema includes "Mus musculus", which is the scientific name for mice.
+### Conclusion ###
+The terms from the Abstract directly match "Mus musculus" in the provided schema list. The context clearly indicates that the study was conducted using mice.
+### Result ###
+['Mus musculus']

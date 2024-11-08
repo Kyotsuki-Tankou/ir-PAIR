@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Heart"]
+null
+["Spatial Transcriptomics"]
+["Heart failure"]
+ Abstract\nHeart failure (HF) is a major public health problem characterized by inability of the heart to maintain sufficient output of blood. The systematic characterization of circulating proteins across different stages of HF may provide pathophysiological insights and identify therapeutic targets. Here we report application of aptamer-based proteomics to identify proteins associated with prospective HF incidence in a population-based cohort, implicating modulation of immunological, complement, coagulation, natriuretic and matrix remodeling pathways up to two decades prior to overt disease onset. We observe further divergence of these proteins from the general population in advanced HF, and regression after heart transplantation. By leveraging coronary sinus samples and transcriptomic tools, we describe likely cardiac and specific cellular origins for several of the proteins, including Nt-proBNP, thrombospondin-2, interleukin-18 receptor, gelsolin, and activated C5. Our findings provide a broad perspective on both cardiac and systemic factors associated with HF development.

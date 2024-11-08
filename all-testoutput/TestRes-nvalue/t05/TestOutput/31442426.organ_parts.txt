@@ -1,0 +1,10 @@
+### Keywords ###
+The input abstract discusses "ribonucleoprotein complexes," "stress granules," and "RNA proximity labeling technique," but it does not directly mention any of the organ parts listed in the schema.
+### Verify ###
+The abstract mentions "subcellular localization," which suggests that the study is focused on cellular components rather than whole organ parts. There is no direct mention of any specific organ parts from the schema.
+### Context ###
+The context of the study is centered around cellular processes and the development of a new technique for exploring the spatial environment of macromolecules within cells. This does not provide any direct clues about the organ parts from the schema.
+### Conclusion ###
+Based on the information provided in the abstract, we cannot verify any of the organ parts from the schema as the study seems to be at the cellular level rather than focusing on specific organ parts.
+### Result ###
+null

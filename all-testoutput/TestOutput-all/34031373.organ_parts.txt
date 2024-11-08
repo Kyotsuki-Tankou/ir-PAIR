@@ -1,0 +1,14 @@
+### Keywords ###
+From the Abstract, the key terms related to organ parts are "small intestine," "enterocytes," "crypt-villus axis," "goblet cells," and "tuft cells." These terms suggest a focus on specific regions and cell types within the small intestine.
+### Verify ###
+The Abstract specifically mentions:
+- "In the small intestine, enterocytes, the most common cell type, exhibit zonated expression programs along the crypt-villus axis."
+- "zonation patterns of rare cell types such as goblet and tuft cells remain uncharacterized."
+- "we establish spatial atlases for all epithelial cell types in the small intestine."
+These statements clearly indicate that the study is focused on the small intestine, particularly the crypt-villus axis and the epithelial cell types within it.
+### Context ###
+The context provided in the Abstract emphasizes the spatial organization and cell type-specific analysis within the small intestine. There is no mention of other organ parts, reinforcing the focus on the small intestine.
+### Conclusion ###
+Based on the Keywords, Verify, and Context, it is clear that the primary organ part studied is the small intestine, specifically the epithelial cell types along the crypt-villus axis.
+### Result ###
+['Ileum']

@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the mention of "human liver" and "hepatic parenchymal and non-parenchymal cells" directly indicates the tissue involved. The keyword here is "Liver."
+###Verify###
+The abstract specifically states "transcriptional landscape of 73,295 cells from the human liver" and "the ability to comprehensively profile this organ," which clearly verifies that the tissue studied is "Liver."
+###Conclusion###
+Given the clear mention of "human liver" in both the context and the specific methodology, we can confidently conclude that the tissue involved in the study is "Liver."
+###Result###
+['Liver']

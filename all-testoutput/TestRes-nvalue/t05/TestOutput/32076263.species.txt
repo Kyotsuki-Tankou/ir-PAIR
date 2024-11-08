@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "mouse gastruloids" and "mouse embryos" directly indicate the species 'Mus musculus'.
+###Verify###
+The abstract mentions "mouse gastruloids with mouse embryos using single-cell RNA sequencing and spatial transcriptomics," which further confirms that the species used in the study is 'Mus musculus'.
+###Conclusion###
+Since the keywords and the abstract both consistently point to 'Mus musculus', we can confidently conclude that 'Mus musculus' is the correct species.
+###Result###
+['Mus musculus']

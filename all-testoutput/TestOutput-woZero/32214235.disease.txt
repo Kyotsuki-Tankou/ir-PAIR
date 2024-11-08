@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "single-cell mRNA sequencing" and "human cell landscape (HCL)" suggest a focus on human biology and cellular analysis, but do not directly mention a specific disease.
+### Verify ###
+The abstract mentions "determine the cell-type composition of all major human organs" and "construct a scheme for the human cell landscape (HCL)," which indicates a broad study of human cells rather than focusing on a specific disease.
+### Context ###
+Since the study is about creating a comprehensive single-cell atlas of human organs and comparing human and mouse cell landscapes, it does not focus on any specific disease but rather on normal human biology.
+### Conclusion ###
+Given the lack of mention of any specific disease and the focus on normal human cell landscapes, the most appropriate result is 'Normal'.
+### Result ###
+['Normal']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, "brain metastasis" and "melanoma" suggest a focus on brain-related tissues. Specifically, "brain metastasis" indicates that the brain is the primary organ of interest.
+### Verify ###
+From the Abstract, "Melanoma brain metastasis (MBM) frequently occurs in patients with advanced melanoma" directly verifies that the brain, particularly in the context of metastasis, is the tissue of focus in this study.
+### Context ###
+Since the Abstract and Keywords both clearly point to the brain as the primary tissue of interest, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm "Brain" as our final result based on the clear and consistent information provided in both the Abstract and Keywords.
+### Result ###
+["Brain"]

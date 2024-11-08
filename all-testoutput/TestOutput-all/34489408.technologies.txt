@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the terms "single-cell resolution" and "transcriptional landscape" suggest that technologies related to single-cell analysis and RNA sequencing might be used. Potential matches could be 'scRNA', 'RNA-seq', or 'scATAC-seq'.
+###Verify###
+The abstract specifically mentions "Based on 111,292 single-cell transcriptomes," which strongly indicates the use of single-cell RNA sequencing technologies. The terms "transcriptional landscape" and "single-cell resolution" further support this.
+###Conclusion###
+Given the explicit mention of "single-cell transcriptomes," the most appropriate technology from the schema is 'scRNA' (single-cell RNA sequencing).
+###Result###
+['scRNA']

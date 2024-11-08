@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, the phrase "primary pancreatic tumors" suggests that the study is focused on a specific type of tissue, likely from a particular species. The mention of "ductal cells, macrophages, dendritic cells and cancer cells" indicates a focus on mammalian biology, which could point to species like 'Homo sapiens' or 'Mus musculus'.
+### Verify ###
+The abstract mentions "primary pancreatic tumors" and "multimodal intersection analysis to annotate the precise cellular composition of distinct tissue regions." This context suggests a detailed study on human tissues, particularly in the context of cancer research. The use of "primary pancreatic tumors" strongly implies human subjects, as this is a common area of study in human oncology.
+### Context ###
+To further verify, we consider the typical research context:
+- "primary pancreatic tumors" are commonly studied in human contexts.
+- The mention of specific cell types like "ductal cells, macrophages, dendritic cells, and cancer cells" aligns with human oncology research.
+### Conclusion ###
+Given the context and the specific mention of "primary pancreatic tumors," it is reasonable to conclude that the species being studied is 'Homo sapiens'.
+### Result ###
+['Homo sapiens']

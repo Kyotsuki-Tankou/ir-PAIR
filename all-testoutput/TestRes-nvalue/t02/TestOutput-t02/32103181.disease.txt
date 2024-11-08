@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "cancer," "tumour," "tumours," and "anti-PDL1 therapy" are prominent, suggesting that the study is focused on various types of cancer. Specific mentions include "patients with different types of cancer" and "intratumoural T cells."
+### Verify ###
+The abstract explicitly mentions "patients with different types of cancer," "tumours," and "anti-PDL1 therapy," which directly verifies the focus on cancer-related research. The context of T cell responses and therapy effectiveness further supports this.
+### Context ###
+The abstract discusses the mechanisms of anti-PDL1 therapy in cancer treatment, the distribution of T cell clonotypes in tumours, normal adjacent tissue, and peripheral blood, and the response of patients with gene signatures of clonotypic expansion. This context consistently points towards a broad focus on cancer rather than a specific type.
+### Conclusion ###
+Given the consistent focus on cancer in general, without specifying a particular type, the most appropriate term from the schema is 'Cancer.'
+### Result ###
+['Cancer']

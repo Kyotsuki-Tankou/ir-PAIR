@@ -1,0 +1,10 @@
+### Keywords ###
+From "Arabidopsis leaves" in Keywords, it indicates that 'Leaf' may be the proper tissue result.
+### Verify ###
+From "we present scStereo-seq (single-cell spatial enhanced resolution omics sequencing) that enabled us to show the bona fide single-cell spatial transcriptome profiles of Arabidopsis leaves" in the Abstract, we can further verify that 'Leaf' is indeed the tissue studied.
+### Context ###
+The abstract specifically mentions "Arabidopsis leaves" and details the study of "upper and lower epidermal cells" and "vascular cells and guard cells" within the leaves, reinforcing that the tissue of interest is 'Leaf'.
+### Conclusion ###
+Consequently, we confirm that 'Leaf' is the correct tissue studied in the research.
+### Result ###
+['Leaf']

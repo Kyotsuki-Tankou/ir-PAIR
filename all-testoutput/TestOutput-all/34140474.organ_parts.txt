@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the key terms related to organ parts are "31 adult pig tissues," "47 skeletal muscles," "six adipose depots," and "subcutaneous adipose tissues."
+### Verify ###
+The Abstract mentions specific tissues such as "skeletal muscles" and "adipose depots," which are directly listed in the schema. Additionally, the context of the study involves a comprehensive analysis of various pig tissues, suggesting the inclusion of multiple organ parts.
+### Context ###
+Given the focus on pigs and the mention of specific tissues like skeletal muscles and adipose depots, we can infer that the study likely involves detailed analysis of these and possibly other tissues. The schema includes terms like "Skeletal muscle (quadriceps)" and "Adrenal tissue," which are relevant to the study's focus on tissue specialization and evolutionary divergence.
+### Conclusion ###
+Based on the specific mentions and the comprehensive nature of the tissue analysis, we can conclude that the relevant organ parts include "Skeletal muscle" and "Adipose depots."
+### Result ###
+['Skeletal muscle', 'Adipose depots']

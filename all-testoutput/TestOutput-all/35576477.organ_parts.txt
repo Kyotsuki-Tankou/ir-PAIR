@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, "Arrhythmogenic cardiomyopathy" and "Cardiomyocyte degeneration" suggest a focus on cardiac tissues. "Myocardium" is specifically mentioned in the context of "progressive loss of myocardium" and "fibro-fatty replacement of myocardium," indicating that 'Myocardium' may be a proper result.
+### Verify ###
+From the Abstract, "we created transmural epicardial-to-endocardial gene expression atlases of explanted ACM hearts" directly verifies that 'Myocardium' is indeed the tissue of focus in this study.
+### Context ###
+Since the Abstract and Keywords both clearly point to 'Myocardium' as the primary tissue of interest, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm 'Myocardium' as our final result based on the clear and consistent information provided in both the Abstract and Keywords.
+### Result ###
+['Myocardium']

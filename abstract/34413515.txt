@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Brain"]
+["Coronal brain"]
+["10x Visium"]
+["Brain cortex"]
+ Abstract\nAstrocytes undergo an inflammatory transition after infections, acute injuries and chronic neurodegenerative diseases. How this transition is affected by time and sex, its heterogeneity at the single-cell level and how sub-states are spatially distributed in the brain remains unclear. In this study, we investigated transcriptome changes of mouse cortical astrocytes after an acute inflammatory stimulus using the bacterial cell wall endotoxin lipopolysaccharide. We identified fast transcriptomic changes in astrocytes occurring within hours that drastically change over time. By sequencing ~80,000 astrocytes at single-cell resolution, we show that inflammation causes a widespread response with subtypes of astrocytes undergoing distinct inflammatory transitions with defined transcriptomic profiles. We also attribute key sub-states of inflammation-induced reactive astrocytes to specific brain regions using spatial transcriptomics and in situ hybridization. Together, our datasets provide a powerful resource for profiling astrocyte heterogeneity and will be useful for understanding the biological importance of regionally constrained reactive astrocyte sub-states.

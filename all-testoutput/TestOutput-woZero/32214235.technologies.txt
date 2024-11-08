@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords include "single-cell mRNA sequencing," "human cell landscape (HCL)," and "single-cell HCL analysis pipeline." These suggest the use of technologies related to single-cell analysis and mRNA sequencing.
+### Verify ###
+The abstract explicitly mentions "single-cell mRNA sequencing," which directly corresponds to 'scRNA' (single-cell RNA) in the schema. Additionally, the context of constructing a human cell landscape and performing comparative analysis implies the use of advanced sequencing technologies.
+### Context ###
+Given the focus on single-cell mRNA sequencing and the construction of a human cell landscape, the context strongly supports the use of single-cell RNA sequencing technologies. The mention of comparative analysis between human and mouse further underscores the importance of single-cell techniques.
+### Conclusion ###
+Based on the explicit mention of "single-cell mRNA sequencing" and the context of the study, we can conclude that 'scRNA' is the appropriate technology to be extracted.
+### Result ###
+['scRNA']

@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, the terms "keloid tissue samples" and "normal skin control" are mentioned, indicating that 'Skin' is a relevant tissue.
+### Verify ###
+The abstract states:
+- "Keloid tissue samples and normal skin control data were analyzed..."
+- "Single-cell RNA sequencing revealed cellular heterogenicity such as fibroblasts, endothelial cells (ECs), and myofibroblasts within the keloids."
+- "Spatial transcriptomics results showed that disease-associated fibroblasts were enriched in the deeper keloid areas..."
+These statements verify that the study primarily involves 'Skin' tissue, specifically focusing on keloids and normal skin.
+### Conclusion ###
+Given the clear focus on keloid tissue and normal skin in the study, we can confidently conclude that 'Skin' is the appropriate tissue to be extracted according to the schema.
+### Result ###
+["Skin"]

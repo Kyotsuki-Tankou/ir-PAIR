@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract and keywords, the relevant organ parts mentioned are "Embryo" and "Heart."
+### Verify ###
+The abstract specifically mentions "human embryonic heart" and "embryonic cardiac cell types," which verifies the inclusion of "Embryo" and "Heart" as organ parts.
+### Context ###
+The context of the study is focused on the developmental stages of the human heart, which further supports the inclusion of "Embryo" and "Heart."
+### Conclusion ###
+Based on the keywords and the detailed context provided in the abstract, we can conclude that "Embryo" and "Heart" are the appropriate organ parts to extract.
+### Result ###
+['Embryo', 'Heart']

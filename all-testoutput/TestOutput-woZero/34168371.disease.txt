@@ -1,0 +1,14 @@
+###Keywords###
+From the abstract, the keywords that stand out are "leprosy", "granulomas", "single-cell phenotypes", "antimicrobial responses", "reversal reactions (RRs)", "lepromatous leprosy (L-lep)", "tuberculoid leprosy (T-lep)", and "interferon-γ and interleukin-1β". These keywords suggest a focus on infectious disease and immune response.
+###Verify###
+The abstract specifically mentions:
+- "investigated the single-cell phenotypes associated with antimicrobial responses in human leprosy granulomas"
+- "reversal reactions (RRs), a dynamic process whereby some patients with disseminated lepromatous leprosy (L-lep) transition toward self-limiting tuberculoid leprosy (T-lep)"
+- "genes encoding proteins involved in antimicrobial responses that are differentially expressed in RR versus L-lep lesions"
+These points verify that the study is deeply involved in understanding the immune responses and molecular changes within leprosy granulomas.
+###Context###
+While the abstract does not explicitly use the term "Lepromatous", it discusses lepromatous leprosy (L-lep) and its transition to tuberculoid leprosy (T-lep), which inherently involves the lepromatous form of the disease.
+###Conclusion###
+Given the focus on lepromatous leprosy and its transition, "Lepromatous" is a reasonable fit as it directly relates to the specific form of leprosy being studied.
+###Result###
+['Lepromatous']

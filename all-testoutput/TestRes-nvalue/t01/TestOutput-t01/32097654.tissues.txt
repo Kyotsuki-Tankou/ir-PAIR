@@ -1,0 +1,11 @@
+### Keywords ###
+From the Keywords, we identify "blastema" and "digit tip regeneration" which suggest potential relevance to tissues involved in regeneration.
+### Verify ###
+From the Abstract, we see:
+- "Digit tip regeneration is mediated by the blastema"
+- "single-cell RNA sequencing of over 38,000 cells from mouse digit tip blastemas and unamputated control digit tips"
+These statements confirm that the focus is on the "blastema" and "digit tip" tissues.
+### Conclusion ###
+Given the context and verification, "Blastema" is a clear match from the schema.
+### Result ###
+['Blastema']

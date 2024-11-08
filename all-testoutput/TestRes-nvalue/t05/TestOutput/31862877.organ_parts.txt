@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the term "heart" is mentioned several times, indicating that 'Heart' may be a proper result.
+### Verify ###
+The abstract discusses "heart failure (HF)" and "heart transplantation," which further confirm that 'Heart' is indeed a proper result.
+### Conclusion ###
+Since the keywords and the abstract both consistently point to 'Heart', we can confidently conclude that 'Heart' is the correct organ part.
+### Result ###
+['Heart']

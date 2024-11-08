@@ -1,0 +1,19 @@
+### Keywords ###
+- high-definition spatial transcriptomics
+- RNA
+- histological tissue sections
+- spatially barcoded bead array
+- mouse brain
+- primary breast cancer
+- 2-μm resolution
+### Verify ###
+- **Species Mentioned**: "mouse brain" and "primary breast cancer"
+  - Mouse brain implies **Mus musculus**
+  - Primary breast cancer typically refers to human tissue, implying **Homo sapiens**
+### Context ###
+- The context involves developing a high-resolution method for capturing RNA in tissue sections.
+- The method is demonstrated using mouse brain and primary breast cancer tissues.
+### Conclusion ###
+- The species involved in the study are **Mus musculus** and **Homo sapiens**.
+### Result ###
+['Mus musculus', 'Homo sapiens']

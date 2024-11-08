@@ -1,0 +1,14 @@
+### Keywords ###
+From the input, the terms "embryonic aorta-gonad-mesonephros (AGM) region," "HSC development," and "human HSC development" stand out. These suggest that 'Embryonic development' and 'Hematopoiesis' might be relevant diseases or conditions.
+### Verify ###
+In the abstract, it is mentioned:
+- "Hematopoietic stem cells (HSCs) first emerge in the embryonic aorta-gonad-mesonephros (AGM) region."
+- "to identify secreted signals underlying human HSC development"
+- "Analysis of the ventrally polarized molecular landscape identified endothelin 1 as an important secreted regulator of human HSC development."
+These statements directly verify that 'Embryonic development' and 'Hematopoiesis' are indeed relevant conditions.
+### Context ###
+Given the detailed focus on the emergence and development of hematopoietic stem cells in the embryonic AGM region, there is no ambiguity or need for further context to verify these conditions.
+### Conclusion ###
+Consequently, based on the explicit mention and focus in the abstract, we choose 'Embryonic development' and 'Hematopoiesis' as our final results.
+### Result ###
+['Embryonic development', 'Hematopoiesis']

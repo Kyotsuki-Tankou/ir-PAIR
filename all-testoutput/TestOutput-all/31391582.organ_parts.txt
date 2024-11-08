@@ -1,0 +1,12 @@
+### Keywords ###
+From the "Abstract," the terms "mouse embryo," "epiblast," "germ layers," "gastrulation," and "visceral endoderm" are prominent. These suggest that 'Mouse Embryo' and 'Gastrulation' could be relevant.
+### Verify ###
+- "During post-implantation development of the mouse embryo" directly indicates 'Mouse Embryo' is relevant.
+- "germ layers are formed and cell lineages are specified, leading to the establishment of the blueprint for embryogenesis" and "during development from pre- to late-gastrulation stages" suggest 'Gastrulation' is relevant.
+### Context ###
+- The abstract discusses the development stages of the mouse embryo, focusing on the transition from naive to primed pluripotent states and the formation of germ layers.
+- The mention of "spatially resolved transcriptome of cell populations at defined positions in the germ layers during development from pre- to late-gastrulation stages" further emphasizes the importance of 'Gastrulation.'
+### Conclusion ###
+Given the explicit mention and focus on the mouse embryo and the process of gastrulation, we can conclude that both 'Mouse Embryo' and 'Gastrulation' are suitable terms to extract.
+### Result ###
+['Mouse Embryo', 'Gastrulation']

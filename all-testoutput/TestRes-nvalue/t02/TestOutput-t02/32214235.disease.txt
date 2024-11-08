@@ -1,0 +1,11 @@
+###Keywords###
+From the input, terms like "human organs," "human cell landscape (HCL)," and "human and mouse" are mentioned. These terms suggest that the study is focused on normal human biology and comparative analysis with mouse, but no specific disease is directly mentioned.
+###Verify###
+- The abstract discusses "a comprehensive single-cell atlas for humans" and "single-cell comparative analysis of landscapes from human and mouse," which indicates a broad focus on normal cellular composition and comparison rather than a specific disease.
+- There are no explicit mentions of any diseases from the provided schema.
+###Context###
+No additional context is needed as the abstract clearly focuses on normal cellular analysis and comparison between species without mentioning any specific diseases.
+###Conclusion###
+Since no specific disease is mentioned or implied in the abstract, we conclude that there is no relevant disease from the provided schema that can be extracted.
+###Result###
+null

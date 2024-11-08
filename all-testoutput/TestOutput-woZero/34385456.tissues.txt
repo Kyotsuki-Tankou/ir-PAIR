@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the focus is on "human bladder cancer" and "bladder cancer management," which suggests that 'Bladder' may be a proper result.
+### Verify ###
+The abstract mentions "single nuclei RNA sequencing with spatial transcriptomics and single-cell resolution spatial proteomic analysis of human bladder cancer," which directly indicates the study is focused on the bladder tissue. This further supports that 'Bladder' is likely the correct tissue.
+### Context ###
+Given the specific context of "bladder cancer" and the use of terms like "human bladder cancer" and "bladder cancer management," there is strong contextual evidence that the study pertains to the bladder tissue. There is no conflicting information that would require additional context to clarify.
+### Conclusion ###
+Consequently, we confirm 'Bladder' as the final result based on the keywords, verification, and contextual clues.
+### Result ###
+['Bladder']

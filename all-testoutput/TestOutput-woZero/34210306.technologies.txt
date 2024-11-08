@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "single-cell RNA sequencing" and "spatial transcriptomics" are explicitly mentioned, indicating that 'single-cell RNA sequencing' and 'Spatial Transcriptomics' may be proper results.
+###Verify###
+- The abstract states: "we performed single-cell RNA sequencing of 24,919 murine cerebellar cells" and "Further spatial transcriptomics technology enabled visualization of their spatial locations in cerebellum," which directly verifies the presence of 'single-cell RNA sequencing' and 'Spatial Transcriptomics'.
+###Context###
+- No additional context is needed as the abstract clearly mentions the specific technologies used in the study.
+###Conclusion###
+Consequently, we confirm 'single-cell RNA sequencing' and 'Spatial Transcriptomics' as our final results based on the explicit mentions in the abstract.
+###Result###
+['single-cell RNA sequencing', 'Spatial Transcriptomics']

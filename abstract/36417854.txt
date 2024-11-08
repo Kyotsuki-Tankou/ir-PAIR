@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Legs"]
+["Hindpaw"]
+["10x Visium"]
+["Fibrotic tendon healing"]
+ Abstract\nTendon injuries heal via a scar-mediated response, and there are no biological approaches to promote more regenerative healing. Mouse flexor tendons heal through the formation of spatially distinct tissue areas: a highly aligned tissue bridge between the native tendon stubs that is enriched for adult Scleraxis-lineage cells and a disorganized outer shell associated with peri-tendinous scar formation. However, the specific molecular programs that underpin these spatially distinct tissue profiles are poorly defined. In the present study, we combine lineage tracing of adult Scleraxis-lineage cells with spatial transcriptomic profiling to define the overarching molecular programs that govern tendon healing and cell-fate decisions. Pseudotime analysis identified three fibroblast trajectories (synthetic, fibrotic, and reactive) and key transcription factors regulating these fate-switching decisions, including the progression of adult Scleraxis-lineage cells through the reactive trajectory. Collectively, this resource defines the molecular mechanisms that coordinate the temporo-spatial healing phenotype, which can be leveraged to inform therapeutic candidate selection. \n Keywords:CP: Cell biology; Scleraxis; fibrosis; myofibroblast; spatial transcriptomics; tendon.

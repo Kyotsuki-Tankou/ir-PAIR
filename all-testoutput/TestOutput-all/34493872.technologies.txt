@@ -1,0 +1,11 @@
+### Keywords ###
+From the abstract, the following technologies are mentioned or implied:
+- "single-cell and spatially resolved transcriptomics"
+- "cellular indexing of transcriptomes and epitopes by sequencing (CITE-seq)"
+- "Immunophenotyping using CITE-seq"
+### Verify ###
+The phrase "cellular indexing of transcriptomes and epitopes by sequencing (CITE-seq)" explicitly mentions "CITE-seq," which is directly listed in the schema.
+### Conclusion ###
+Given the clear mention of "CITE-seq" in the abstract, we can confidently conclude that 'CITE-seq' is the correct technology to be extracted.
+### Result ###
+['CITE-seq']

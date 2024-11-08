@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the term "kidney biology and disease" and "spatial maps of gene expression across the injury and repair time course" suggest that 'Kidney' may be a proper result.
+### Verify ###
+The phrase "female bilateral ischemia-reperfusion injury model" and "injured proximal tubule cells" in the Abstract further support that 'Kidney' is indeed the tissue being studied.
+### Conclusion ###
+Consequently, we confirm 'Kidney' as our final result.
+### Result ###
+['Kidney']

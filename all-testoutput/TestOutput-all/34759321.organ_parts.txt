@@ -1,0 +1,12 @@
+###Keywords###
+From the input, the terms "oral carcinomas" and "melanoma in mice" indicate specific organ parts involved in the study. These terms suggest that 'Oral mucosa' and potentially other related tissues might be relevant.
+###Verify###
+- The abstract mentions "oral carcinomas," which directly corresponds to 'Oral mucosa' in the schema.
+- The term "melanoma" typically involves skin, but "skin" is not explicitly mentioned in the context of melanoma in the abstract. However, melanoma is commonly associated with 'Skin'.
+###Context###
+- The study involves mice, so the organ parts should be considered in the context of murine anatomy.
+- The mention of "tumours from mice" and "tumour cells" suggests a focus on cancerous tissues.
+###Conclusion###
+Given the clear mention of "oral carcinomas," 'Oral mucosa' is definitively a relevant organ part. While 'Skin' is a common site for melanoma, the abstract does not explicitly link melanoma to skin in this context, so it is less certain.
+###Result###
+['Oral mucosa']

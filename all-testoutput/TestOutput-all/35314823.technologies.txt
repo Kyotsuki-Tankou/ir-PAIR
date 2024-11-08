@@ -1,0 +1,8 @@
+### Keywords ###
+From "single-cell RNA sequencing, spatial transcriptomics" in the Abstract, it indicates that 'scRNA', 'Spatial Transcriptomics' may be proper results.
+### Verify ###
+From "Using a combination of single-cell RNA sequencing, spatial transcriptomics and machine learning, we have generated a map of most glomerular positions in the mouse OB" in the Abstract, we can further verify that 'scRNA' and 'Spatial Transcriptomics' are indeed the technologies used.
+### Conclusion ###
+Consequently, we choose 'scRNA' and 'Spatial Transcriptomics' as our final results.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

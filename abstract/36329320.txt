@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Muscle"]
+null
+["10x Visium"]
+["Hindlimb muscle regeneration"]
+ Abstract\nSpatial transcriptomics reveals the spatial context of gene expression, but current methods are limited to assaying polyadenylated (A-tailed) RNA transcripts. Here we demonstrate that enzymatic in situ polyadenylation of RNA enables detection of the full spectrum of RNAs, expanding the scope of sequencing-based spatial transcriptomics to the total transcriptome. We demonstrate that our spatial total RNA-sequencing (STRS) approach captures coding RNAs, noncoding RNAs and viral RNAs. We apply STRS to study skeletal muscle regeneration and viral-induced myocarditis. Our analyses reveal the spatial patterns of noncoding RNA expression with near-cellular resolution, identify spatially defined expression of noncoding transcripts in skeletal muscle regeneration and highlight host transcriptional responses associated with local viral RNA abundance. STRS requires adding only one step to the widely used Visium spatial total RNA-sequencing protocol from 10x Genomics, and thus could be easily adopted to enable new insights into spatial gene regulation and biology.

@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, there is no direct mention of any species. However, the context of the study involves lung fibroblasts, which typically implies a mammalian model. Common mammalian models in research include 'Mus musculus' (mouse) and 'Rattus norvegicus' (rat).
+### Verify ###
+The Abstract does not explicitly mention the species used in the study. However, the use of the CRISPR/Cas9 system and the focus on lung fibroblasts strongly suggests a mammalian model, most likely 'Mus musculus' or 'Rattus norvegicus'.
+### Context ###
+Given the common use of mice and rats in biomedical research, especially in studies involving genetic manipulation like CRISPR/Cas9, it is reasonable to infer that one of these species was used. The absence of any other species-specific keywords or mentions in the Abstract supports this inference.
+### Conclusion ###
+While the Abstract does not explicitly state the species, the context and typical research practices suggest that 'Mus musculus' is a likely candidate.
+### Result ###
+['Mus musculus']

@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "Arrhythmogenic cardiomyopathy (ACM)" directly indicates that 'Arrhythmogenic cardiomyopathy' may be a proper result.
+###Verify###
+The abstract mentions "Arrhythmogenic cardiomyopathy (ACM) is an inherited cardiac disorder" and "gain molecular insights into disease-driving processes" related to ACM, which further verifies that 'Arrhythmogenic cardiomyopathy' is indeed the disease studied.
+###Conclusion###
+Consequently, we choose 'Arrhythmogenic cardiomyopathy' as our final result.
+###Result###
+['Arrhythmogenic cardiomyopathy']

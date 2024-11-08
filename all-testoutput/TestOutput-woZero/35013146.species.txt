@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, the term "prostate cancer" is explicitly mentioned, suggesting that 'Homo sapiens' may be a proper result, as prostate cancer is specific to humans.
+### Verify ###
+The abstract states:
+- "Prostate cancer is the second most common malignancy in men worldwide"
+- "we perform single-cell RNA-sequencing on prostate biopsies, prostatectomy specimens, and patient-derived organoids from localized prostate cancer patients"
+These statements clearly indicate that the study is conducted on human subjects, verifying 'Homo sapiens' as the relevant species.
+### Context ###
+Since the keywords and the abstract both strongly indicate the study is on human subjects, there is no need for additional context to confirm the result.
+### Conclusion ###
+Consequently, we confirm 'Homo sapiens' as the final result based on the explicit mentions and detailed descriptions in the abstract.
+### Result ###
+['Homo sapiens']

@@ -1,0 +1,17 @@
+### Keywords
+- Spatial Transcriptomics
+- RNA-seq
+- scRNA
+### Verify
+- **Spatial Transcriptomics**: Mentioned explicitly in the text ("combined spatial transcriptomics analysis").
+- **RNA-seq**: Implied by "gene expression profiling of sorted cell populations and single cells".
+- **scRNA**: Implied by "single cell transcriptome".
+### Conclusion
+The technologies used in the study are:
+- Spatial Transcriptomics
+- RNA-seq
+- scRNA
+### Result
+```json
+["Spatial Transcriptomics", "RNA-seq", "scRNA"]
+```

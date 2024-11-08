@@ -1,0 +1,15 @@
+### Keywords ###
+- Single-cell analysis
+- Human organs
+- Human cell landscape (HCL)
+- Single-cell hierarchy
+- Human and mouse comparison
+- Stem and progenitor cells
+- Differentiated cells
+- Transcriptomic stochasticity
+### Verify ###
+- Species mentioned: Human (Homo sapiens), Mouse (Mus musculus)
+### Conclusion ###
+The species extracted from the input correspond to "Homo sapiens" and "Mus musculus".
+### Result ###
+['Homo sapiens', 'Mus musculus']

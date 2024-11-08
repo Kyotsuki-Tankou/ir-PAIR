@@ -1,0 +1,15 @@
+### Keywords ###
+- "colon" is directly mentioned.
+- "intestinal barrier" suggests involvement of "Intestine."
+- "mucosal healing" implies "Epithelium."
+### Verify ###
+- "murine colon" confirms the involvement of "Colon."
+- "transcriptomic landscape in the steady state and healing murine colon" further emphasizes "Colon."
+- "mucosal healing" and "proliferating epithelial stem cells" suggest "Epithelium."
+### Context ###
+- The abstract focuses on the spatial organization of the transcriptomic landscape in the colon, particularly during mucosal healing.
+- The study involves both murine colon and human diseases, highlighting the importance of the colon and its epithelial components.
+### Conclusion ###
+Given the direct mention and focus on the colon and its epithelial aspects, "Colon" and "Epithelium" are the most relevant tissues mentioned in the context of the study.
+### Result ###
+['Colon', 'Epithelium']

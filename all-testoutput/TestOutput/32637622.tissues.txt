@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "adult mouse brain," "whole-brain spatial transcriptomics," and "neuroanatomical organization" suggest that 'Brain' is a relevant tissue.
+### Verify ###
+The abstract explicitly states:
+- "We aimed to generate a systematic classification of the adult mouse brain based purely on the unbiased identification of spatially defining features by employing whole-brain spatial transcriptomics."
+This verifies that 'Brain' is the primary focus of the study.
+### Conclusion ###
+Based on the explicit mention of the adult mouse brain and its systematic classification using whole-brain spatial transcriptomics, we conclude that 'Brain' is the appropriate result.
+### Result ###
+['Brain']

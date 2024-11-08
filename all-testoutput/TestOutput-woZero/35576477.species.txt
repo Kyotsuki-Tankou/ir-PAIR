@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "human cardiomyopathy" and "human cardiomyocytes" directly indicate the species involved, which is 'Homo sapiens'.
+### Verify ###
+The abstract mentions "explanted ACM hearts" and " Forced overexpression of ZBTB11 induced autophagy and cell death-related gene programmes in human cardiomyocytes," which further confirms that the species being studied is indeed 'Homo sapiens'.
+### Conclusion ###
+Since both the keyword and the context in the abstract consistently point to 'Homo sapiens', we can confidently conclude that 'Homo sapiens' is the correct species.
+### Result ###
+['Homo sapiens']

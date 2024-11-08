@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the key terms related to the disease are "high-grade serous ovarian carcinoma" and "cancer samples." These terms directly suggest a focus on a specific type of cancer.
+### Verify ###
+The abstract explicitly mentions "high-grade serous ovarian carcinoma," which is a specific type of ovarian cancer. This aligns with the disease categories provided in the schema.
+### Context ###
+The study focuses on the spatial transcriptomics of high-grade serous ovarian carcinoma and its response to chemotherapy. The detailed analysis of tumor composition and spatial interactions in the context of this specific cancer type further confirms the relevance of "high-grade serous ovarian carcinoma" as the primary disease of interest.
+### Conclusion ###
+Given the explicit mention and focus on "high-grade serous ovarian carcinoma," it is clear that this is the appropriate disease category to extract from the input.
+### Result ###
+["high-grade serous ovarian carcinoma"]

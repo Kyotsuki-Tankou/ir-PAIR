@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "cutaneous squamous cell carcinoma (cSCC)" and "normal skin." This suggests that 'Skin' and 'Squamous Cell Carcinoma' may be appropriate results.
+### Verify ###
+The abstract mentions "human cSCCs and matched normal skin," which directly verifies that the study is focused on skin tissue, specifically addressing both normal skin and squamous cell carcinoma. This further supports that 'Skin' and 'Squamous Cell Carcinoma' are proper results.
+### Context ###
+Since the verification step directly confirms the presence of skin tissue and specifically squamous cell carcinoma without ambiguity, there is no need for additional context to clarify the tissue type.
+### Conclusion ###
+Consequently, we confirm that 'Skin' and 'Squamous Cell Carcinoma' are the appropriate organ parts based on the given input.
+### Result ###
+['Skin', 'Squamous Cell Carcinoma']

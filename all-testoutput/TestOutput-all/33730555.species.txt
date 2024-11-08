@@ -1,0 +1,14 @@
+###Keywords###
+From the abstract, the terms "mouse and human lacrimal gland" directly suggest that the species involved are 'Mus musculus' and 'Homo sapiens'.
+###Verify###
+The abstract mentions:
+- "Here, we describe the establishment of long-term 3D organoid culture conditions for mouse and human lacrimal gland."
+- "We address cellular heterogeneity of the lacrimal gland by providing a single-cell atlas of human lacrimal gland tissue and organoids."
+- "human lacrimal gland organoids phenocopy the process of tear secretion in response to neurotransmitters and can engraft and produce mature tear products upon orthotopic transplantation in mouse."
+These statements clearly indicate the use of both mouse ('Mus musculus') and human ('Homo sapiens') species, further verifying that both are indeed proper results.
+###Context###
+Since the terms "mouse" and "human" are explicitly mentioned and directly correspond to 'Mus musculus' and 'Homo sapiens' in the schema, there is no need for additional context to verify the result.
+###Conclusion###
+Consequently, we confirm 'Mus musculus' and 'Homo sapiens' as our final results based on the clear and direct mention of the species used in the abstract.
+###Result###
+['Mus musculus', 'Homo sapiens']

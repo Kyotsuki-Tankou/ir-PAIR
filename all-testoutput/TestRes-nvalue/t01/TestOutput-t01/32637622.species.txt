@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the term "adult mouse brain" suggests a focus on a specific species. The word "mouse" directly points to 'Mus musculus' as the species of interest.
+### Verify ###
+From the Abstract, "We aimed to generate a systematic classification of the adult mouse brain" and "employing whole-brain spatial transcriptomics" in the context of the mouse brain directly verify that 'Mus musculus' is indeed the species of focus in this study.
+### Context ###
+Since the Abstract clearly and consistently mentions "mouse" and "adult mouse brain," there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm 'Mus musculus' as our final result based on the clear and consistent information provided in the Abstract.
+### Result ###
+['Mus musculus']

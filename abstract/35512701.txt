@@ -1,0 +1,6 @@
+["Danio rerio"]
+["Embryo"]
+null
+["Stereo-Seq"]
+["Embryo development"]
+ Abstract\nA major challenge in understanding vertebrate embryogenesis is the lack of topographical transcriptomic information that can help correlate microenvironmental cues within the hierarchy of cell-fate decisions. Here, we employed Stereo-seq to profile 91 zebrafish embryo sections covering six critical time points during the first 24 h of development, obtaining a total of 152,977 spots at a resolution of 10 × 10 × 15 μm3(close to cellular size) with spatial coordinates. Meanwhile, we identified spatial modules and co-varying genes for specific tissue organizations. By performing the integrated analysis of the Stereo-seq and scRNA-seq data from each time point, we reconstructed the spatially resolved developmental trajectories of cell-fate transitions and molecular changes during zebrafish embryogenesis. We further investigated the spatial distribution of ligand-receptor pairs and identified potentially important interactions during zebrafish embryo development. Our study constitutes a fundamental reference for further studies aiming to understand vertebrate development. \n Keywords:Stereo-seq; embryonic development; scRNA-seq; spatial transcriptomics; zebrafish.

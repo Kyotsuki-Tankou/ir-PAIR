@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, there are no direct mentions of specific technologies from the provided schema. However, the phrases "transcriptomic survey" and "comparative analysis of the transcriptomes" suggest the use of transcriptomic technologies.
+### Verify ###
+The abstract mentions "characterize four transcript types (lncRNAs, TUCPs, miRNAs, and circRNAs) and protein-coding genes," which implies the use of technologies capable of transcriptomic analysis. The most common technology for such comprehensive transcriptomic studies is RNA-seq.
+### Context ###
+The abstract does not specify the exact technologies used but focuses on the outcomes of the transcriptomic analysis. Given the scope and nature of the study, RNA-seq is a highly plausible technology used for characterizing various transcript types and performing comparative analysis.
+### Conclusion ###
+Based on the context and the typical technologies used for such studies, we can infer that RNA-seq is likely the technology employed.
+### Result ###
+['RNA-seq']

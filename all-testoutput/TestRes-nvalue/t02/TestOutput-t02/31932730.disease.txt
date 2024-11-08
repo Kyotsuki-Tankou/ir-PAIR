@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the key terms related to diseases are "primary pancreatic tumors," "ductal cells," "macrophages," "dendritic cells," "cancer cells," and "inflammatory fibroblasts." These terms suggest a focus on pancreatic cancer and related cellular components.
+### Verify ###
+The Abstract specifically mentions "primary pancreatic tumors," which directly corresponds to "Pancreatic cancer" in the schema. The other terms like "ductal cells," "macrophages," "dendritic cells," and "cancer cells" are associated with the tumor microenvironment and support the context of pancreatic cancer.
+### Context ###
+The context of the study is clearly centered around pancreatic cancer, as indicated by the term "primary pancreatic tumors." The detailed analysis of various cell types within these tumors further reinforces the focus on pancreatic cancer.
+### Conclusion ###
+Based on the direct mention of "primary pancreatic tumors" and the contextual analysis of associated cell types, it is clear that "Pancreatic cancer" is the relevant disease to be extracted.
+### Result ###
+['Pancreatic cancer']

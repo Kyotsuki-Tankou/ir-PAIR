@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "Alzheimer's disease (AD)", "amyloid plaques", "mouse model", "brain sections", and "spatial transcriptomics" are prominently mentioned, indicating that 'Brain' may be a proper result.
+### Verify ###
+The abstract specifically mentions "in situ sequencing on mouse and human brain sections" and "the vicinity of pathogenic hallmarks of AD and other brain diseases," which further verifies that 'Brain' is indeed a relevant organ part in this context.
+### Context ###
+Given the detailed focus on the brain tissue in the context of Alzheimer's disease and the use of spatial transcriptomics to analyze transcriptional changes around amyloid plaques, there is no need for additional context to confirm the relevance of 'Brain'.
+### Conclusion ###
+Consequently, we confirm 'Brain' as the final result based on the clear and consistent focus on brain tissue throughout the abstract.
+### Result ###
+['Brain']

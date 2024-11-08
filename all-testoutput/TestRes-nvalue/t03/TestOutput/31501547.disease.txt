@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "primary breast cancer" and "mouse brain" are explicitly mentioned, indicating that 'Breast cancer' and 'Brain' might be relevant diseases or conditions.
+### Verify ###
+The abstract states, "as demonstrated in mouse brain and primary breast cancer," which directly verifies the involvement of 'Breast cancer' and suggests a focus on 'Brain' as a tissue rather than a disease.
+### Context ###
+The context of the study involves developing a high-definition spatial transcriptomics method and demonstrating its application in specific tissues. While 'Brain' is mentioned, it is not clear if it refers to a disease state or just the tissue type. 'Breast cancer' is clearly indicated as a disease state.
+### Conclusion ###
+Based on the explicit mention and verification, we can confidently conclude that 'Breast cancer' is an appropriate disease to be extracted. The mention of 'mouse brain' is more about the tissue type rather than a disease, so it does not fit the schema as a disease.
+### Result ###
+['Breast cancer']

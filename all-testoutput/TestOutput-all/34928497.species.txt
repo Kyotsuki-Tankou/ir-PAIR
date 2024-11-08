@@ -1,0 +1,10 @@
+###Keywords###
+From the input, the term "benign prostatic hyperplasia (BPH)" and "prostates from 5ARI-treated men" indicate that 'Homo sapiens' may be a proper result.
+###Verify###
+The Abstract mentions "aging men," "prostates from 5ARI-treated men," and "lower urinary tract symptoms," which are all specific to human conditions. This further verifies that 'Homo sapiens' is indeed the relevant species.
+###Context###
+Not required in this case as the Keywords and Verify steps align well and provide sufficient evidence.
+###Conclusion###
+Consequently, we confirm 'Homo sapiens' as the final result based on the clear and consistent references to human-specific conditions and tissues in the input.
+###Result###
+['Homo sapiens']

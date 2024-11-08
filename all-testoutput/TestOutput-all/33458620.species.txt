@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the focus is on "prostate gland," "patient-derived benign prostate epithelial organoids," and "vitamin D." The keywords suggest a study involving human-derived samples and cellular mechanisms.
+### Verify ###
+The abstract mentions "patient-derived benign prostate epithelial organoids," which directly implies the use of human tissue. There is no mention of any other species.
+### Context ###
+The context of the study revolves around human prostate tissue and the effects of vitamin D on it. There is no indication of using any other species for the experiments.
+### Conclusion ###
+Based on the clear mention of "patient-derived" samples and the focus on human prostate tissue, the species involved in the study is undoubtedly Homo sapiens.
+### Result ###
+["Homo sapiens"]

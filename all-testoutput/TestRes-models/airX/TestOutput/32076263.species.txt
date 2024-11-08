@@ -1,0 +1,13 @@
+### Keywords ###
+From the abstract, we can extract the following keywords that could potentially match the species in the schema:
+- "mouse gastruloids"
+- "mouse embryos"
+- "single-cell RNA sequencing"
+- "spatial transcriptomics"
+### Verify ###
+- "mouse gastruloids" and "mouse embryos" suggest the species "Mus musculus" is involved.
+- "single-cell RNA sequencing" and "spatial transcriptomics" indicate that these techniques are used on mice, supporting the presence of "Mus musculus" in the study.
+### Conclusion ###
+Based on the specific mention of "mouse gastruloids" and "mouse embryos" in the abstract, we can confidently conclude that "Mus musculus" is a species involved in the study.
+### Result ###
+['Mus musculus']

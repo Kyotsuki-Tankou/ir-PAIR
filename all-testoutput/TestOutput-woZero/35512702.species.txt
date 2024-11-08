@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "Arabidopsis leaves" is prominently mentioned, indicating that 'Arabidopsis thaliana' may be the relevant species.
+### Verify ###
+The abstract specifically mentions "Arabidopsis leaves" and "single-cell gene expression profiling technologies applied to Arabidopsis," which further verifies that 'Arabidopsis thaliana' is indeed the species studied in this context.
+### Context ###
+Given the detailed focus on "Arabidopsis leaves" and the use of scStereo-seq to analyze single-cell spatial transcriptome profiles in Arabidopsis, there is no need for additional context to confirm the relevance of 'Arabidopsis thaliana'.
+### Conclusion ###
+Consequently, we confirm 'Arabidopsis thaliana' as the final result based on the clear and consistent focus on Arabidopsis throughout the abstract.
+### Result ###
+['Arabidopsis thaliana']

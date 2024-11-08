@@ -1,0 +1,9 @@
+###Keywords###
+The abstract mentions "single-cell RNA sequencing (scRNA-seq)" and "microarray-based spatial transcriptomics method," which implies the use of both scRNA-seq and spatial transcriptomics techniques.
+###Verify###
+- "We combine a microarray-based spatial transcriptomics method with scRNA-Seq generated from the same sample" verifies that both scRNA-seq and spatial transcriptomics are used in the study.
+- The abstract also describes the application of these methods to "primary pancreatic tumors," indicating that scRNA-seq and spatial transcriptomics are applied to this specific type of tissue.
+###Conclusion###
+Based on the verification and the explicit mention of scRNA-seq and spatial transcriptomics in the context of analyzing primary pancreatic tumors, the relevant technologies are 'scRNA', 'Spatial Transcriptomics', and 'RNA-seq'.
+###Result###
+['scRNA', 'Spatial Transcriptomics', 'RNA-seq']

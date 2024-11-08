@@ -1,0 +1,12 @@
+###Keywords###
+From the phrase "Spatial Transcriptomics (ST)" in the Abstract, it indicates that 'Spatial Transcriptomics' may be a proper result.
+###Verify###
+The Abstract states:
+- "We aimed to explore synovial biopsies from rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients, using Spatial Transcriptomics (ST) as a proof of principle approach"
+- "The transcriptome data was subjected to differential gene expression analysis (DEA), pathway analysis, immune cell type identification using Xcell analysis and validation with immunohistochemistry (IHC)" which implies the use of 'Spatial Transcriptomics' in the study.
+###Context###
+There is no conflicting information that would require additional context to clarify the use of 'Spatial Transcriptomics' in the study.
+###Conclusion###
+Consequently, we confirm 'Spatial Transcriptomics' as the final result based on the explicit mention and the description of its application in the study.
+###Result###
+['Spatial Transcriptomics']

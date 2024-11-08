@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "heart" is prominently mentioned in the context of "Arrhythmogenic cardiomyopathy (ACM)" and "explanted ACM hearts," indicating that 'Heart' may be the proper tissue to extract.
+### Verify ###
+The abstract discusses "myocardium," "cardiomyocyte degeneration," and "fibro-fatty replacement of myocardium," which further verifies that the study is focused on the 'Heart' tissue.
+### Context ###
+The context consistently revolves around the heart, specifically addressing myocardial changes and cardiomyopathy, which solidifies the focus on the 'Heart' tissue without any ambiguity.
+### Conclusion ###
+Given the clear and consistent focus on the heart and its associated pathologies in the abstract, we can confidently conclude that 'Heart' is the appropriate tissue to extract.
+### Result ###
+['Heart']

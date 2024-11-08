@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "suprachiasmatic nucleus (SCN)," "ventral hypothalamus," "single-cell RNA-sequencing," and "mouse SCN." These keywords suggest that the study is focused on the brain, specifically the SCN region within the hypothalamus.
+### Verify ###
+The abstract mentions "the suprachiasmatic nucleus (SCN) in the ventral hypothalamus" and "a complete three-dimensional reconstruction of the mouse SCN at single-cell resolution." This directly indicates that the tissue of interest is the brain, specifically the SCN, which is a part of the hypothalamus.
+### Context ###
+Given the detailed focus on the SCN within the hypothalamus and the specific mention of mouse SCN, there is no need for additional context to verify the tissue type.
+### Conclusion ###
+Consequently, we confirm that 'Brain' is the appropriate tissue type based on the provided abstract.
+### Result ###
+['Brain']

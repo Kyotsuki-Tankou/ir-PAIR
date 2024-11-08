@@ -1,0 +1,14 @@
+###Keywords###
+The abstract mentions "Mammalian cells" and "HIF1α" but does not directly specify the species. The context of "Mammalian cells" suggests a mammalian species.
+###Verify###
+To verify, we look for specific mentions or implications of the species:
+- "Mammalian cells" indicates a mammalian species.
+- The study involves "retinoic acid-related orphan receptor γt+(RORγt+) γδ T cell-derived interleukin-17A (IL-17A)" and "Protein kinase B (AKT) and extracellular signal-regulated kinase 1/2 (ERK1/2) signaling," which are common in mammalian systems.
+###Context###
+Considering the context:
+- The focus on "injury-induced hypoxia" and "epithelial healing" aligns with studies often conducted in model mammalian species.
+- The mention of "IL-17A" and "HIF1α" pathways are well-studied in mammals.
+###Conclusion###
+Given the emphasis on mammalian cells and the common use of mammalian models in such studies, the most likely species is 'Mus musculus' (mouse), a frequently used model organism in mammalian cell research.
+###Result###
+['Mus musculus']

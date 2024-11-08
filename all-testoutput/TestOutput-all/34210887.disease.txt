@@ -1,0 +1,8 @@
+### Keywords ###
+From the phrase "developing mouse embryos" in the Abstract, it indicates that 'Embryo development' may be a proper result.
+### Verify ###
+The Abstract specifically mentions "applying sci-Space to developing mouse embryos" and discusses capturing spatial coordinates and transcriptomes in the context of development. This further verifies that 'Embryo development' is indeed the focus of the study.
+### Conclusion ###
+Consequently, we confirm 'Embryo development' as our final result.
+### Result ###
+['Embryo development']

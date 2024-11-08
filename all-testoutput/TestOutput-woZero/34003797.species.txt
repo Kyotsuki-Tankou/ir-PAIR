@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, the terms "human nephrectomy" and "2 murine AKI models" indicate the species involved. The keywords suggest 'Homo sapiens' for the human nephrectomy and 'Mus musculus' for the murine models.
+### Verify ###
+1. **Human Involvement**: The abstract mentions "mapping 30 dominant cell types to a human nephrectomy," which verifies the involvement of 'Homo sapiens'.
+2. **Mouse Involvement**: The abstract also mentions "2 murine AKI models: ischemia/reperfusion injury (IRI) and cecal ligation puncture (CLP)," which verifies the involvement of 'Mus musculus'.
+### Context ###
+The study involves both human and mouse models to understand the spatial distribution of acute kidney injury (AKI). The human nephrectomy provides a basis for mapping cell types, while the murine models are used to study the implications of AKI on transcript expression.
+### Conclusion ###
+Since the keywords and the context in the abstract both confirm the involvement of two species, we can conclude that 'Homo sapiens' and 'Mus musculus' are the correct results.
+### Result ###
+['Homo sapiens', 'Mus musculus']

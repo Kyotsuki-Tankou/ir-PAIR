@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords "benign prostatic hyperplasia (BPH)" and "prostate" are directly mentioned, suggesting a focus on prostate-related conditions. Terms like "5-alpha reductase inhibitors (5ARIs)" and "prostate luminal cells" further support this context.
+### Verify ###
+The abstract discusses "benign prostatic hyperplasia (BPH)" and the effects of "5-alpha reductase inhibitors (5ARIs)" on prostate tissue. This directly aligns with conditions related to the prostate, such as "Prostate Cancer" or "Prostatic cancer."
+### Context ###
+While the abstract primarily focuses on BPH, which is a non-cancerous condition, the discussion of prostate tissue and the use of terms like "atrophy" and "apoptosis" of prostate cells may also relate to broader prostate health issues, including cancerous conditions.
+### Conclusion ###
+Given the specific mention of "benign prostatic hyperplasia (BPH)" and the broader context of prostate health, "Prostate Cancer" or "Prostatic cancer" are the most relevant matches from the provided schema, even though BPH is not cancer. The schema does not include a specific term for BPH, so the closest related terms are chosen.
+### Result ###
+["Prostate Cancer", "Prostatic cancer"]

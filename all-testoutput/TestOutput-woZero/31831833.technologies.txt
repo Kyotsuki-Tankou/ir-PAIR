@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the term "Spatial Transcriptomics (ST)" is explicitly mentioned, indicating that 'Spatial Transcriptomics' may be a proper result.
+### Verify ###
+The Abstract states, "using Spatial Transcriptomics (ST) as a proof of principle approach for unbiased mRNA studies at the site of inflammation in these chronic inflammatory diseases," which directly verifies that 'Spatial Transcriptomics' is indeed a technology used in this study.
+### Context ###
+Not required in this case as the verification directly supports the keyword.
+### Conclusion ###
+Consequently, we confirm 'Spatial Transcriptomics' as our final result based on the clear and consistent information provided in the Abstract.
+### Result ###
+['Spatial Transcriptomics']

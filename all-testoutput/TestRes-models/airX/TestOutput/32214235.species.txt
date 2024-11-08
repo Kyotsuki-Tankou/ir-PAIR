@@ -1,0 +1,8 @@
+### Keywords
+From the input, the term "human" is explicitly mentioned, which suggests that 'Homo sapiens' might be the species used.
+### Verify
+The phrase "single-cell mRNA sequencing to determine the cell-type composition of all major human organs" in the Abstract directly implies the use of human samples, which corresponds to 'Homo sapiens' in the schema.
+### Conclusion
+Since the keyword "human" and the verification both point to 'Homo sapiens', we can conclude that it is the correct result.
+### Result
+['Homo sapiens']

@@ -1,0 +1,12 @@
+### Keywords ###
+From the input, the terms "human distal airways," "terminal and respiratory bronchioles (TRBs)," and "lung development" are mentioned. This suggests that "Upper pulmonary branches" may be a relevant result as it pertains to the respiratory system.
+### Verify ###
+The abstract specifically states:
+- "human distal airways, including the terminal and respiratory bronchioles (TRBs)"
+This directly verifies the presence of "Upper pulmonary branches" in the context of the study, as TRBs are part of the upper pulmonary system.
+### Context ###
+Given the direct mention of the distal airways and TRBs in the abstract, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm "Upper pulmonary branches" as the appropriate result based on the explicit references in the abstract.
+### Result ###
+["Upper pulmonary branches"]

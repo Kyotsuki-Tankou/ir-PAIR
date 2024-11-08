@@ -1,0 +1,8 @@
+###Keywords###
+The abstract discusses "heart failure" and "circulating proteins," which are associated with human health issues. This indicates that 'Homo sapiens' may be a proper result.
+###Verify###
+The abstract mentions "population-based cohort," which implies that the study involves human subjects. Additionally, it discusses "heart transplantation," which is a medical procedure specific to humans. This verifies that 'Homo sapiens' is the correct species.
+###Conclusion###
+Based on the context of heart failure and the mention of a population-based cohort and heart transplantation, we can confidently conclude that the species involved in the study is 'Homo sapiens'.
+###Result###
+['Homo sapiens']

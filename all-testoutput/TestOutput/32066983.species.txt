@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "mouse SCN" and "single-cell RNA-sequencing," indicating a study involving the mouse, which is represented by "Mus musculus" in the schema.
+### Verify ###
+The abstract explicitly states, "We have used single-cell RNA-sequencing to identify the basic cell types in the mouse SCN..." This confirms the use of single-cell RNA-sequencing technology on the mouse SCN.
+### Context ###
+The abstract also discusses the identification of "eight major cell types" and their "circadian and light-induced gene expression patterns," which suggests a detailed cellular and molecular analysis of the SCN.
+### Conclusion ###
+Given the explicit mention of "mouse" and the use of single-cell RNA-sequencing to study the SCN, it is clear that "Mus musculus" is the species involved in the study.
+### Result ###
+["Mus musculus"]

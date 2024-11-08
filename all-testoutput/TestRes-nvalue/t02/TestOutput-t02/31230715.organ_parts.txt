@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract and Keywords, the focus is on "human transcriptome" and "subcellular locales," suggesting that the study involves human cell lines or tissues. The Keywords do not directly mention any specific organ part, but the context of "human transcriptome" implies a focus on human cells or tissues.
+### Verify ###
+The Abstract mentions "a nanometer-resolution spatial map of the human transcriptome," which strongly indicates the use of human cells or tissues. The term "human transcriptome" directly points to human-derived samples.
+### Context ###
+Given the explicit mention of "human transcriptome" and the absence of any other species or specific organ parts mentioned, it is reasonable to infer that the study involves human cell lines or tissues. The context does not provide any conflicting information that would require further clarification.
+### Conclusion ###
+Based on the clear indication of "human transcriptome" and the focus on subcellular locales in human cells, we can conclude that "Human cell lines" is the most appropriate match from the provided schema.
+### Result ###
+['Human cell lines']

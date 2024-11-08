@@ -1,0 +1,14 @@
+###Keywords###
+From the abstract, the keywords that stand out are "mouse organogenesis," "spatial transcriptomics," "single-cell resolution," and "developing tissues." These keywords suggest a focus on mammalian development, specifically in mice.
+###Verify###
+The abstract specifically mentions:
+- "mouse organogenesis spatiotemporal transcriptomic atlas (MOSTA)"
+- "maps with single-cell resolution and high sensitivity the kinetics and directionality of transcriptional variation during mouse organogenesis"
+- "gain insight into the molecular basis of spatial cell heterogeneity and cell fate specification in developing tissues such as the dorsal midbrain"
+These points verify that the study is focused on the development processes in mice, particularly during organogenesis.
+###Context###
+The abstract does not mention any other species besides mice. The focus is entirely on "mouse organogenesis" and the creation of a transcriptomic atlas for mice.
+###Conclusion###
+Given the exclusive focus on mouse development and organogenesis, "Mus musculus" is the most appropriate match from the provided schema.
+###Result###
+["Mus musculus"]

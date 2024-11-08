@@ -1,0 +1,18 @@
+###Keywords###
+- "high-definition spatial transcriptomics"
+- "captures RNA from histological tissue sections"
+- "spatially barcoded bead array"
+- "2-μm resolution"
+- "mouse brain and primary breast cancer"
+###Verify###
+- The input mentions "high-definition spatial transcriptomics," which could be related to several technologies in the schema.
+- "captures RNA from histological tissue sections" suggests a technology involving RNA sequencing.
+- "spatially barcoded bead array" and "2-μm resolution" indicate a high-resolution spatial technology.
+###Context###
+- The context of the input is the development of a new high-resolution spatial transcriptomics method.
+- The mention of "mouse brain and primary breast cancer" indicates application areas but does not directly name a specific technology.
+###Conclusion###
+- The description closely aligns with "Spatial Transcriptomics" and "Slide-seqV2" from the schema, as these technologies involve capturing RNA in a spatial context with high resolution.
+- "Slide-seqV2" is a specific version of "Slide-seq," which is also mentioned in the schema and fits the description of a spatially barcoded bead array.
+###Result###
+['Spatial Transcriptomics', 'Slide-seqV2']

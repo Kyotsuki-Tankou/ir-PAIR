@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "synovial biopsies" and "synovial tissue biopsies" are explicitly mentioned, indicating that 'Synovial' may be a proper result.
+### Verify ###
+The abstract states, "We aimed to explore synovial biopsies from rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients," and "Synovial tissue biopsies from affected joints were studied with ST." These statements directly verify that 'Synovial' is indeed a relevant tissue in the context of the study.
+### Context ###
+Since the verification step directly confirms the presence of 'Synovial' in the abstract, there is no need for additional context to support this conclusion.
+### Conclusion ###
+Consequently, we choose 'Synovial' as our final result.
+### Result ###
+['Synovial']

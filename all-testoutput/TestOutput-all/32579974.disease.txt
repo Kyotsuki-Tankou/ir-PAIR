@@ -1,0 +1,8 @@
+###Keywords###
+The keyword from the input that corresponds to the schema is "cutaneous squamous cell carcinoma."
+###Verify###
+The abstract mentions "cutaneous squamous cell carcinoma (cSCC)" as the subject of the study, verifying that it is the correct disease to extract according to the schema.
+###Conclusion###
+Since the keyword matches the disease mentioned in the abstract, we can conclude that "cutaneous squamous cell carcinoma" is the appropriate result.
+###Result###
+['cutaneous squamous cell carcinoma']

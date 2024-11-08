@@ -1,0 +1,11 @@
+### Keywords ###
+From the abstract, the term "single-cell mRNA sequencing" is mentioned, which implies the use of a technology related to single-cell RNA sequencing. This suggests that one of the technologies from the schema might be 'RNA-seq' or 'scRNA', which are both technologies capable of single-cell mRNA sequencing.
+### Verify ###
+The abstract mentions:
+- "single-cell mRNA sequencing to determine the cell-type composition of all major human organs"
+- "construct a scheme for the human cell landscape (HCL)"
+These statements confirm the use of single-cell mRNA sequencing technology, which is typically associated with 'RNA-seq' or 'scRNA'.
+### Conclusion ###
+Based on the context and the specific mention of "single-cell mRNA sequencing" in the abstract, we can conclude that 'RNA-seq' is the correct result as it is a well-known technology for single-cell mRNA sequencing.
+### Result ###
+['RNA-seq']

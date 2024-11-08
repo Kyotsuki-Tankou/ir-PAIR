@@ -1,0 +1,11 @@
+### Keywords ###
+From the abstract, the key terms related to organ parts are "mouse cortical astrocytes," "brain regions," and "specific brain regions." These suggest potential matches with 'Brain' and 'Cortex' from the schema.
+### Verify ###
+- "mouse cortical astrocytes" directly indicates the involvement of the 'Cortex.'
+- "specific brain regions" and "regionally constrained reactive astrocyte sub-states" imply broader brain involvement, which can be matched with 'Brain.'
+### Context ###
+The study focuses on astrocytes in the mouse cortex and their spatial distribution in the brain, which confirms the involvement of brain-related organ parts.
+### Conclusion ###
+Based on the keywords and context, the relevant organ parts from the schema are 'Brain' and 'Cortex.'
+### Result ###
+['Brain', 'Cortex']

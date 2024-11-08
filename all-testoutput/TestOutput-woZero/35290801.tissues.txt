@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, "lung cancer" and "tumor microenvironment" suggest a focus on cancer-related tissues. "Lung" is specifically mentioned in the context of "a mouse model of lung cancer," indicating that 'Lung' may be a proper result.
+### Verify ###
+From the Abstract, "we applied Perturb-map to knock out dozens of genes in parallel in a mouse model of lung cancer" directly verifies that 'Lung' is indeed the tissue of focus in this study.
+### Context ###
+Since the Abstract and Keywords both clearly point to 'Lung' as the primary tissue of interest, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm 'Lung' as our final result based on the clear and consistent information provided in both the Abstract and Keywords.
+### Result ###
+['Lung']

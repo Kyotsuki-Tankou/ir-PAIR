@@ -1,0 +1,18 @@
+### Keywords ###
+- Heart failure (HF)
+- Circulating proteins
+- Aptamer-based proteomics
+- Population-based cohort
+- Immunological, complement, coagulation, natriuretic, matrix remodeling pathways
+- Advanced HF
+- Heart transplantation
+- Coronary sinus samples
+- Transcriptomic tools
+- Nt-proBNP, thrombospondin-2, interleukin-18 receptor, gelsolin, activated C5
+- Cardiac and systemic factors
+### Verify ###
+- Species mentioned: Homo sapiens (implied by "population-based cohort" and context of human health)
+### Conclusion ###
+- The study focuses on human subjects (Homo sapiens) in the context of heart failure.
+### Result ###
+- ['Homo sapiens']

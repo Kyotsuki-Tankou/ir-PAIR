@@ -1,0 +1,8 @@
+### Keywords ###
+The keyword "single-cell RNA-sequencing" is explicitly mentioned in the abstract, suggesting that 'scRNA' may be a proper result.
+### Verify ###
+The abstract states, "We have used single-cell RNA-sequencing to identify the basic cell types in the mouse SCN," which directly verifies the use of 'scRNA' technology.
+### Conclusion ###
+Since the term 'scRNA' is both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that 'scRNA' is the appropriate technology used.
+### Result ###
+['scRNA']

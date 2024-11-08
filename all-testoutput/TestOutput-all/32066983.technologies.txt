@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "single-cell RNA-sequencing" is prominently mentioned, indicating that 'scRNA' may be a relevant technology.
+### Verify ###
+The abstract specifically mentions "single-cell RNA-sequencing to identify the basic cell types in the mouse SCN and to characterize their circadian and light-induced gene expression patterns." This directly verifies that 'scRNA' is indeed the technology used in this study.
+### Context ###
+Given the detailed focus on single-cell RNA-sequencing and the absence of any other technology mentions, there is no need for additional context to confirm the relevance of 'scRNA'.
+### Conclusion ###
+Consequently, we confirm 'scRNA' as the final result based on the clear and consistent mention of single-cell RNA-sequencing throughout the abstract.
+### Result ###
+['scRNA']

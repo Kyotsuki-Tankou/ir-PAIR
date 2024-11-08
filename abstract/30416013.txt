@@ -1,0 +1,6 @@
+["Caenorhabditis elegans"]
+null
+null
+["Tomo-seq"]
+["Normal atlas"]
+ Abstract\nTo advance our understanding of the genetic programs that drive cell and tissue specialization, it is necessary to obtain a comprehensive overview of gene expression patterns. Here, we have used spatial transcriptomics to generate high-resolution, anteroposterior gene expression maps of C. elegans males and hermaphrodites. To explore these maps, we have developed computational methods for discovering region- and tissue-specific genes. We have found extensive sex-specific gene expression differences in the germline and sperm and discovered genes that are specifically expressed in the male reproductive tract. These include a group of uncharacterized genes that encode small secreted proteins that are required for male fertility. We conclude that spatial gene expression maps provide a powerful resource for identifying tissue-specific gene functions in C. elegans. Importantly, we found that expression maps from different animals can be precisely aligned, enabling transcriptome-wide comparisons of gene expression patterns. \n Keywords:C. elegans; CEL-seq; germline; mRNA sequencing; male fertility; spatial transcriptomics; sperm.

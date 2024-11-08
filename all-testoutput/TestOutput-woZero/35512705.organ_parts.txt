@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, the keywords that stand out are "mouse organogenesis," "dorsal midbrain," and "developing tissues." These suggest that 'Mouse Embryo' and 'Dorsal midbrain' might be relevant organ parts.
+### Verify ###
+In the abstract, it is mentioned:
+- "We applied Stereo-seq to generate the mouse organogenesis spatiotemporal transcriptomic atlas (MOSTA)..."
+- "gain insight into the molecular basis of spatial cell heterogeneity and cell fate specification in developing tissues such as the dorsal midbrain."
+These statements verify that 'Mouse Embryo' and 'Dorsal midbrain' are indeed relevant organ parts.
+### Context ###
+Since the abstract explicitly mentions "mouse organogenesis" and "dorsal midbrain," there is no ambiguity or need for further context to verify these organ parts.
+### Conclusion ###
+Consequently, based on the explicit mention in the abstract, we choose 'Mouse Embryo' and 'Dorsal midbrain' as our final results.
+### Result ###
+['Mouse Embryo', 'Dorsal midbrain']

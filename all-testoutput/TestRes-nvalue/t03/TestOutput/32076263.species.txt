@@ -1,0 +1,8 @@
+### Keywords ###
+The term "mouse gastruloids" and "mouse embryos" from the abstract suggest that the species 'Mus musculus' is relevant.
+### Verify ###
+The abstract explicitly mentions "mouse gastruloids" and "mouse embryos," which confirms that the species 'Mus musculus' is indeed relevant.
+### Conclusion ###
+Since the abstract directly mentions 'Mus musculus' in the context of the study, we can conclude that 'Mus musculus' is the correct species to extract.
+### Result ###
+['Mus musculus']

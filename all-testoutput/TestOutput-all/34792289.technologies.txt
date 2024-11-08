@@ -1,0 +1,9 @@
+###Keywords###
+From the abstract, the terms "single-cell RNA sequencing (scRNA-seq)" and "single-nucleus RNA sequencing (snRNA-seq)" are explicitly mentioned, indicating that 'scRNA' and 'snRNA' may be proper results. Additionally, "spatial transcriptomics" is mentioned in the context of validating the spatial distribution of cell populations.
+###Verify###
+1. The abstract states, "Here, we report the transcriptional landscape of 73,295 cells from the human liver using matched single-cell RNA sequencing (scRNA-seq) and single-nucleus RNA sequencing (snRNA-seq)," which directly verifies the use of 'scRNA' and 'snRNA' technologies.
+2. It also mentions, "We validated the distinct spatial distribution of the hepatocyte, cholangiocyte, and mesenchymal cell populations by an independent spatial transcriptomics data set," which verifies the use of 'Spatial Transcriptomics'.
+###Conclusion###
+Since the terms 'scRNA', 'snRNA', and 'Spatial Transcriptomics' are both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that these are the appropriate technologies used.
+###Result###
+['scRNA', 'snRNA', 'Spatial Transcriptomics']

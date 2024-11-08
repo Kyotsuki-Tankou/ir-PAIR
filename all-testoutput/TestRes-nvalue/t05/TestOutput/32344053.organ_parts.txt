@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract focuses on "atopic dermatitis" and "skin," suggesting that 'Skin' might be a relevant organ part.
+### Verify ###
+The abstract mentions "suction blistering captured epidermal and most immune cells equally well as biopsies," indicating that the study involves the skin as an organ part. Additionally, the mention of "unraveling novel inflammatory players that shape the cellular and proteomic microenvironment of AD" further supports that the skin is the primary organ part being studied.
+### Context ###
+Given the detailed focus on atopic dermatitis, a skin condition, and the specific mention of suction blistering as a method to sample skin cells and interstitial fluid, there is no need for additional context to verify the organ part.
+### Conclusion ###
+Consequently, we confirm that 'Skin' is the appropriate organ part based on the provided abstract.
+### Result ###
+['Skin']

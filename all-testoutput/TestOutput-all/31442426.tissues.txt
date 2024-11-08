@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "stress granules" is explicitly mentioned, indicating that 'Stress granules' may be a proper result.
+### Verify ###
+The abstract focuses on "stress granules" and discusses the localization of RNAs within these structures, which further verifies that 'Stress granules' is indeed a relevant and proper result.
+### Context ###
+Not required in this case as the keywords and the abstract content directly align with the schema.
+### Conclusion ###
+Consequently, we confirm 'Stress granules' as our final result based on the clear and consistent information provided in both the keywords and the abstract.
+### Result ###
+['Stress granules']

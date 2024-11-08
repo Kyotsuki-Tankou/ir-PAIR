@@ -1,0 +1,9 @@
+### Keywords ###
+From the Abstract, the phrases "employed Stereo-seq" and "Stereo-seq and scRNA-seq data" indicate that 'Stereo-seq' and 'scRNA-seq' are potential proper results.
+### Verify ###
+- **Stereo-seq**: The Abstract mentions "employed Stereo-seq" and "Stereo-seq data," directly verifying its relevance.
+- **scRNA-seq**: The Abstract also mentions "Stereo-seq and scRNA-seq data," confirming the use of scRNA-seq.
+### Conclusion ###
+Both 'Stereo-seq' and 'scRNA-seq' are mentioned and relevant to the study, confirming them as final results.
+### Result ###
+['Stereo-seq', 'scRNA-seq']

@@ -1,0 +1,13 @@
+###schema###
+species:['Canis lupus familiaris', 'Arabidopsis thaliana', 'Xenopus tropicalis', 'Maize', 'Drosophila melanogaster', 'Danio rerio', 'Ambystoma mexicanum', 'Gallus gallus', 'Homo sapiens', 'Rattus norvegicus', 'Mus musculus', 'Macaca fascicularis', 'Glycine max', 'Xenopus laevis', 'Caenorhabditis elegans', 'Oryctolagus cuniculus', 'Phalaenopsis aphrodite', 'Sus scrofa']
+###input###
+ Abstract
+Heart failure is a major health problem linked to poor quality of life and high mortality rates. Hence, novel biomarkers, such as fetal marker genes with low expression levels, could potentially differentiate disease states in order to improve therapy. In many studies on heart failure, cardiac biopsies have been analyzed as uniform pieces of tissue with bulk techniques, but this homogenization approach can mask medically relevant phenotypes occurring only in isolated parts of the tissue. This study examines such spatial variations within and between regions of cardiac biopsies. In contrast to standard RNA sequencing, this approach provides a spatially resolved transcriptome- and tissue-wide perspective of the adult human heart, and enables detection of fetal marker genes expressed by minor subpopulations of cells within the tissue. Analysis of patients with heart failure, with preserved ejection fraction, demonstrated spatially divergent expression of fetal genes in cardiac biopsies.Let's think step by step.
+###Keywords###
+From the abstract, there is no direct mention of a specific species. However, the context of "adult human heart" and "patients with heart failure" suggests that 'Homo sapiens' may be the proper result.
+###Verify###
+The phrases "adult human heart" and "patients with heart failure" in the abstract directly imply that the study is focused on humans, which supports 'Homo sapiens' as the correct species.
+###Conclusion###
+Since the keywords and the context in the abstract both point to 'Homo sapiens', we can confidently conclude that 'Homo sapiens' is the correct species involved in this study.
+###Result###
+['Homo sapiens']

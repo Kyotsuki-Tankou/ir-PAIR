@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the term "mouse" in the Keywords section directly suggests that 'Mus musculus' is a potential result.
+### Verify ###
+The Abstract mentions "digit amputation mouse model" and "young and aged mice," which explicitly indicates that the study was conducted on mice. This provides direct evidence that 'Mus musculus' is the correct species.
+### Conclusion ###
+Based on the explicit mention of "mouse" in both the Abstract and Keywords, we can confidently conclude that 'Mus musculus' is the appropriate species to be extracted.
+### Result ###
+['Mus musculus']

@@ -1,0 +1,7 @@
+["Homo sapiens"]
+["Brain"]
+null
+["scRNA"]
+["brain metastases cancer"]
+ Abstract\nMetastatic disease in the brain is difficult to control and predicts poor prognosis. Here, we analyze human brain metastases and demonstrate their robust infiltration by CD8+T cell subsets with distinct antigen specificities, phenotypic states, and spatial localization within the tumor microenvironment. Brain metastases are densely infiltrated by T cells; the majority of infiltrating CD8+T cells express PD-1. Single-cell RNA sequencing shows significant clonal overlap between proliferating and exhausted CD8+T cells, but these subsets have minimal clonal overlap with circulating and other tumor-infiltrating CD8+T cells, including bystander CD8+T cells specific for microbial antigens. Using spatial transcriptomics and spatial T cell receptor (TCR) sequencing, we show these clonally unrelated, phenotypically distinct CD8+T cell populations occupy discrete niches within the brain metastasis tumor microenvironment. Together, our work identifies signaling pathways within CD8+T cells and in their surrounding environment that may be targeted for immunotherapy of brain metastases. \n Keywords:CD8(+) T cells; TCR-sequencing; brain metastases; bystander; exhaustion; spatial transcriptomics.
+cs.

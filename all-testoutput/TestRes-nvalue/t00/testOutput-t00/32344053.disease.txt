@@ -1,0 +1,29 @@
+### Keywords
+- Atopic dermatitis
+- Single-cell RNA sequencing
+- Suction blistering
+- Transcriptomic
+- Proteomic
+- Inflammatory pathways
+- IL13
+- IL22
+- Myeloid cells
+- Dendritic cell
+- Macrophage
+### Verify
+- **Atopic dermatitis**: Mentioned in the background and throughout the study.
+- **Single-cell RNA sequencing**: Used as a method to analyze transcriptional profiles.
+- **Suction blistering**: Described as the method for sampling skin cells and interstitial fluid.
+- **Transcriptomic and Proteomic**: Mentioned as the levels of characterization for AD.
+- **Inflammatory pathways**: Studied in the context of AD.
+- **IL13 and IL22**: Specific cytokines found upregulated in AD.
+- **Myeloid cells**: Identified as most strongly enriched in AD.
+- **Dendritic cell and Macrophage**: Specific cell types mentioned in the context of proteomic analyses.
+### Context
+- The study focuses on characterizing Atopic Dermatitis (AD) using advanced techniques like single-cell RNA sequencing and suction blistering.
+- The results highlight the advantages of suction blistering over conventional biopsies, particularly in terms of transcriptomic resolution and proteomic information.
+- Key findings include the upregulation of specific cytokines (IL13, IL22) and the significant role of myeloid cells, dendritic cells, and macrophages in AD.
+### Conclusion
+- The study provides comprehensive insights into the cellular and proteomic microenvironment of Atopic Dermatitis, demonstrating the superiority of suction blistering for detailed analysis.
+### Result
+- ['Atopic dermatitis', 'Single-cell RNA sequencing', 'Suction blistering', 'Transcriptomic', 'Proteomic', 'Inflammatory pathways', 'IL13', 'IL22', 'Myeloid cells', 'Dendritic cell', 'Macrophage']

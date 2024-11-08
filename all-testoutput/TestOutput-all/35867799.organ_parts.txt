@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the term "back skin" is explicitly mentioned, indicating that 'Skin' may be a proper result.
+###Verify###
+- The abstract states: "early acne lesions on back skin," which directly verifies the presence of 'Skin'.
+###Context###
+- No additional context is needed as the abstract clearly mentions the specific tissue type where the study was conducted.
+###Conclusion###
+Consequently, we confirm 'Skin' as our final result based on the explicit mention in the abstract.
+###Result###
+['Skin']

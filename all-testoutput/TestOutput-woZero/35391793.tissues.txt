@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords "Stereo-seq; alveolarization; development; mouse lung; spatial transcriptome," the term "mouse lung" directly suggests a focus on the lung tissue.
+### Verify ###
+Since there is no abstract available, we rely solely on the Keywords for verification. The term "mouse lung" clearly indicates that the lung tissue is the primary focus of the study.
+### Context ###
+Given the absence of an abstract and the clear indication from the Keywords, there is no need for additional context to verify the result.
+### Conclusion ###
+Based on the Keywords and the provided schema, we can confidently conclude that "Lung" is the appropriate tissue type to extract from the given input.
+### Result ###
+["Lung"]

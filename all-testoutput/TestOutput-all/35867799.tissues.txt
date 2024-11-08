@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "acne," "lipids," "Cutibacterium acnes," "inflammatory response," "macrophages," "single-cell and spatial RNA sequencing," and "back skin." These keywords suggest a focus on skin-related pathology and cellular interactions.
+### Verify ###
+The abstract specifically mentions:
+- "early acne lesions on back skin"
+- "TREM2 macrophages expressing lipid metabolism and proinflammatory gene programs in proximity to hair follicle epithelium"
+- "the addition of squalene induced differentiation of TREM2 macrophages in vitro"
+These points verify that the study is deeply involved in understanding the cellular and molecular mechanisms within the skin, particularly in the context of acne.
+### Context ###
+The abstract clearly indicates that the study is focused on "back skin" and the interactions within the skin tissue, particularly around hair follicles and macrophages. This context strongly suggests that "Skin" is the primary tissue of interest.
+### Conclusion ###
+Given the explicit mention of "back skin" and the focus on skin-related pathology and cellular interactions, "Skin" is the most accurate and directly relevant tissue from the provided schema.
+### Result ###
+['Skin']

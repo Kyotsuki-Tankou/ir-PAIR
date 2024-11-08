@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "primary pancreatic tumors," which suggests that 'Pancreatic cancer' may be a proper result.
+### Verify ###
+The abstract states that the research is focused on "primary pancreatic tumors," which directly verifies the presence of 'Pancreatic cancer'.
+### Context ###
+No additional context is needed as the abstract clearly mentions the type of cancer that is the focus of the study.
+### Conclusion ###
+Based on the explicit mention in the abstract, we conclude that 'Pancreatic cancer' is the appropriate result.
+### Result ###
+['Pancreatic cancer']

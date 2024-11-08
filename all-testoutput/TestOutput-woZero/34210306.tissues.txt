@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "cerebellum," "cerebellar granule neurons," "cerebellar granule cells," and "medulloblastoma" are prominent. These terms suggest that the primary tissue of interest is the "Cerebellum."
+### Verify ###
+The Abstract repeatedly mentions "cerebellum," "cerebellar granule neurons," and "cerebellar granule cells," which directly correspond to the "Cerebellum" in the schema.
+### Context ###
+The study focuses on the development and differentiation of cerebellar granule cells and their relation to medulloblastoma, all of which are centered around the cerebellum. There is no mention of other tissues, making the context clear and unambiguous.
+### Conclusion ###
+Given the consistent and exclusive focus on the cerebellum in both the Abstract and Keywords, it is evident that "Cerebellum" is the appropriate tissue identified in the input.
+### Result ###
+['Cerebellum']

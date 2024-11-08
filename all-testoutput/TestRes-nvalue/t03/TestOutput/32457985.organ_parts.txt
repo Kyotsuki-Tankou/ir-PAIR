@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "aortic microenvironment" and "hematopoietic stem cells" are prominent. This suggests that 'Mouse aorta' and 'Embryo' might be relevant organ parts.
+### Verify ###
+- The abstract mentions "aortic microenvironment," which directly aligns with 'Mouse aorta' from the schema.
+- The abstract also discusses "human embryos," "zebrafish embryos," "chicken embryos," and "mouse embryos," which aligns with 'Embryo' from the schema.
+### Context ###
+- The context of the study involves exploring the molecular characteristics and key components of the aortic microenvironment in various embryos, which further supports the relevance of 'Mouse aorta' and 'Embryo'.
+- The study's focus on the generation of hematopoietic stem cells within the aortic microenvironment across different species reinforces the importance of these organ parts.
+### Conclusion ###
+Given the explicit mention and focus on the "aortic microenvironment" and various types of "embryos," it is conclusive that 'Mouse aorta' and 'Embryo' are the relevant organ parts.
+### Result ###
+['Mouse aorta', 'Embryo']

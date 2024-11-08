@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keyword "single cell RNA-seq" is directly mentioned, indicating that 'RNA-seq' or 'scRNA' may be proper results.
+### Verify ###
+From the Abstract, "by employing large scale single cell transcriptome analysis," and the Keywords section mentioning "single cell RNA-seq," we can verify that 'RNA-seq' and 'scRNA' are indeed used as technologies in the study.
+### Context ###
+The context of "large scale single cell transcriptome analysis" aligns well with the technologies 'RNA-seq' and 'scRNA', confirming their relevance.
+### Conclusion ###
+Consequently, we choose 'RNA-seq' and 'scRNA' as our final results.
+### Result ###
+['RNA-seq', 'scRNA']

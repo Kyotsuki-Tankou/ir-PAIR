@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "gastric cancer" is prominently mentioned, indicating that 'Stomach' may be a proper result.
+### Verify ###
+The abstract specifically mentions "organoid-based model of gastric cancer," "GAN mouse-derived tumor organoids," and "transplantation in syngeneic mouse stomach," which further verifies that 'Stomach' is indeed a relevant tissue type in this context.
+### Context ###
+Given the detailed focus on gastric cancer, the development of gastric tumor organoids, and the transplantation in mouse stomach, there is no need for additional context to confirm the relevance of 'Stomach'.
+### Conclusion ###
+Consequently, we confirm 'Stomach' as the final result based on the clear and consistent focus on gastric cancer and the stomach throughout the abstract.
+### Result ###
+['Stomach']

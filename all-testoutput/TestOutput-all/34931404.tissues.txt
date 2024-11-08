@@ -1,0 +1,8 @@
+###Keywords###
+From the Keywords and Abstract, "gastric cancer" and "GAN mouse-derived tumor" indicate that 'Gastric cancer' may be a proper result.
+###Verify###
+From the Abstract, the phrases "oncogene-induced gastric tumor progression," "GAN mice, which express Wnt1 and the enzymes COX2 and microsomal prostaglandin E synthase 1 in the stomach," and "GAN-KP gastric tumors" directly mention gastric cancer, verifying its relevance.
+###Conclusion###
+Consequently, we confirm 'Gastric cancer' as the final result.
+###Result###
+['Gastric cancer']

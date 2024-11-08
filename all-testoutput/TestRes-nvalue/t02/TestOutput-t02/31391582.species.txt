@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the mention of "mouse embryo" directly indicates the species involved. The keyword here is "mouse."
+###Verify###
+The abstract specifically states "post-implantation development of the mouse embryo," which clearly verifies that the species studied is "Mus musculus."
+###Conclusion###
+Given the clear mention of "mouse" in both the context and the specific methodology, we can confidently conclude that the species involved in the study is "Mus musculus."
+###Result###
+['Mus musculus']

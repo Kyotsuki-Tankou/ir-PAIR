@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the key terms related to species are "primary pancreatic tumors" and "multimodal intersection analysis." The term "primary pancreatic tumors" suggests a focus on a mammalian model, likely a common research model for such studies.
+### Verify ###
+The abstract does not explicitly mention the species used. However, the context of "primary pancreatic tumors" and the general use of such models in research strongly suggests the use of a mammalian species. Among the mammalian species listed in the schema, "Mus musculus" (mouse) is commonly used in biomedical research, particularly for studies involving cancer and tissue analysis.
+### Context ###
+Given the absence of a direct mention of the species, we need to consider the common practice in biomedical research. Studies involving primary pancreatic tumors and single-cell RNA sequencing often utilize mouse models due to their genetic similarities to humans and the availability of well-characterized genetic tools.
+### Conclusion ###
+Based on the context and the common usage of mouse models in similar research, "Mus musculus" is the most appropriate species that matches the described study.
+### Result ###
+['Mus musculus']

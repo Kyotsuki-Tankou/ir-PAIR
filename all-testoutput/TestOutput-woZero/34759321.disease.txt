@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, terms like "metastasis," "oral carcinomas," and "melanoma" indicate the diseases involved.
+### Verify ###
+The abstract mentions:
+- "dietary palmitic acid (PA), but not oleic acid or linoleic acid, promotes metastasis in oral carcinomas and melanoma in mice."
+- "Tumours from mice that were fed a short-term palm-oil-rich diet (PA), or tumour cells that were briefly exposed to PA in vitro, remained highly metastatic."
+These statements verify that the diseases being studied are 'Oral carcinomas' and 'Melanoma'.
+### Conclusion ###
+Since the keywords and the context in the abstract both confirm the diseases, we can conclude that 'Oral carcinomas' and 'Melanoma' are the correct results.
+### Result ###
+['Oral carcinomas', 'Melanoma']

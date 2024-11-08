@@ -1,0 +1,14 @@
+### Keywords ###
+The abstract mentions "digit tip amputation," "digit tip regeneration," and "mouse digit tip blastemas," suggesting a focus on the regeneration of a specific body part. The closest match in the schema would be "Legs," as digits are part of the limbs.
+### Verify ###
+The abstract states:
+- "Innate regeneration following digit tip amputation..."
+- "Digit tip regeneration is mediated by the blastema..."
+- "We present single-cell RNA sequencing of over 38,000 cells from mouse digit tip blastemas..."
+These statements confirm that the study is centered around the regeneration of the digit tips, which are part of the limbs.
+### Context ###
+The context of the study is the regeneration process following the amputation of digit tips in mice. The focus is on the blastema, which is involved in limb regeneration, and the single-cell RNA sequencing of cells from the digit tip blastemas.
+### Conclusion ###
+The abstract clearly discusses the regeneration of digit tips, which are part of the limbs. Therefore, "Legs" is the most appropriate tissue to be extracted according to the schema.
+### Result ###
+['Legs']

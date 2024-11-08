@@ -1,0 +1,13 @@
+###schema###
+technologies:['CITE-seq', 'XYZeq', 'CUT&Tag', 'RNA-seq', 'STARmap', 'DBiT-seq', 'scATAC-seq', 'scRNA', 'EASI-FISH', 'PIC-seq', 'sci-Space', 'sciMAP-ATAC-seq', 'Slide-seqV2', 'Spatial Transcriptomics', 'seqFish', 'seqFISH+', 'Stereo-Seq', '10x Visium', ' RNA-seq', 'scATAC', 'LCM-seq', 'Tomo-seq', 'Proximity RNA-seq', 'sci-ATAC-seq', 'ClampFISH', 'VINE-seq', 'snRNA', 'HDST', 'GeoMx DSP', 'Seq-Scope', 'APEX-seq', 'RNAseq', 'MERFISH', 'ClumpSeq', 'Geo-seq', 'Slide-seq']
+###input###
+ Abstract
+Intra-tumor heterogeneity is one of the biggest challenges in cancer treatment today. Here we investigate tissue-wide gene expression heterogeneity throughout a multifocal prostate cancer using the spatial transcriptomics (ST) technology. Utilizing a novel approach for deconvolution, we analyze the transcriptomes of nearly 6750 tissue regions and extract distinct expression profiles for the different tissue components, such as stroma, normal and PIN glands, immune cells and cancer. We distinguish healthy and diseased areas and thereby provide insight into gene expression changes during the progression of prostate cancer. Compared to pathologist annotations, we delineate the extent of cancer foci more accurately, interestingly without link to histological changes. We identify gene expression gradients in stroma adjacent to tumor regions that allow for re-stratification of the tumor microenvironment. The establishment of these profiles is the first step towards an unbiased view of prostate cancer and can serve as a dictionary for future studies.Let's think step by step.
+###Keywords###
+From the abstract, the term "spatial transcriptomics (ST) technology" directly indicates that 'Spatial Transcriptomics' may be a proper result.
+###Verify###
+The abstract mentions "using the spatial transcriptomics (ST) technology" and "analyze the transcriptomes of nearly 6750 tissue regions," which further verifies that 'Spatial Transcriptomics' is indeed the technology used in the study.
+###Conclusion###
+Consequently, we choose 'Spatial Transcriptomics' as our final result.
+###Result###
+['Spatial Transcriptomics']

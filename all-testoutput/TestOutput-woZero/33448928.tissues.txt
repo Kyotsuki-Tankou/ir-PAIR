@@ -1,0 +1,12 @@
+###Keywords###
+From the abstract, the keywords that stand out are "kidney", "sepsis", "single-cell RNA-sequencing", "murine endotoxemia model", and "cell populations". These keywords suggest a focus on kidney tissue in the context of sepsis and its molecular and cellular responses.
+###Verify###
+The abstract specifically mentions:
+- "we investigated the kidney, an organ central to the pathophysiology of sepsis"
+- "Single-cell RNA-sequencing in a murine endotoxemia model"
+- "various cell populations to be temporally organized and highly orchestrated"
+These points verify that the study is deeply involved in understanding the kidney's role and responses in sepsis.
+###Conclusion###
+Given the clear focus on the kidney tissue in the context of sepsis and the detailed investigation into its cellular and molecular responses, "Kidney" is a precise and appropriate match from the provided schema.
+###Result###
+['Kidney']

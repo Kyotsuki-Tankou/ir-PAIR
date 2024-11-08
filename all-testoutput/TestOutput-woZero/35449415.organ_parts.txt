@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, the terms "infected lymph nodes" and "mouse tumor model" indicate the organ parts involved.
+### Verify ###
+The abstract mentions "a study of infected lymph nodes and of a mouse tumor model," which clearly verifies that the organ parts being studied are 'Lymph nodes' and 'Mouse tumor model'. However, 'Lymph nodes' and 'Mouse tumor model' are not directly listed in the schema. We need to find the closest matches.
+### Context ###
+- "infected lymph nodes" can be broadly categorized under 'Lymphoma' or 'Lymph nodes' if we consider the context of infection and immune response.
+- "mouse tumor model" can be matched to 'MC38 syngeneic tumor' or 'B16F10 syngeneic tumor' as these are common mouse tumor models used in research.
+### Conclusion ###
+Given the context and the closest matches in the schema, we can conclude that 'Lymphoma' and 'MC38 syngeneic tumor' are the most appropriate results.
+### Result ###
+['Lymphoma', 'MC38 syngeneic tumor']

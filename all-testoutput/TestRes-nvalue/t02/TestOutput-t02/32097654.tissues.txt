@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the key terms related to tissues are "digit tip blastema," "mouse digit tip," and "unamputated control digit tips." These terms suggest that the primary tissue of interest is related to the "digit tip" and "blastema."
+### Verify ###
+The abstract explicitly mentions "digit tip blastema" and "mouse digit tip," which indicates that the study focuses on the blastema tissue in the context of digit tip regeneration. The term "blastema" is directly mentioned and is a critical tissue in the context of regeneration.
+### Context ###
+The abstract discusses the regeneration process and the heterogeneity of cells within the blastema. The term "blastema" is used multiple times, emphasizing its central role in the study. Other tissues like "vascular," "monocytic," and "fibroblastic" are mentioned in the context of cell lineages but are not the primary focus of the tissue analysis.
+### Conclusion ###
+Based on the repeated and explicit mention of "blastema" and its central role in the study, we can conclude that "Blastema" is the primary tissue of interest.
+### Result ###
+['Blastema']

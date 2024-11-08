@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the primary focus is on "intestinal epithelium," "small intestine," "colon," and "tuft cells." The terms "ileal inflammation" and "colonic tumourigenesis" suggest specific parts of the intestine are involved.
+### Verify ###
+The abstract explicitly mentions "small intestine" and "colon," which are specific parts of the intestine. Additionally, "ileal inflammation" refers to the ileum, a part of the small intestine.
+### Context ###
+The context of the study revolves around the intestinal epithelium, particularly focusing on tuft cells in the small intestine and colon. The mention of "ileal inflammation" further specifies the involvement of the ileum.
+### Conclusion ###
+Based on the explicit mentions and the context, we can confirm that the relevant organ parts are 'Small intestine' and 'Colon'. The ileum is a part of the small intestine, so it is encompassed within 'Small intestine'.
+### Result ###
+['Small intestine', 'Colon']

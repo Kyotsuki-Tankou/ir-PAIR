@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the keyword "mouse brain" directly indicates the species involved, which is 'Mus musculus'.
+### Verify ###
+The abstract mentions "embryonic mouse brain" and "almost eight hundred cellular states that describe a developmental program for the functional elements of the brain," which further confirms that the species being studied is indeed 'Mus musculus'.
+### Conclusion ###
+Since both the keyword and the context in the abstract consistently point to 'Mus musculus', we can confidently conclude that 'Mus musculus' is the correct species.
+### Result ###
+['Mus musculus']

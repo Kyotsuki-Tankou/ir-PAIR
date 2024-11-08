@@ -1,0 +1,20 @@
+### Keywords
+- Olink proteomics
+- Atopic dermatitis
+- Single-cell RNA sequencing
+- Suction blistering
+### Verify
+- **Olink proteomics**: Mentioned in the context of proteomic analyses.
+- **Atopic dermatitis (AD)**: Central focus of the study.
+- **Single-cell RNA sequencing**: Used to compare transcriptional profiles.
+- **Suction blistering**: Method used for sampling skin cells and interstitial fluid.
+### Context
+- The study compares suction blistering with conventional biopsies.
+- Single-cell RNA sequencing is used to analyze transcriptional profiles.
+- Proteomic analyses are performed using Olink proteomics.
+### Conclusion
+- All keywords are contextually relevant and accurately extracted.
+### Result
+```json
+["Olink proteomics", "Atopic dermatitis", "Single-cell RNA sequencing", "Suction blistering"]
+```

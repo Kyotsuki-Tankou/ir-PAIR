@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the term "mouse embryo" directly indicates the tissue 'Embryo'. Additionally, the mention of "subcellular and subnuclear microstructures (stress granules and nuclear speckles)" suggests 'Stress granules' as another relevant tissue.
+### Verify ###
+- The abstract explicitly mentions "mouse embryo," which directly corresponds to the tissue 'Embryo'.
+- The term "stress granules" is explicitly mentioned, aligning with the tissue 'Stress granules'.
+### Context ###
+- The study focuses on "expression profiling in spatially defined regions" and "photo-irradiated regions of interest," which are primarily discussed in the context of the mouse embryo.
+- The application of PIC transcriptome analysis to "subcellular and subnuclear microstructures" further emphasizes the relevance of 'Stress granules'.
+### Conclusion ###
+Given the explicit mentions and the contextual focus, we can confidently conclude that 'Embryo' and 'Stress granules' are the relevant tissues.
+### Result ###
+['Embryo', 'Stress granules']

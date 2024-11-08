@@ -1,0 +1,12 @@
+### Keywords ###
+From the "Abstract," the terms "human brain vasculature," "hippocampus and cortex samples," and "Alzheimer's disease" suggest that 'Brain,' 'Cortex,' and potentially 'Alzheimer disease' could be relevant.
+### Verify ###
+- The abstract mentions "human brain vasculature" and "hippocampus and cortex samples," which directly indicate the involvement of 'Brain' and 'Cortex.'
+- The term "Alzheimer's disease" is explicitly mentioned, which corresponds to 'Alzheimer disease' in the schema.
+### Context ###
+- The study focuses on the "human brain vasculature" and specifically mentions "hippocampus and cortex samples," which strongly supports the inclusion of 'Brain' and 'Cortex.'
+- The mention of "Alzheimer's disease" and its association with the brain vasculature further reinforces the relevance of 'Alzheimer disease.'
+### Conclusion ###
+Given the clear and direct mentions of 'Brain,' 'Cortex,' and 'Alzheimer's disease' in the abstract, we can confidently conclude that these terms are appropriate to extract.
+### Result ###
+['Brain', 'Cortex', 'Alzheimer disease']

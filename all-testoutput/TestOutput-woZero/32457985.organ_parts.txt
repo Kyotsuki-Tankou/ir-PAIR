@@ -1,0 +1,13 @@
+###Keywords###
+From the abstract, the key terms are "aortic microenvironment," "hematopoietic stem cells," "embryos," "genome-wide RNA tomography sequencing," and "interspecies comparative RNA sequencing analyses."
+###Verify###
+- "aortic microenvironment" suggests a focus on the aorta, which could relate to 'Mouse aorta' or 'Human cell lines' if considering the species mentioned.
+- "hematopoietic stem cells" and "embryos" indicate a focus on developmental biology, which might relate to 'Embryo' or 'Mouse Embryo.'
+- "genome-wide RNA tomography sequencing" and "interspecies comparative RNA sequencing analyses" imply a broad biological context without specifying a particular organ part in detail.
+###Context###
+- The abstract mentions "zebrafish, chicken, mouse, and human embryos," indicating a broad study across multiple species and developmental stages.
+- "The resulting anterior-posterior and dorsal-ventral transcriptional maps provided a powerful resource for exploring genes and regulatory pathways active in the aortic microenvironment." This suggests a detailed study of the aortic region in embryos.
+###Conclusion###
+Given the focus on the aortic microenvironment and the mention of multiple species including mouse and human, 'Mouse aorta' and 'Human cell lines' are the most relevant matches. 'Embryo' and 'Mouse Embryo' are also relevant due to the developmental context.
+###Result###
+['Mouse aorta', 'Human cell lines', 'Embryo', 'Mouse Embryo']

@@ -1,0 +1,8 @@
+### Keywords ###
+The keyword from the input that corresponds to the schema is "atopic dermatitis."
+### Verify ###
+The abstract mentions "Atopic dermatitis (AD)" as the subject of the study, verifying that it is the correct organ part to extract according to the schema.
+### Conclusion ###
+Since the keyword matches the organ part mentioned in the abstract, we can conclude that "Atopic dermatitis" is the appropriate result.
+### Result ###
+['Atopic dermatitis']

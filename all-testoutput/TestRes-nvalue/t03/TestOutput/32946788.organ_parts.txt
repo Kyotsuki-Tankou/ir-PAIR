@@ -1,0 +1,11 @@
+###Keywords###
+From the abstract and keywords, "HSC," "AGM region," "embryo," and "endothelin" suggest that 'Embryo' might be a relevant organ part, as well as 'Aorta' if it is considered an organ part in this context.
+###Verify###
+- The abstract mentions the "embryonic aorta-gonad-mesonephros (AGM) region," which corresponds to 'Embryo'.
+- The abstract also discusses "dorsoventral polarized signaling in the aorta," suggesting 'Aorta' could be relevant.
+###Context###
+The context does not provide additional organ parts. It mainly discusses signaling and the development of HSCs within the AGM region, which is a part of the embryo.
+###Conclusion###
+Given the context and the specific mention of the embryo and aorta in relation to HSC development, 'Embryo' and 'Aorta' seem to be the most relevant organ parts mentioned in the study.
+###Result###
+['Embryo', 'Aorta']

@@ -1,0 +1,12 @@
+###Keywords###
+From the abstract, the keyword "Spatial Transcriptomics (ST)" directly matches an item in the schema. Other terms like "transcriptomic profiles," "differential gene expression analysis (DEA)," and "immune cell type identification" suggest a focus on advanced molecular techniques but do not directly match other items in the schema.
+###Verify###
+- "using Spatial Transcriptomics (ST) as a proof of principle approach" clearly indicates the use of Spatial Transcriptomics.
+- No other technologies from the schema are explicitly mentioned in the abstract.
+###Context###
+- The abstract discusses the application of Spatial Transcriptomics to analyze synovial biopsies from rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients.
+- The focus is on using ST to understand cellular mechanisms and diversity in tissues from chronic inflammatory diseases.
+###Conclusion###
+Given the explicit mention of "Spatial Transcriptomics (ST)" and the context of its application, it is clear that 'Spatial Transcriptomics' is the relevant technology used in this study.
+###Result###
+['Spatial Transcriptomics']

@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the keywords "post-implantation development," "mouse embryo," "epiblast," "germ layers," "gastrulation," and "pluripotent state" are relevant to the study's focus on early embryonic development.
+###Verify###
+The abstract directly states that the study reports on "a spatially resolved transcriptome of cell populations at defined positions in the germ layers during development from pre- to late-gastrulation stages." This directly corresponds to the term "Germ layers" in the schema.
+###Conclusion###
+Given the context of the abstract, which is focused on the development and spatial resolution of cell populations during gastrulation, the term "Germ layers" is an appropriate match from the provided schema.
+###Result###
+["Germ layers"]

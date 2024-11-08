@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "spatial transcriptomics" and "single-cell RNA-seq" are explicitly mentioned, indicating that 'Spatial Transcriptomics' and 'scRNA' may be proper results.
+### Verify ###
+The abstract states, "Here, we performed the spatial transcriptomics and single-cell RNA-seq assays to determine local gene expression profiles at the embryo implantation site of the mouse uterus on pregnancy day 7.5 (D7.5)," which directly verifies the use of both 'Spatial Transcriptomics' and 'scRNA' technologies.
+### Context ###
+The context of the study involves detailed analysis of gene expression profiles using both spatial transcriptomics and single-cell RNA-seq, further reinforcing the use of these technologies.
+### Conclusion ###
+Since the terms 'Spatial Transcriptomics' and 'scRNA' are both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that both 'Spatial Transcriptomics' and 'scRNA' are the appropriate technologies used.
+### Result ###
+['Spatial Transcriptomics', 'scRNA']

@@ -1,0 +1,10 @@
+###Keywords###
+The keywords "APEX-seq", "direct proximity labeling of RNA", "human transcriptome", and "nanometer-resolution spatial map" suggest a focus on RNA sequencing and spatial mapping of the transcriptome in human cells.
+###Verify###
+The abstract explicitly mentions "a method for RNA sequencing based on direct proximity labeling of RNA using the peroxidase enzyme APEX2," indicating the development of a new RNA sequencing method. It also states that "APEX-seq in nine distinct subcellular locales produced a nanometer-resolution spatial map of the human transcriptome," which confirms the application of the method to map the human transcriptome.
+###Context###
+The context involves the spatial mapping of the human transcriptome, which is a complex biological process that typically involves specific cell types or organelles. The schema includes several cell types and organelles, such as "Main olfactory bulb", "Human cell lines", "Hypothalamus", "Olfactory bulb", and "Microglia", which could be relevant to the study of the transcriptome.
+###Conclusion###
+Given the focus on mapping the human transcriptome using APEX-seq, it is reasonable to associate this with the "Human cell lines" in the schema, as the method is applied to human cells in various subcellular locales.
+###Result###
+['Human cell lines']

@@ -1,0 +1,8 @@
+###Keywords###
+The abstract discusses "primary pancreatic tumors" and mentions "ductal cells, macrophages, dendritic cells, and cancer cells," which suggest that the disease associated with the schema could be 'Pancreatic Cancer'.
+###Verify###
+The term "primary pancreatic tumors" is directly linked to 'Pancreatic Cancer' in the schema, and the description of cell types within the tumor aligns with the disease category.
+###Conclusion###
+Based on the explicit mention of "primary pancreatic tumors" in the abstract and the alignment with the schema, we conclude that 'Pancreatic Cancer' is the correct disease.
+###Result###
+['Pancreatic Cancer']

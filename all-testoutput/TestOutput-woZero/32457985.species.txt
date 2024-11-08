@@ -1,0 +1,12 @@
+###Keywords###
+From the abstract, the species mentioned are "zebrafish", "chicken", "mouse", and "human". These correspond to known scientific names in the schema.
+###Verify###
+- "zebrafish" corresponds to "Danio rerio"
+- "chicken" corresponds to "Gallus gallus"
+- "mouse" corresponds to "Mus musculus"
+- "human" corresponds to "Homo sapiens"
+These matches verify the presence of these species in the study.
+###Conclusion###
+The species involved in the study are clearly identified and match the schema provided.
+###Result###
+['Danio rerio', 'Gallus gallus', 'Mus musculus', 'Homo sapiens']

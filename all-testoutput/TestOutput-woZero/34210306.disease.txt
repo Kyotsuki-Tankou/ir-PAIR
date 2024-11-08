@@ -1,0 +1,16 @@
+### Keywords ###
+- Cerebellum
+- Development of granule cells
+- Differentiated granule neurons
+- Granule neuron progenitors
+- SHH medulloblastoma
+- Single-cell RNA sequencing
+- Spatial transcriptomics
+### Verify ###
+The abstract mentions "SHH medulloblastoma" directly, which is a type of brain tumor. This term clearly indicates a disease-related context.
+### Context ###
+The study focuses on the development of cerebellar granule cells and their comparison with medulloblastoma cells. The mention of "SHH medulloblastoma" and the comparison between normal development and tumorigenesis provide a strong context for disease-related research.
+### Conclusion ###
+Given the explicit mention of "SHH medulloblastoma" and the study's focus on understanding the pathogenesis of medulloblastoma, it is clear that the disease being studied is medulloblastoma.
+### Result ###
+["SHH medulloblastoma"]

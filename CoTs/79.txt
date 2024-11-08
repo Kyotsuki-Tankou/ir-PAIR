@@ -1,0 +1,16 @@
+###schema###
+technologies:['CITE-seq', 'XYZeq', 'CUT&Tag', 'RNA-seq', 'STARmap', 'DBiT-seq', 'scATAC-seq', 'scRNA', 'EASI-FISH', 'PIC-seq', 'sci-Space', 'sciMAP-ATAC-seq', 'Slide-seqV2', 'Spatial Transcriptomics', 'seqFish', 'seqFISH+', 'Stereo-Seq', '10x Visium', ' RNA-seq', 'scATAC', 'LCM-seq', 'Tomo-seq', 'Proximity RNA-seq', 'sci-ATAC-seq', 'ClampFISH', 'VINE-seq', 'snRNA', 'HDST', 'GeoMx DSP', 'Seq-Scope', 'APEX-seq', 'RNAseq', 'MERFISH', 'ClumpSeq', 'Geo-seq', 'Slide-seq']
+###input###
+ Abstract
+Tumor-infiltrating myeloid cells (TIMs) comprise monocytes, macrophages, dendritic cells, and neutrophils, and have emerged as key regulators of cancer growth. These cells can diversify into a spectrum of states, which might promote or limit tumor outgrowth but remain poorly understood. Here, we used single-cell RNA sequencing (scRNA-seq) to map TIMs in non-small-cell lung cancer patients. We uncovered 25 TIM states, most of which were reproducibly found across patients. To facilitate translational research of these populations, we also profiled TIMs in mice. In comparing TIMs across species, we identified a near-complete congruence of population structures among dendritic cells and monocytes; conserved neutrophil subsets; and species differences among macrophages. By contrast, myeloid cell population structures in patients' blood showed limited overlap with those of TIMs. This study determines the lung TIM landscape and sets the stage for future investigations into the potential of TIMs as immunotherapy targets. 
+ Keywords:dendritic cell heterogeneity; macrophage heterogeneity; mouse-human comparison; myeloid cells; neutrophil heterogeneity; single-cell analysis; tumor immunology; tumor microenvironment.Let's think step by step.
+### Keywords ###
+From "single-cell RNA sequencing (scRNA-seq)" in the Abstract and "single-cell analysis" in the Keywords, it indicates that 'scRNA' may be a proper result.
+### Verify ###
+From "we used single-cell RNA sequencing (scRNA-seq) to map TIMs in non-small-cell lung cancer patients" in the Abstract, we can further verify that 'scRNA' is indeed a proper result.
+### Context ###
+Not required in this case as the verification directly supports the result without ambiguity.
+### Conclusion ###
+Consequently, we confirm 'scRNA' as our final result.
+### Result ###
+['scRNA']

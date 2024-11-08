@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Eye"]
+["Adenoid cystic carcinoma of lacrimal gland"]
+["scRNA"]
+["Normal atlas"]
+ Abstract\nThe lacrimal gland is essential for lubrication and protection of the eye. Disruption of lacrimal fluid production, composition, or release results in dry eye, causing discomfort and damage to the ocular surface. Here, we describe the establishment of long-term 3D organoid culture conditions for mouse and human lacrimal gland. Organoids can be expanded over multiple months and recapitulate morphological and transcriptional features of lacrimal ducts. CRISPR-Cas9-mediated genome editing reveals the master regulator for eye development Pax6 to be required for differentiation of adult lacrimal gland cells. We address cellular heterogeneity of the lacrimal gland by providing a single-cell atlas of human lacrimal gland tissue and organoids. Finally, human lacrimal gland organoids phenocopy the process of tear secretion in response to neurotransmitters and can engraft and produce mature tear products upon orthotopic transplantation in mouse. Together, this study provides an experimental platform to study the (patho-)physiology of the lacrimal gland. \n Keywords:adult stem cells; lacrimal gland; organoids; regeneration; single-cell sequencing; swelling assay; tear gland; tear secretion; transplantation.

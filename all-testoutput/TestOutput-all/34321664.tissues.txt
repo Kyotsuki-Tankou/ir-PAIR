@@ -1,0 +1,13 @@
+### Keywords ###
+From the "Abstract," the terms "mammalian brain," "embryonic mouse brain," "neuroepithelium," "nervous system," and "brain development" are prominent. These suggest that 'Brain,' 'Embryo,' and potentially 'Neuron' and 'Cortex' could be relevant.
+### Verify ###
+- "mammalian brain" and "embryonic mouse brain" directly point to 'Brain' and 'Embryo.'
+- "neuroepithelium" and "nervous system" suggest a focus on neural components, supporting 'Neuron.'
+- "brain development" and "region-specific secondary organizers" imply a focus on the brain's structure, which could include the 'Cortex.'
+### Context ###
+- The abstract discusses "a comprehensive single-cell transcriptomic atlas of the embryonic mouse brain," indicating a detailed study of the brain during development.
+- The mention of "early neuroepithelium, region-specific secondary organizers, and both neurogenic and gliogenic progenitors" further emphasizes the focus on neural development, particularly in the brain.
+### Conclusion ###
+Given the strong contextual evidence pointing to the study's focus on the brain, particularly during embryonic development, and the involvement of neural components, we can conclude that 'Brain,' 'Embryo,' 'Neuron,' and 'Cortex' are suitable terms to extract.
+### Result ###
+['Brain', 'Embryo', 'Neuron', 'Cortex']

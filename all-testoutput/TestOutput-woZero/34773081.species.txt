@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the term "mouse skeletal muscle" indicates that 'Mus musculus' (mouse) is likely involved in the study.
+### Verify ###
+The Abstract explicitly mentions "mouse skeletal muscle" multiple times, confirming the use of mice in the study.
+### Context ###
+Not required in this case as the Keywords and Verify steps align well and provide sufficient evidence.
+### Conclusion ###
+Consequently, we choose 'Mus musculus' as our final result.
+### Result ###
+['Mus musculus']

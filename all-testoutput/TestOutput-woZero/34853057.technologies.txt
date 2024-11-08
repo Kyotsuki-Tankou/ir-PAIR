@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "transcriptomic approaches" suggests the use of technologies related to transcriptomics. The most relevant technology from the schema that aligns with this term is 'RNA-seq'.
+### Verify ###
+The Abstract mentions "transcriptomic approaches" which typically involves RNA sequencing technologies. This provides direct evidence that 'RNA-seq' is likely the correct technology used in the study.
+### Context ###
+Not required in this case as the keywords and the abstract content directly align with the schema.
+### Conclusion ###
+Based on the clear mention of "transcriptomic approaches" and the nature of the study, we can conclude that 'RNA-seq' is the appropriate technology to be extracted.
+### Result ###
+['RNA-seq']

@@ -1,0 +1,12 @@
+###Keywords###
+From the abstract, the terms "intracranial hemorrhage," "heme-exposed brain," and "striatum of C57BL/6J mice" indicate that 'Brain' may be a proper result.
+###Verify###
+The abstract mentions:
+- "This study aimed to generate a spatially resolved map of transcriptome-wide gene expression changes in the heme-exposed brain"
+- "We stereotactically injected saline, heme, or heme‒hemopexin into the striatum of C57BL/6J mice"
+- "Heme exerted a consistent and dose-dependent proinflammatory activity in the brain"
+These points further verify that 'Brain' is indeed the tissue studied in the experiment.
+###Conclusion###
+Consequently, we choose 'Brain' as our final result.
+###Result###
+['Brain']

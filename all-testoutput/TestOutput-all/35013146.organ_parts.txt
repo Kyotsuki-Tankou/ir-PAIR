@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the key terms related to organ parts are "prostate biopsies," "prostatectomy specimens," and "prostate epithelial organoids." These terms directly relate to the prostate and its components.
+### Verify ###
+The phrases "prostate biopsies," "prostatectomy specimens," and "prostate epithelial organoids" explicitly mention "prostate," which is a clear indication of the organ part involved. Additionally, "prostate epithelial organoids" directly matches one of the items in the schema.
+### Conclusion ###
+Given the clear and direct mentions of "prostate" and "prostate epithelial organoids" in the abstract, we can confidently conclude that "Prostate epithelial organoids" is the correct organ part to be extracted.
+### Result ###
+['Prostate epithelial organoids']

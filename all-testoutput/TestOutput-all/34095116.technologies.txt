@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "single-cell RNA sequencing" and "Spatial Transcriptomics (ST) technology" are prominently mentioned, indicating that these technologies are relevant to the study.
+### Verify ###
+The abstract specifically states, "Here, we combine the advantages of single-cell RNA sequencing and Spatial Transcriptomics (ST) technology for unbiased analysis of fetal livers." This directly verifies that both 'single-cell RNA sequencing' and 'Spatial Transcriptomics' are indeed the technologies used in this study.
+### Context ###
+The context of the abstract focuses on the combination of these two technologies to analyze fetal livers, providing a clear and direct mention of their application. There is no ambiguity or need for additional context to confirm their relevance.
+### Conclusion ###
+Based on the clear and consistent mention of both 'single-cell RNA sequencing' and 'Spatial Transcriptomics' in the abstract, we can confidently conclude that these are the relevant technologies.
+### Result ###
+['single-cell RNA sequencing', 'Spatial Transcriptomics']

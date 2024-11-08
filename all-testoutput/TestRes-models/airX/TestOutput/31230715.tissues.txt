@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the mention of "human transcriptome" suggests that 'Human cell lines' might be a proper result.
+### Verify ###
+The Abstract explicitly states "human transcriptome," which verifies that the study involves human cells, thus supporting 'Human cell lines' as a proper result.
+### Context ###
+Not required in this case as the verification directly supports the keyword.
+### Conclusion ###
+Consequently, we confirm 'Human cell lines' as our final result.
+### Result ###
+['Human cell lines']

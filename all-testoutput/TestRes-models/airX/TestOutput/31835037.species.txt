@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "human embryonic cardiac cell types" and the keywords "human development" suggest that 'Homo sapiens' may be the proper result.
+### Verify ###
+The abstract mentions "human embryonic cardiac cell types" and "the human developing heart," which directly verifies that the study is focused on humans, supporting 'Homo sapiens' as the correct species.
+### Conclusion ###
+Since both the keywords and the context in the abstract clearly indicate 'Homo sapiens', we can confidently conclude that 'Homo sapiens' is the species involved in this study.
+### Result ###
+['Homo sapiens']

@@ -1,0 +1,10 @@
+###Keywords###
+The keywords from the abstract that are relevant to the schema include "uterine dysfunctions," "fertility disorders," "pregnancy complications," "uterine microenvironments," "embryo implantation," and "pregnancy progression." These keywords suggest a focus on reproductive health and development.
+###Verify###
+The abstract mentions "uterine dysfunctions" and "pregnancy complications," which could be related to diseases of the reproductive system. However, it primarily focuses on the "normal uterine functions at pregnancy" and the "normal pregnancy progression," indicating a study of normal reproductive processes rather than a specific disease.
+###Context###
+The context provided in the abstract is centered around understanding the normal physiological processes that occur during pregnancy, specifically at the embryo implantation site. It discusses the spatial transcriptomics and single-cell RNA-seq assays to determine local gene expression profiles in the mouse uterus during pregnancy.
+###Conclusion###
+Given the focus on normal pregnancy progression and the detailed mapping of uterine microenvironments, the study does not seem to be investigating a specific disease from the provided schema. The closest match would be "Normal," as it reflects the study's emphasis on normal physiological functions.
+###Result###
+["Normal"]

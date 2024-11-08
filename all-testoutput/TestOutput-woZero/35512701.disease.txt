@@ -1,0 +1,10 @@
+### Keywords ###
+The keywords "embryonic development" and "zebrafish" from the abstract suggest that diseases related to embryo development might be relevant.
+### Verify ###
+The abstract specifically mentions "zebrafish embryo sections" and "spatially resolved developmental trajectories of cell-fate transitions and molecular changes during zebrafish embryogenesis," which directly relate to embryo development.
+### Context ###
+The abstract focuses on the early stages of zebrafish embryo development, providing detailed insights into the spatial and temporal dynamics of gene expression and cell-fate decisions. This context strongly supports the relevance of "Embryo development" from the schema.
+### Conclusion ###
+Given the clear and consistent focus on zebrafish embryo development throughout the abstract, we can conclusively choose "Embryo development" as the relevant disease from the schema.
+### Result ###
+['Embryo development']

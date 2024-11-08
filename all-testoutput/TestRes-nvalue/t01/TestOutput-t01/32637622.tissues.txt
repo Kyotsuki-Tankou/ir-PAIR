@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, keywords include "brain maps," "adult mouse brain," "spatial transcriptomics," "neuroanatomical organization," "isocortex," "hippocampus," "striatum," and "molecular atlas."
+###Verify###
+The abstract mentions "generate a systematic classification of the adult mouse brain" and "established a molecular atlas to formally define the spatial organization of brain regions." This aligns with the concept of a "Brain" tissue.
+###Context###
+The study focuses on the spatial organization and molecular classification of the adult mouse brain, emphasizing regions like isocortex and hippocampus. This context further supports the idea that the study is centered around the "Brain" tissue rather than other tissues listed in the schema.
+###Conclusion###
+Given the clear focus on the adult mouse brain and its spatial organization, "Brain" is the most appropriate match from the provided schema.
+###Result###
+["Brain"]

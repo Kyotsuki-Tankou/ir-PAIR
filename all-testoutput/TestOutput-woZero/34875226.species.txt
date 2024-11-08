@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, the keyword "brain" suggests the species involved, which is likely 'Homo sapiens' given the context of brain anatomy and function typically studied in humans.
+### Verify ###
+The abstract mentions:
+- "brain tissue"
+- "spatio-molecular domains that generalize across brains"
+- "lateral hypothalamic area (LHA), a brain region with poorly defined anatomical organization"
+These points suggest that the study is focused on human brain tissue and its organization, further supporting 'Homo sapiens' as the species.
+### Context ###
+While the abstract does not explicitly state the species, the focus on brain anatomy and function, particularly in the context of human brain regions like the lateral hypothalamus, strongly implies that the species is 'Homo sapiens'.
+### Conclusion ###
+Given the context and the specific focus on human brain regions and anatomy, 'Homo sapiens' is the most appropriate species to match the study.
+### Result ###
+['Homo sapiens']

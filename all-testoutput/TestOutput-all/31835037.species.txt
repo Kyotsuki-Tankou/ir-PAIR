@@ -1,0 +1,8 @@
+### Keywords ###
+From the Keywords "gene expression; heart development; human development; human developmental cell atlas; in situ sequencing; single-cell RNA-sequencing; spatial transcriptomics; spatially resolved transcriptomics," the term "human" is prominently mentioned, indicating that 'Homo sapiens' may be the relevant species.
+### Verify ###
+The Abstract specifically mentions "humans" and "human embryonic cardiac cell types," which directly verifies that 'Homo sapiens' is indeed the relevant species in this context.
+### Conclusion ###
+Consequently, we choose 'Homo sapiens' as our final result.
+### Result ###
+['Homo sapiens']

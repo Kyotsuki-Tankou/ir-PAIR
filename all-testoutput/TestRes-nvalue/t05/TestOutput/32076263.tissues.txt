@@ -1,0 +1,10 @@
+###Keywords###
+The input mentions "gastruloids," which are aggregates of embryonic stem cells, suggesting that 'Embryo' may be a proper result. Additionally, the term "three-dimensional aggregates" could potentially relate to 'Tumor' due to the three-dimensional growth pattern of tumors, but this seems less likely given the context of embryonic development.
+###Verify###
+The abstract states that gastruloids "display key features of mammalian development after implantation," indicating that they are used as a model to study embryonic development. This aligns with the 'Embryo' tissue type. The mention of "mouse embryos" further verifies the focus on embryonic development.
+###Context###
+The abstract provides a clear context of using gastruloids to study embryonic development, with comparisons to actual mouse embryos. This context supports the conclusion that 'Embryo' is the correct tissue type.
+###Conclusion###
+Based on the context and verification steps, we conclude that 'Embryo' is the appropriate tissue type for the given input.
+###Result###
+['Embryo']

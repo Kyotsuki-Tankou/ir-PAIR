@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the keywords "cardiac morphogenesis," "organ-wide orchestration of gene expression," "single-cell spatial resolution," "spatial transcriptomics," and "human embryonic heart" suggest a focus on the development of the heart in humans. This indicates that the organ part 'Heart' and possibly 'Whole Bladder Nuclear' could be relevant due to the mention of 'organ-wide' and 'embryonic cardiac cell types'.
+### Verify ###
+The abstract mentions "the process of cardiac morphogenesis in humans" and "the embryonic heart at three developmental stages," which confirms that 'Heart' is a correct result based on the provided schema. There is no mention of 'Whole Bladder Nuclear' in the context of the study's focus on cardiac development.
+### Conclusion ###
+Since the abstract explicitly discusses the study of the human embryonic heart and its development, we can conclude that 'Heart' is the correct result.
+### Result ###
+['Heart']

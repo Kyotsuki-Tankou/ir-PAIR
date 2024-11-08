@@ -1,0 +1,10 @@
+###Keywords###
+The abstract mentions "adult mouse brain" and "whole-brain spatial transcriptomics," indicating that 'Mus musculus' (mouse) may be the species used in the study.
+###Verify###
+The abstract states, "We aimed to generate a systematic classification of the adult mouse brain," which directly verifies the use of 'Mus musculus' (mouse) as the species.
+###Context###
+No additional context is needed as the abstract explicitly states the species being used in the study.
+###Conclusion###
+Consequently, based on the explicit mention in the abstract, we choose 'Mus musculus' as our final result.
+###Result###
+['Mus musculus']

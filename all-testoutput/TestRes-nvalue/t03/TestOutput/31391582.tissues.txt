@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "mouse embryo," "germ layers," "gastrulation," and "tissue architecture." These terms suggest a focus on embryonic tissues and developmental stages.
+### Verify ###
+In the abstract, phrases like "post-implantation development of the mouse embryo," "germ layers are formed," and "during gastrulation" further verify that the study is centered around embryonic tissues, particularly during early developmental stages.
+### Context ###
+The abstract consistently mentions "embryo," "germ layers," and "gastrulation," which are directly related to embryonic development. The schema includes terms like "Embryo" and "Gastrula," which are directly relevant to the context provided.
+### Conclusion ###
+Based on the clear and direct references to "mouse embryo," "germ layers," and "gastrulation," we can conclude that 'Embryo' and 'Gastrula' are the relevant tissues corresponding to the schema.
+### Result ###
+['Embryo', 'Gastrula']

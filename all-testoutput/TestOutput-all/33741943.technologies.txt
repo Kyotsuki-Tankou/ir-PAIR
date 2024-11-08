@@ -1,0 +1,9 @@
+### Keywords ###
+From the phrases "single-cell RNA sequencing" and "spatial transcriptomics" in the Abstract, it indicates that 'scRNA' and 'Spatial Transcriptomics' may be proper results.
+### Verify ###
+- From "Single-cell RNA sequencing is a powerful tool" in the Abstract, we can verify that 'scRNA' is indeed a proper result.
+- From "combine single-cell and spatial transcriptomics" in the Abstract, we can further verify that 'Spatial Transcriptomics' is also a proper result.
+### Conclusion ###
+Consequently, we choose 'scRNA' and 'Spatial Transcriptomics' as our final results.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

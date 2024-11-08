@@ -1,0 +1,16 @@
+### Keywords ###
+From the abstract, the terms "mouse brain," "kidney," and "ductal carcinoma in situ tissues" are prominent, indicating potential organ parts such as 'Brain,' 'Kidney,' and 'Breast Cancer.'
+### Verify ###
+The abstract mentions:
+- "mouse brain and kidney datasets"
+- "two ductal carcinoma in situ tissues"
+These mentions directly verify the presence of 'Brain,' 'Kidney,' and 'Breast Cancer' as the organ parts involved in the study.
+### Context ###
+The context is clear as the abstract explicitly states the tissues analyzed:
+- Mouse brain and kidney for benchmarking CellTrek.
+- Ductal carcinoma in situ tissues for applying CellTrek to identify tumor subclones.
+There is no ambiguity in the context that would require further clarification.
+### Conclusion ###
+Based on the clear and direct mentions in the abstract, we can conclusively verify 'Brain,' 'Kidney,' and 'Breast Cancer' as the organ parts involved.
+### Result ###
+['Brain', 'Kidney', 'Breast Cancer']

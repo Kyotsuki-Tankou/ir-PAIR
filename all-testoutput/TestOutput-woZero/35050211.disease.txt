@@ -1,0 +1,12 @@
+### Keywords ###
+From the "neonatal mammalian heart" and "heart repair after apical resection in neonatal mice" in the Abstract, it suggests that 'Heart development', 'Heart regeneration', and 'Heart failure' may be relevant results.
+### Verify ###
+1. **Heart development**: The Abstract mentions "postnatal heart maturation" and "dynamic phenotypic alterations during postnatal heart maturation," which aligns with 'Heart development'.
+2. **Heart regeneration**: The Abstract discusses "regenerative potential," "fibrotic scar resolution," and "generation of new cardiomyocytes," which directly relate to 'Heart regeneration'.
+3. **Heart failure**: While the Abstract focuses on regeneration and repair, it does not explicitly mention 'Heart failure'.
+### Context ###
+The context of the study is primarily about the regenerative capabilities of the neonatal heart and the mechanisms involved in heart repair. There is no direct mention of heart failure as a disease state being studied.
+### Conclusion ###
+Based on the verification and context, 'Heart development' and 'Heart regeneration' are the most relevant diseases corresponding to the schema. 'Heart failure' is not directly supported by the context.
+### Result ###
+['Heart development', 'Heart regeneration']

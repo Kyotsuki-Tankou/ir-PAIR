@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "spatial transcriptomics" is prominently mentioned, indicating that it is a key technology used in the study.
+### Verify ###
+The abstract specifically mentions "using spatial transcriptomics to characterize the transcriptional profile" and "applied spatial transcriptomics to an aging model," which directly verifies that 'Spatial Transcriptomics' is indeed a relevant technology in this context.
+### Conclusion ###
+Consequently, we choose 'Spatial Transcriptomics' as our final result.
+### Result ###
+['Spatial Transcriptomics']

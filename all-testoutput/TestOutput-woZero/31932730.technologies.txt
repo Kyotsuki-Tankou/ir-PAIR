@@ -1,0 +1,9 @@
+### Keywords ###
+From the abstract, the key technologies mentioned are "single-cell RNA sequencing (scRNA-seq)" and "spatial transcriptomics."
+### Verify ###
+- **scRNA-seq**: The abstract explicitly mentions "single-cell RNA sequencing (scRNA-seq)" multiple times, confirming its use.
+- **Spatial Transcriptomics**: The abstract describes a method that "reveals spatial patterns of gene expression using an array of spots," which aligns with the definition of spatial transcriptomics.
+### Conclusion ###
+Both "scRNA-seq" and "Spatial Transcriptomics" are clearly mentioned and used in the study, making them appropriate matches from the provided schema.
+### Result ###
+["scRNA-seq", "Spatial Transcriptomics"]

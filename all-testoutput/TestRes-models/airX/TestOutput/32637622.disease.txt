@@ -1,0 +1,8 @@
+###Keywords###
+From the "Brain maps" in the Abstract, it indicates that 'Brain development' may be a proper result.
+###Verify###
+From "We aimed to generate a systematic classification of the adult mouse brain based purely on the unbiased identification of spatially defining features" and "the molecular information was sufficient to deduce the complex and detailed neuroanatomical organization of the brain" in the Abstract, we CAN further verify that 'Brain development' may be a proper result.
+###Conclusion###
+Consequently, we choose 'Brain development' as our final result.
+###Result###
+['Brain development']

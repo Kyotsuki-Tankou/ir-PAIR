@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, terms like "cardiomyopathies," "gene expression regulation," and "transcriptome" suggest a focus on the heart and its cellular components.
+### Verify ###
+The Abstract mentions "Left ventricular noncompaction cardiomyopathy (LVNC)" and "cardiomyocyte-specific knockout (Prdm16cKO) mice," indicating a study focused on the heart, specifically the left ventricle and cardiomyocytes.
+### Context ###
+The study involves detailed analysis of cardiomyocytes and the left ventricle, including RNA sequencing and chromatin immunoprecipitation deep sequencing, which further emphasizes the focus on heart tissue.
+### Conclusion ###
+Given the clear focus on the heart and cardiomyocytes, "Heart" is the most appropriate match from the provided schema.
+### Result ###
+["Heart"]

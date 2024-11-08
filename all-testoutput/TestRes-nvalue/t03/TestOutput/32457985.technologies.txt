@@ -1,0 +1,13 @@
+###Keywords###
+From the abstract, the keywords that stand out are "genome-wide RNA tomography sequencing" and "interspecies comparative RNA sequencing analyses." These suggest the use of advanced sequencing technologies.
+###Verify###
+The abstract specifically mentions:
+- "genome-wide RNA tomography sequencing on zebrafish, chicken, mouse, and human embryos"
+- "interspecies comparative RNA sequencing analyses"
+These points directly verify the use of RNA sequencing technologies.
+###Context###
+The context of the study involves detailed sequencing to explore the molecular characteristics of the aortic microenvironment. The term "RNA tomography sequencing" is not directly listed in the schema, but it is closely related to RNA sequencing technologies.
+###Conclusion###
+Given the explicit mention of "genome-wide RNA tomography sequencing" and "interspecies comparative RNA sequencing analyses," the closest matching technologies from the schema are "RNA-seq" and "RNAseq" (which are essentially the same technology, just listed with different formatting).
+###Result###
+['RNA-seq', 'RNAseq']

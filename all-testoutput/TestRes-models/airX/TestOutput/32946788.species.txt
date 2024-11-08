@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "human HSC development," indicating that the species involved is 'Homo sapiens'. Additionally, the term "embryo" suggests that 'Embryo' could be a proper result.
+### Verify ###
+The abstract states "HSCs first emerge in the embryonic aorta-gonad-mesonephros (AGM) region," which confirms the species 'Homo sapiens'. The term "embryo" also verifies that 'Embryo' is a correct result.
+### Context ###
+- No additional context is needed as the abstract clearly mentions the human species and the developmental stage of the cells.
+### Conclusion ###
+Based on the explicit mention of 'Homo sapiens' and 'embryo' in the abstract, we can conclude that the species involved is 'Homo sapiens' and the tissue/developmental stage is 'Embryo'.
+### Result ###
+['Homo sapiens', 'Embryo']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the terms "heart," "coronary sinus samples," and "cardiac" suggest that 'Heart' and possibly 'Coronary sinus' might be relevant organ parts.
+### Verify ###
+The phrase "we describe likely cardiac and specific cellular origins for several of the proteins" in the Abstract further supports that 'Heart' is indeed an organ part involved in the study. Additionally, "coronary sinus samples" indicates a specific part of the heart, but 'Coronary sinus' is not listed in the schema.
+### Context ###
+The abstract focuses extensively on cardiac-related aspects, including "heart transplantation" and "cardiac origins," which strongly emphasize the 'Heart' as a central organ part. While 'Coronary sinus' is mentioned, it is not a direct match to any item in the provided schema.
+### Conclusion ###
+Based on the context and explicit mentions, 'Heart' is definitively confirmed as an organ part involved in the study. 'Coronary sinus' is mentioned but does not match the schema items directly, so it is not included.
+### Result ###
+['Heart']

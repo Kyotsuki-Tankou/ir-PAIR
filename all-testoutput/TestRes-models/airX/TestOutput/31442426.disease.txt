@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, there are no direct mentions of specific diseases that match the schema. However, terms like "stress granules," "RNA processing," and "translation" are relevant but do not correspond to the disease schema.
+### Verify ###
+The abstract focuses on a novel RNA proximity labeling technique called APEX-seq and its applications in mapping the spatial organization of the transcriptome. There is no mention of any diseases or conditions studied using this technique.
+### Context ###
+Since the abstract does not mention any diseases or conditions, there is no additional context that would lead to a disease-related conclusion.
+### Conclusion ###
+Given the absence of any disease-related content in the abstract, we cannot conclude a specific disease from the provided information.
+### Result ###
+null

@@ -1,0 +1,8 @@
+###Keywords###
+The keywords "whole-brain spatial transcriptomics," "molecular information," "neuroanatomical organization," and "molecular atlas" suggest the use of a specific technology and the study of brain structure and function.
+###Verify###
+The abstract explicitly mentions "whole-brain spatial transcriptomics" and "molecular atlas," which aligns with the technologies listed in the schema.
+###Conclusion###
+Given the direct mention of "whole-brain spatial transcriptomics" in the context of the abstract and the technologies listed in the schema, we can conclude that the technology used in this study is 'Spatial Transcriptomics'.
+###Result###
+['Spatial Transcriptomics']

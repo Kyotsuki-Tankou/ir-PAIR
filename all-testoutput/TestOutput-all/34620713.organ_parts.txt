@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the primary focus is on "skin" and "fibrosis" in the context of wound healing. This suggests that 'Skin' and potentially 'Fibrosis' are relevant organ parts.
+### Verify ###
+The abstract explicitly mentions "In the skin, tissue injury results in fibrosis" and "the cells involved in wound healing across both time and space." This directly verifies the involvement of 'Skin' and the process of 'Fibrosis' in the study.
+### Conclusion ###
+Given the clear mention of "skin" and the process of "fibrosis" in the context of wound healing, it is definitive that 'Skin' is an organ part relevant to the study. 'Fibrosis' is a process but is closely associated with the tissue changes in the skin.
+### Result ###
+['Skin']

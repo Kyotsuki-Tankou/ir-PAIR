@@ -1,0 +1,8 @@
+###Keywords###
+From the Keywords, we can identify "single cell RNA-seq" as a relevant technology used in the study.
+###Verify###
+The Abstract mentions "large scale single cell transcriptome analysis," which confirms the use of single-cell RNA sequencing technology.
+###Conclusion###
+Based on the information provided, we can conclude that "single cell RNA-seq" is the technology used in the study.
+###Result###
+['scRNA-seq']

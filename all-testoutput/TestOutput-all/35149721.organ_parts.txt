@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "colon" is explicitly mentioned, indicating that 'Colorectal tissue' or 'Colon' may be proper results.
+### Verify ###
+The abstract states, "Here, we use spatial transcriptomics to define how the transcriptomic landscape is spatially organized in the steady state and healing murine colon," which directly verifies the focus on the 'colon'. Additionally, the context of studying the intestinal barrier and mucosal healing further supports the focus on 'colon' tissue.
+### Context ###
+The abstract consistently refers to the "colon" and its transcriptomic landscape, without any mention of other specific organ parts. This provides a clear and consistent context that aligns with 'Colon' or 'Colorectal tissue'.
+### Conclusion ###
+Since the term 'colon' is both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that 'Colon' is the appropriate organ part used. 'Colorectal tissue' is also a valid term but 'Colon' is more specific to the context provided.
+### Result ###
+['Colon']

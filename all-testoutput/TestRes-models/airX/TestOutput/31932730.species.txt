@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract focuses on "primary pancreatic tumors," "ductal cells," "macrophages," "dendritic cells," "cancer cells," "inflammatory fibroblasts," and "stress-response gene module." This indicates that the species being studied is likely to be one that is relevant to the context of pancreatic tumors and their associated cells.
+### Verify ###
+The species 'Mus musculus' is often used in research on pancreatic tumors, as it is a common model organism for studying human diseases. The abstract does not specify the species, but the focus on pancreatic tumors suggests a species from the schema that is relevant to this context.
+### Context ###
+The abstract does not mention any species explicitly, but the context of pancreatic tumors and the use of scRNA-seq to analyze the cellular composition suggest that the species used is one that is commonly employed in such studies.
+### Conclusion ###
+Based on the focus on pancreatic tumors and the use of scRNA-seq, which is commonly applied to mouse models, we can infer that 'Mus musculus' is the species of interest in this study.
+### Result ###
+['Mus musculus']

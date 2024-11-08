@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract and keywords, the terms "colon carcinogenesis," "gut inflammation," and "small intestine" are prominently mentioned, indicating potential disease-related terms such as 'Colorectal cancer' and 'Intestinal development'.
+### Verify ###
+- **Colon carcinogenesis**: This directly implies a focus on the development and progression of cancer in the colon, which aligns with 'Colorectal cancer' in the schema.
+- **Gut inflammation**: This term suggests a focus on inflammatory processes in the intestine, which could be related to various diseases, but 'Intestinal development' is a broader term that might encompass these processes.
+- **Small intestine**: This specifies the region of interest, reinforcing the relevance of 'Intestinal development'.
+### Context ###
+The abstract discusses the role of DDX5 in tuft cell specification and function, particularly in the context of colonic tumourigenesis and ileal inflammation. This context supports the inclusion of diseases related to these processes.
+### Conclusion ###
+Based on the verification and context, 'Colorectal cancer' and 'Intestinal development' are relevant disease terms that align with the content of the abstract.
+### Result ###
+['Colorectal cancer', 'Intestinal development']

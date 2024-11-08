@@ -1,0 +1,18 @@
+### Keywords ###
+- Human liver
+- Development to disease
+- Hepatocellular carcinoma (HCC)
+- Fetal development
+- Tumor microenvironment
+- Onco-fetal reprogramming
+- Mouse liver
+- Spatial transcriptomics
+- VEGF and NOTCH signaling
+### Verify ###
+- The abstract mentions "human liver from development to disease" and specifically "hepatocellular carcinoma (HCC)."
+- It also discusses "fetal development" and "tumor microenvironment," indicating a focus on diseases related to liver and fetal development.
+- The term "Hepatocellular carcinoma" is explicitly mentioned, which directly corresponds to the schema.
+### Conclusion ###
+The abstract clearly focuses on "Hepatocellular Carcinoma" and its relation to fetal development and the tumor microenvironment. This aligns directly with the schema provided.
+### Result ###
+["Hepatocellular Carcinoma"]

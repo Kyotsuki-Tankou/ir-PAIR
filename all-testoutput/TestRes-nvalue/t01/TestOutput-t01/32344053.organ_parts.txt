@@ -1,0 +1,19 @@
+###Keywords###
+- Atopic dermatitis
+- Skin
+- Suction blistering
+- Single-cell RNA sequencing
+- Transcriptomic
+- Proteomic
+###Verify###
+- The abstract mentions "skin suction blistering" and "conventional biopsies" focusing on atopic dermatitis.
+- Direct mentions of "skin" and related inflammatory conditions are present.
+###Context###
+- The study involves sampling skin cells and interstitial fluid using suction blistering.
+- The focus is on understanding the pathogenesis of atopic dermatitis, a skin condition.
+- The comparison is made between suction blistering and conventional biopsies, both targeting skin tissues.
+###Conclusion###
+- The primary organ part involved in the study is "Skin," specifically in the context of atopic dermatitis.
+- Other potential related terms from the schema like "Atopic dermatitis lesional skin" and "Atopic dermatitis non-lesional skin" are also relevant but less explicitly mentioned.
+###Result###
+["Skin", "Atopic dermatitis lesional skin", "Atopic dermatitis non-lesional skin"]

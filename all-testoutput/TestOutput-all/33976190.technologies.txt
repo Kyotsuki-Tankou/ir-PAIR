@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the phrases "single cell RNA-seq" and "Cluster RNA-seq" are directly mentioned, indicating these technologies were used in the study.
+### Verify ###
+The abstract specifically states, "Using single cell RNA-seq and Cluster RNA-seq, we show that these progenitors emerge in time and space according to a stereotypical pattern." This clearly verifies the use of "single cell RNA-seq" and "Cluster RNA-seq" technologies.
+### Conclusion ###
+Based on the explicit mention and verification, we can confidently conclude that "single cell RNA-seq" and "Cluster RNA-seq" are the technologies used in the study.
+### Result ###
+['single cell RNA-seq', 'Cluster RNA-seq']

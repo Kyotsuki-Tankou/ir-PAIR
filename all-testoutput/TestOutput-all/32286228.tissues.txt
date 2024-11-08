@@ -1,0 +1,8 @@
+###Keywords###
+From the keywords "adipocyte", "blood vessel", "bone marrow mesenchymal stem cells", "cell biology", "mouse", "osteoblast", and "single cell RNA-seq", we can deduce that 'Bone marrow' might be a proper result.
+###Verify###
+The input text mentions "Bone marrow mesenchymal lineage cells" and "marrow cavity," which confirms that 'Bone marrow' is a correct result based on the provided schema.
+###Conclusion###
+Since the keywords and the verification both point to 'Bone marrow', we can conclude that it is the correct result.
+###Result###
+["Bone marrow"]

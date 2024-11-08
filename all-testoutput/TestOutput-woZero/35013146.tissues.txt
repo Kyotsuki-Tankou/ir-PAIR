@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the key terms are "prostate cancer," "prostate epithelial cells," "tumor microenvironment," and "single-cell RNA-sequencing." These terms suggest a focus on the prostate tissue, particularly in the context of cancer.
+###Verify###
+The abstract specifically mentions "prostate biopsies," "prostatectomy specimens," and "patient-derived organoids from localized prostate cancer patients," which directly indicate the study's focus on the prostate tissue.
+###Conclusion###
+Given the clear focus on prostate tissue, particularly in the context of cancer, the most appropriate match from the provided schema is "Prostate."
+###Result###
+["Prostate"]

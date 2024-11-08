@@ -1,0 +1,17 @@
+### Keywords ###
+From the abstract, the following technologies are mentioned or implied:
+- "RNA sequencing" (explicitly mentioned)
+- "chromatin immunoprecipitation deep sequencing" (explicitly mentioned)
+- "single-cell RNA sequencing" (explicitly mentioned)
+- "spatial transcriptomics" (explicitly mentioned)
+### Verify ###
+- "RNA sequencing" directly matches 'RNA-seq' in the schema.
+- "chromatin immunoprecipitation deep sequencing" is a form of 'CUT&Tag' or similar techniques, but not explicitly listed in the schema.
+- "single-cell RNA sequencing" matches 'scRNA' in the schema.
+- "spatial transcriptomics" directly matches 'Spatial Transcriptomics' in the schema.
+### Context ###
+The abstract mentions "chromatin immunoprecipitation deep sequencing," which is not directly listed in the schema but is closely related to 'CUT&Tag'. However, since 'CUT&Tag' is not explicitly mentioned, we should be cautious in including it.
+### Conclusion ###
+Based on the explicit mentions in the abstract, we can confidently include 'RNA-seq', 'scRNA', and 'Spatial Transcriptomics'. 'CUT&Tag' is related but not explicitly mentioned, so it should not be included.
+### Result ###
+['RNA-seq', 'scRNA', 'Spatial Transcriptomics']

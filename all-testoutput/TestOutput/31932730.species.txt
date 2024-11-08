@@ -1,0 +1,11 @@
+###Keywords###
+From the Keywords, we have terms like "single-cell RNA sequencing (scRNA-seq)," "spatial transcriptomics," "primary pancreatic tumors," and "inflammatory fibroblasts." These terms suggest a focus on a specific type of tumor and the cellular interactions within it.
+###Verify###
+The Abstract mentions "primary pancreatic tumors" and "ductal cells, macrophages, dendritic cells, and cancer cells," which implies a focus on the pancreas as the organ of interest.
+###Context###
+The context from the Abstract provides information that the study involves primary pancreatic tumors and the examination of various cell types within these tumors. This indicates that the organ of interest is the pancreas.
+###Conclusion###
+Based on the context provided by the Abstract, we can conclude that the species involved in this study is one that has a pancreas.
+###Result###
+['Homo sapiens'] 
+(Note: While the schema includes multiple species that have a pancreas, the context of the Abstract clearly indicates that the study is focused on human pancreatic tumors, making 'Homo sapiens' the most appropriate result.)

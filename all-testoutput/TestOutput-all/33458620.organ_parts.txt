@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "prostate epithelial organoids" is explicitly mentioned, indicating that 'Prostate epithelial organoids' may be a proper result.
+### Verify ###
+The abstract focuses on "patient-derived benign prostate epithelial organoids" and discusses how these organoids were grown in different vitamin D conditions and assessed. This directly aligns with the 'Prostate epithelial organoids' item in the schema.
+### Context ###
+The context of the study revolves around the effects of vitamin D on prostate epithelial organoids, further reinforcing the relevance of 'Prostate epithelial organoids' as the key organ part studied.
+### Conclusion ###
+Consequently, we confirm 'Prostate epithelial organoids' as our final result based on the clear and consistent information provided in both the keywords and the abstract.
+### Result ###
+['Prostate epithelial organoids']

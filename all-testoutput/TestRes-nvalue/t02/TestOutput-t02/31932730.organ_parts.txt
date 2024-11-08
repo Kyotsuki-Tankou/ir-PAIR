@@ -1,0 +1,10 @@
+###Keywords###
+The abstract mentions "primary pancreatic tumors" and "ductal cells, macrophages, dendritic cells and cancer cells," which suggests a focus on pancreatic tissue and its components.
+###Verify###
+The abstract specifically states, "Applying multimodal intersection analysis to primary pancreatic tumors," which directly verifies the involvement of pancreatic tissue.
+###Context###
+The context of the study revolves around the spatial organization of cell populations within primary pancreatic tumors, further reinforcing the focus on pancreatic tissue.
+###Conclusion###
+Given the clear and direct reference to primary pancreatic tumors and the cellular components within them, we can conclusively choose 'Primary PDAC tumor' as the relevant organ part.
+###Result###
+['Primary PDAC tumor']

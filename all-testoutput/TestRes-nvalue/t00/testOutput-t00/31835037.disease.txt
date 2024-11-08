@@ -1,0 +1,17 @@
+### Keywords ###
+- gene expression
+- heart development
+- human development
+- human developmental cell atlas
+- in situ sequencing
+- single-cell RNA-sequencing
+- spatial transcriptomics
+- spatially resolved transcriptomics
+### Verify ###
+From the keywords, the relevant item from the schema is:
+- 'Heart development'
+### Conclusion ###
+The extracted item corresponding to the schema is:
+- 'Heart development'
+### Result ###
+['Heart development']

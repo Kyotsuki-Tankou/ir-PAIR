@@ -1,0 +1,10 @@
+### Keywords ###
+From the keywords "spatial transcriptomics," "aorta," "endothelin 1," "hematopoiesis," and "single cell transcriptome," we can infer that the technologies used in the study involve techniques related to transcriptome analysis and spatial mapping.
+### Verify ###
+The abstract mentions "spatial transcriptomics analysis" and "gene expression profiling of sorted cell populations and single cells," which directly correlates with technologies like "Spatial Transcriptomics," "RNA-seq," "scRNA," and potentially "sci-Space" or "sciMAP-ATAC-seq."
+### Context ###
+The context of the study, focusing on hematopoietic stem cell (HSC) development in the aorta, suggests that technologies that allow for the analysis of gene expression in spatially defined contexts are relevant. This aligns with the use of "spatial transcriptomics" and "single cell transcriptome" analysis.
+### Conclusion ###
+Based on the context and explicit mention of "spatial transcriptomics" and "gene expression profiling of sorted cell populations and single cells," the technologies used in the study can be concluded to include "Spatial Transcriptomics," "RNA-seq," "scRNA," and "sci-Space" or "sciMAP-ATAC-seq."
+### Result ###
+['Spatial Transcriptomics', 'RNA-seq', 'scRNA', 'sci-Space' or 'sciMAP-ATAC-seq']

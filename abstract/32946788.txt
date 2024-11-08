@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Dorsal aorta"]
+null
+["LCM-seq"]
+["Embryo development"]
+ Abstract\nHematopoietic stem cells (HSCs) first emerge in the embryonic aorta-gonad-mesonephros (AGM) region. Studies of model organisms defined intersecting signaling pathways that converge to promote HSC emergence predominantly in the ventral domain of the dorsal aorta. Much less is known about mechanisms driving HSC development in humans. Here, to identify secreted signals underlying human HSC development, we combined spatial transcriptomics analysis of dorsoventral polarized signaling in the aorta with gene expression profiling of sorted cell populations and single cells. Our analysis revealed a subset of aortic endothelial cells with a downregulated arterial signature and a predicted lineage relationship with the emerging HSC/progenitor population. Analysis of the ventrally polarized molecular landscape identified endothelin 1 as an important secreted regulator of human HSC development. The obtained gene expression datasets will inform future studies on mechanisms of HSC development in vivo and on generation of clinically relevant HSCs in vitro. \n Keywords:AGM region; HSC; embryo; endothelin; hematopoiesis; single cell transcriptome; spatial transcriptome.

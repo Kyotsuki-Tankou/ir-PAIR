@@ -1,0 +1,10 @@
+### Keywords ###
+From the "Abstract," the primary focus is on "keloid tissue samples" and "normal skin control data." This suggests that 'Skin' is a relevant tissue.
+### Verify ###
+The Abstract mentions "keloid tissue samples and normal skin control data" and "patient-matched keloid and normal mature scar." This directly verifies that 'Skin' is the tissue being studied.
+### Context ###
+While the Abstract primarily focuses on 'Skin,' there is no conflicting information or additional context needed to clarify the tissue type. The study explicitly deals with keloids and normal skin, which are both skin-related conditions.
+### Conclusion ###
+Based on the clear and direct mention of skin-related samples and conditions, we can confidently conclude that 'Skin' is the relevant tissue.
+### Result ###
+['Skin']

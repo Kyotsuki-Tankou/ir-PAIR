@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the technologies mentioned are "single-cell RNA sequencing," "spatial transcriptomics," and "in situ sequencing."
+### Verify ###
+- "single-cell RNA sequencing" corresponds to 'scRNA'.
+- "spatial transcriptomics" corresponds to 'Spatial Transcriptomics'.
+- "in situ sequencing" is not explicitly listed in the schema, but it is closely related to 'seqFISH' and 'seqFISH+' which are types of in situ sequencing techniques.
+### Context ###
+The abstract does not mention any other specific technologies from the schema. The terms "single-cell RNA sequencing," "spatial transcriptomics," and "in situ sequencing" are clearly stated and directly correspond to the technologies listed in the schema.
+### Conclusion ###
+Based on the keywords and the context, the technologies used in the study are 'scRNA', 'Spatial Transcriptomics', and potentially 'seqFISH' or 'seqFISH+' due to the mention of "in situ sequencing."
+### Result ###
+['scRNA', 'Spatial Transcriptomics', 'seqFISH']

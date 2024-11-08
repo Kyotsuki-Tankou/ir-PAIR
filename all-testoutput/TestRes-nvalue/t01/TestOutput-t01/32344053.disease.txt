@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "atopic dermatitis" is explicitly mentioned, indicating that 'Atopic dermatitis' may be a proper result.
+###Verify###
+The abstract states, "Background: Atopic dermatitis (AD) is the most common chronic inflammatory skin disease," which directly verifies the focus on 'Atopic dermatitis'.
+###Conclusion###
+Since the term 'Atopic dermatitis' is both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that 'Atopic dermatitis' is the appropriate disease studied.
+###Result###
+['Atopic dermatitis']

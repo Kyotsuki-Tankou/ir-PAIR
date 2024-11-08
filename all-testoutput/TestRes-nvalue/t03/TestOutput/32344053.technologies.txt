@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, "single-cell RNA sequencing" directly suggests that 'scRNA' may be a proper result.
+### Verify ###
+The Abstract mentions "Using single-cell RNA sequencing, we found comparable transcriptional profiles of key inflammatory pathways between blister and biopsy AD." This statement clearly indicates the use of 'scRNA' technology, further verifying that 'scRNA' is indeed a proper result.
+### Context ###
+Since the term "single-cell RNA sequencing" is explicitly mentioned and directly corresponds to 'scRNA' in the schema, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm 'scRNA' as our final result based on the clear and direct mention of the technology used in the abstract.
+### Result ###
+['scRNA']

@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "brain sections" and "Alzheimer's disease (AD)" are prominently mentioned, indicating that 'Brain' may be a proper result.
+###Verify###
+The abstract states, "We confirm the majority of the observed alterations at the cellular level using in situ sequencing on mouse and human brain sections," which directly references the brain tissue. This further verifies that 'Brain' is indeed a relevant and proper result.
+###Context###
+Given the direct and clear mention of "brain sections" and the context of Alzheimer's disease, which primarily affects the brain, there is no need for additional context to verify the keyword.
+###Conclusion###
+Consequently, we confirm 'Brain' as our final result based on the clear and consistent references in the abstract.
+###Result###
+['Brain']

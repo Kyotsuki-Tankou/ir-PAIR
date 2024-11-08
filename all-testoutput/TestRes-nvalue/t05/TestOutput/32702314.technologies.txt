@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "spatial transcriptomics" stands out as a key technology mentioned in the context of studying Alzheimer's disease.
+###Verify###
+The abstract explicitly states that "we investigate here, in an AD mouse model, the transcriptional changes occurring in tissue domains in a 100-μm diameter around amyloid plaques using spatial transcriptomics." This confirms the use of spatial transcriptomics as the technology in the study.
+###Conclusion###
+Given the direct mention and use of "spatial transcriptomics" in the abstract, we can conclude that this is the technology employed in the study.
+###Result###
+['Spatial Transcriptomics']

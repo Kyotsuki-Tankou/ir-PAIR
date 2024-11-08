@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the keywords that stand out are "human brain vasculature," "blood-brain barrier," "hippocampus," "cortex," "Alzheimer's disease," and "vascular cell types." These keywords suggest a focus on specific regions of the brain and their vascular components.
+###Verify###
+The abstract mentions "143,793 single-nucleus transcriptomes from 25 hippocampus and cortex samples." This directly indicates that the specific organ parts being studied are the "Hippocampus" and "Cortex."
+###Context###
+Given the detailed focus on the hippocampus and cortex, and the specific mention of these regions in the context of Alzheimer's disease and vascular profiling, there is no need for additional context to verify the organ parts.
+###Conclusion###
+Consequently, we confirm that 'Hippocampus' and 'Cortex' are the appropriate organ parts based on the provided abstract.
+###Result###
+['Hippocampus', 'Cortex']

@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Skin"]
+null
+["GeoMx DSP"]
+["Wound repair"]
+ Abstract\nDiabetic foot ulceration (DFU) is a devastating complication of diabetes whose pathogenesis remains incompletely understood. Here, we profile 174,962 single cells from the foot, forearm, and peripheral blood mononuclear cells using single-cell RNA sequencing. Our analysis shows enrichment of a unique population of fibroblasts overexpressing MMP1, MMP3, MMP11, HIF1A, CHI3L1, and TNFAIP6 and increased M1 macrophage polarization in the DFU patients with healing wounds. Further, analysis of spatially separated samples from the same patient and spatial transcriptomics reveal preferential localization of these healing associated fibroblasts toward the wound bed as compared to the wound edge or unwounded skin. Spatial transcriptomics also validates our findings of higher abundance of M1 macrophages in healers and M2 macrophages in non-healers. Our analysis provides deep insights into the wound healing microenvironment, identifying cell types that could be critical in promoting DFU healing, and may inform novel therapeutic approaches for DFU treatment.

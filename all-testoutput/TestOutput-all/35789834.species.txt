@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "Neuroendocrine prostate cancer (NEPC)" and "prostate tumors from 7 patients," which suggest that 'Homo sapiens' may be the relevant species.
+### Verify ###
+The abstract mentions "prostate tumors from 7 patients" and "clinical diagnosis," which strongly indicates that the study is conducted on human subjects, confirming 'Homo sapiens' as the species.
+### Context ###
+There is no need for additional context as the abstract clearly and consistently focuses on human patients and human-specific diseases.
+### Conclusion ###
+Based on the clear and direct references to human subjects in the abstract, we confirm 'Homo sapiens' as the final result.
+### Result ###
+['Homo sapiens']

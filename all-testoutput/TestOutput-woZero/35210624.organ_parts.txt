@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "mouse brain," "hippocampal neuroepithelium," and "microglia" are key terms that might suggest relevant organ parts.
+###Verify###
+The abstract focuses on the mouse brain, specifically mentioning the hippocampal neuroepithelium and microglia. This suggests that "Brain," "Hippocampus," and "Microglia" could be relevant organ parts.
+###Context###
+Upon reviewing the context, the abstract does not mention any other organ parts from the schema. The focus remains entirely on the brain, hippocampus, and microglia.
+###Conclusion###
+Given the exclusive focus on the brain, hippocampus, and microglia in the abstract, it is reasonable to conclude that "Brain," "Hippocampus," and "Microglia" are the relevant organ parts.
+###Result###
+['Brain', 'Hippocampus', 'Microglia']

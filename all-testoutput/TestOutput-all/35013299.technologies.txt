@@ -1,0 +1,10 @@
+###Keywords###
+From the Abstract, we identify terms like "single-cell RNA sequencing," "spatial transcriptomics," and "spatially separated samples." These terms suggest the use of specific technologies for analyzing cell populations and gene expression in different spatial contexts.
+###Verify###
+The Abstract explicitly mentions "single-cell RNA sequencing" and "spatial transcriptomics." These terms directly correspond to technologies listed in the schema.
+###Context###
+Given the clear mention of "single-cell RNA sequencing" and "spatial transcriptomics" in the Abstract, there is no need for additional context to verify the technologies used.
+###Conclusion###
+Based on the explicit mentions in the Abstract, we can conclude that the relevant technologies used in this study are "single-cell RNA sequencing" and "spatial transcriptomics."
+###Result###
+["single-cell RNA sequencing", "Spatial Transcriptomics"]

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "Spatial Transcriptomics (ST)" is explicitly mentioned as the technology used for analyzing transcriptomic profiles in tissue sections.
+### Verify ###
+The abstract clearly states, "using Spatial Transcriptomics (ST) as a proof of principle approach for unbiased mRNA studies," which directly verifies the use of 'Spatial Transcriptomics' as the technology.
+### Context ###
+The context provided in the abstract is straightforward and unambiguous. The detailed description of using ST for analyzing synovial biopsies and the subsequent analyses further solidifies 'Spatial Transcriptomics' as the technology employed.
+### Conclusion ###
+Based on the clear and consistent mention of 'Spatial Transcriptomics' throughout the abstract, we can confidently conclude that 'Spatial Transcriptomics' is the appropriate technology to be extracted.
+### Result ###
+['Spatial Transcriptomics']

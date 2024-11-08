@@ -1,0 +1,12 @@
+### Keywords ###
+From the "Abstract," the focus is on "keloids" and related pathophysiology. The terms "keloids," "fibroblasts," "endothelial cells," and "mesenchymal activation" are prominent.
+### Verify ###
+The Abstract mentions "Studies on the etiopathogenesis of keloids" and "keloid tissue samples and normal skin control data were analyzed." This indicates that the primary focus of the study is on keloids.
+### Context ###
+To ensure accuracy, let's consider the context:
+- The study involves "single-cell RNA sequencing and spatial transcriptomics" to analyze keloid tissue.
+- The mention of "fibroblasts," "endothelial cells," and "mesenchymal activation" suggests a focus on the cellular and molecular aspects of keloid formation.
+### Conclusion ###
+Given the clear focus on keloids and the detailed analysis of their pathophysiology, it is reasonable to conclude that 'Keloids' is the relevant disease. However, 'Keloids' is not explicitly listed in the provided schema. The closest related term in the schema might be 'Skin carcinoma cancer' due to the nature of keloids as a skin-related condition.
+### Result ###
+['Skin carcinoma cancer']

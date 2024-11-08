@@ -1,0 +1,10 @@
+### Keywords ###
+The term "Breast cancers" is prominently mentioned in the abstract, indicating that 'Breast' may be the appropriate tissue to extract.
+### Verify ###
+The abstract focuses on "human breast cancers" and discusses various aspects such as cellular composition, immune profiles, and stromal-immune niches within breast tumors. This verifies that 'Breast' is the correct tissue according to the schema.
+### Context ###
+The entire abstract is centered around the study of breast cancers, with no mention of other tissues that could cause ambiguity. Therefore, no additional context is needed to confirm the tissue type.
+### Conclusion ###
+Given the clear and consistent focus on breast cancers throughout the abstract, we can confidently conclude that 'Breast' is the appropriate result.
+### Result ###
+['Breast']

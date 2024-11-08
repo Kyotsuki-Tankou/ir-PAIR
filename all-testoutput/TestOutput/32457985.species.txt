@@ -1,0 +1,15 @@
+###Keywords###
+From the input, the species mentioned are zebrafish (Danio rerio), chicken (Gallus gallus), mouse (Mus musculus), and human (Homo sapiens). These are the keywords that we will use to verify against the schema.
+###Verify###
+The abstract specifically mentions the following species:
+- "zebrafish (Danio rerio)"
+- "chicken (Gallus gallus)"
+- "mouse (Mus musculus)"
+- "human (Homo sapiens)"
+These species are directly mentioned in the schema, so they are verified as relevant.
+###Context###
+No additional context is needed as the species are explicitly and directly mentioned in the abstract.
+###Conclusion###
+Based on the explicit mentions in the abstract and the direct alignment with the schema, we can conclude that the species mentioned are relevant to the schema.
+###Result###
+['Danio rerio', 'Gallus gallus', 'Mus musculus', 'Homo sapiens']

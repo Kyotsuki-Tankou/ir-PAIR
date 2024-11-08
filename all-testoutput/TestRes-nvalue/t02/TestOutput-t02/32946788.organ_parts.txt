@@ -1,0 +1,13 @@
+###Keywords###
+From the abstract, the terms "AGM region," "embryo," and "aorta" are mentioned in the context of hematopoietic stem cell (HSC) development. These terms are potential matches to the organ parts in the schema.
+###Verify###
+- "Hematopoietic stem cells (HSCs) first emerge in the embryonic aorta-gonad-mesonephros (AGM) region."
+- "Studies of model organisms defined intersecting signaling pathways that converge to promote HSC emergence predominantly in the ventral domain of the dorsal aorta."
+- "Here, to identify secreted signals underlying human HSC development, we combined spatial transcriptomics analysis of dorsoventral polarized signaling in the aorta..."
+These statements verify that "AGM region," "embryo," and "aorta" are key organ parts involved in the study.
+###Context###
+The abstract focuses on the AGM region, which includes the aorta, gonad, and mesonephros, and specifically mentions the dorsal aorta and embryonic context. The schema includes "Mouse Embryo," "Embryo," "Mouse aorta," and "Gonad tissue," which are relevant to the context provided.
+###Conclusion###
+Given the clear mention of the AGM region, embryo, and aorta, we can conclude that "Mouse Embryo," "Embryo," "Mouse aorta," and "Gonad tissue" are the appropriate organ parts to be extracted according to the schema.
+###Result###
+["Mouse Embryo", "Embryo", "Mouse aorta", "Gonad tissue"]

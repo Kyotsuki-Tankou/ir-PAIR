@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Breast"]
+null
+["10x Visium", "scRNA"]
+["Ductal carcinoma in situ"]
+ Abstract\nSingle-cell RNA sequencing methods can profile the transcriptomes of single cells but cannot preserve spatial information. Conversely, spatial transcriptomics assays can profile spatial regions in tissue sections, but do not have single-cell resolution. Here, we developed a computational method called CellTrek that combines these two datasets to achieve single-cell spatial mapping through coembedding and metric learning approaches. We benchmarked CellTrek using simulation and in situ hybridization datasets, which demonstrated its accuracy and robustness. We then applied CellTrek to existing mouse brain and kidney datasets and showed that CellTrek can detect topological patterns of different cell types and cell states. We performed single-cell RNA sequencing and spatial transcriptomics experiments on two ductal carcinoma in situ tissues and applied CellTrek to identify tumor subclones that were restricted to different ducts, and specific T cell states adjacent to the tumor areas. Our data show that CellTrek can accurately map single cells in diverse tissue types to resolve their spatial organization.

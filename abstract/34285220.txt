@@ -1,0 +1,6 @@
+["Homo sapiens", "Mus musculus"]
+["Cell line"]
+["HeLa cells", "NIH3T3 cells", "Neural tube"]
+["PIC-seq"]
+["Normal atlas"]
+ Abstract\nIn multicellular organisms, expression profiling in spatially defined regions is crucial to elucidate cell interactions and functions. Here, we establish a transcriptome profiling method coupled with photo-isolation chemistry (PIC) that allows the determination of expression profiles specifically from photo-irradiated regions of interest. PIC uses photo-caged oligodeoxynucleotides for in situ reverse transcription. PIC transcriptome analysis detects genes specifically expressed in small distinct areas of the mouse embryo. Photo-irradiation of single cells demonstrated that approximately 8,000 genes were detected with 7 × 104unique read counts. Furthermore, PIC transcriptome analysis is applicable to the subcellular and subnuclear microstructures (stress granules and nuclear speckles, respectively), where hundreds of genes can be detected as being specifically localised. The spatial density of the read counts is higher than 100 per square micrometre. Thus, PIC enables high-depth transcriptome profiles to be determined from limited regions up to subcellular and subnuclear resolutions.

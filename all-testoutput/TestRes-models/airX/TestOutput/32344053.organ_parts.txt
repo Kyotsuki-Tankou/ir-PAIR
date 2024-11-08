@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the term "skin" is mentioned in the context of atopic dermatitis, which suggests that 'Skin' may be a proper result.
+###Verify###
+The abstract mentions "We used skin suction blistering" and "skin cells and interstitial fluid," which further supports that the study involves the 'Skin' tissue.
+###Context###
+Not required in this case as the verification directly supports the keyword.
+###Conclusion###
+Consequently, we choose 'Skin' as our final result.
+###Result###
+['Skin']

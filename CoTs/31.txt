@@ -1,0 +1,13 @@
+###schema###
+species:['Canis lupus familiaris', 'Arabidopsis thaliana', 'Xenopus tropicalis', 'Maize', 'Drosophila melanogaster', 'Danio rerio', 'Ambystoma mexicanum', 'Gallus gallus', 'Homo sapiens', 'Rattus norvegicus', 'Mus musculus', 'Macaca fascicularis', 'Glycine max', 'Xenopus laevis', 'Caenorhabditis elegans', 'Oryctolagus cuniculus', 'Phalaenopsis aphrodite', 'Sus scrofa']
+###input###
+ Abstract
+Retrieving high-content gene-expression information while retaining three-dimensional (3D) positional anatomy at cellular resolution has been difficult, limiting integrative understanding of structure and function in complex biological tissues. We developed and applied a technology for 3D intact-tissue RNA sequencing, termed STARmap (spatially-resolved transcript amplicon readout mapping), which integrates hydrogel-tissue chemistry, targeted signal amplification, and in situ sequencing. The capabilities of STARmap were tested by mapping 160 to 1020 genes simultaneously in sections of mouse brain at single-cell resolution with high efficiency, accuracy, and reproducibility. Moving to thick tissue blocks, we observed a molecularly defined gradient distribution of excitatory-neuron subtypes across cubic millimeter-scale volumes (>30,000 cells) and a short-range 3D self-clustering in many inhibitory-neuron subtypes that could be identified and described with 3D STARmap.Let's think step by step.
+###Keywords###
+From the abstract, there is no direct mention of the species name. However, the term "mouse brain" indicates that 'Mus musculus' may be a proper result.
+###Verify###
+From "sections of mouse brain at single-cell resolution" in the Abstract, we can further verify that 'Mus musculus' may be a proper result.
+###Conclusion###
+Consequently, we choose 'Mus musculus' as our final result.
+###Result###
+['Mus musculus']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the term "XYZeq" is explicitly mentioned as a workflow that encodes spatial metadata into scRNA-seq libraries. Additionally, "single-cell RNA sequencing (scRNA-seq)" is also mentioned.
+### Verify ###
+The Abstract states, "we developed XYZeq, a workflow that encodes spatial metadata into scRNA-seq libraries." This directly aligns with the 'XYZeq' technology listed in the schema. Furthermore, "single-cell RNA sequencing (scRNA-seq)" is explicitly mentioned, which corresponds to 'scRNA' in the schema.
+### Context ###
+The context of the study involves profiling mouse tumor models using XYZeq to capture spatially barcoded transcriptomes. This further supports the use of 'XYZeq' technology. Additionally, the mention of scRNA-seq in the workflow confirms the involvement of 'scRNA' technology. There is no conflicting information that would necessitate a different conclusion.
+### Conclusion ###
+Based on the Keywords, Verify, and Context steps, it is clear that both 'XYZeq' and 'scRNA' are relevant technologies used in the study.
+### Result ###
+['XYZeq', 'scRNA']

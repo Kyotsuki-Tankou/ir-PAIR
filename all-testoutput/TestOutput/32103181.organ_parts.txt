@@ -1,0 +1,19 @@
+###Keywords###
+- "T cells in tumour immunity"
+- "deep single-cell sequencing of RNA and T cell receptors"
+- "tumours, normal adjacent tissue, and peripheral blood"
+- "clonotypic expansion of effector-like T cells"
+- "anti-PDL1 therapy"
+- "peripheral blood"
+- "intratumoural T cells"
+###Verify###
+- The abstract mentions "tumours" and "normal adjacent tissue," which are direct references to parts of the body that are part of the schema.
+- The term "peripheral blood" is also part of the schema.
+- The term "intratumoural T cells" refers to T cells within a tumor, which is relevant to the schema.
+###Context###
+- The abstract is focused on the study of T cells in the context of tumor immunity, specifically within tumors, adjacent tissue, and blood.
+- The study involves deep single-cell sequencing, indicating a detailed and precise analysis at the cellular level.
+###Conclusion###
+Given the context and the direct mention of "tumours," "normal adjacent tissue," and "peripheral blood" in the schema, the most relevant items to extract are those that correspond to these terms.
+###Result###
+['Tumours', 'Normal adjacent tissue', 'Peripheral blood']

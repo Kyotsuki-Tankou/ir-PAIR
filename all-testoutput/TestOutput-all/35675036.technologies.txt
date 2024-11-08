@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, the term "single-cell RNA sequencing (scRNA-seq)" is explicitly mentioned, indicating that 'scRNA' or 'scRNA-seq' may be a proper result.
+### Verify ###
+The abstract states:
+- "The tumors of 7 treatment-naïve patients with HGSOC at early or late stages and five age-matched nonmalignant ovarian samples were analyzed by deep single-cell RNA sequencing (scRNA-seq)."
+- "A total of 59,324 single cells obtained from HGSOC and nonmalignant ovarian tissues were sequenced by scRNA-seq."
+These statements clearly verify the use of 'scRNA-seq' technology in the study.
+### Context ###
+Since the keywords and the abstract both strongly indicate the use of 'scRNA-seq', there is no need for additional context to confirm the result.
+### Conclusion ###
+Consequently, we confirm 'scRNA-seq' as the final result based on the explicit mentions and detailed descriptions in the abstract.
+### Result ###
+['scRNA-seq']

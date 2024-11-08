@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the terms "small intestine," "enterocytes," "crypt-villus axis," and "goblet and tuft cells" suggest that the study focuses on specific parts of the small intestine. The term "small intestine" directly indicates a relevant organ part.
+### Verify ###
+The abstract mentions "in the small intestine" and "enterocytes, the most common cell type, exhibit zonated expression programs along the crypt-villus axis," which verifies that the study is specifically focused on the small intestine.
+### Conclusion ###
+Based on the direct mentions and the context of the study, we can conclude that 'small intestine' is the appropriate organ part to be extracted.
+### Result ###
+['small intestine']

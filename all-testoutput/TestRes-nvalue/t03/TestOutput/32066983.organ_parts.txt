@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the term "suprachiasmatic nucleus (SCN)" in the Abstract suggests that 'Suprachiasmatic nucleus' may be a proper result.
+### Verify ###
+The Abstract mentions "the suprachiasmatic nucleus (SCN) in the ventral hypothalamus" and focuses on characterizing the cell types and gene expression patterns within the SCN. This confirms that 'Suprachiasmatic nucleus' is indeed the correct organ part based on the provided schema.
+### Conclusion ###
+Since the keywords and the verification both point to 'Suprachiasmatic nucleus', we can conclude that it is the correct result.
+### Result ###
+["Suprachiasmatic nucleus"]

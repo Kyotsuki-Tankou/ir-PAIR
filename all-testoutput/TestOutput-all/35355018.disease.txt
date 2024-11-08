@@ -1,0 +1,8 @@
+### Keywords ###
+The input mentions "distal airways," "terminal and respiratory bronchioles (TRBs)," and "respiratory diseases," which could be associated with the schema terms related to lung diseases or development.
+### Verify ###
+The abstract discusses the use of spatial transcriptomics and single-cell profiling to identify new cell types in the distal airways, which are related to respiratory diseases. This aligns with the schema terms that involve lung diseases or development.
+### Conclusion ###
+Based on the context provided in the abstract, we can conclude that the input is relevant to the schema terms involving lung diseases or development.
+### Result ###
+['Lung development', 'Lung cancer', 'Respiratory disease']

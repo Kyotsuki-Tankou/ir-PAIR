@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keyword "mouse cortical astrocytes" directly indicates the species involved in the study, pointing towards 'Mus musculus'.
+### Verify ###
+The Abstract explicitly mentions "mouse cortical astrocytes," which directly verifies that the study is conducted on mice. This confirms that 'Mus musculus' is the correct species.
+### Context ###
+Since the verification step directly confirms the presence of mice in the study without ambiguity, there is no need for additional context to clarify the species.
+### Conclusion ###
+Consequently, we confirm that 'Mus musculus' is the appropriate species based on the given input.
+### Result ###
+['Mus musculus']

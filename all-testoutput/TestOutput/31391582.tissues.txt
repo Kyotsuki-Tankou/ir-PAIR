@@ -1,0 +1,23 @@
+### Keywords ###
+From the input, the terms "mouse embryo," "post-implantation development," "germ layers," and "gastrulation stages" suggest that 'Embryo' and possibly 'Gastrula' may be relevant to the schema.
+### Verify ###
+The abstract explicitly mentions "development from pre- to late-gastrulation stages" and "post-implantation embryo," which aligns with the concept of 'Gastrula' within the schema.
+### Context ###
+The context is clear and directly related to the development of the mouse embryo, which is consistent with the 'Embryo' entry in the schema.
+### Conclusion ###
+Based on the direct references to the development stages and the terminology used in the abstract, it is reasonable to conclude that 'Embryo' is the appropriate term from the schema.
+### Result ###
+['Embryo']
+### Keywords ###
+Additionally, the abstract discusses the formation of "germ layers," which are crucial in the early development of an embryo and is also consistent with the 'Gastrula' term in the schema.
+### Verify ###
+The abstract further supports the 'Gastrula' by describing the "regionalization of cell fates preceding the formation of the basic body plan" during gastrulation, which is a process characteristic of the gastrula stage.
+### Context ###
+The context is consistent with the 'Gastrula' entry, as it describes the early stages of embryonic development involving the formation of germ layers.
+### Conclusion ###
+Given the specific mention of gastrulation and the formation of germ layers in the context of the abstract, 'Gastrula' is also an appropriate term from the schema.
+### Result ###
+['Gastrula']
+### Final Result ###
+Combining the results from the 'Embryo' and 'Gastrula' keywords, the final result would be:
+['Embryo', 'Gastrula']

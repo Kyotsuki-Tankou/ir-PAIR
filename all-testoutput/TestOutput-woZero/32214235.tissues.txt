@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "human organs" and "human cell landscape (HCL)" suggest that multiple human tissues are involved. Specific tissues are not directly mentioned, but the scope implies a broad range of human tissues.
+### Verify ###
+The abstract states, "we use single-cell mRNA sequencing to determine the cell-type composition of all major human organs," indicating that the study encompasses a wide array of human tissues. However, no specific tissues are explicitly listed.
+### Context ###
+Given the broad scope of "all major human organs," it is reasonable to infer that the study likely includes many of the tissues listed in the schema. However, without specific mentions, we cannot definitively list any particular tissue.
+### Conclusion ###
+Since the abstract does not specify which human tissues were studied, we cannot confidently conclude any specific tissue from the provided schema.
+### Result ###
+null

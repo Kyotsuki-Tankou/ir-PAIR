@@ -1,0 +1,10 @@
+###Keywords###
+From "skin cancer" and "squamous cell carcinoma" in Keywords, it indicates that the study involves human skin cancer, specifically squamous cell carcinoma. This suggests that 'Homo sapiens' may be a proper result.
+###Verify###
+The abstract mentions "human cutaneous squamous cell carcinoma (cSCC)" and "matched normal skin," which directly confirm the involvement of humans in the study. Therefore, 'Homo sapiens' is indeed a proper result.
+###Context###
+No additional context is needed as the terms "human cutaneous squamous cell carcinoma" and "matched normal skin" clearly specify the species involved.
+###Conclusion###
+Consequently, we confirm 'Homo sapiens' as our final result based on the clear and direct mentions in the Abstract.
+###Result###
+['Homo sapiens']

@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Prostate"]
+null
+["Spatial Transcriptomics"]
+["Prostate cancer"]
+ Abstract\nIntra-tumor heterogeneity is one of the biggest challenges in cancer treatment today. Here we investigate tissue-wide gene expression heterogeneity throughout a multifocal prostate cancer using the spatial transcriptomics (ST) technology. Utilizing a novel approach for deconvolution, we analyze the transcriptomes of nearly 6750 tissue regions and extract distinct expression profiles for the different tissue components, such as stroma, normal and PIN glands, immune cells and cancer. We distinguish healthy and diseased areas and thereby provide insight into gene expression changes during the progression of prostate cancer. Compared to pathologist annotations, we delineate the extent of cancer foci more accurately, interestingly without link to histological changes. We identify gene expression gradients in stroma adjacent to tumor regions that allow for re-stratification of the tumor microenvironment. The establishment of these profiles is the first step towards an unbiased view of prostate cancer and can serve as a dictionary for future studies.

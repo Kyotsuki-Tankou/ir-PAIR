@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract and keywords, the terms "colon" and "liver" are mentioned, which are associated with 'Homo sapiens' in the context of biomedical research.
+### Verify ###
+The abstract discusses "tissue sections" and "histological scales" which are typically associated with human tissues in biomedical research. The mention of specific human organs like "colon" and "liver" further supports the involvement of 'Homo sapiens'.
+### Conclusion ###
+Both the keywords and the abstract consistently point to human tissues ('colon' and 'liver'), indicating that 'Homo sapiens' is the species involved in the study.
+### Result ###
+['Homo sapiens']

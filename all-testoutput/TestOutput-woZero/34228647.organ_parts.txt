@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, the terms "glioblastoma (GBM)" and "brain" are explicitly mentioned, indicating that 'Glioblastoma multiforme tissue' and 'Brain' may be proper results.
+### Verify ###
+- The abstract states: "Tumor vessels in glioblastoma (GBM), the most common malignant brain tumor in humans," which directly verifies the presence of 'Glioblastoma multiforme tissue'.
+- Additionally, the abstract mentions: "an organotypic specialization of brain endothelial cells (ECs)," which verifies the presence of 'Brain'.
+### Context ###
+- No additional context is needed as the abstract clearly mentions the specific tissues and organs where the study was conducted.
+### Conclusion ###
+Consequently, we confirm 'Glioblastoma multiforme tissue' and 'Brain' as our final results based on the explicit mentions in the abstract.
+### Result ###
+['Glioblastoma multiforme tissue', 'Brain']

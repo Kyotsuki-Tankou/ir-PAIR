@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "mouse embryos" and "early organogenesis" suggest a focus on embryonic tissues. Additionally, "brain" and "eye field" are mentioned as specific areas within the embryo.
+### Verify ###
+The abstract specifically states "Application to mouse embryos revealed major tissue types in early organogenesis as well as fine features like microvasculature in a brain and pigmented epithelium in an eye field." This confirms the involvement of embryonic tissues, particularly the brain and eye.
+### Context ###
+Given the detailed description of the application to mouse embryos and the mention of specific embryonic structures like the brain and eye, it is clear that the primary tissue of focus is the embryo, with additional emphasis on brain and eye tissues within the embryo.
+### Conclusion ###
+Consequently, "Embryo" is the most appropriate choice from the provided schema, as it best reflects the primary tissue of focus in the study. "Brain" and "Eye" could also be considered, but they are secondary to the overall focus on the embryo.
+### Result ###
+["Embryo"]

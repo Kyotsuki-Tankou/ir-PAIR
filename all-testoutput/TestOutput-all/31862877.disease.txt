@@ -1,0 +1,8 @@
+### Keywords ###
+From the "Abstract," the primary focus is on "Heart failure (HF)" and related pathophysiological aspects.
+### Verify ###
+The Abstract explicitly mentions "Heart failure (HF) is a major public health problem characterized by inability of the heart to maintain sufficient output of blood." This directly indicates that 'Heart failure' is the central disease being studied.
+### Conclusion ###
+Given the clear and consistent focus on Heart failure throughout the Abstract, it is evident that 'Heart failure' is the relevant disease.
+### Result ###
+['Heart failure']

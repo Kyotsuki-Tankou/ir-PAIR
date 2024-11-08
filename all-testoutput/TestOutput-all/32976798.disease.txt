@@ -1,0 +1,20 @@
+### Keywords ###
+From the Abstract and Keywords, the following disease-related terms are identified:
+- "hepatocellular carcinoma (HCC)"
+- "tumor microenvironment"
+- "fetal development"
+- "onco-fetal reprogramming"
+### Verify ###
+The Abstract explicitly mentions "hepatocellular carcinoma (HCC)" and discusses the tumor microenvironment, fetal development, and onco-fetal reprogramming. These terms directly correspond to diseases listed in the schema:
+- "Hepatocellular Carcinoma"
+- "Cancer" (since HCC is a type of cancer)
+- "Embryo development" (related to fetal development)
+### Context ###
+The context of the study involves comparing human fetal liver, hepatocellular carcinoma, and mouse liver, focusing on the similarities in their cellular landscapes and signaling pathways. This context supports the identification of the diseases related to HCC and fetal development.
+### Conclusion ###
+Based on the explicit mentions and the context of the study, the relevant diseases are:
+- "Hepatocellular Carcinoma"
+- "Cancer"
+- "Embryo development"
+### Result ###
+['Hepatocellular Carcinoma', 'Cancer', 'Embryo development']

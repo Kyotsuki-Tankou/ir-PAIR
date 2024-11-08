@@ -1,0 +1,13 @@
+###Keywords###
+The abstract mentions "whole-brain spatial transcriptomics" and "molecular atlas" as key methods used. These terms suggest a focus on brain-related research.
+###Verify###
+The abstract states:
+- "We aimed to generate a systematic classification of the adult mouse brain based purely on the unbiased identification of spatially defining features by employing whole-brain spatial transcriptomics."
+- "The molecular information was sufficient to deduce the complex and detailed neuroanatomical organization of the brain."
+These statements verify that the research involves the adult mouse brain and molecular mapping.
+###Context###
+The context of the research is clearly centered around the adult mouse brain, which directly corresponds to the "Brain" item in the schema.
+###Conclusion###
+Given the direct focus on the adult mouse brain in the research described in the abstract, it is clear that the corresponding item in the schema is "Brain".
+###Result###
+['Brain']

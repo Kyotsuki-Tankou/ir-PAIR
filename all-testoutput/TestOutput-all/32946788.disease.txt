@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "human HSC development" and "humans" directly indicate the species involved, suggesting 'Homo sapiens'. Additionally, the context of "HSC development in humans" reinforces this.
+### Verify ###
+- The abstract mentions "to identify secreted signals underlying human HSC development" and "mechanisms driving HSC development in humans," which confirm that the species focused on in the study is 'Homo sapiens'.
+### Context ###
+No additional context is needed as the terms "human HSC development" and "humans" clearly specify the species involved.
+### Conclusion ###
+Since the keywords and the abstract both consistently point to 'Homo sapiens', we can confidently conclude that 'Homo sapiens' is the correct species.
+### Result ###
+['Homo sapiens']

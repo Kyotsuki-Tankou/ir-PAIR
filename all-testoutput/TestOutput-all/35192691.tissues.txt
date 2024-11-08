@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "human diabetic skin" and "endothelial cells," which suggest that 'Skin' may be a proper result.
+### Verify ###
+In the abstract, phrases like "we applied single-cell RNA sequencing (scRNA-seq) technology to study the endothelial cells of the human diabetic skin" and "Single-cell suspensions were generated from the human skin" further verify that 'Skin' is indeed a relevant and proper result.
+### Context ###
+There is no need for additional context as the abstract clearly and consistently focuses on the skin and its endothelial cells in the context of diabetic conditions.
+### Conclusion ###
+Consequently, we confirm 'Skin' as the final result based on the clear and direct references in the abstract.
+### Result ###
+['Skin']

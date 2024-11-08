@@ -1,0 +1,8 @@
+###Keywords###
+The abstract mentions "rheumatoid arthritis (RA) and spondyloarthritis (SpA)" and "Synovial biopsies," which suggest that the study involves human patients with these diseases. The species associated with these diseases is "Homo sapiens."
+###Verify###
+The abstract specifically states, "Synovial tissue biopsies from affected joints were studied," and it is clear that the subjects of the study are humans suffering from RA and SpA. This confirms that "Homo sapiens" is the correct species.
+###Conclusion###
+The study explicitly involves human patients with RA and SpA, and thus, the species involved in the study is Homo sapiens.
+###Result###
+['Homo sapiens']

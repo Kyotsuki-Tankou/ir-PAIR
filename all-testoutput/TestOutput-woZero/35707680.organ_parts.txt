@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "tumor microenvironment" suggests that 'Tumor' may be a relevant organ part.
+### Verify ###
+The phrase "localization of infiltrating T cell clones within the tumor microenvironment" in the Abstract further supports that 'Tumor' is indeed a relevant organ part.
+### Context ###
+Not required in this case as the Keywords and Verify steps align well and provide sufficient evidence.
+### Conclusion ###
+Consequently, we confirm 'Tumor' as the final result based on the clear and consistent references to the tumor microenvironment in the input.
+### Result ###
+['Tumor']

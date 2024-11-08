@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "spatially resolved transcriptome" and "high-resolution digitized in situ gene-expression profiles" are prominent, suggesting technologies related to spatial transcriptomics and RNA sequencing.
+### Verify ###
+The abstract mentions "spatially resolved transcriptome" and "high-resolution digitized in situ gene-expression profiles," which are indicative of technologies like 'Spatial Transcriptomics', 'Slide-seq', and 'RNA-seq'.
+### Context ###
+The abstract consistently discusses the use of high-resolution spatial transcriptomics to study gene expression profiles in the developing mouse embryo. There is no ambiguity in the context that would require additional information to confirm the technologies used.
+### Conclusion ###
+Based on the clear and consistent focus on spatially resolved transcriptomes and high-resolution gene expression profiles, we can confidently identify the relevant technologies.
+### Result ###
+['Spatial Transcriptomics', 'Slide-seq', 'RNA-seq']

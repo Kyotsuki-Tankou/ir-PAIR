@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Kidney"]
+null
+["scRNA", "Spatial Transcriptomics"]
+["Acute kidney injury"]
+ Abstract\nSepsis is a dynamic state that progresses at variable rates and has life-threatening consequences. Staging patients along the sepsis timeline requires a thorough knowledge of the evolution of cellular and molecular events at the tissue level. Here, we investigated the kidney, an organ central to the pathophysiology of sepsis. Single-cell RNA-sequencing in a murine endotoxemia model revealed the involvement of various cell populations to be temporally organized and highly orchestrated. Endothelial and stromal cells were the first responders. At later time points, epithelial cells upregulated immune-related pathways while concomitantly downregulating physiological functions such as solute homeostasis. Sixteen hours after endotoxin, there was global cell-cell communication failure and organ shutdown. Despite this apparent organ paralysis, upstream regulatory analysis showed significant activity in pathways involved in healing and recovery. This rigorous spatial and temporal definition of murine endotoxemia will uncover precise biomarkers and targets that can help stage and treat human sepsis. \n Keywords:acute kidney injury; human; immunology; inflammation; medicine; mouse; sepsis; single-cell RNA-seq.

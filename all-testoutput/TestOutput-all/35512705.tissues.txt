@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, the terms "mouse organogenesis," "dorsal midbrain," and "developing tissues" suggest the involvement of specific tissues. The keywords "brain" and "embryo" are directly mentioned and relevant to the schema.
+### Verify ###
+- From "dorsal midbrain" in the Abstract, we can verify that 'Brain' is indeed a proper result.
+- From the context of "mouse organogenesis" and "developing tissues," we can infer the involvement of 'Embryo'.
+### Context ###
+The Abstract discusses the creation of a spatiotemporal transcriptomic atlas during mouse organogenesis, which inherently involves embryonic tissues. The specific mention of "dorsal midbrain" further clarifies the involvement of brain tissue.
+### Conclusion ###
+Based on the clear mentions and contextual inference, we can confirm 'Brain' and 'Embryo' as the relevant tissues according to the schema.
+### Result ###
+['Brain', 'Embryo']

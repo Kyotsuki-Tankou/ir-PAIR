@@ -1,0 +1,10 @@
+### Keywords ###
+From "using scRNA-seq" in the Abstract and "Transcriptomics" in the Keywords, it indicates that 'scRNA' may be a proper result.
+### Verify ###
+From "Our study characterized ADPC and NEPC in prostate tumors from 7 patients using scRNA-seq" in the Abstract, we can further verify that 'scRNA' is indeed a proper result.
+### Context ###
+Not required in this case as the verification directly supports the result without ambiguity.
+### Conclusion ###
+Consequently, we confirm 'scRNA' as our final result.
+### Result ###
+['scRNA']

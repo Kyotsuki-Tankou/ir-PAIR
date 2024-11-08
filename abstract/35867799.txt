@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Skin"]
+null
+["Seq-Scope"]
+["Acne"]
+ Abstract\nAcne affects 1 in 10 people globally, often resulting in disfigurement. The disease involves excess production of lipids, particularly squalene, increased growth ofCutibacterium acnes, and a host inflammatory response with foamy macrophages. By combining single-cell and spatial RNA sequencing as well as ultrahigh-resolution Seq-Scope analyses of early acne lesions on back skin, we identified TREM2 macrophages expressing lipid metabolism and proinflammatory gene programs in proximity to hair follicle epithelium expressing squalene epoxidase. We established that the addition of squalene induced differentiation of TREM2 macrophages in vitro, which were unable to killC. acnes. The addition of squalene to macrophages inhibited induction of oxidative enzymes and scavenged oxygen free radicals, providing an explanation for the efficacy of topical benzoyl peroxide in the clinical treatment of acne. The present work has elucidated the mechanisms by which TREM2 macrophages and unsaturated lipids, similar to their involvement in atherosclerosis, may contribute to the pathogenesis of acne.

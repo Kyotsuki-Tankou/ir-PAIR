@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "vaping", "pulmonary injury", "lung tissue architecture", and "murine model". These keywords suggest a focus on respiratory system pathology and tissue changes in the lungs.
+### Verify ###
+The abstract specifically mentions:
+- "vaping-induced pulmonary injury"
+- "pathological changes to upper airway, lung tissue architecture, and cellular structure"
+- "increased parenchyma tissue density, cellular infiltrates proximal to airway passages, alveolar rarefaction, increased collagen deposition, and bronchial thickening with elastin fiber disruption"
+These points verify that the study is deeply involved in understanding the effects of vaping on the lung tissue and its architecture.
+### Context ###
+While the abstract does not explicitly use the term "Lung", it discusses extensive changes and injuries to the lung tissue due to vaping. The context clearly indicates that the primary tissue of interest is the lung.
+### Conclusion ###
+Given the focus on the pathological changes and injuries to the lung tissue, "Lung" is the most appropriate and direct match from the provided schema.
+### Result ###
+['Lung']

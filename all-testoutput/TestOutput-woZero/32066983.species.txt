@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "mouse SCN" (suprachiasmatic nucleus) and "mouse" suggest that the study is focused on the species "Mus musculus".
+### Verify ###
+The abstract explicitly mentions "We have used single-cell RNA-sequencing to identify the basic cell types in the mouse SCN," confirming that the species used in the study is indeed "Mus musculus".
+### Conclusion ###
+Given the clear mention of "mouse" multiple times in the context of the study, it is evident that "Mus musculus" is the correct species to be extracted.
+### Result ###
+["Mus musculus"]

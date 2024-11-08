@@ -1,0 +1,30 @@
+### Keywords ###
+- T cells
+- Cancer
+- Tumour immunity
+- Clonotypes
+- Deep single-cell sequencing
+- RNA
+- T cell receptors
+- Tumours
+- Normal adjacent tissue
+- Peripheral blood
+- Clonotypic expansion
+- Effector-like T cells
+- Anti-PDL1 therapy
+- Intratumoural T cells
+- Non-exhausted replacement cells
+- Cancer immunity cycle
+### Verify ###
+- Tumours
+- Normal adjacent tissue
+- Peripheral blood
+### Context ###
+The context of the paper revolves around the study of T cells in cancer patients, specifically focusing on their distribution and behavior in different tissues. The study employs deep single-cell sequencing to analyze T cells in tumours, normal adjacent tissue, and peripheral blood.
+### Conclusion ###
+The tissues relevant to the study are:
+- Tumours
+- Normal adjacent tissue
+- Peripheral blood
+### Result ###
+['Tumours', 'Normal adjacent tissue', 'Peripheral blood']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the key terms related to organ parts are "digit tip" and "mouse digit tip blastemas."
+### Verify ###
+The abstract mentions "mouse digit tip blastemas" and "unamputated control digit tips," which clearly indicates that the study focuses on the digit tips of mice.
+### Context ###
+The context of the study revolves around the regeneration of digit tips in mice, specifically focusing on the blastema and the cell types involved in this process. The term "mouse digit tip" directly corresponds to a specific part of the mouse anatomy.
+### Conclusion ###
+Based on the consistent mention of "mouse digit tip" and the specific focus on this organ part in the context of regeneration, we can conclude that the relevant organ part from the schema is "Mouse digit tip."
+### Result ###
+['Mouse digit tip']

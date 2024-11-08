@@ -1,0 +1,10 @@
+###Keywords###
+From the Keywords, we have "single-cell RNA sequencing (scRNA-seq)", "spatial transcriptomics", "primary pancreatic tumors", "ductal cells", "macrophages", "dendritic cells", "cancer cells", "inflammatory fibroblasts", and "stress-response gene module". These terms suggest a focus on specific tissues and cell types, particularly in the context of pancreatic tumors.
+###Verify###
+In the Abstract, we see mentions of "primary pancreatic tumors", "ductal cells", "macrophages", "dendritic cells", "cancer cells", and "inflammatory fibroblasts". These phrases indicate a focus on pancreatic tissue and associated cell types.
+###Context###
+Given the specific mention of "primary pancreatic tumors" and related cell types, we need to determine if these terms directly correspond to any items in the provided schema. The schema includes terms like "Pancreas" and "Tumor", which are directly related to the context mentioned in the Abstract.
+###Conclusion###
+The terms from the Keywords and the Abstract directly match specific items in the provided schema list. The most relevant terms are "Pancreas" and "Tumor".
+###Result###
+['Pancreas', 'Tumor']

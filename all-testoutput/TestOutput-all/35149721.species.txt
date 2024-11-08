@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, keywords such as "murine colon," "spatial transcriptomics," and "human diseases" are prominent. The term "murine" directly refers to mice.
+### Verify ###
+Upon reviewing the abstract, the term "murine colon" explicitly indicates the use of mice in the study. This directly corresponds to the species 'Mus musculus' in the schema.
+### Conclusion ###
+The explicit mention of "murine colon" clearly indicates that the species used in the study is 'Mus musculus'. There is no ambiguity in this identification.
+### Result ###
+['Mus musculus']

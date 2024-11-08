@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract discusses "AD mouse model," "amyloid plaques of Alzheimer's disease (AD)," and "mouse and human brain sections." These keywords suggest that the species involved could be 'Mus musculus' (mouse) and 'Homo sapiens' (human).
+### Verify ###
+The abstract states, "We investigate here, in an AD mouse model," which confirms the use of 'Mus musculus' as the mouse model for Alzheimer's disease. Additionally, the mention of "mouse and human brain sections" indicates that both 'Mus musculus' and 'Homo sapiens' are involved in the study.
+### Context ###
+The context of the study involves both mouse models and human brain tissue, so it is important to consider both species in the result.
+### Conclusion ###
+Based on the explicit references to both mouse and human brain tissue, we can conclude that both species are relevant to the study.
+### Result ###
+['Mus musculus', 'Homo sapiens']

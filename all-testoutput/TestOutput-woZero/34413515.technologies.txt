@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the terms "transcriptome changes" and "spatial transcriptomics" suggest the use of sequencing technologies. The term "spatial transcriptomics" directly matches one of the technologies in the schema.
+### Verify ###
+The abstract mentions "By sequencing ~80,000 astrocytes at single-cell resolution" and "using spatial transcriptomics and in situ hybridization," which confirms the use of "Spatial Transcriptomics" as a technology in this study.
+### Conclusion ###
+Based on the clear mention of "spatial transcriptomics" and the context of sequencing at single-cell resolution, we conclude that "Spatial Transcriptomics" is the technology used.
+### Result ###
+['Spatial Transcriptomics']

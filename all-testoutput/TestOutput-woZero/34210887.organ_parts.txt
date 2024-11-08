@@ -1,0 +1,8 @@
+###Keywords###
+From the input, the term "developing mouse embryos" stands out as a specific organ part mentioned.
+###Verify###
+The input explicitly states "Applying sci-Space to developing mouse embryos," which directly verifies the presence of "Mouse Embryo" as a relevant organ part.
+###Conclusion###
+Given the clear mention of "developing mouse embryos" in the context of applying the sci-Space technique, it is evident that "Mouse Embryo" is a relevant and accurate term to extract.
+###Result###
+['Mouse Embryo']

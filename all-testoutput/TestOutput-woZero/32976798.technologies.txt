@@ -1,0 +1,11 @@
+###Keywords###
+From the input, the terms "scRNA sequencing" and "Spatial transcriptomics" directly indicate the technologies used. These terms suggest that 'scRNA' and 'Spatial Transcriptomics' may be proper results.
+###Verify###
+- From "scRNA sequencing" in the Abstract, we can verify that 'scRNA' is indeed a proper result.
+- From "Spatial transcriptomics" in the Abstract, we can verify that 'Spatial Transcriptomics' is also a proper result.
+###Context###
+No additional context is needed as the terms "scRNA sequencing" and "Spatial transcriptomics" clearly specify the technologies involved.
+###Conclusion###
+Consequently, we confirm 'scRNA' and 'Spatial Transcriptomics' as our final results based on the clear and direct mentions in the Abstract.
+###Result###
+['scRNA', 'Spatial Transcriptomics']

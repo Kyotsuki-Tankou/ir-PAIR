@@ -1,0 +1,10 @@
+###Keywords###
+The abstract mentions "stem cell," "aortic microenvironment," "hematopoietic stem cells," and "development," which suggest a focus on developmental processes and stem cell biology.
+###Verify###
+The abstract discusses the "aortic microenvironment" where "the first hematopoietic stem cells are generated during development," indicating a focus on the development of the hematopoietic system. This verifies the relevance of terms like "Heart development" and "Embryo development" from the schema.
+###Context###
+The abstract provides a clear context of developmental processes and the generation of hematopoietic stem cells in the aortic microenvironment. This context is essential for understanding the relevance of the schema terms.
+###Conclusion###
+Based on the context provided by the abstract, we can conclude that the study's primary focus is on developmental processes, particularly those related to the generation of hematopoietic stem cells in the aortic microenvironment.
+###Result###
+['Heart development', 'Embryo development']

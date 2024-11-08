@@ -1,0 +1,8 @@
+###Keywords###
+From the phrase "human dorsolateral prefrontal cortex" in the Abstract, it indicates that 'Dorsolateral prefrontal cortex' may be a proper result.
+###Verify###
+The Abstract specifically mentions "the spatial topography of gene expression in the six-layered human dorsolateral prefrontal cortex" and "enhancing spatial annotation of expression-driven clusters in the dorsolateral prefrontal cortex," which further verifies that 'Dorsolateral prefrontal cortex' is indeed the organ part being studied.
+###Conclusion###
+Consequently, we confirm 'Dorsolateral prefrontal cortex' as our final result.
+###Result###
+['Dorsolateral prefrontal cortex']

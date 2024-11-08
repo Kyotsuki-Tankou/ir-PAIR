@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "mouse digit tip blastemas," "single-cell RNA sequencing," and "fibroblasts" suggest that the study involves the 'Mouse Embryo' and 'Femur' organ parts, possibly due to the regeneration of the digit tip, which is part of the limb.
+### Verify ###
+The abstract mentions "mouse digit tip blastemas," which directly points to a part of the limb. The digit tip is part of the 'Femur' in mice.
+### Context ###
+There is no mention of other organ parts in the context that would contradict the focus on the digit tip regeneration, which is a specific part of the limb.
+### Conclusion ###
+Based on the explicit mention of the digit tip and the understanding that digit tips are part of the 'Femur,' we can conclude that 'Femur' is the appropriate organ part.
+### Result ###
+['Femur']

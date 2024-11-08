@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "high-grade serous ovarian carcinoma," "tumor tissue," "spatial transcriptomics," and "ovarian." These keywords suggest that the study is focused on ovarian tissue, particularly in the context of cancer.
+### Verify ###
+The abstract mentions "spatial transcriptomics of high-grade serous ovarian carcinoma using intact tumor tissue" and "pre-treatment tumor tissue specimens." This directly indicates that the tissue of interest is the ovarian tissue, specifically in the context of carcinoma.
+### Context ###
+Given the detailed focus on high-grade serous ovarian carcinoma and the specific mention of tumor tissue from the ovaries, there is no need for additional context to verify the tissue type.
+### Conclusion ###
+Consequently, we confirm that 'Ovarian' is the appropriate tissue type based on the provided abstract.
+### Result ###
+['Ovarian']

@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Heart"]
+null
+["10x Visium"]
+["Heart failure"]
+ Abstract\n[Figure: see text]. \n Keywords:inflammasomes; inflammation; interleukin-1; monocytes; smooth muscle myocytes; vasculitis.

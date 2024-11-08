@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Ovarian"]
+null
+["scRNA"]
+["Normal atlas"]
+ Abstract\nIndividual cells are basic units of life. Despite extensive efforts to characterize the cellular heterogeneity of different organisms, cross-species comparisons of landscape dynamics have not been achieved. Here, we applied single-cell RNA sequencing (scRNA-seq) to map organism-level cell landscapes at multiple life stages for mice, zebrafish and Drosophila. By integrating the comprehensive dataset of > 2.6 million single cells, we constructed a cross-species cell landscape and identified signatures and common pathways that changed throughout the life span. We identified structural inflammation and mitochondrial dysfunction as the most common hallmarks of organism aging, and found that pharmacological activation of mitochondrial metabolism alleviated aging phenotypes in mice. The cross-species cell landscape with other published datasets were stored in an integrated online portal-Cell Landscape. Our work provides a valuable resource for studying lineage development, maturation and aging.

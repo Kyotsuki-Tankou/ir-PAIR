@@ -1,0 +1,12 @@
+### Keywords ###
+From the mention of "gastruloids" and "mouse embryos" in the Abstract, it suggests that 'Embryo' and 'Gastrula' might be relevant tissues.
+### Verify ###
+- **Embryo**: The Abstract mentions "mouse embryos" directly, indicating that 'Embryo' is a relevant tissue.
+- **Gastrula**: The term "gastruloids" refers to structures that mimic aspects of gastrulation, a key phase in embryonic development, suggesting that 'Gastrula' is also relevant.
+### Context ###
+- The study compares "mouse gastruloids with mouse embryos," explicitly involving both gastruloids and embryos.
+- Gastruloids are described as mimicking key features of mammalian development post-implantation, aligning with the concept of gastrulation.
+### Conclusion ###
+Given the direct mentions and the context of the study, both 'Embryo' and 'Gastrula' are appropriate tissues to be extracted from the input.
+### Result ###
+['Embryo', 'Gastrula']

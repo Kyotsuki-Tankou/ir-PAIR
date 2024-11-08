@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "mouse brain," "hippocampal neuroepithelium," and "microglia" are prominent. These suggest a focus on brain development and cellular lineage in mice.
+###Verify###
+The abstract specifically mentions "in the mouse brain" and "mouse hippocampal neuroepithelium," which clearly indicates the species and the specific brain regions being studied. The term "microglia" also points to a focus on brain cells.
+###Context###
+The abstract discusses "single-cell and spatial transcriptomics" and "reconstructing thousands of clones," which are techniques used to study cellular development and lineage. The mention of "microglia" and "primitive myeloid precursors" suggests a focus on immune cells within the brain.
+###Conclusion###
+The terms from the Keywords and the Abstract suggest a focus on brain development and cellular lineage, particularly in the context of the mouse brain. The closest related terms in the provided schema list are "Brain development" and "Microglia."
+###Result###
+['Brain development', 'Microglia']

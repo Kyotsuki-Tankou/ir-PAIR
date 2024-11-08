@@ -1,0 +1,14 @@
+### Keywords ###
+From the input, the keywords "colon," "liver," "injured liver," and "spatial transcriptome heterogeneity" suggest potential disease-related terms. 
+### Verify ###
+- "colon" and "liver" are mentioned in the context of tissue zonation and histological scales.
+- "injured liver" specifically indicates a disease state related to liver injury.
+- The overall context discusses spatial transcriptome heterogeneity, which can be related to various diseases but is not specific to one in the provided text.
+### Context ###
+- The mention of "inflammation-fibrosis (injured liver)" directly points to a disease state involving liver injury and fibrosis.
+- "colon" is mentioned in the context of crypt-surface axis, which could imply normal colon development or a disease state, but without explicit disease mention, it is less certain.
+- "liver" is mentioned in the context of portal-central axis, which could imply normal liver development or a disease state, but again, without explicit disease mention, it is less certain.
+### Conclusion ###
+Given the explicit mention of "injured liver," which aligns with "Liver injury" in the schema, this is the most definitive disease-related term.
+### Result ###
+['Liver injury']

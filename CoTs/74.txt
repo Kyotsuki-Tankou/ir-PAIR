@@ -1,0 +1,13 @@
+###schema###
+technologies:['CITE-seq', 'XYZeq', 'CUT&Tag', 'RNA-seq', 'STARmap', 'DBiT-seq', 'scATAC-seq', 'scRNA', 'EASI-FISH', 'PIC-seq', 'sci-Space', 'sciMAP-ATAC-seq', 'Slide-seqV2', 'Spatial Transcriptomics', 'seqFish', 'seqFISH+', 'Stereo-Seq', '10x Visium', ' RNA-seq', 'scATAC', 'LCM-seq', 'Tomo-seq', 'Proximity RNA-seq', 'sci-ATAC-seq', 'ClampFISH', 'VINE-seq', 'snRNA', 'HDST', 'GeoMx DSP', 'Seq-Scope', 'APEX-seq', 'RNAseq', 'MERFISH', 'ClumpSeq', 'Geo-seq', 'Slide-seq']
+###input###
+ Abstract
+Paralysis occurring in amyotrophic lateral sclerosis (ALS) results from denervation of skeletal muscle as a consequence of motor neuron degeneration. Interactions between motor neurons and glia contribute to motor neuron loss, but the spatiotemporal ordering of molecular events that drive these processes in intact spinal tissue remains poorly understood. Here, we use spatial transcriptomics to obtain gene expression measurements of mouse spinal cords over the course of disease, as well as of postmortem tissue from ALS patients, to characterize the underlying molecular mechanisms in ALS. We identify pathway dynamics, distinguish regional differences between microglia and astrocyte populations at early time points, and discern perturbations in several transcriptional pathways shared between murine models of ALS and human postmortem spinal cords.Let's think step by step.
+###Keywords###
+From the abstract, the term "spatial transcriptomics" is explicitly mentioned, indicating that 'Spatial Transcriptomics' may be a proper result.
+###Verify###
+The abstract states, "Here, we use spatial transcriptomics to obtain gene expression measurements of mouse spinal cords over the course of disease, as well as of postmortem tissue from ALS patients," which directly verifies the use of 'Spatial Transcriptomics' technology.
+###Conclusion###
+Since the term 'Spatial Transcriptomics' is both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that 'Spatial Transcriptomics' is the appropriate technology used.
+###Result###
+['Spatial Transcriptomics']

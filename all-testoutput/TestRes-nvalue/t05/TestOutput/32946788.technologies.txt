@@ -1,0 +1,10 @@
+###Keywords###
+The keywords "spatial transcriptomics" and "single cell transcriptome" suggest that the study may have employed technologies related to spatial transcriptomics and single-cell RNA sequencing.
+###Verify###
+The abstract mentions "we combined spatial transcriptomics analysis of dorsoventral polarized signaling in the aorta with gene expression profiling of sorted cell populations and single cells." This indicates the use of spatial transcriptomics technology.
+###Context###
+The context does not provide additional details about the specific technology used for spatial transcriptomics or single-cell RNA sequencing. However, the mention of spatial transcriptomics analysis and gene expression profiling is consistent with the use of technologies that are capable of such analyses.
+###Conclusion###
+Given the context and the mention of spatial transcriptomics analysis, it is reasonable to conclude that a technology related to spatial transcriptomics was used. The abstract does not provide enough information to determine the exact technology used for single-cell RNA sequencing.
+###Result###
+['Spatial Transcriptomics']

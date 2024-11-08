@@ -1,0 +1,13 @@
+###schema###
+species:['Canis lupus familiaris', 'Arabidopsis thaliana', 'Xenopus tropicalis', 'Maize', 'Drosophila melanogaster', 'Danio rerio', 'Ambystoma mexicanum', 'Gallus gallus', 'Homo sapiens', 'Rattus norvegicus', 'Mus musculus', 'Macaca fascicularis', 'Glycine max', 'Xenopus laevis', 'Caenorhabditis elegans', 'Oryctolagus cuniculus', 'Phalaenopsis aphrodite', 'Sus scrofa']
+###input###
+ Abstract
+Paralysis occurring in amyotrophic lateral sclerosis (ALS) results from denervation of skeletal muscle as a consequence of motor neuron degeneration. Interactions between motor neurons and glia contribute to motor neuron loss, but the spatiotemporal ordering of molecular events that drive these processes in intact spinal tissue remains poorly understood. Here, we use spatial transcriptomics to obtain gene expression measurements of mouse spinal cords over the course of disease, as well as of postmortem tissue from ALS patients, to characterize the underlying molecular mechanisms in ALS. We identify pathway dynamics, distinguish regional differences between microglia and astrocyte populations at early time points, and discern perturbations in several transcriptional pathways shared between murine models of ALS and human postmortem spinal cords.Let's think step by step.
+### Keywords ###
+From the abstract, the term "mouse spinal cords" directly indicates the species 'Mus musculus'.
+### Verify ###
+The abstract mentions "gene expression measurements of mouse spinal cords" and "murine models of ALS," which further confirm that the species used in the study is 'Mus musculus'.
+### Conclusion ###
+Since the keywords and the abstract both consistently point to 'Mus musculus', we can confidently conclude that 'Mus musculus' is the correct species.
+### Result ###
+['Mus musculus']

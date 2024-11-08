@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the primary focus is on "prostate cancer," "prostate biopsies," "prostatectomy specimens," and "prostate epithelial cells." These terms directly indicate the tissue of interest.
+### Verify ###
+The Abstract specifically mentions "prostate cancer," "prostate biopsies," "prostatectomy specimens," and "prostate epithelial cells," which all point to the "Prostate" tissue.
+### Context ###
+Given the clear and consistent focus on the prostate throughout the Abstract, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm that "Prostate" is the appropriate result based on the provided schema and input.
+### Result ###
+["Prostate"]

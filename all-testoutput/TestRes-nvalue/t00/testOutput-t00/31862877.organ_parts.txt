@@ -1,0 +1,40 @@
+### Keywords ###
+- Heart failure (HF)
+- Circulating proteins
+- Aptamer-based proteomics
+- Immunological pathways
+- Complement pathways
+- Coagulation pathways
+- Natriuretic pathways
+- Matrix remodeling pathways
+- Coronary sinus samples
+- Transcriptomic tools
+- Cardiac origins
+- Specific cellular origins
+- Nt-proBNP
+- Thrombospondin-2
+- Interleukin-18 receptor
+- Gelsolin
+- Activated C5
+### Verify ###
+- Heart failure (HF): Mentioned as the main focus.
+- Circulating proteins: Mentioned as the subject of study.
+- Aptamer-based proteomics: Mentioned as the method used.
+- Immunological, complement, coagulation, natriuretic, and matrix remodeling pathways: Mentioned as pathways studied.
+- Coronary sinus samples: Mentioned as a source of samples.
+- Transcriptomic tools: Mentioned as tools used.
+- Cardiac origins, specific cellular origins: Mentioned in the context of protein origins.
+- Nt-proBNP, thrombospondin-2, interleukin-18 receptor, gelsolin, activated C5: Mentioned as specific proteins studied.
+### Context ###
+The paper focuses on the systematic characterization of circulating proteins in different stages of heart failure (HF) using aptamer-based proteomics. It explores various pathways and identifies specific proteins, their origins, and changes across different stages of HF, including post-heart transplantation.
+### Conclusion ###
+The paper primarily deals with heart-related tissues and proteins. The specific organ parts mentioned or implied are related to the heart and its associated systems.
+### Result ###
+- Heart
+- Coronary sinus samples
+- Cardiac origins
+- Specific cellular origins
+Since the schema provided does not explicitly match these terms but "Heart" is a direct match, the extracted items based on the schema would be:
+```json
+["Heart"]
+```

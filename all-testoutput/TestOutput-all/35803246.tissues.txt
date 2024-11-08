@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "Melanoma brain metastasis (MBM)," "brain," and "extracranial melanoma metastases (ECMs)." This suggests that 'Brain' and possibly 'Tumor' are relevant tissues.
+### Verify ###
+The abstract specifically mentions "Melanoma brain metastasis (MBM)" and "brain," which directly verifies that the study is focused on the brain tissue. Additionally, the context of metastasis and tumor biology suggests that 'Tumor' is also a relevant tissue.
+### Context ###
+The study is centered around melanoma brain metastasis, which involves both brain tissue and tumor tissue. The detailed analysis of cancer cells and immune responses within the brain metastasis further supports the inclusion of both 'Brain' and 'Tumor' tissues.
+### Conclusion ###
+Based on the verification and context, we can conclude that both 'Brain' and 'Tumor' are appropriate tissue types based on the given input.
+### Result ###
+['Brain', 'Tumor']

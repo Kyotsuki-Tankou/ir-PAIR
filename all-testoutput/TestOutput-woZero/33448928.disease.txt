@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords "acute kidney injury; human; immunology; inflammation; medicine; mouse; sepsis; single-cell RNA-seq," the term "acute kidney injury" directly corresponds to a disease listed in the schema.
+### Verify ###
+In the Abstract, phrases like "investigated the kidney," "temporally organized and highly orchestrated cellular and molecular events in the kidney," and "global cell-cell communication failure and organ shutdown in the kidney" confirm the focus on kidney-related pathophysiology, specifically "acute kidney injury."
+### Context ###
+The context of the study revolves around the kidney's response to sepsis in a murine model, emphasizing the temporal changes and cellular responses, which aligns with the concept of "acute kidney injury."
+### Conclusion ###
+Since "acute kidney injury" is explicitly mentioned in both the Keywords and the Abstract, and the context supports this focus, it is clear that "acute kidney injury" is the appropriate disease to extract from the input.
+### Result ###
+['acute kidney injury']

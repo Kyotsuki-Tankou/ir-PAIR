@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the terms "gastruloids," "embryonic stem cells," "mammalian development," "germ-layer specification," "axial organization," "mouse embryos," and "somitogenesis" are prominent. These terms suggest a focus on developmental biology and embryonic tissues.
+### Verify ###
+The Abstract mentions "mouse gastruloids with mouse embryos using single-cell RNA sequencing and spatial transcriptomics," indicating a primary focus on embryonic structures. The terms "embryonic cell types" and "somitogenesis" further verify the focus on embryonic development.
+### Context ###
+The Abstract does not mention any other specific tissues from the schema except for embryonic-related structures. The comparison between gastruloids and embryos reinforces the focus on embryonic development.
+### Conclusion ###
+Based on the consistent focus on embryonic development and the specific mention of "mouse embryos," we can conclude that 'Embryo' is the relevant tissue from the schema.
+### Result ###
+['Embryo']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "humans," "human embryonic cardiac cell types," and "human developing heart." This suggests that 'Homo sapiens' may be the proper result.
+### Verify ###
+The abstract mentions "The process of cardiac morphogenesis in humans" and "Human embryonic cardiac cell types," which directly verifies that the study is focused on human species. This further supports that 'Homo sapiens' is the proper result.
+### Context ###
+Since the verification step directly confirms the presence of human species without ambiguity, there is no need for additional context to clarify the species type.
+### Conclusion ###
+Consequently, we confirm that 'Homo sapiens' is the appropriate species based on the given input.
+### Result ###
+['Homo sapiens']

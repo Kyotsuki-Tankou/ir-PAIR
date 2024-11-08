@@ -1,0 +1,29 @@
+### Keywords ###
+- Alzheimer’s disease
+- amyloid plaque
+- astrocyte
+- cellular phase
+- complement cascade
+- in situ sequencing
+- microglia
+- myelination
+- oligodendrocyte
+- spatial transcriptomics
+### Verify ###
+- Alzheimer’s disease: Mentioned in the abstract as the primary focus.
+- amyloid plaque: Described as the central feature around which changes are observed.
+- astrocyte, microglia, oligodendrocyte: These cell types are implied by the context of brain tissue and myelination.
+- cellular phase: Implied by the discussion of cellular interactions and changes.
+- complement cascade: Mentioned in the context of plaque-induced genes (PIGs).
+- in situ sequencing: Used as a method to confirm alterations.
+- myelination: Mentioned in relation to early alterations in gene co-expression networks.
+- spatial transcriptomics: Used as the primary method of investigation.
+### Context ###
+- The study focuses on molecular changes and cellular interactions around amyloid plaques in Alzheimer's disease.
+- Early alterations involve myelin and oligodendrocyte genes, while later phases involve a multicellular network including the complement system, oxidative stress, lysosomes, and inflammation.
+- The study uses spatial transcriptomics and in situ sequencing to analyze these changes.
+### Conclusion ###
+- The primary disease focus is Alzheimer's disease.
+- Other relevant terms include amyloid plaque, astrocyte, microglia, oligodendrocyte, and related processes like myelination and complement cascade.
+### Result ###
+- ["Alzheimer’s disease", "amyloid plaque", "astrocyte", "microglia", "oligodendrocyte", "myelination", "complement cascade"]

@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "adult mouse brain," "whole-brain spatial transcriptomics," "isocortex," "hippocampus," "striatum," and "neuroanatomical organization." These terms suggest a focus on brain structure and function but do not directly mention a specific disease.
+### Verify ###
+Upon reviewing the abstract, there is no explicit mention of any disease state. The study appears to be focused on creating a molecular atlas of the adult mouse brain, which is more about understanding normal brain structure and function rather than studying a particular disease.
+### Context ###
+The context of the study is clearly about mapping the normal adult mouse brain using spatial transcriptomics. Terms like "systematic classification," "spatially defining features," and "molecular atlas" further reinforce that the study is centered on normal brain anatomy and not on any pathological condition.
+### Conclusion ###
+Given the absence of any disease-specific terms and the clear focus on normal brain structure and function, we conclude that the study does not involve any of the diseases listed in the schema.
+### Result ###
+null

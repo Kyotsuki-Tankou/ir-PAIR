@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keyword that stands out in relation to the schema is "single-cell RNA sequencing (scRNA-seq)."
+### Verify ###
+The abstract explicitly mentions "single-cell RNA sequencing (scRNA-seq) technology to study the endothelial cells of the human diabetic skin," which directly verifies the use of scRNA-seq technology.
+### Context ###
+The context of the study involves using scRNA-seq to analyze endothelial cells in human diabetic skin, further confirming the application of this technology.
+### Conclusion ###
+Given the clear mention and context, we confirm that 'scRNA' (as scRNA-seq is often abbreviated) is the appropriate technology based on the given input.
+### Result ###
+['scRNA']

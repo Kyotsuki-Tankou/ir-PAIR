@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the term "colon" is explicitly mentioned multiple times, indicating that 'Colon' is a key tissue involved in the study.
+###Verify###
+- The abstract states: "we use spatial transcriptomics to define how the transcriptomic landscape is spatially organized in the steady state and healing murine colon," which directly verifies the presence of 'Colon'.
+###Context###
+- No additional context is needed as the abstract clearly and repeatedly mentions the specific tissue, 'Colon', where the study was conducted.
+###Conclusion###
+Consequently, we confirm 'Colon' as our final result based on the explicit and consistent mentions in the abstract.
+###Result###
+['Colon']

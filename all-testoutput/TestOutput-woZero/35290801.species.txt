@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, we see "mouse model of lung cancer" and "Mus musculus" is the scientific name for mice.
+### Verify ###
+In the Abstract, it is stated that "we applied Perturb-map to knock out dozens of genes in parallel in a mouse model of lung cancer." This directly indicates the use of a mouse model, which corresponds to "Mus musculus."
+### Context ###
+The context is clear as the Abstract explicitly mentions the use of a mouse model for lung cancer studies. There is no ambiguity regarding the species used.
+### Conclusion ###
+Based on the explicit mention of a mouse model in both the Keywords and the Abstract, it is clear that "Mus musculus" is the species used in the study.
+### Result ###
+["Mus musculus"]

@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, the terms "high-grade serous ovarian cancer (HGSOC)" and "ovarian tissues" are mentioned, which suggest that 'Ovarian' may be a relevant result.
+### Verify ###
+The abstract specifically states:
+- "The heterogeneity of high-grade serous ovarian cancer (HGSOC) is not well studied"
+- "tumors of 7 treatment-naïve patients with HGSOC"
+- "nonmalignant ovarian samples"
+These statements directly verify the presence of 'Ovarian' tissue in the context of the study.
+### Context ###
+Given the direct mention of ovarian cancer and ovarian tissues in the abstract, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm 'Ovarian' as the appropriate result based on the explicit references in the abstract.
+### Result ###
+["Ovarian"]

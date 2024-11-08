@@ -1,0 +1,8 @@
+###Keywords###
+From the Abstract, the technology mentioned is "Tomo-Seq."
+###Verify###
+The Abstract explicitly states, "Using Tomo-Seq, genome-wide transcriptional profiling with high spatial resolution, we created transmural epicardial-to-endocardial gene expression atlases of explanted ACM hearts to gain molecular insights into disease-driving processes." This clearly indicates the use of Tomo-Seq technology.
+###Conclusion###
+Given the direct mention and application of Tomo-Seq in the study, it is confirmed as the relevant technology.
+###Result###
+['Tomo-Seq']

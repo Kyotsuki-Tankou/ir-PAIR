@@ -1,0 +1,8 @@
+### Keywords ###
+The terms "single-cell RNA sequencing" and "spatial transcriptomics" are mentioned in the abstract, indicating that these technologies might be relevant. Therefore, 'scRNA' and 'Spatial Transcriptomics' could be the proper results.
+### Verify ###
+The abstract states, "Here we compare mouse gastruloids with mouse embryos using single-cell RNA sequencing and spatial transcriptomics," which confirms that 'scRNA' and 'Spatial Transcriptomics' are indeed the technologies used in the study.
+### Conclusion ###
+Since the keywords and the verify step both confirm 'scRNA' and 'Spatial Transcriptomics', we can conclude that these are the appropriate technologies.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

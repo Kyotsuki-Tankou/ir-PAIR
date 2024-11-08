@@ -1,0 +1,10 @@
+### Keywords ###
+From "human liver", "fetal liver", "HCC", and "mouse liver" in the Abstract, it indicates that 'Liver tissue', 'Fetal liver', and 'Mouse liver' may be proper results.
+### Verify ###
+1. **Liver tissue**: From "We employed scRNA sequencing to extensively characterize the cellular landscape of human liver" and "In a cross-species comparative analysis, we discovered remarkable similarity between mouse embryonic, fetal-liver, and tumor macrophages" in the Abstract, we can verify that 'Liver tissue' is indeed a relevant organ part.
+2. **Fetal liver**: From "Analysis of ∼212,000 cells representing human fetal, hepatocellular carcinoma (HCC), and mouse liver revealed remarkable fetal-like reprogramming of the tumor microenvironment" and "Spatial transcriptomics further revealed a shared onco-fetal ecosystem between fetal liver and HCC" in the Abstract, we can verify that 'Fetal liver' is indeed a relevant organ part.
+3. **Mouse liver**: From "In a cross-species comparative analysis, we discovered remarkable similarity between mouse embryonic, fetal-liver, and tumor macrophages" in the Abstract, we can verify that 'Mouse liver' is indeed a relevant organ part.
+### Conclusion ###
+Consequently, we choose 'Liver tissue', 'Fetal liver', and 'Mouse liver' as our final results.
+### Result ###
+['Liver tissue', 'Fetal liver', 'Mouse liver']

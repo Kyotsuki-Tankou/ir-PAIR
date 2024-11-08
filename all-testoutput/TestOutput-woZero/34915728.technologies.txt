@@ -1,0 +1,11 @@
+###Keywords###
+From the abstract, the terms "RNA sequencing," "single-cell RNA sequencing," and "spatial transcriptomics" are mentioned, suggesting potential matches with 'RNA-seq', 'scRNA', and 'Spatial Transcriptomics' from the schema.
+###Verify###
+- "RNA sequencing and chromatin immunoprecipitation deep sequencing were performed to identify direct transcriptional targets of PRDM16 in cardiomyocytes." This statement clearly indicates the use of 'RNA-seq'.
+- "Single-cell RNA sequencing in combination with spatial transcriptomics was used to determine cardiomyocyte identity at the single-cell level." This statement verifies the use of both 'scRNA' and 'Spatial Transcriptomics'.
+###Context###
+The abstract explicitly mentions "RNA sequencing," "single-cell RNA sequencing," and "spatial transcriptomics," directly corresponding to 'RNA-seq', 'scRNA', and 'Spatial Transcriptomics' in the schema. There is no ambiguity or need for additional context to verify these results.
+###Conclusion###
+Based on the clear and direct mentions of the technologies used in the abstract, we can confidently conclude that 'RNA-seq', 'scRNA', and 'Spatial Transcriptomics' are the appropriate technologies to be extracted according to the schema.
+###Result###
+['RNA-seq', 'scRNA', 'Spatial Transcriptomics']

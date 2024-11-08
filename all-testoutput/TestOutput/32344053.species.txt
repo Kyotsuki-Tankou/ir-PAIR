@@ -1,0 +1,10 @@
+### Keywords
+From the abstract, the terms "atopic dermatitis (AD)" and "single-cell RNA sequencing" are mentioned, suggesting that 'Homo sapiens' may be a proper result as it refers to human studies.
+### Verify
+The abstract explicitly states that the study involves human subjects: "We sought to characterize AD on both transcriptomic and proteomic levels in humans." This confirms that 'Homo sapiens' is the correct species for the study.
+### Context
+The study involves analyzing skin samples and interstitial fluid from humans with atopic dermatitis, which provides further context supporting that the species is 'Homo sapiens'.
+### Conclusion
+Based on the keywords, verification, and contextual clues, we can conclude that 'Homo sapiens' is the correct species for the study.
+### Result
+['Homo sapiens']

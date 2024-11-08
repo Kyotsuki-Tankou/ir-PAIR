@@ -1,0 +1,21 @@
+### Keywords ###
+- Gastruloids
+- Embryonic stem cells
+- Mammalian development
+- Mouse
+- Single-cell RNA sequencing
+- Spatial transcriptomics
+- Embryonic cell types
+- Somitogenesis
+- Live imaging
+- FGF signalling
+- Matrigel
+- Somites
+- Rostral-caudal patterning
+- Anterior-to-posterior direction
+### Verify ###
+- **Species Mentioned:** Mouse (Mus musculus)
+### Conclusion ###
+- The study focuses on mouse gastruloids and their comparison with mouse embryos.
+### Result ###
+- ["Mus musculus"]

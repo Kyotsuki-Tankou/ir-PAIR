@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "Mus musculus" (mouse) is not directly mentioned. However, the context of the study involves the development of the kidney and upper urinary tract, which is commonly studied in model organisms like mice.
+### Verify ###
+The abstract discusses "the nephric duct, an epithelial duct derived from the intermediate mesoderm of the embryo," which is a typical focus in mouse developmental biology. Additionally, the use of technologies like "single cell RNA-seq" and "Cluster RNA-seq" are commonly applied in mouse studies.
+### Context ###
+Given the absence of direct mentions of "Mus musculus," we need to ensure that no other species from the schema better fits the described context. The detailed description of the nephric duct and ureteric bud development strongly aligns with mouse developmental biology. Other species like "Rattus norvegicus" (rat) could also be considered, but the specific methodologies and focus on intermediate mesoderm are more characteristic of mouse studies.
+### Conclusion ###
+Based on the context and the specific details mentioned in the abstract, "Mus musculus" is the most appropriate species that matches the described study. Therefore, we conclude that "Mus musculus" is the correct result.
+### Result ###
+['Mus musculus']

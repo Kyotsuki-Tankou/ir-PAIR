@@ -1,0 +1,13 @@
+### Keywords ###
+From the abstract, the primary focus is on "heart failure (HF)" and related cardiac functions. Terms like "heart," "coronary sinus samples," and "cardiac origins" are relevant.
+### Verify ###
+- "Heart failure (HF)" directly suggests involvement of the "Heart."
+- "coronary sinus samples" further emphasize the cardiac context.
+- "cardiac and specific cellular origins" reinforce the focus on the "Heart."
+### Context ###
+- The abstract discusses the systematic characterization of circulating proteins in the context of heart failure.
+- The use of coronary sinus samples and the mention of cardiac origins indicate a strong focus on the heart tissue.
+### Conclusion ###
+Given the clear and consistent focus on the heart and its functions throughout the abstract, "Heart" is the most relevant tissue mentioned.
+### Result ###
+['Heart']

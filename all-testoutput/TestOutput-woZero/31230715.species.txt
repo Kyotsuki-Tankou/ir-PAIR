@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "human transcriptome" indicates that 'Homo sapiens' may be a proper result.
+### Verify ###
+- The abstract mentions "APEX-seq in nine distinct subcellular locales produced a nanometer-resolution spatial map of the human transcriptome," which directly refers to 'Homo sapiens'.
+### Conclusion ###
+Given the explicit mention of "human transcriptome," we can confidently conclude that 'Homo sapiens' is the relevant species.
+### Result ###
+['Homo sapiens']

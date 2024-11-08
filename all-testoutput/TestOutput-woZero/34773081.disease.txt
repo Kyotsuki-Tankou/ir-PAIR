@@ -1,0 +1,10 @@
+###Keywords###
+The abstract mentions "Skeletal muscle repair," "myogenic stem and progenitor cells," and "muscle injury response," which suggest relevance to diseases related to muscle regeneration and repair.
+###Verify###
+The terms "muscle repair," "myogenesis," and "muscle injury" directly imply a focus on muscle-related conditions. From the schema, "Muscle regeneration" and "Tissue repair" are directly relevant.
+###Context###
+The abstract does not mention any other specific diseases from the schema. The focus is entirely on the processes of muscle repair and regeneration.
+###Conclusion###
+Given the clear focus on muscle repair and regeneration, we can confidently conclude that "Muscle regeneration" and "Tissue repair" are the relevant diseases from the schema.
+###Result###
+['Muscle regeneration', 'Tissue repair']

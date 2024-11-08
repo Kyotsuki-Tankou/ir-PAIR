@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the terms "myocardium," "fibro-fatty cells," "cardiomyocytes," and "heart" are relevant to the tissues being studied.
+###Verify###
+The abstract specifically mentions "explanted ACM hearts" and "transmural epicardial-to-endocardial gene expression atlases of explanted ACM hearts," which verifies that the primary tissue being studied is the "Heart."
+###Conclusion###
+Based on the clear mention of "heart" in multiple contexts within the abstract, we can confirm "Heart" as the tissue being studied.
+###Result###
+['Heart']

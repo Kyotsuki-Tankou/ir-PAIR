@@ -1,0 +1,11 @@
+### Keywords ###
+The abstract mentions "tumours, normal adjacent tissue, and peripheral blood," which indicates that 'Tumor' and 'Blood' may be proper results from the schema.
+### Verify ###
+- The abstract states "we survey the profiles of various populations of T cells and T cell receptors in tumours," which verifies 'Tumor' as a relevant tissue.
+- It also mentions "expanded clonotypes found in the tumour and normal adjacent tissue can also typically be detected in peripheral blood," verifying 'Blood' as another relevant tissue.
+### Context ###
+No additional context is needed as the verification directly supports the keywords.
+### Conclusion ###
+Based on the clear mentions in the abstract, we can conclude that 'Tumor' and 'Blood' are the appropriate tissues to be extracted.
+### Result ###
+['Tumor', 'Blood']

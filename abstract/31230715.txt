@@ -1,0 +1,6 @@
+["Homo sapiens"]
+null
+null
+["APEX-seq"]
+["Normal atlas"]
+ Abstract\nWe introduce APEX-seq, a method for RNA sequencing based on direct proximity labeling of RNA using the peroxidase enzyme APEX2. APEX-seq in nine distinct subcellular locales produced a nanometer-resolution spatial map of the human transcriptome as a resource, revealing extensive patterns of localization for diverse RNA classes and transcript isoforms. We uncover a radial organization of the nuclear transcriptome, which is gated at the inner surface of the nuclear pore for cytoplasmic export of processed transcripts. We identify two distinct pathways of messenger RNA localization to mitochondria, each associated with specific sets of transcripts for building complementary macromolecular machines within the organelle. APEX-seq should be widely applicable to many systems, enabling comprehensive investigations of the spatial transcriptome. \n Keywords:LADs; OXPHOS; UTRs; cycloheximide; motifs; nocodazole; retrotransposons; spatial transcriptomics; translation.

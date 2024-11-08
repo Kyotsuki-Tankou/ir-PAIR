@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, we do not see any specific species mentioned directly.
+### Verify ###
+In the Abstract, it is stated that "as demonstrated in mouse brain and primary breast cancer." This indicates the use of the species "Mus musculus."
+### Context ###
+The context clearly mentions "mouse brain," which directly refers to "Mus musculus." There is no ambiguity or need for further context as the species is explicitly mentioned.
+### Conclusion ###
+Based on the explicit mention in the Abstract, it is clear that "Mus musculus" is the species used in the study.
+### Result ###
+["Mus musculus"]

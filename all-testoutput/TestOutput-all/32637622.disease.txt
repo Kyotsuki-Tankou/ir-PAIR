@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "adult mouse brain," "isocortex," "hippocampus," and "striatum" are mentioned, indicating potential relevance to brain-related diseases or conditions.
+### Verify ###
+- The abstract focuses on the classification and molecular atlas of the adult mouse brain, specifically mentioning regions like isocortex, hippocampus, and striatum. This suggests a focus on brain structure and function rather than a specific disease.
+### Context ###
+- The study is about creating a molecular atlas for the brain, which is more about understanding the normal structure and function rather than studying a specific disease. The terms mentioned are related to brain regions rather than diseases.
+### Conclusion ###
+Given the context and focus on the normal neuroanatomical organization of the brain, the abstract does not explicitly mention any specific disease. Therefore, no disease from the schema can be directly linked to the content of the abstract.
+### Result ###
+null

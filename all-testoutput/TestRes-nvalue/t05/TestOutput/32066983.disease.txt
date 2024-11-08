@@ -1,0 +1,8 @@
+### Keywords ###
+The keywords from the abstract that are relevant to the schema include "ventral hypothalamus" and "suprachiasmatic nucleus (SCN)," which suggest that 'Brain Hypothalamus' may be a proper result.
+### Verify ###
+The abstract mentions "ventral hypothalamus" and "suprachiasmatic nucleus (SCN)" several times, indicating a focus on these brain regions. This verifies that 'Brain Hypothalamus' is a relevant result.
+### Conclusion ###
+Based on the consistent mention of the hypothalamus and SCN in the abstract, we conclude that 'Brain Hypothalamus' is the appropriate result.
+### Result ###
+['Brain Hypothalamus']

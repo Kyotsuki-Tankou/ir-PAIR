@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "tumours," "normal adjacent tissue," and "peripheral blood" are mentioned in the context of cancer and T cell distribution. These terms suggest that the study involves various tissue types related to cancer, but no specific organ part is directly mentioned.
+### Verify ###
+The abstract discusses T cell profiles in "tumours, normal adjacent tissue, and peripheral blood," but it does not specify particular organ parts like "Liver," "Lung," or "Breast." The focus is more on the general context of cancer and immune response rather than specific anatomical locations.
+### Context ###
+Given the lack of specific mention of organ parts and the focus on general cancer tissues and immune responses, it is challenging to pinpoint a specific organ part from the provided schema. The abstract does not provide enough detail to confidently assign any of the listed organ parts.
+### Conclusion ###
+Due to the absence of specific mentions of organ parts and the broad focus on cancer tissues and immune responses, we cannot conclusively identify any specific organ part from the schema based on the abstract provided.
+### Result ###
+null

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "single-cell RNA sequencing" is prominently mentioned, indicating that 'scRNA' may be a proper result.
+### Verify ###
+The abstract explicitly states "we present single-cell RNA sequencing of over 38,000 cells from mouse digit tip blastemas," which directly verifies the use of 'scRNA' technology.
+### Context ###
+The context of the study is focused on the detailed analysis of cell types and gene expression during digit tip regeneration, which aligns perfectly with the application of single-cell RNA sequencing technology. There is no ambiguity or need for additional context to confirm the technology used.
+### Conclusion ###
+Consequently, we confirm 'scRNA' as the final result based on the clear and consistent mention of single-cell RNA sequencing in the abstract.
+### Result ###
+['scRNA']

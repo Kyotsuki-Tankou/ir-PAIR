@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, the keywords that stand out are "mouse digit tip blastemas" and "unamputated control digit tips." These suggest that 'Blastema' and 'Digit tip' might be relevant organ parts.
+### Verify ###
+In the abstract, it is mentioned:
+- "mouse digit tip blastemas and unamputated control digit tips"
+This directly verifies that 'Blastema' and 'Digit tip' are indeed relevant organ parts.
+### Context ###
+Since the abstract explicitly mentions "mouse digit tip blastemas" and "unamputated control digit tips," there is no ambiguity or need for further context to verify these organ parts.
+### Conclusion ###
+Consequently, based on the explicit mention in the abstract, we choose 'Blastema' and 'Digit tip' as our final results. However, 'Digit tip' is not explicitly listed in the schema, but 'Blastema' is.
+### Result ###
+Given the schema and the explicit mention in the abstract, the correct result should be:
+['Blastema']

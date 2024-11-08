@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, keywords such as "Melanoma brain metastasis," "single-cell/nucleus RNA-seq," "Homo sapiens," and "patient-derived xenograft models" are prominent. The keyword "Homo sapiens" directly matches an item in the provided schema.
+###Verify###
+Upon reviewing the abstract, we see mentions of "patients with advanced melanoma" and "patient-derived MBM/ECM xenograft models," which strongly suggest that the species being studied is Homo sapiens.
+###Conclusion###
+The abstract clearly indicates that the study is focused on human patients with melanoma brain metastasis, confirming 'Homo sapiens' as the species being studied.
+###Result###
+['Homo sapiens']

@@ -1,0 +1,10 @@
+### Keywords ###
+The keywords extracted from the abstract include "gastric cancer," "organoid-based model," "GAN mice," "Wnt1," "COX2," "microsomal prostaglandin E synthase 1," "p53 knockout," "KRASG12V," "Wnt addiction," "Wnt-independent phenotype," "tumor-stroma interaction," "invasive tumors," "hypoxia," "liver metastasis," "spatial transcriptomics analysis," "stromal cells," "tumor invasive front," "hypoxia signaling," "angiogenesis," "cell migration," "phosphorylated ERK," "MAPK signaling," "MEK inhibitor," "trametinib," and "KRAS-mutated gastric cancer."
+### Verify ###
+The abstract directly mentions "gastric cancer," which is present in the schema under the organ_parts category. It also mentions "organoid-based model," which could be related to "Prostate epithelial organoids" or "Mouse Embryo" in the schema, but it is not explicitly stated. The focus on the stomach and gastric cancer in the abstract aligns with the "Gastric cancer" entry in the schema.
+### Context ###
+The context of the abstract is centered around the development and progression of gastric cancer using an organoid-based model derived from GAN mice. The study investigates the role of various genetic factors and tumor-stroma interactions in the progression of gastric cancer, particularly focusing on the metastatic potential and the influence of hypoxia.
+### Conclusion ###
+Given the explicit mention of "gastric cancer" in the abstract and the context of the study focusing on this type of cancer, we can conclude that "Gastric cancer" is the most relevant item from the schema corresponding to the input.
+### Result ###
+['Gastric cancer']

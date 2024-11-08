@@ -1,0 +1,10 @@
+### Keywords ###
+From the "Abstract" and "Keywords," the term "mouse digit tip blastemas" and "Mus musculus" are directly mentioned, indicating that 'Mus musculus' is a relevant species.
+### Verify ###
+The abstract explicitly states "single-cell RNA sequencing of over 38,000 cells from mouse digit tip blastemas," which directly verifies the use of 'Mus musculus' as the species studied.
+### Context ###
+Not required in this case as the verification directly supports the keyword.
+### Conclusion ###
+Given the explicit mention of "mouse digit tip blastemas," it is clear that 'Mus musculus' is the species being studied.
+### Result ###
+['Mus musculus']

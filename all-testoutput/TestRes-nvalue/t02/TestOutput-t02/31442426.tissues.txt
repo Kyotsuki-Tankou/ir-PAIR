@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, we have "APEX-Seq", "RNA localization", "proximity labeling", and "subcellular localization". These terms suggest a focus on cellular structures and processes rather than specific tissues.
+### Verify ###
+In the Abstract, we see mentions of "stress granules" and "transcripts in these complexes localize to specific regions of the cell". These phrases indicate a focus on subcellular structures and the spatial organization of the transcriptome within the cell.
+### Context ###
+Given the specific mention of "stress granules" and the emphasis on subcellular localization, we need to determine if these terms directly correspond to any items in the provided schema. The schema includes terms like "Stress granules" and "Cell line", which are somewhat related but not a direct match to traditional tissue types.
+### Conclusion ###
+The terms from the Keywords and the Abstract do not directly match most specific tissue items in the provided schema list. However, "Stress granules" is explicitly mentioned in both the Abstract and the schema, making it a precise match.
+### Result ###
+["Stress granules"]

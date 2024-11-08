@@ -1,0 +1,10 @@
+### Keywords ###
+The Abstract mentions "single-cell combinatorial indexing on Microbiopsies Assigned to Positions for the Assay for Transposase Accessible Chromatin, or sciMAP-ATAC." This directly indicates the use of 'sciMAP-ATAC-seq' as a technology.
+### Verify ###
+The Abstract clearly states the development and application of "sciMAP-ATAC" as a method for spatially resolved, single-cell profiling of chromatin states. This directly verifies the use of 'sciMAP-ATAC-seq'.
+### Context ###
+Since the Abstract explicitly describes the technology and its application, there is no need for additional context to verify the result.
+### Conclusion ###
+Based on the clear and direct mention of 'sciMAP-ATAC' in the Abstract, we can confidently conclude that 'sciMAP-ATAC-seq' is the technology used in this study.
+### Result ###
+['sciMAP-ATAC-seq']

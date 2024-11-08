@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Brain"]
+null
+["MERFISH"]
+["Normal atlas"]
+ Abstract\nThe hypothalamus controls essential social behaviors and homeostatic functions. However, the cellular architecture of hypothalamic nuclei-including the molecular identity, spatial organization, and function of distinct cell types-is poorly understood. Here, we developed an imaging-based in situ cell-type identification and mapping method and combined it with single-cell RNA-sequencing to create a molecularly annotated and spatially resolved cell atlas of the mouse hypothalamic preoptic region. We profiled ~1 million cells, identified ~70 neuronal populations characterized by distinct neuromodulatory signatures and spatial organizations, and defined specific neuronal populations activated during social behaviors in male and female mice, providing a high-resolution framework for mechanistic investigation of behavior circuits. The approach described opens a new avenue for the construction of cell atlases in diverse tissues and organisms.

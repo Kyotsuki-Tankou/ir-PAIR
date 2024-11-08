@@ -1,0 +1,10 @@
+###Keywords###
+From the keywords, we have "Alzheimer’s disease," "amyloid plaque," "astrocyte," "microglia," "myelination," "oligodendrocyte," and "spatial transcriptomics." These terms suggest a focus on Alzheimer's disease and its pathological features, as well as the use of spatial transcriptomics for analysis. However, none of these are technologies listed in the schema.
+###Verify###
+The abstract mentions "spatial transcriptomics" as the method used to analyze the transcriptional changes around amyloid plaques in an AD mouse model. This directly corresponds to the technology listed in the schema.
+###Context###
+Given the explicit mention of "spatial transcriptomics" in the abstract, we can conclude that this is the technology being used in the study.
+###Conclusion###
+Based on the context provided by the abstract, the technology used is "spatial transcriptomics," which matches one of the technologies listed in the schema.
+###Result###
+['Spatial Transcriptomics']

@@ -1,0 +1,8 @@
+### Keywords ###
+From the Abstract, the technologies mentioned are "single-cell RNA sequencing" and "spatial transcriptomics." These terms directly correspond to known technologies.
+### Verify ###
+The phrases "single-cell RNA sequencing" and "spatial transcriptomics" are explicitly mentioned in the Abstract. These terms are well-defined and commonly used in the field, providing strong evidence that these are the technologies employed in the study.
+### Conclusion ###
+Given the clear and explicit mention of "single-cell RNA sequencing" and "spatial transcriptomics" in the Abstract, we can confidently conclude that these are the correct technologies to be extracted.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

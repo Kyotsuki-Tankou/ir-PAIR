@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "human leprosy granulomas" directly indicates the species involved in the study.
+### Verify ###
+The Abstract mentions "human leprosy granulomas" and "leprosy biopsy specimens," which clearly verify that the study involves human subjects.
+### Context ###
+Not required in this case as the verification directly supports the keyword.
+### Conclusion ###
+Consequently, we choose 'Homo sapiens' as our final result.
+### Result ###
+['Homo sapiens']

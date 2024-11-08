@@ -1,0 +1,13 @@
+### Keywords ###
+- "deep single-cell sequencing of RNA and T cell receptors" suggests technologies like 'scRNA' and possibly 'scATAC-seq' if considering chromatin accessibility.
+- "survey the profiles of various populations of T cells and T cell receptors" implies detailed transcriptomic analysis.
+### Verify ###
+- "single-cell sequencing of RNA" directly points to 'scRNA'.
+- The mention of "T cell receptors" could imply a need for detailed transcriptomic and possibly epigenetic analysis, but the primary focus is on RNA sequencing.
+### Context ###
+- The abstract emphasizes "deep single-cell sequencing of RNA," which strongly indicates the use of single-cell RNA sequencing technology.
+- There is no explicit mention of other technologies like 'scATAC-seq', and the focus remains on RNA analysis.
+### Conclusion ###
+Based on the strong emphasis on single-cell RNA sequencing and the absence of conflicting information, 'scRNA' is confirmed as the relevant technology used in the study.
+### Result ###
+['scRNA']

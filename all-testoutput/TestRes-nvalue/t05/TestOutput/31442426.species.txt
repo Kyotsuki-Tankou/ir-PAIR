@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keywords "RNA localization" and "subcellular localization" suggest a focus on understanding the spatial organization of RNA within cells. There is no direct mention of a specific species in the keywords.
+### Verify ###
+The abstract does not provide any specific information about the species used in the study. However, it does mention that the technique developed (APEX-seq) is a "powerful and general approach to explore the spatial environment of macromolecules," which implies that the technique is not limited to a particular species.
+### Context ###
+Given the lack of species-specific information in both the abstract and the keywords, it is not possible to determine a specific species from the provided text.
+### Conclusion ###
+Without any clear indication of the species used in the study, we cannot match any of the species from the schema to the input abstract.
+### Result ###
+null

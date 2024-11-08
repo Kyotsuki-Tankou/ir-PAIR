@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "mouse embryo," "inner cell mass," "epiblast," "germ layers," "gastrulation," and "post-implantation development" are prominent. These suggest a focus on early embryonic development.
+###Verify###
+The abstract specifically mentions "post-implantation development of the mouse embryo" and "gastrulation," which directly correspond to 'Mouse Embryo' and 'Gastrulation' in the schema.
+###Context###
+The context of the abstract revolves around the early stages of mouse embryonic development, particularly focusing on the transition from naive to primed pluripotent states and the formation of germ layers during gastrulation. This aligns well with 'Mouse Embryo' and 'Gastrulation' without necessitating additional context.
+###Conclusion###
+Based on the clear references to mouse embryonic development and gastrulation, it is conclusive that 'Mouse Embryo' and 'Gastrulation' are the relevant organ parts according to the schema.
+###Result###
+["Mouse Embryo", "Gastrulation"]

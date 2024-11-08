@@ -1,0 +1,10 @@
+###Keywords###
+From the input, the term "mouse organogenesis" directly indicates the species involved. This term suggests that 'Mus musculus' may be a proper result.
+###Verify###
+- From "mouse organogenesis" in the Abstract, we can verify that 'Mus musculus' is indeed a proper result.
+###Context###
+No additional context is needed as the term "mouse organogenesis" clearly specifies the species involved.
+###Conclusion###
+Consequently, we confirm 'Mus musculus' as our final result based on the clear and direct mention in the Abstract.
+###Result###
+['Mus musculus']

@@ -1,0 +1,10 @@
+###Keywords###
+From the input, the term "Heart failure (HF)" directly indicates that 'Heart failure' may be a proper result.
+###Verify###
+From the Abstract, phrases like "Heart failure (HF)" and "application of aptamer-based proteomics to identify proteins associated with prospective HF incidence" further verify that 'Heart failure' is indeed a relevant disease type since the entire study focuses on heart failure and its associated proteins.
+###Context###
+Not required in this case as the Keywords and Verify steps align well and provide sufficient evidence.
+###Conclusion###
+Consequently, we confirm 'Heart failure' as the final result based on the clear and consistent references to heart failure in the input.
+###Result###
+['Heart failure']

@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "Atopic dermatitis (AD)", "transcriptomic and proteomic levels", "single-cell RNA sequencing", and "suction blistering". These keywords suggest a focus on skin disease and the application of advanced technologies to understand its pathogenesis.
+### Verify ###
+The abstract specifically mentions:
+- "Atopic dermatitis (AD) is the most common chronic inflammatory skin disease"
+- "we used skin suction blistering, a painless and nonscarring procedure that can simultaneously sample skin cells and interstitial fluid"
+- "Using single-cell RNA sequencing, we found comparable transcriptional profiles of key inflammatory pathways between blister and biopsy AD"
+These points verify that the study is indeed focused on AD and uses advanced technologies like single-cell RNA sequencing and proteomics to study its pathogenesis.
+### Context ###
+Given the direct mention of AD and the use of single-cell RNA sequencing, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm "Atopic dermatitis" as the appropriate result based on the explicit references in the abstract.
+### Result ###
+["Atopic dermatitis"]

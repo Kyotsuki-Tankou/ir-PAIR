@@ -1,0 +1,10 @@
+### Keywords ###
+The abstract mentions "murine model," which directly suggests the use of mice. This implies 'Mus musculus' might be the species used.
+### Verify ###
+The term "murine model" is explicitly used, which is a clear indicator that the species used in the study is 'Mus musculus'.
+### Context ###
+Since "murine model" is a specific term referring to mice, there is no need for additional context to verify the species.
+### Conclusion ###
+Given the explicit mention of "murine model," we can confidently conclude that 'Mus musculus' is the correct species used in the study.
+### Result ###
+['Mus musculus']

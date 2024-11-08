@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, the term "early acne lesions on back skin" suggests that the study is focused on human skin. This indicates that 'Homo sapiens' might be the relevant species.
+### Verify ###
+In the abstract, it is mentioned:
+- "Acne affects 1 in 10 people globally"
+- "early acne lesions on back skin"
+These statements directly verify that the study is conducted on humans, confirming 'Homo sapiens' as the relevant species.
+### Context ###
+Since the abstract explicitly mentions "people" and "back skin," there is no ambiguity or need for further context to verify the species.
+### Conclusion ###
+Consequently, based on the explicit mention in the abstract, we choose 'Homo sapiens' as our final result.
+### Result ###
+['Homo sapiens']

@@ -1,0 +1,13 @@
+### Keywords
+From the abstract, the terms "single-cell RNA sequencing" and "suction blistering" are mentioned, which suggest that 'single-cell RNA sequencing' and 'suction blistering' may be proper results.
+### Verify
+The abstract states:
+- "We used skin suction blistering, a painless and nonscarring procedure that can simultaneously sample skin cells and interstitial fluid."
+- "Using single-cell RNA sequencing, we found comparable transcriptional profiles of key inflammatory pathways between blister and biopsy AD."
+This verification confirms the use of 'single-cell RNA sequencing' and 'suction blistering' in the study.
+### Context
+The context is straightforward, as the methods section of the abstract directly mentions the use of both 'single-cell RNA sequencing' and 'suction blistering' for characterizing atopic dermatitis (AD).
+### Conclusion
+Consequently, we confirm both 'single-cell RNA sequencing' and 'suction blistering' as proper results based on the clear mention of their use in the study.
+### Result
+['single-cell RNA sequencing', 'suction blistering']

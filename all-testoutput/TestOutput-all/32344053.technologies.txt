@@ -1,0 +1,10 @@
+###Keywords###
+From the Keywords, we have "Olink proteomics", "atopic dermatitis", "single-cell RNA sequencing", and "suction blistering". These terms suggest the use of specific technologies and a focus on a particular skin condition.
+###Verify###
+In the Abstract, we see mentions of "single-cell RNA sequencing" and "suction blistering". These phrases indicate the use of specific technologies for studying atopic dermatitis.
+###Context###
+Given the specific mention of "single-cell RNA sequencing", we need to determine if this term directly corresponds to any items in the provided schema. The schema includes terms like "RNA-seq", "scRNA", and "scATAC-seq", which are related but not a direct match to "single-cell RNA sequencing".
+###Conclusion###
+The term "single-cell RNA sequencing" is closely related to "RNA-seq" and "scRNA" in the schema, but it is not an exact match. However, "RNA-seq" is a broader term that encompasses single-cell RNA sequencing. Therefore, we can conclude that "RNA-seq" is the most appropriate match based on the context provided.
+###Result###
+['RNA-seq']

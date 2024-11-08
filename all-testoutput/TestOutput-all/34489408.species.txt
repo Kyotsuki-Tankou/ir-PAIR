@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, phrases like "colorectal cancer (CRC) patients" and "liver metastases of CRC" suggest that the species involved is likely 'Homo sapiens'.
+### Verify ###
+The Abstract mentions "Metastasis is the primary cause of cancer-related mortality in colorectal cancer (CRC) patients" and "transcriptional landscape of primary CRC, matched liver metastases and blood at single-cell resolution." These statements strongly indicate that the study is focused on human patients, aligning with 'Homo sapiens'.
+### Context ###
+Upon reviewing the context, there are no additional clues that would suggest another species as the primary focus. The entire abstract centers around human colorectal cancer and its metastasis to the liver, reinforcing the focus on 'Homo sapiens'.
+### Conclusion ###
+Consequently, we choose 'Homo sapiens' as our final result.
+### Result ###
+['Homo sapiens']

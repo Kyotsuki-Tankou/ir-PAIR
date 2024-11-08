@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "whole-brain spatial transcriptomics" stands out as a key technology used in the study. This directly points towards 'Spatial Transcriptomics' as a potential result.
+### Verify ###
+The Abstract explicitly mentions "employing whole-brain spatial transcriptomics," which directly verifies that 'Spatial Transcriptomics' is indeed a technology used in the study.
+### Context ###
+Not required in this case as the verification directly supports the keyword.
+### Conclusion ###
+Based on the clear mention and verification, we can conclude that 'Spatial Transcriptomics' is the appropriate technology to be extracted.
+### Result ###
+['Spatial Transcriptomics']

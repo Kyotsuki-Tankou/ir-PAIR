@@ -1,0 +1,8 @@
+###Keywords###
+From the term "skin" in the Abstract, it indicates that 'Skin' may be a proper result.
+###Verify###
+The Abstract mentions "Atopic dermatitis (AD) is the most common chronic inflammatory skin disease," and "We used skin suction blistering," which further verifies that 'Skin' is indeed a proper result.
+###Conclusion###
+Consequently, we choose 'Skin' as our final result.
+###Result###
+['Skin']

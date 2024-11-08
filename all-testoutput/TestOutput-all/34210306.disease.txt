@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, key terms such as "cerebellar neurogenesis," "medulloblastoma," "development of granule cells," and "single-cell RNA sequencing" suggest that 'Cerebella development' and 'Medulloblastoma' are relevant diseases.
+### Verify ###
+The abstract explicitly mentions "cerebellar neurogenesis," "GNPs (granule neuron progenitors)," "medulloblastoma," and "developmental differentiation programs," which strongly indicate that 'Cerebella development' and 'Medulloblastoma' are the diseases being studied.
+### Context ###
+Since the abstract directly references "medulloblastoma" and the development of cerebellar granule cells, there is no need for additional context to verify the diseases.
+### Conclusion ###
+Consequently, we confirm that 'Cerebella development' and 'Medulloblastoma' are the correct diseases studied in the paper.
+### Result ###
+['Cerebella development', 'Medulloblastoma']

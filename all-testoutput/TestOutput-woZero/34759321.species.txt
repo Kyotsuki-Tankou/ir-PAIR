@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "mice" suggests that 'Mus musculus' may be a proper result.
+### Verify ###
+The abstract mentions "Here we show that dietary palmitic acid (PA), but not oleic acid or linoleic acid, promotes metastasis in oral carcinomas and melanoma in mice." This statement clearly indicates the use of 'Mus musculus' as the species, further verifying that 'Mus musculus' is indeed a proper result.
+### Context ###
+Since the term "mice" is explicitly mentioned and directly corresponds to 'Mus musculus' in the schema, there is no need for additional context to verify the result.
+### Conclusion ###
+Consequently, we confirm 'Mus musculus' as our final result based on the clear and direct mention of the species used in the abstract.
+### Result ###
+['Mus musculus']

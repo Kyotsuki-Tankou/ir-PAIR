@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, terms like "Melanoma brain metastasis (MBM)," "brain metastasis," and "melanoma" indicate that 'brain metastases cancer' and 'Melanoma metastasis' may be relevant results.
+###Verify###
+The abstract specifically mentions "Melanoma brain metastasis (MBM)" and discusses the biology and characteristics of these metastases. This directly aligns with 'brain metastases cancer' and 'Melanoma metastasis' from the schema.
+###Context###
+Given the clear focus on melanoma brain metastasis and the detailed analysis of its biology, there is no need for additional context to verify the results.
+###Conclusion###
+Consequently, we confirm that 'brain metastases cancer' and 'Melanoma metastasis' are the appropriate results based on the provided schema and input.
+###Result###
+["brain metastases cancer", "Melanoma metastasis"]

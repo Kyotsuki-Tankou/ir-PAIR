@@ -1,0 +1,11 @@
+Let's think step by step.
+### Keywords ###
+The keywords from the abstract suggest that 'Spatial Transcriptomics' is a proper result, as it is mentioned in the context of "high-definition spatial transcriptomics."
+### Verify ###
+The abstract states, "Here, we developed high-definition spatial transcriptomics," which confirms that the technology being discussed is 'Spatial Transcriptomics.'
+### Context ###
+There is no additional context needed, as the mention of "high-definition spatial transcriptomics" directly supports the keyword.
+### Conclusion ###
+Based on the explicit references in the abstract, we can conclude that 'Spatial Transcriptomics' is the correct technology.
+### Result ###
+['Spatial Transcriptomics']

@@ -1,0 +1,9 @@
+### Keywords ###
+From the input, the keywords "cutaneous squamous cell carcinoma (cSCC)" and "normal skin" are directly mentioned, indicating that 'Skin' may be a proper result.
+### Verify ###
+- "cutaneous squamous cell carcinoma (cSCC)" directly refers to a type of skin cancer.
+- "matched normal skin" further confirms the involvement of skin tissue in the study.
+### Conclusion ###
+Given the clear focus on cutaneous squamous cell carcinoma and normal skin, 'Skin' is the most relevant tissue mentioned in the context of the study.
+### Result ###
+['Skin']

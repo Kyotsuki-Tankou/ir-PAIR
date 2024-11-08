@@ -1,0 +1,12 @@
+### Keywords ###
+From the Abstract, the terms "heart," "atrial and ventricular myocardium," "cardiac scar," and "neonatal mice" suggest that the organ parts involved might include 'Heart', 'Mouse atrium', 'Mouse ventricle', and potentially 'Myocardium'.
+### Verify ###
+- "heart" and "atrial and ventricular myocardium" indicate the involvement of the heart and its specific parts, such as the atrium and ventricle.
+- "cardiac scar" suggests the study focused on the myocardium, as scars form in the myocardial tissue.
+- "neonatal mice" confirms the use of mouse models, specifically pointing to 'Mouse atrium' and 'Mouse ventricle'.
+### Context ###
+The Abstract mentions "distinct domains of atrial and ventricular myocardium" and "cardiac scar," which directly correspond to specific parts of the heart. There is no ambiguity in the context that would require further clarification.
+### Conclusion ###
+Based on the explicit mentions and the context, the relevant organ parts are 'Heart', 'Mouse atrium', 'Mouse ventricle', and 'Myocardium'.
+### Result ###
+['Heart', 'Mouse atrium', 'Mouse ventricle', 'Myocardium']

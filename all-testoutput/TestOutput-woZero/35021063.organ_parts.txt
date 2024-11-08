@@ -1,0 +1,13 @@
+### Keywords ###
+From the abstract and keywords, the following organ parts are mentioned:
+- "liver" (explicitly mentioned multiple times)
+- "bile ducts" (mentioned in the context of lipid-associated macrophages)
+### Verify ###
+- "Liver": The abstract focuses heavily on the liver, discussing both human and murine liver. This is a clear and direct mention.
+- "Bile ducts": While "bile ducts" are mentioned, they are not listed in the schema. However, they are a part of the liver.
+### Context ###
+Given the focus of the study on the liver and its components, the primary organ part is undoubtedly the liver. The mention of "bile ducts" is relevant but not directly listed in the schema.
+### Conclusion ###
+Based on the clear and repeated mention of "liver" in both the abstract and keywords, we can confidently conclude that "Liver" is the correct organ part to be extracted.
+### Result ###
+['Liver']

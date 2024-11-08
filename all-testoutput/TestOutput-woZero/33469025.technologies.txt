@@ -1,0 +1,11 @@
+### Keywords ###
+From the abstract, the technologies mentioned include "single-cell long-read sequencing" and "Spatial transcriptomics."
+### Verify ###
+- **single-cell long-read sequencing**: This is not directly listed in the schema, but it is a form of RNA-seq which is mentioned in the schema.
+- **Spatial transcriptomics**: This is directly mentioned in the schema.
+### Context ###
+The abstract describes the use of "single-cell long-read sequencing" specifically for investigating differential isoform expression in the brain. This aligns with the general category of RNA-seq technologies, which are designed to sequence RNA transcripts. Additionally, "Spatial transcriptomics" is explicitly mentioned as a method used to yield a spatially resolved splicing map.
+### Conclusion ###
+Based on the context and verification, the relevant technologies from the schema that are used in the study are 'RNA-seq' and 'Spatial Transcriptomics'.
+### Result ###
+['RNA-seq', 'Spatial Transcriptomics']

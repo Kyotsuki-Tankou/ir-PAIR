@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "ductal carcinoma in situ" and "tumor subclones" are directly mentioned, indicating a focus on cancer-related research.
+###Verify###
+The abstract specifically discusses the application of the CellTrek method to "two ductal carcinoma in situ tissues" and the identification of "tumor subclones." This directly verifies that 'Ductal carcinoma in situ' is a relevant disease being studied.
+###Context###
+The context of the study involves combining single-cell RNA sequencing and spatial transcriptomics to map cells in tissues, including cancerous tissues. This further supports the focus on 'Ductal carcinoma in situ.'
+###Conclusion###
+Consequently, we confirm 'Ductal carcinoma in situ' as the appropriate result based on the provided schema and input.
+###Result###
+["Ductal carcinoma in situ"]

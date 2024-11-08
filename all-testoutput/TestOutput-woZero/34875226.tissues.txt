@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract and keywords, the focus is on "brain tissue," "lateral hypothalamic area (LHA)," and "brain organization," which strongly suggest 'Brain' as a relevant tissue.
+###Verify###
+The abstract mentions "brain tissue" and "lateral hypothalamus," which are specific regions of the brain, further supporting 'Brain' as the correct tissue.
+###Context###
+Not required in this case as the Keywords and Verify steps align well and provide sufficient evidence.
+###Conclusion###
+Given the specific focus on "brain tissue" and "lateral hypothalamus," it is conclusive that 'Brain' is the correct tissue mentioned in the abstract.
+###Result###
+['Brain']

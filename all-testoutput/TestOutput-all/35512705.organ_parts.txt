@@ -1,0 +1,17 @@
+### Keywords ###
+From the abstract, the following organ parts are mentioned or implied:
+- "mouse organogenesis" suggests various developing organ parts.
+- "dorsal midbrain" is explicitly mentioned.
+- "developing tissues" implies a range of organ parts during development.
+### Verify ###
+- "dorsal midbrain" directly corresponds to an organ part in the schema.
+- "mouse organogenesis" implies a comprehensive analysis of various organ parts during development, but it does not specify which parts.
+- "developing tissues" is a broad term that could include multiple organ parts, but it is not specific.
+### Context ###
+- The abstract focuses on the creation of a spatiotemporal transcriptomic atlas (MOSTA) for mouse organogenesis, which suggests a detailed mapping of various developing organ parts.
+- The specific mention of "dorsal midbrain" indicates at least one clearly identified organ part.
+- The context of studying mammalian development and spatial cell heterogeneity implies a wide range of organ parts, but without specific mentions, it is challenging to definitively list all included parts.
+### Conclusion ###
+Based on the explicit mention of "dorsal midbrain" and the implied comprehensive nature of the atlas covering mouse organogenesis, we can confidently include "dorsal midbrain." Other organ parts are likely included but not specifically mentioned, making it difficult to list them definitively.
+### Result ###
+["dorsal midbrain"]

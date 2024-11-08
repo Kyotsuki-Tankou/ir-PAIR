@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract, the term "Spatial Transcriptomics (ST)" is explicitly mentioned, indicating that 'Spatial Transcriptomics' is a key technology used in the study.
+### Verify ###
+The Abstract states, "using Spatial Transcriptomics (ST) as a proof of principle approach for unbiased mRNA studies at the site of inflammation in these chronic inflammatory diseases," which directly verifies the use of 'Spatial Transcriptomics' as the primary technology.
+### Context ###
+The context provided in the Abstract clearly outlines the application of Spatial Transcriptomics for analyzing synovial biopsies, further reinforcing its role as the central technology in this study.
+### Conclusion ###
+Based on the clear and consistent information provided in the Abstract, we can conclude that 'Spatial Transcriptomics' is the primary technology used in this study.
+### Result ###
+['Spatial Transcriptomics']

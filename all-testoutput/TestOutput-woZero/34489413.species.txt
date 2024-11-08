@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "mammalian neonatal heart regeneration model," "adult mouse heart," and "human induced pluripotent stem cell-derived cardiomyocytes" suggest the involvement of specific species.
+### Verify ###
+- "mammalian neonatal heart regeneration model" and "adult mouse heart" indicate the use of "Mus musculus" (mouse).
+- "human induced pluripotent stem cell-derived cardiomyocytes" indicates the involvement of "Homo sapiens" (human).
+### Context ###
+- The study primarily focuses on the neonatal heart regeneration model in mammals, specifically mice, and extends the findings to human cardiomyocytes.
+- The mention of "adult mouse heart" and "human induced pluripotent stem cell-derived cardiomyocytes" clearly points to the species used in the study.
+### Conclusion ###
+Based on the clear mentions of mice and human cells in the abstract, the relevant species are "Mus musculus" and "Homo sapiens."
+### Result ###
+['Mus musculus', 'Homo sapiens']

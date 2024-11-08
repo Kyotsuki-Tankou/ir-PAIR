@@ -1,0 +1,10 @@
+###Keywords###
+From the input, the term "humans" and "human organs" directly indicate that 'Homo sapiens' may be a proper result.
+###Verify###
+The abstract focuses on "single-cell mRNA sequencing to determine the cell-type composition of all major human organs" and "a single-cell comparative analysis of landscapes from human and mouse," which further verifies that 'Homo sapiens' is indeed a relevant and proper result.
+###Context###
+Not required in this case as the keywords and the abstract content directly align with the schema.
+###Conclusion###
+Consequently, we confirm 'Homo sapiens' as our final result based on the clear and consistent information provided in both the keywords and the abstract.
+###Result###
+['Homo sapiens']

@@ -1,0 +1,15 @@
+###schema###
+species:['Canis lupus familiaris', 'Arabidopsis thaliana', 'Xenopus tropicalis', 'Maize', 'Drosophila melanogaster', 'Danio rerio', 'Ambystoma mexicanum', 'Gallus gallus', 'Homo sapiens', 'Rattus norvegicus', 'Mus musculus', 'Macaca fascicularis', 'Glycine max', 'Xenopus laevis', 'Caenorhabditis elegans', 'Oryctolagus cuniculus', 'Phalaenopsis aphrodite', 'Sus scrofa']
+###input###
+ Abstract
+Identifying the spatial organization of tissues at cellular resolution from single-cell gene expression profiles is essential to understanding biological systems. Using an in situ 3D multiplexed imaging method, seqFISH, we identify unique transcriptional states by quantifying and clustering up to 249 genes in 16,958 cells to examine whether the hippocampus is organized into transcriptionally distinct subregions. We identified distinct layers in the dentate gyrus corresponding to the granule cell layer and the subgranular zone and, contrary to previous reports, discovered that distinct subregions within the CA1 and CA3 are composed of unique combinations of cells in different transcriptional states. In addition, we found that the dorsal CA1 is relatively homogeneous at the single cell level, while ventral CA1 is highly heterogeneous. These structures and patterns are observed using different mice and different sets of genes. Together, these results demonstrate the power of seqFISH in transcriptional profiling of complex tissues.Let's think step by step.
+### Keywords ###
+From the input, there are no direct mentions of species names in the Abstract or Keywords sections. However, the context of the study involves "different mice," which suggests that 'Mus musculus' might be the species used.
+### Verify ###
+The phrase "using different mice" in the Abstract directly implies the use of the mouse model, which corresponds to 'Mus musculus' in the schema.
+### Context ###
+Since the phrase "using different mice" is clear and unambiguous, there is no need for additional context to verify the species.
+### Conclusion ###
+Consequently, we confirm that 'Mus musculus' is the appropriate species based on the given information.
+### Result ###
+['Mus musculus']

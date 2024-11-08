@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the term "lacrimal gland" is directly mentioned multiple times, suggesting that 'Lacrimal Gland' may be a proper result.
+###Verify###
+The abstract specifically mentions "we describe the establishment of long-term 3D organoid culture conditions for mouse and human lacrimal gland" and "we address cellular heterogeneity of the lacrimal gland by providing a single-cell atlas of human lacrimal gland tissue and organoids." These statements clearly indicate that the focus of the study is on the lacrimal gland, further verifying that 'Lacrimal Gland' is indeed a proper result.
+###Context###
+Since the term "lacrimal gland" is explicitly mentioned and directly corresponds to 'Lacrimal Gland' in the schema, there is no need for additional context to verify the result.
+###Conclusion###
+Consequently, we confirm 'Lacrimal Gland' as our final result based on the clear and direct mention of the tissue in the abstract.
+###Result###
+['Lacrimal Gland']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords, "single-cell RNA-seq" directly indicates the use of a specific technology, which corresponds to 'scRNA' in the schema.
+### Verify ###
+In the Abstract, the phrase "we present single-cell RNA sequencing of over 38,000 cells" confirms the use of single-cell RNA sequencing technology, aligning with 'scRNA' from the schema.
+### Context ###
+The context provided in both the Abstract and Keywords is clear and consistent, indicating that single-cell RNA sequencing is the primary technology used in the study. No additional context is needed.
+### Conclusion ###
+Based on the clear and consistent information provided, we confirm that 'scRNA' is the appropriate technology used in this study.
+### Result ###
+['scRNA']

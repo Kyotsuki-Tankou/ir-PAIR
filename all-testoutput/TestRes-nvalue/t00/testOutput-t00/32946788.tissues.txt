@@ -1,0 +1,23 @@
+### Keywords ###
+- AGM region
+- HSC (Hematopoietic stem cells)
+- Embryo
+- Endothelin
+- Hematopoiesis
+- Single cell transcriptome
+- Spatial transcriptome
+### Verify ###
+- **AGM region**: Mentioned in the input as the location where HSCs first emerge.
+- **HSC (Hematopoietic stem cells)**: Central focus of the study.
+- **Embryo**: Context of HSC emergence.
+- **Endothelin**: Identified as a regulator of HSC development.
+- **Hematopoiesis**: Process related to HSC development.
+- **Single cell transcriptome**: Method used for analysis.
+- **Spatial transcriptome**: Method used for analysis.
+### Context ###
+- The study focuses on the embryonic stage and specifically on the AGM region.
+- The tissues involved are primarily related to the embryonic aorta and its surrounding regions.
+### Conclusion ###
+- The primary tissues involved based on the context are 'Embryo' and 'Dorsal aorta'.
+### Result ###
+['Embryo', 'Dorsal aorta']

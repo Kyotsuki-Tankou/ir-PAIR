@@ -1,0 +1,10 @@
+-----31442426.txt-----
+ERROR in  31442426.txt type= tissues
+lastword=(Note: The schema provided does not include 'Stress granules' as a tissue or organ part, so the result is directly related to the technology mentioned in the abstract rather than a specific tissue or organ.)
+ans:["Stress granules"]
+-----------
+-----31932730.txt-----
+ERROR in  31932730.txt type= species
+lastword=(Note: While the schema includes multiple species that have a pancreas, the context of the Abstract clearly indicates that the study is focused on human pancreatic tumors, making 'Homo sapiens' the most appropriate result.)
+ans:["Homo sapiens"]
+-----------

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keyword "single cell RNA-seq" directly indicates the use of a specific technology.
+### Verify ###
+The abstract mentions "by employing large scale single cell transcriptome analysis," which directly verifies the use of single-cell RNA sequencing technology. This is consistent with the keyword "single cell RNA-seq."
+### Context ###
+The abstract explicitly states the use of "single cell transcriptome analysis," which is a clear indication of the use of single-cell RNA sequencing (scRNA-seq). There is no conflicting information that would require additional context to clarify.
+### Conclusion ###
+Based on the explicit mention of "single cell transcriptome analysis" and the keyword "single cell RNA-seq," we can confidently conclude that 'scRNA' is the correct technology used in the study.
+### Result ###
+['scRNA']

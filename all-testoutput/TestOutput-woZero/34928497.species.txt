@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract and keywords, "Homo sapiens" is indicated as the species involved due to the context of human-related conditions such as "benign prostatic hyperplasia (BPH)" and "5-alpha reductase inhibitors (5ARIs)".
+### Verify ###
+The abstract discusses "prostates from 5ARI-treated men" and "patients with enlarged prostates," which directly refers to human subjects, confirming "Homo sapiens" as the species.
+### Conclusion ###
+Based on the clear mention of human subjects in the context of BPH and 5ARI treatment, "Homo sapiens" is the appropriate species to be extracted.
+### Result ###
+['Homo sapiens']

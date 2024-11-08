@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "fetal liver" and "human fetal livers" are prominent, indicating that 'Fetal liver' may be a proper result.
+### Verify ###
+The abstract mentions "fetal livers over developmental time from 8 post-conception weeks (PCW) and 17 PCW in humans" and "human fetal livers experienced blood rapid growth and immigration," which further verifies that the study is focused on the 'Fetal liver' tissue.
+### Context ###
+Since the abstract is consistently discussing the human fetal liver and its developmental stages, there is no ambiguity or need for additional context to confirm the tissue type.
+### Conclusion ###
+Consequently, we confirm 'Fetal liver' as the final result based on the clear and consistent focus on the human fetal liver in the abstract.
+### Result ###
+['Fetal liver']

@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Heart"]
+null
+["10x Visium"]
+["Normal atlas"]
+ Abstract\nHeart failure (HF) is a frequent consequence of myocardial infarction (MI). Identification of the precise, time-dependent composition of inflammatory cells may provide clues for the establishment of new biomarkers and therapeutic approaches targeting post-MI HF. Here, we investigate the spatiotemporal dynamics of MI-associated immune cells in a mouse model of MI using spatial transcriptomics and single-cell RNA-sequencing (scRNA-seq). We identify twelve major immune cell populations; their proportions dynamically change after MI. Macrophages are the most abundant population at all-time points (>60%), except for day 1 post-MI. Trajectory inference analysis shows upregulation of Trem2 expression in macrophages during the late phase post-MI. In vivo injection of soluble Trem2 leads to significant functional and structural improvements in infarcted hearts. Our data contribute to a better understanding of MI-driven immune responses and further investigation to determine the regulatory factors of the Trem2 signaling pathway will aid the development of novel therapeutic strategies for post-MI HF.

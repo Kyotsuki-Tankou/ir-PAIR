@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "population-based cohort" and the mention of "cardiac and systemic factors associated with HF development" suggest that the study could involve multiple species. However, the context of "heart failure" typically refers to humans.
+### Verify ###
+The abstract mentions "cardiac and systemic factors associated with HF development," which is more relevant to humans given the context of heart failure as a human condition.
+### Conclusion ###
+Given the context of heart failure and the typical relevance to humans, we can conclude that the study involves 'Homo sapiens'.
+### Result ###
+['Homo sapiens']

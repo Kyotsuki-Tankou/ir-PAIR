@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "mouse embryo" is explicitly mentioned, indicating that 'Mouse Embryo' may be the relevant organ part.
+### Verify ###
+The abstract states, "PIC transcriptome analysis detects genes specifically expressed in small distinct areas of the mouse embryo," which directly verifies the use of 'Mouse Embryo' as the organ part studied.
+### Conclusion ###
+Since the term 'Mouse Embryo' is both mentioned in the keywords and clearly verified in the abstract, we can confidently conclude that 'Mouse Embryo' is the appropriate organ part to be extracted.
+### Result ###
+['Mouse Embryo']

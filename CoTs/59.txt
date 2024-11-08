@@ -1,0 +1,15 @@
+###schema###
+technologies:['CITE-seq', 'XYZeq', 'CUT&Tag', 'RNA-seq', 'STARmap', 'DBiT-seq', 'scATAC-seq', 'scRNA', 'EASI-FISH', 'PIC-seq', 'sci-Space', 'sciMAP-ATAC-seq', 'Slide-seqV2', 'Spatial Transcriptomics', 'seqFish', 'seqFISH+', 'Stereo-Seq', '10x Visium', ' RNA-seq', 'scATAC', 'LCM-seq', 'Tomo-seq', 'Proximity RNA-seq', 'sci-ATAC-seq', 'ClampFISH', 'VINE-seq', 'snRNA', 'HDST', 'GeoMx DSP', 'Seq-Scope', 'APEX-seq', 'RNAseq', 'MERFISH', 'ClumpSeq', 'Geo-seq', 'Slide-seq']
+###input###
+ Abstract
+Oligodendrocyte pathology is increasingly implicated in neurodegenerative diseases as oligodendrocytes both myelinate and provide metabolic support to axons. In multiple sclerosis (MS), demyelination in the central nervous system thus leads to neurodegeneration, but the severity of MS between patients is very variable. Disability does not correlate well with the extent of demyelination1, which suggests that other factors contribute to this variability. One such factor may be oligodendrocyte heterogeneity. Not all oligodendrocytes are the same-those from the mouse spinal cord inherently produce longer myelin sheaths than those from the cortex2, and single-cell analysis of the mouse central nervous system identified further differences3,4. However, the extent of human oligodendrocyte heterogeneity and its possible contribution to MS pathology remain unknown. Here we performed single-nucleus RNA sequencing from white matter areas of post-mortem human brain from patients with MS and from unaffected controls. We identified subclusters of oligodendroglia in control human white matter, some with similarities to mouse, and defined new markers for these cell states. Notably, some subclusters were underrepresented in MS tissue, whereas others were more prevalent. These differences in mature oligodendrocyte subclusters may indicate different functional states of oligodendrocytes in MS lesions. We found similar changes in normal-appearing white matter, showing that MS is a more diffuse disease than its focal demyelination suggests. Our findings of an altered oligodendroglial heterogeneity in MS may be important for understanding disease progression and developing therapeutic approaches.Let's think step by step.
+###Keywords###
+From the abstract, the term "single-nucleus RNA sequencing" directly suggests that 'scRNA' may be a proper result.
+###Verify###
+The abstract mentions "Here we performed single-nucleus RNA sequencing from white matter areas of post-mortem human brain from patients with MS and from unaffected controls." This statement clearly indicates the use of 'scRNA' technology, further verifying that 'scRNA' is indeed a proper result.
+###Context###
+Since the term "single-nucleus RNA sequencing" is explicitly mentioned and directly corresponds to 'scRNA' in the schema, there is no need for additional context to verify the result.
+###Conclusion###
+Consequently, we confirm 'scRNA' as our final result based on the clear and direct mention of the technology used in the abstract.
+###Result###
+['scRNA']

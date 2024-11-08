@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Kidney"]
+["Angiomyolipoma (AML)"]
+["GeoMx DSP"]
+["Angiomyolipoma"]
+ Abstract\nmTORC1 is hyperactive in multiple cancer types1,2. Here, we performed integrative analysis of single cell transcriptomic profiling, paired T cell receptor (TCR) sequencing, and spatial transcriptomic profiling on Tuberous Sclerosis Complex (TSC) associated tumors with mTORC1 hyperactivity, and identified a stem-like tumor cell state (SLS) linked to T cell dysfunction via tumor-modulated immunosuppressive macrophages. Rapamycin and its derivatives (rapalogs) are the primary treatments for TSC tumors, and the stem-like tumor cells showed rapamycin resistance in vitro, reminiscent of the cytostatic effects of these drugs in patients. The pro-angiogenic factor midkine (MDK) was highly expressed by the SLS population, and associated with enrichment of endothelial cells in SLS-dominant samples. Inhibition of MDK showed synergistic benefit with rapamycin in reducing the growth of TSC cell lines in vitro and in vivo. In aggregate, this study suggests an autocrine rapamycin resistance mechanism and a paracrine tumor survival mechanism via immune suppression adopted by the stem-like state tumor cells with mTORC1 hyperactivity.

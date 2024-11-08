@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords "Expression profiling; Mouse models; Nephrology," we can infer the use of sequencing technologies. The abstract mentions "spatial transcriptomics" and "single-nuclear sequencing," which are specific technologies.
+### Verify ###
+In the Abstract, the phrases "spatial transcriptomics," "single-nuclear sequencing," and "single-cell sequencing" are directly mentioned. These terms correspond to specific technologies listed in the schema.
+### Context ###
+The abstract details the integration of spatial transcriptomics with single-nuclear sequencing to map cell types and study the effects of acute kidney injury. This context confirms the use of these technologies.
+### Conclusion ###
+Based on the direct mentions and the context of the study, we can conclude that "Spatial Transcriptomics," "scRNA," and potentially "RNA-seq" (though not explicitly mentioned, it is often associated with single-cell studies) are the relevant technologies used.
+### Result ###
+['Spatial Transcriptomics', 'scRNA', 'RNA-seq']

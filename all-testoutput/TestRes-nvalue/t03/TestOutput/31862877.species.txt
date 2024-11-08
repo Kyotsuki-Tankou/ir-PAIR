@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "heart failure (HF)" and the context of human health indicate that 'Homo sapiens' may be a proper result.
+### Verify ###
+The Abstract mentions "a population-based cohort" and "heart transplantation," which are typically associated with human subjects. This further verifies that 'Homo sapiens' is likely a proper result.
+### Context ###
+Not required in this case as the verification directly supports the keyword.
+### Conclusion ###
+Consequently, we choose 'Homo sapiens' as our final result.
+### Result ###
+['Homo sapiens']

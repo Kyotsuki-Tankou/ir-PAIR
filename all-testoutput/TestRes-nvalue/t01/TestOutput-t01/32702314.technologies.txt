@@ -1,0 +1,12 @@
+###Keywords###
+From the Abstract, the key phrases are "spatial transcriptomics" and "in situ sequencing". These suggest potential matches with the technologies listed in the schema.
+###Verify###
+- "spatial transcriptomics" directly matches 'Spatial Transcriptomics' in the schema.
+- "in situ sequencing" is not explicitly listed in the schema, but it is closely related to several spatial transcriptomics technologies.
+###Context###
+- The Abstract mentions "spatial transcriptomics" explicitly, which is a strong indicator.
+- "in situ sequencing" is a method used to confirm the findings but is not listed in the schema.
+###Conclusion###
+Given the explicit mention of "spatial transcriptomics" and its direct match in the schema, we can confidently conclude that 'Spatial Transcriptomics' is the appropriate technology to list.
+###Result###
+['Spatial Transcriptomics']

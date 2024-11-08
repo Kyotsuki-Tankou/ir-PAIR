@@ -1,0 +1,15 @@
+### Keywords ###
+From the input, the keywords that stand out are "human embryonic heart" and "heart development." These suggest that 'Heart' might be the relevant tissue.
+### Verify ###
+In the abstract, it is mentioned:
+- "the process of cardiac morphogenesis in humans"
+- "the embryonic heart at three developmental stages"
+- "human embryonic cardiac cell types"
+- "a spatial subcellular map for the three developmental phases of the human heart"
+These phrases directly verify that 'Heart' is indeed the relevant tissue.
+### Context ###
+Since the abstract explicitly mentions "human embryonic heart" and "heart development," there is no ambiguity or need for further context to verify this tissue.
+### Conclusion ###
+Based on the explicit and consistent mention of the heart in various contexts within the abstract, we can confidently conclude that 'Heart' is the correct tissue to be extracted.
+### Result ###
+['Heart']

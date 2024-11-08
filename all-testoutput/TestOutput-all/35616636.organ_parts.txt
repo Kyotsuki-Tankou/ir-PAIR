@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract and Keywords, we identify "digit regeneration," "mouse," and "spatial transcriptomics." These suggest a focus on a specific part of the mouse anatomy involved in regeneration.
+### Verify ###
+In the Abstract, it is stated that "De novo limb regeneration after amputation is restricted in mammals to the distal digit tip." This indicates the specific anatomical focus is on the "digit tip" in mice.
+### Context ###
+The context of the study involves investigating skeletal regeneration using spatial transcriptomics, specifically within the blastema of the digit tip in mice. The mention of "digit amputation mouse model" further emphasizes the focus on the mouse digit tip.
+### Conclusion ###
+Based on the Keywords, Verify, and Context, it is clear that the specific organ part being studied is the "digit tip" in mice, which aligns with "Hindpaw" as the closest relevant term in the schema.
+### Result ###
+["Hindpaw"]

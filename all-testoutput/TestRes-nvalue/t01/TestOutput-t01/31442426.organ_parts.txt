@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "stress granules," "RNA proximity labeling," "subcellular localization," and "transcriptome" suggest a focus on cellular structures and processes rather than specific organ parts. The mention of "stress granules" is particularly notable as it is a specific cellular structure.
+### Verify ###
+The abstract specifically mentions "stress granules" and the development of a technique to map the RNA composition within these structures. This directly points to "Stress granules" as a relevant item from the schema.
+### Context ###
+The context of the study is clearly centered around the spatial organization and composition of RNAs within cellular structures, particularly stress granules. There is no mention of specific organ parts like brain, liver, or muscle, which further supports the focus on "Stress granules."
+### Conclusion ###
+Based on the clear and consistent focus on stress granules in the abstract, we can conclude that "Stress granules" is the appropriate item to extract from the schema.
+### Result ###
+['Stress granules']

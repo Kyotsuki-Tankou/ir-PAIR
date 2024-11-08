@@ -1,0 +1,12 @@
+###Keywords###
+From the input, the terms "atopic dermatitis" and "skin suction blistering" are prominently mentioned, indicating that 'Skin' and 'Atopic dermatitis lesional skin' may be relevant organ parts.
+###Verify###
+The abstract states:
+- "Atopic dermatitis (AD) is the most common chronic inflammatory skin disease..."
+- "We used skin suction blistering, a painless and nonscarring procedure that can simultaneously sample skin cells and interstitial fluid."
+- "Suction blistering captured epidermal and most immune cells equally well as biopsies..."
+These statements clearly verify that 'Skin' and 'Atopic dermatitis lesional skin' are the primary organ parts involved in the study.
+###Conclusion###
+Given the clear and repeated mention of 'Skin' and 'Atopic dermatitis' in the context of the study, we can confidently conclude that 'Skin' and 'Atopic dermatitis lesional skin' are the appropriate organ parts to be extracted according to the schema.
+###Result###
+["Skin", "Atopic dermatitis lesional skin"]

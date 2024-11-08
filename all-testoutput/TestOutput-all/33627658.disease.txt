@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "cortical lamination," "adult mouse primary somatosensory cortex," "human primary visual cortex," and "cerebral ischemic infarction in the mouse brain" suggest potential diseases or conditions. The terms "cortical lamination" and "cerebral ischemic infarction" are particularly indicative of brain-related conditions.
+### Verify ###
+- "Cortical lamination" and "cerebral ischemic infarction" directly point to brain-related diseases.
+- "Adult mouse primary somatosensory cortex" and "human primary visual cortex" suggest studies involving brain structures, which could be related to brain development or injury.
+### Context ###
+- "Cortical lamination" is a process related to the development and organization of the brain cortex, which could be linked to "Brain development."
+- "Cerebral ischemic infarction" is a condition related to brain injury, specifically ischemic stroke, which could be linked to "Brain injury" or "Murine ischemia."
+### Conclusion ###
+Based on the context and specific mentions in the abstract, the most appropriate diseases from the schema are "Brain development" and "Brain injury."
+### Result ###
+['Brain development', 'Brain injury']

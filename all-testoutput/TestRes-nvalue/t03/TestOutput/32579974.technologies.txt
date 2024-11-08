@@ -1,0 +1,12 @@
+### Keywords ###
+From the Keywords, we identify "scRNA-seq" (single-cell RNA sequencing) and "spatial transcriptomics" as the primary technologies used in the study. Additionally, "MIBI" (multiplexed ion beam imaging) is mentioned, which is also a relevant technology.
+### Verify ###
+The Abstract confirms the use of these technologies:
+- "combined single-cell RNA sequencing with spatial transcriptomics and multiplexed ion beam imaging"
+This directly verifies the presence of "scRNA-seq", "spatial transcriptomics", and "MIBI".
+### Context ###
+While "MIBI" is not listed in the provided schema, "scRNA-seq" and "spatial transcriptomics" are clearly mentioned and directly relevant to the study's methods.
+### Conclusion ###
+Based on the clear mentions in both the Abstract and Keywords, we can confidently conclude that "scRNA-seq" and "spatial transcriptomics" are the technologies used in this study. "MIBI" is verified but not included in the schema.
+### Result ###
+['scRNA-seq', 'Spatial Transcriptomics']

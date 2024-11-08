@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the keyword "APEX-seq" is directly mentioned, indicating that 'APEX-seq' may be a proper result.
+### Verify ###
+From the Abstract, "We therefore developed an RNA proximity labeling technique, APEX-seq," we can further verify that 'APEX-seq' is indeed used as a technology in the study.
+### Conclusion ###
+Consequently, we choose 'APEX-seq' as our final result.
+### Result ###
+['APEX-seq']

@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "Alzheimer's disease (AD)" and "brain sections" are explicitly mentioned. Additionally, "amyloid plaques," "astrocyte," "microglia," and "oligodendrocyte" are related to brain tissue. These keywords suggest that the study is focused on the brain, particularly in the context of Alzheimer's disease.
+###Verify###
+The abstract mentions "transcriptional changes occurring in tissue domains in a 100-μm diameter around amyloid plaques using spatial transcriptomics" and "in situ sequencing on mouse and human brain sections." This directly indicates that the tissue of interest is the brain. The focus on Alzheimer's disease, which primarily affects the brain, further supports that the brain is the primary tissue being studied.
+###Context###
+Given the detailed focus on the brain tissue, particularly around amyloid plaques and the specific mention of Alzheimer's disease, there is no need for additional context to verify the tissue type.
+###Conclusion###
+Consequently, we confirm that 'Brain' is the appropriate tissue type based on the provided abstract.
+###Result###
+['Brain']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "keloids" and "patient-matched keloid and normal mature scar" suggest that the study is focused on human subjects. Therefore, 'Homo sapiens' may be a proper result.
+### Verify ###
+The abstract states, "Keloid tissue samples and normal skin control data were analyzed as well as those of patient-matched keloid and normal mature scar." This directly indicates that the study involves human tissue samples, which verifies that 'Homo sapiens' is indeed a relevant and proper result.
+### Context ###
+Given the direct and clear mention of human tissue samples (keloids and normal skin) in both the abstract and the result, there is no need for additional context to verify the keyword.
+### Conclusion ###
+Consequently, we confirm 'Homo sapiens' as our final result based on the clear and consistent references in the abstract.
+### Result ###
+['Homo sapiens']

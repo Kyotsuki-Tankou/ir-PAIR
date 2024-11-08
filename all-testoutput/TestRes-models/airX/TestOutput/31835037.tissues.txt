@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract and keywords provided, "human embryonic heart" and "human developing heart" suggest that the tissue of interest is 'Heart'.
+### Verify ###
+The abstract explicitly mentions "the embryonic heart" and "human developing heart," which confirms that the tissue under study is 'Heart'.
+### Context ###
+Given that the study is focused on the transcriptional landscape of the embryonic heart and includes the creation of a spatial subcellular map for different developmental phases, the context supports the focus on 'Heart' tissue.
+### Conclusion ###
+Based on the consistent mention of the embryonic heart and the developmental stages within the human context, we can conclude that 'Heart' is the correct tissue.
+### Result ###
+['Heart']

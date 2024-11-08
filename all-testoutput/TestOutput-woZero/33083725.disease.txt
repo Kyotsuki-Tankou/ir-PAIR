@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the disease "Alzheimer disease (AD)" is explicitly mentioned. Additionally, the context involves "hippocampus and olfactory bulbs" in the context of AD, but these are more specific regions rather than separate diseases.
+### Verify ###
+The abstract clearly states "Alzheimer disease (AD)" as the primary focus of the study. There are no other diseases mentioned directly in the abstract.
+### Conclusion ###
+Based on the explicit mention of "Alzheimer disease (AD)" in the abstract, we can confidently conclude that this is the disease being studied.
+### Result ###
+['Alzheimer disease']

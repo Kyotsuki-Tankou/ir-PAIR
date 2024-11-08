@@ -1,0 +1,8 @@
+###Keywords###
+From "we introduce sci-Space, which retains single-cell resolution while resolving spatial heterogeneity at larger scales" in the Abstract, indicates that 'sci-Space' may be a proper result.
+###Verify###
+From "Applying sci-Space to developing mouse embryos, we captured approximate spatial coordinates and whole transcriptomes of about 120,000 nuclei" in the Abstract, we CAN further verify that 'sci-Space' may be a proper result.
+###Conclusion###
+Consequently, we choose 'sci-Space' as our final result.
+###Result###
+['sci-Space']

@@ -1,0 +1,11 @@
+###Keywords###
+From the abstract, the term "kidney" is prominently mentioned, indicating that 'Kidney' may be a proper result. Additionally, "murine endotoxemia model" suggests the use of a mouse model, which might imply 'Mouse' related terms, but they are not directly listed in the schema.
+###Verify###
+- The abstract states, "Here, we investigated the kidney, an organ central to the pathophysiology of sepsis," which directly references the kidney. This further verifies that 'Kidney' is indeed a relevant and proper result.
+- "Single-cell RNA-sequencing in a murine endotoxemia model" indicates the use of a mouse model, but 'Mouse' related terms like 'Mouse Embryo' or 'Mouse aorta' are not directly relevant to the context of the kidney study.
+###Context###
+Given the direct and clear mention of "kidney" in both the abstract and the result, there is no need for additional context to verify the keyword. The focus is specifically on the kidney and its response to sepsis, not on other mouse-related organ parts.
+###Conclusion###
+Consequently, we confirm 'Kidney' as our final result based on the clear and consistent references in the abstract.
+###Result###
+['Kidney']

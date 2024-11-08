@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, keywords such as "post-implantation development," "mouse embryo," "inner cell mass," "epiblast," "germ layers," "gastrulation," "lineage specification," and "tissue patterning" are prominent. Specific tissues mentioned include "visceral endoderm" and "endoderm."
+### Verify ###
+The abstract explicitly mentions "mouse embryo," "germ layers," and "endoderm." These terms directly correspond to some of the tissues in the schema:
+- "Embryo" is directly mentioned.
+- "Germ layers" could imply multiple tissues, but "endoderm" is specifically mentioned.
+### Context ###
+The context of the study is focused on the early stages of mouse embryo development, particularly during gastrulation. This involves the formation of germ layers, which are precursors to various tissues. The mention of "visceral endoderm" and "endoderm" suggests a focus on early tissue formation.
+### Conclusion ###
+Based on the explicit mentions and the context of the study, we can conclude that "Embryo" and "Endoderm" are relevant tissues from the schema. While "Germ layers" could imply other tissues, the specific mention of "endoderm" narrows it down.
+### Result ###
+["Embryo", "Endoderm"]

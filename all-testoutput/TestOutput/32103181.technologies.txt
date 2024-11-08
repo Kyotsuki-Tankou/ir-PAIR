@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the keywords "deep single-cell sequencing," "RNA and T cell receptors," "tumour immunity," and "anti-PDL1 therapy" suggest that the technology used is focused on sequencing at the single-cell level and involves T cells in the context of cancer immunity.
+### Verify ###
+The abstract mentions "deep single-cell sequencing of RNA and T cell receptors in patients with different types of cancer," which directly indicates the use of 'RNA-seq' and 'scRNA' (single-cell RNA sequencing) technologies.
+### Conclusion ###
+Given the direct mention of the technology in the context of the study, we can conclude that 'RNA-seq' and 'scRNA' are the appropriate technologies.
+### Result ###
+['RNA-seq', 'scRNA']

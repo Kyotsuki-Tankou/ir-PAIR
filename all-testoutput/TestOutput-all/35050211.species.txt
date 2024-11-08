@@ -1,0 +1,14 @@
+### Keywords ###
+From the abstract, the terms "neonatal mice," "heart," "regeneration," and "spatial transcriptomics" are prominent. These keywords suggest a focus on cardiac regeneration in a murine model.
+### Verify ###
+The abstract specifically mentions:
+- "neonatal mammalian heart"
+- "investigate the mechanisms facilitating heart repair after apical resection in neonatal mice"
+- "bulk and spatial transcriptomic analyses at regenerative and non-regenerative timepoints"
+These points verify that the study is conducted on neonatal mice, focusing on heart regeneration and repair mechanisms.
+### Context ###
+The context is clear as the abstract consistently refers to "neonatal mice" and the processes related to their heart regeneration. There is no ambiguity regarding the species used in the study.
+### Conclusion ###
+Given the explicit mention of "neonatal mice" and the focus on murine heart regeneration, the species "Mus musculus" is the correct match.
+### Result ###
+['Mus musculus']

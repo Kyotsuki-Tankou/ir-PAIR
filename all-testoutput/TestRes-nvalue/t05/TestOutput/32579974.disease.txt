@@ -1,0 +1,8 @@
+### Keywords ###
+From the Abstract and Keywords, terms like "cutaneous squamous cell carcinoma (cSCC)" and "skin cancer" indicate that 'Squamous carcinoma' may be a proper result.
+### Verify ###
+The Abstract mentions "cutaneous squamous cell carcinoma (cSCC)" and "skin cancer," which are direct references to squamous cell carcinoma, a type of skin cancer. This verifies that 'Squamous carcinoma' is the correct disease being studied.
+### Conclusion ###
+Based on the direct mention of "cutaneous squamous cell carcinoma (cSCC)" and "skin cancer," we can conclude that 'Squamous carcinoma' is the appropriate disease to be extracted.
+### Result ###
+['Squamous carcinoma']

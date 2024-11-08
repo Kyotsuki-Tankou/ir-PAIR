@@ -1,0 +1,10 @@
+###Keywords###
+From the input, the term "spatial transcriptomics" directly indicates the technology used. This suggests that 'Spatial Transcriptomics' may be a proper result.
+###Verify###
+- From "Here, we use spatial transcriptomics to define how the transcriptomic landscape is spatially organized in the steady state and healing murine colon" in the Abstract, we can verify that 'Spatial Transcriptomics' is indeed a proper result.
+###Context###
+No additional context is needed as the term "spatial transcriptomics" clearly specifies the technology used.
+###Conclusion###
+Consequently, we confirm 'Spatial Transcriptomics' as our final result based on the clear and direct mention in the Abstract.
+###Result###
+['Spatial Transcriptomics']

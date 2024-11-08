@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "Pulmonary fibrosis," "lung fibroblasts," "alveolar epithelial cells," and "endothelial cells." These suggest a focus on the "Lung" tissue.
+### Verify ###
+- The abstract mentions "lung fibroblasts," "alveolar epithelial cells," and "endothelial cells," which are all components of the lung tissue.
+- The study's focus on "pulmonary fibrosis" further confirms the relevance of the "Lung" tissue.
+### Context ###
+- The abstract discusses the mechanism of fibroblast activation in pulmonary fibrosis, specifically involving lung cells.
+- The use of assays like CCK-8, western blot, and flow cytometry on lung cells supports the context that the study is centered around the lung tissue.
+### Conclusion ###
+The abstract clearly and consistently focuses on the lung tissue, making "Lung" a definitively relevant term to extract.
+### Result ###
+['Lung']

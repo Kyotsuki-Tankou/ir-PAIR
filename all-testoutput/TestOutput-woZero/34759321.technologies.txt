@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the terms "Bulk, single-cell and positional RNA-sequencing analyses" suggest that 'RNA-seq', 'scRNA', and potentially other sequencing technologies might be relevant.
+###Verify###
+The abstract explicitly mentions "Bulk, single-cell and positional RNA-sequencing analyses," which directly verifies the use of 'RNA-seq' and 'scRNA'. There is no mention of other specific technologies from the schema.
+###Conclusion###
+Based on the explicit mention of "Bulk, single-cell and positional RNA-sequencing analyses," it is clear that 'RNA-seq' and 'scRNA' are the technologies used in the study.
+###Result###
+['RNA-seq', 'scRNA']

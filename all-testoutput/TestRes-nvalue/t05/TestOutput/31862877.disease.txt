@@ -1,0 +1,10 @@
+### Keywords ###
+The term "heart failure" is mentioned in the abstract, indicating that 'Heart failure' may be a proper result.
+### Verify ###
+The abstract specifically mentions "Heart failure (HF)" and "prospective HF incidence," which further verifies that 'Heart failure' is indeed a relevant disease in this context.
+### Context ###
+Given the detailed focus on heart failure and the use of proteomics to identify proteins associated with the disease, there is no need for additional context to confirm the relevance of 'Heart failure'.
+### Conclusion ###
+Consequently, we confirm 'Heart failure' as the final result based on the clear and consistent focus on heart failure throughout the abstract.
+### Result ###
+['Heart failure']

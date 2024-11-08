@@ -1,0 +1,8 @@
+### Keywords ###
+The abstract mentions "Spatial Transcriptomics (ST)" and "synovial biopsies from rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients." This indicates that the species under study could potentially be humans, given the context of the diseases mentioned.
+### Verify ###
+The diseases mentioned, rheumatoid arthritis (RA) and spondyloarthritis (SpA), are human diseases. Therefore, the species being studied is likely "Homo sapiens."
+### Conclusion ###
+Since the diseases are specific to humans and there is no mention of any model organisms typically used in research for these diseases, we can conclude that "Homo sapiens" is the correct species.
+### Result ###
+['Homo sapiens']

@@ -1,0 +1,27 @@
+### Keywords ###
+- Brain
+- Adult mouse brain
+- Spatial transcriptomics
+- Neuroanatomical organization
+- Isocortex
+- Hippocampus
+- Striatum
+- Molecular atlas
+- Single-cell RNA profile
+- Spatial organization
+- Neuroanatomical domains
+### Verify ###
+- Brain: Mentioned multiple times, central focus of the study.
+- Adult mouse brain: Specifically mentioned as the subject of the study.
+- Spatial transcriptomics: Used as the method for classification.
+- Neuroanatomical organization: Described as the outcome of the study.
+- Isocortex, Hippocampus, Striatum: Specific brain regions mentioned.
+- Molecular atlas: Created as a result of the study.
+- Single-cell RNA profile: Used for characterizing spatial identity.
+- Spatial organization: Defined through the molecular atlas.
+- Neuroanatomical domains: Targeted through the molecular code.
+### Conclusion ###
+The extracted items corresponding to the schema are:
+- ['Brain', 'Adult mouse brain', 'Spatial transcriptomics', 'Neuroanatomical organization', 'Isocortex', 'Hippocampus', 'Striatum', 'Molecular atlas', 'Single-cell RNA profile', 'Spatial organization', 'Neuroanatomical domains']
+### Result ###
+['Brain', 'Adult mouse brain', 'Spatial transcriptomics', 'Neuroanatomical organization', 'Isocortex', 'Hippocampus', 'Striatum', 'Molecular atlas', 'Single-cell RNA profile', 'Spatial organization', 'Neuroanatomical domains']

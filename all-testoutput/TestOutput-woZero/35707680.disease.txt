@@ -1,0 +1,10 @@
+### Keywords ###
+From "tumor microenvironment" in the Abstract and "Immunology" in the Keywords, it indicates that 'Tumor metastasis' may be a related result.
+### Verify ###
+The Abstract mentions "localization of infiltrating T cell clones within the tumor microenvironment," which suggests a focus on the spatial organization of T cells in the context of tumors. This implies a connection to tumor biology, particularly how T cells interact within the tumor environment.
+### Context ###
+The context of the study involves the spatial organization of T cells within tissue sections, specifically within the tumor microenvironment. This aligns with the concept of tumor metastasis, as understanding the spatial distribution of T cells can be crucial for studying how tumors spread and interact with the immune system.
+### Conclusion ###
+Given the focus on the tumor microenvironment and the role of T cells within it, 'Tumor metastasis' is a relevant disease category, even though the term "metastasis" is not explicitly mentioned. The study's implications for understanding tumor behavior support this classification.
+### Result ###
+['Tumor metastasis']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "single-cell RNA sequencing (scRNA-seq)" is explicitly mentioned, indicating that 'scRNA' may be a proper result.
+### Verify ###
+The abstract states, "through single-cell RNA sequencing (scRNA-seq) of freshly isolated ECs from human glioblastoma and paired tumor peripheral tissues," which directly verifies that 'scRNA' is indeed a relevant technology used in the study.
+### Context ###
+Not required in this case as the keywords and the abstract content directly align with the schema.
+### Conclusion ###
+Consequently, we confirm 'scRNA' as our final result based on the clear and consistent information provided in both the keywords and the abstract.
+### Result ###
+['scRNA']

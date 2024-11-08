@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, keywords like "primary pancreatic tumors," "ductal cells," "macrophages," "dendritic cells," "cancer cells," and "inflammatory fibroblasts" suggest a focus on the pancreas and its associated cellular components.
+### Verify ###
+The abstract explicitly mentions "primary pancreatic tumors" and discusses the spatial organization of various cell types within these tumors. This directly indicates the involvement of the pancreas.
+### Conclusion ###
+Given the clear mention of "primary pancreatic tumors" and the detailed analysis of cell populations within this tissue, it is evident that the pancreas is the primary tissue of interest in this study.
+### Result ###
+['Pancreas']

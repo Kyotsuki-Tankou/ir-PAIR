@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the term "synovial biopsies" and "synovial tissue biopsies" indicate that 'Synovial' may be a proper result.
+### Verify ###
+The Abstract mentions "synovial biopsies from rheumatoid arthritis (RA) and spondyloarthritis (SpA) patients" and "studied with ST," which directly verifies that 'Synovial' tissue is the focus of the study.
+### Context ###
+Not required in this case as the verification directly supports the keyword.
+### Conclusion ###
+Consequently, we choose 'Synovial' as our final result.
+### Result ###
+['Synovial']

@@ -1,0 +1,11 @@
+###Keywords###
+From the input, the terms "rheumatoid arthritis (RA) patients" and "spondyloarthritis (SpA) patients" suggest the involvement of human subjects. This indicates that 'Homo sapiens' may be the proper result.
+###Verify###
+- The mention of "rheumatoid arthritis (RA) patients" and "spondyloarthritis (SpA) patients" in the Abstract directly points to human subjects.
+- The context of studying human synovial tissue biopsies further supports this.
+###Context###
+No additional context is needed as the terms "RA patients" and "SpA patients" clearly specify the species involved.
+###Conclusion###
+Consequently, we confirm 'Homo sapiens' as our final result based on the clear and direct mentions in the Abstract.
+###Result###
+['Homo sapiens']

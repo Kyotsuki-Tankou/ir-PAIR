@@ -1,0 +1,13 @@
+### Keywords ###
+From the Abstract, the terms "single-cell mRNA sequencing" and "single-cell HCL analysis" are mentioned, indicating potential relevance to technologies like 'scRNA' and 'RNA-seq'.
+### Verify ###
+- The phrase "single-cell mRNA sequencing" directly aligns with 'scRNA'.
+- The term "single-cell" in the context of sequencing also suggests 'scRNA'.
+- Additionally, "mRNA sequencing" can be associated with 'RNA-seq'.
+### Context ###
+- The Abstract focuses on single-cell analysis and mRNA sequencing, which are core aspects of 'scRNA' and 'RNA-seq'.
+- There is no mention of other specific technologies from the schema, making 'scRNA' and 'RNA-seq' the most relevant.
+### Conclusion ###
+Based on the clear mention of single-cell mRNA sequencing and the focus on single-cell analysis, both 'scRNA' and 'RNA-seq' are confirmed as relevant technologies.
+### Result ###
+['scRNA', 'RNA-seq']

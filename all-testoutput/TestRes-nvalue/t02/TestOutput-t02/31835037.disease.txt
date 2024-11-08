@@ -1,0 +1,15 @@
+### Keywords ###
+From the input, the keyword that stands out is "heart development." This suggests that 'Heart development' might be a relevant disease.
+### Verify ###
+In the abstract, it is mentioned:
+- "The process of cardiac morphogenesis in humans"
+- "a deep exploration of the organ-wide orchestration of gene expression with a single-cell spatial resolution"
+- "we present a molecular approach that reveals the comprehensive transcriptional landscape of cell types populating the embryonic heart at three developmental stages"
+- "Keywords: gene expression; heart development; human development; human developmental cell atlas; in situ sequencing; single-cell RNA-sequencing; spatial transcriptomics; spatially resolved transcriptomics."
+These phrases directly verify that 'Heart development' is indeed a relevant disease.
+### Context ###
+Since the abstract explicitly mentions "heart development" multiple times and it is also listed in the keywords, there is no ambiguity or need for further context to verify this disease.
+### Conclusion ###
+Consequently, based on the explicit mention in the abstract, we choose 'Heart development' as our final result.
+### Result ###
+['Heart development']

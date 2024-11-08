@@ -1,0 +1,12 @@
+###Keywords###
+From the abstract, the term "high-grade serous ovarian carcinoma" directly suggests that 'Ovarian' and 'Tumor' may be relevant tissues. Additionally, the context of the study involves cancer samples, which often includes tissues like 'Epithelium'.
+###Verify###
+1. **Ovarian**: The abstract mentions "high-grade serous ovarian carcinoma," which clearly indicates the involvement of ovarian tissue.
+2. **Tumor**: The study focuses on carcinoma, which is a type of tumor, confirming the relevance of this tissue.
+3. **Epithelium**: Given that ovarian carcinoma often originates from epithelial cells, 'Epithelium' is also a likely relevant tissue.
+###Context###
+The study is specifically about high-grade serous ovarian carcinoma, which is a type of cancer originating in the epithelial cells of the ovary. This context supports the inclusion of 'Ovarian', 'Tumor', and 'Epithelium'.
+###Conclusion###
+Based on the clear mentions and the context of the study, we can confidently conclude that 'Ovarian', 'Tumor', and 'Epithelium' are the relevant tissues.
+###Result###
+['Ovarian', 'Tumor', 'Epithelium']

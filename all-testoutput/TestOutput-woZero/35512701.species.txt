@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the mention of "zebrafish embryo sections" directly indicates the species involved. The keyword here is "zebrafish."
+###Verify###
+The abstract specifically states "91 zebrafish embryo sections covering six critical time points during the first 24 h of development," which clearly verifies that the species studied is "Danio rerio" (the scientific name for zebrafish).
+###Conclusion###
+Given the clear mention of "zebrafish" in both the context and the specific methodology, we can confidently conclude that the species involved in the study is "Danio rerio."
+###Result###
+['Danio rerio']

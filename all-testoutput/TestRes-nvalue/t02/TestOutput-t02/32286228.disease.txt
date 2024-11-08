@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the terms "bone marrow mesenchymal lineage cells," "osteoporosis," "mesenchymal stem cells," "osteoblasts," and "adipocytes" are prominent. These suggest a focus on bone-related diseases and cellular development. The closest matching disease from the schema could be 'Bone marrow'.
+###Verify###
+The abstract specifically mentions "bone marrow mesenchymal lineage cells" and their role in "bone homeostasis and diseases such as osteoporosis." This directly supports the inclusion of 'Bone marrow' as a relevant disease.
+###Conclusion###
+Given the clear focus on bone marrow and its associated cellular components and diseases, 'Bone marrow' is a well-supported choice from the provided schema.
+###Result###
+['Bone marrow']

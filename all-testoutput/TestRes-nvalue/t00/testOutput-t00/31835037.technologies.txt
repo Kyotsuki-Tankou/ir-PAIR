@@ -1,0 +1,21 @@
+### Keywords
+- gene expression
+- heart development
+- human development
+- human developmental cell atlas
+- in situ sequencing
+- single-cell RNA-sequencing
+- spatial transcriptomics
+- spatially resolved transcriptomics
+### Verify
+- spatial transcriptomics
+- single-cell RNA-sequencing
+- in situ sequencing
+### Context
+- The input mentions "Spatial transcriptomics identified unique gene profiles," indicating the use of Spatial Transcriptomics.
+- "Human embryonic cardiac cell types identified by single-cell RNA sequencing" confirms the use of single-cell RNA-sequencing.
+- "In situ sequencing was then used to refine these results" confirms the use of in situ sequencing.
+### Conclusion
+- The technologies used in the study are Spatial Transcriptomics, single-cell RNA-sequencing, and in situ sequencing.
+### Result
+["Spatial Transcriptomics", "single-cell RNA-sequencing", "in situ sequencing"]

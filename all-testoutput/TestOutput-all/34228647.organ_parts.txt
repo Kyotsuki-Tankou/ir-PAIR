@@ -1,0 +1,12 @@
+###Keywords###
+From the abstract, the terms "brain," "glioblastoma (GBM)," and "human brain ECs" are mentioned, indicating that 'Brain' and 'Glioblastoma multiforme tissue' may be relevant organ parts.
+###Verify###
+1. The abstract states, "Tumor vessels in glioblastoma (GBM), the most common malignant brain tumor in humans," which directly verifies the involvement of 'Glioblastoma multiforme tissue'.
+2. It also mentions, "through single-cell RNA sequencing (scRNA-seq) of freshly isolated ECs from human glioblastoma and paired tumor peripheral tissues," which further confirms the focus on 'Glioblastoma multiforme tissue'.
+3. The context of studying the blood-brain-barrier (BBB) and brain endothelial cells (ECs) suggests a broader focus on the 'Brain'.
+###Context###
+The study is specifically focused on the endothelial cells within the context of glioblastoma, which is a type of brain tumor. This dual focus on both the specific tumor type and the broader organ (brain) is evident.
+###Conclusion###
+Given the clear mentions and the context, we can conclude that both 'Brain' and 'Glioblastoma multiforme tissue' are relevant organ parts involved in the study.
+###Result###
+['Brain', 'Glioblastoma multiforme tissue']

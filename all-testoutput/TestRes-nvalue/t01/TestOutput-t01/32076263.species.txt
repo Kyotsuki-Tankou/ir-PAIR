@@ -1,0 +1,16 @@
+###Keywords###
+From the abstract, the keywords that stand out are "gastruloids", "mouse embryos", "single-cell RNA sequencing", "spatial transcriptomics", and "somitogenesis". These keywords suggest a focus on embryonic development and the use of mouse models.
+###Verify###
+The abstract specifically mentions:
+- "mouse gastruloids with mouse embryos"
+- "single-cell RNA sequencing and spatial transcriptomics"
+- "various embryonic cell types"
+- "key regulators of somitogenesis"
+- "live imaging in gastruloids"
+These points verify that the study is deeply involved in comparing the development processes in mouse gastruloids and mouse embryos, particularly focusing on somitogenesis.
+###Context###
+While the abstract does not explicitly use the term "Mus musculus", it consistently refers to "mouse gastruloids" and "mouse embryos", which clearly indicates that the species being studied is the mouse.
+###Conclusion###
+Given the explicit mention of "mouse" throughout the abstract, it is clear that the species being studied is "Mus musculus".
+###Result###
+['Mus musculus']

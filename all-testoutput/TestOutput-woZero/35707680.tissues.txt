@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the terms "tissue sections" and "tumor microenvironment" suggest that the tissue involved could be 'Tumor'.
+### Verify ###
+The phrase "localization of infiltrating T cell clones within the tumor microenvironment" directly indicates that the tissue being studied is indeed 'Tumor'.
+### Conclusion ###
+Since both the keyword and the context in the abstract consistently point to 'Tumor', we can confidently conclude that 'Tumor' is the correct tissue.
+### Result ###
+['Tumor']

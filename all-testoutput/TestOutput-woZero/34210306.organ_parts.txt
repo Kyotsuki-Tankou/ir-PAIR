@@ -1,0 +1,18 @@
+### Keywords ###
+- "cerebellar granule neurons (GNs)"
+- "cerebellum"
+- "granule neuron progenitors (GNPs)"
+- "medulloblastoma"
+- "single-cell RNA sequencing of murine cerebellar cells"
+- "spatial transcriptomics technology enabled visualization of their spatial locations in cerebellum"
+### Verify ###
+- The abstract mentions "cerebellar neurogenesis" and "development of the cerebellum," which directly relate to the cerebellum.
+- "single-cell RNA sequencing of 24,919 murine cerebellar cells" and "spatial transcriptomics technology enabled visualization of their spatial locations in cerebellum" confirm the focus on the cerebellum.
+- The study involves "medulloblastoma," a type of brain tumor typically located in the cerebellum.
+### Context ###
+- The detailed discussion of "cerebellar granule neurons" and "granule neuron progenitors" within the context of the cerebellum further supports the focus on this specific brain region.
+- The use of "Math1-GFP; Dcx-DsRed mice" for single-cell RNA sequencing specifically targets cerebellar cells, reinforcing the cerebellum as the primary organ part studied.
+### Conclusion ###
+Given the consistent focus on the cerebellum throughout the abstract, we can confidently conclude that 'Cerebellum' is the correct organ part.
+### Result ###
+['Cerebellum']

@@ -1,0 +1,6 @@
+["Homo sapiens"]
+["Spinal cord"]
+null
+["10x Visium"]
+["Spin cord development"]
+ Abstract\nThe spatiotemporal regulation of cell fate specification in the human developing spinal cord remains largely unknown. In this study, by performing integrated analysis of single-cell and spatial multi-omics data, we used 16 prenatal human samples to create a comprehensive developmental cell atlas of the spinal cord during post-conceptional weeks 5-12. This revealed how the cell fate commitment of neural progenitor cells and their spatial positioning are spatiotemporally regulated by specific gene sets. We identified unique events in human spinal cord development relative to rodents, including earlier quiescence of active neural stem cells, differential regulation of cell differentiation and distinct spatiotemporal genetic regulation of cell fate choices. In addition, by integrating our atlas with pediatric ependymomas data, we identified specific molecular signatures and lineage-specific genes of cancer stem cells during progression. Thus, we delineate spatiotemporal genetic regulation of human spinal cord development and leverage these data to gain disease insight.

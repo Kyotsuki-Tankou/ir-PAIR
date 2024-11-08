@@ -1,0 +1,8 @@
+### Keywords ###
+The input mentions "single-cell RNA sequencing" and "spatial transcriptomics," which are both technologies listed in the schema.
+### Verify ###
+The abstract explicitly states "Here we compare mouse gastruloids with mouse embryos using single-cell RNA sequencing and spatial transcriptomics," confirming that these technologies are used in the study.
+### Conclusion ###
+Given the clear mention of both technologies in the abstract, we can conclude that they are the proper results.
+### Result ###
+['single-cell RNA sequencing', 'spatial transcriptomics']

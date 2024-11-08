@@ -1,0 +1,11 @@
+### Keywords ###
+From the abstract, terms like "RNA proximity labeling technique," "APEX-seq," and "stress granules" suggest that the research is focused on a specific subcellular structure and its RNA composition.
+### Verify ###
+The abstract explicitly mentions "RNA proximity labeling technique, APEX-seq," which indicates the use of APEX-seq for mapping the RNA composition within stress granules. This confirms that APEX-seq is indeed a relevant technology.
+### Context ###
+The context provided in the abstract describes the development of APEX-seq to study the spatial organization of the transcriptome within stress granules and its integration with APEX-mass spectrometry (APEX-MS) to provide insights into translation initiation complexes and stress granule composition. This further supports the use of 'APEX-seq' as the result.
+### Conclusion ###
+Based on the clear mention of APEX-seq and its application in the study, we can conclude that it is a relevant technology to the input provided.
+### Result ###
+['Stress granules'] 
+(Note: The schema provided does not include 'Stress granules' as a tissue or organ part, so the result is directly related to the technology mentioned in the abstract rather than a specific tissue or organ.)

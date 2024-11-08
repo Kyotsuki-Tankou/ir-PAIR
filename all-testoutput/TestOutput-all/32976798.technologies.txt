@@ -1,0 +1,12 @@
+### Keywords ###
+From the Keywords, "scRNA-seq" directly indicates the technology 'scRNA'.
+From the Abstract, "Spatial transcriptomics" indicates the technology 'Spatial Transcriptomics'.
+### Verify ###
+The Abstract mentions "We employed scRNA sequencing" which confirms the use of 'scRNA'.
+It also mentions "Spatial transcriptomics further revealed" which confirms the use of 'Spatial Transcriptomics'.
+### Context ###
+Not required in this case as the verification directly supports the keywords.
+### Conclusion ###
+Since both keywords and the abstract consistently point to 'scRNA' and 'Spatial Transcriptomics', we can confidently conclude that these are the correct technologies used.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

@@ -1,0 +1,10 @@
+### Keywords ###
+The keywords from the input that correspond to the schema are "primary pancreatic tumors" and "ductal cells, macrophages, dendritic cells and cancer cells."
+### Verify ###
+The abstract mentions "primary pancreatic tumors" as the tissue being studied. Additionally, it discusses specific cell types within these tumors, such as "ductal cells, macrophages, dendritic cells, and cancer cells."
+### Context ###
+The context of the study involves combining spatial transcriptomics with scRNA-seq to analyze the cellular composition and spatial organization within primary pancreatic tumors. This further supports the focus on "primary pancreatic tumors" as the main organ part being studied.
+### Conclusion ###
+Since the keyword "primary pancreatic tumors" directly matches the tissue mentioned in the abstract and the context supports this focus, we can conclude that "Primary PDAC tumor" is the appropriate result.
+### Result ###
+['Primary PDAC tumor']

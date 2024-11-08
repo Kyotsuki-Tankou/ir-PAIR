@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "heart development," "human development," "human developmental cell atlas," and "spatial transcriptomics" are prominent. These suggest a focus on the developmental aspects of the heart.
+###Verify###
+The abstract specifically mentions "the comprehensive transcriptional landscape of cell types populating the embryonic heart at three developmental stages" and "human embryonic cardiac cell types identified by single-cell RNA sequencing." This directly aligns with "Heart development" from the schema.
+###Context###
+Given the explicit focus on the embryonic heart and its development, there is no need for additional context to verify the result.
+###Conclusion###
+Consequently, we confirm that "Heart development" is the appropriate result based on the provided schema and input.
+###Result###
+["Heart development"]

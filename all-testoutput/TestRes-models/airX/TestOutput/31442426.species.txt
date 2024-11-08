@@ -1,0 +1,24 @@
+### Keywords ###
+The abstract discusses "RNA proximity labeling technique, APEX-seq," "spatial organization of the transcriptome," and "translation initiation complexes." These terms suggest that the technology APEX-seq is being used to study RNA localization and subcellular processes.
+### Verify ###
+The abstract states that APEX-seq is a technique used to "resolve the localization of RNAs within the cell and determine their enrichment or depletion near key RNA-binding proteins." This directly verifies that APEX-seq is the technology being discussed.
+### Context ###
+The abstract mentions that APEX-seq is a tool to explore the spatial environment of macromolecules. While the schema includes species, the abstract does not explicitly mention any specific species being studied. It focuses on the methodological application of APEX-seq rather than the species.
+### Conclusion ###
+Given the direct mention of APEX-seq in the context of RNA localization and the use of the technique in the study, we can conclude that APEX-seq is the appropriate technology identified in the input.
+### Result ###
+['APEX-seq']
+###schema###\nspecies:['Canis lupus familiaris', 'Arabidopsis thaliana', 'Xenopus tropicalis', 'Maize', 'Drosophila melanogaster', 'Danio rerio', 'Ambystoma mexicanum', 'Gallus gallus', 'Homo sapiens', 'Rattus norvegicus', 'Mus musculus', 'Macaca fascicularis', 'Glycine max', 'Xenopus laevis', 'Caenorhabditis elegans', 'Oryctolagus cuniculus', 'Phalaenopsis aphrodite', 'Sus scrofa']
+###input###
+ Abstract
+Diverse ribonucleoprotein complexes control mRNA processing, translation, and decay. Transcripts in these complexes localize to specific regions of the cell and can condense into non-membrane-bound structures such as stress granules. It has proven challenging to map the RNA composition of these large and dynamic structures, however. We therefore developed an RNA proximity labeling technique, APEX-seq, which uses the ascorbate peroxidase APEX2 to probe the spatial organization of the transcriptome. We show that APEX-seq can resolve the localization of RNAs within the cell and determine their enrichment or depletion near key RNA-binding proteins. Matching the spatial transcriptome, as revealed by APEX-seq, with the spatial proteome determined by APEX-mass spectrometry (APEX-MS), obtained precisely in parallel, provides new insights into the organization of translation initiation complexes on active mRNAs and unanticipated complexity in stress granule composition. Our novel technique allows a powerful and general approach to explore the spatial environment of macromolecules. \n Keywords:APEX-Seq; RNA localization; proximity labeling; subcellular localization.
+### Keywords ###
+The keywords suggest a focus on RNA localization, proximity labeling, and the spatial organization of the transcriptome. However, they do not provide direct information about the species being used in the study.
+### Verify ###
+The abstract mentions the development of APEX-seq, a technique that uses APEX2 to probe the spatial organization of the transcriptome. It does not mention any specific species.
+### Context ###
+While the abstract does not explicitly state the species used, it is common in studies involving RNA and protein localization techniques to use model organisms like "Mus musculus" (mouse) or "Homo sapiens" (human) for such experiments.
+### Conclusion ###
+The abstract does not provide enough information to verify a specific species from the schema. However, given the common use of model organisms in such studies, one could speculate on the use of "Mus musculus" or "Homo sapiens," but this is not confirmed by the abstract.
+### Result ###
+null

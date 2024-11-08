@@ -1,0 +1,10 @@
+###Keywords###
+From the keywords "mouse embryo," "development," "gastrulation," "germ layers," and "embryogenesis," we can infer that 'Mouse Embryo' and possibly 'Gastrulation' are relevant to the study described.
+###Verify###
+The abstract explicitly mentions "post-implantation development of the mouse embryo," confirming that 'Mouse Embryo' is indeed a proper result. It also discusses "development from pre- to late-gastrulation stages," which indicates that 'Gastrulation' is also a relevant result.
+###Context###
+No additional context is required, as the abstract provides clear and direct references to both 'Mouse Embryo' and 'Gastrulation'.
+###Conclusion###
+Based on the information in the abstract, we conclude that 'Mouse Embryo' and 'Gastrulation' are the appropriate results.
+###Result###
+['Mouse Embryo', 'Gastrulation']

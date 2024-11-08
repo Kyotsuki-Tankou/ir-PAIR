@@ -1,0 +1,16 @@
+### Keywords ###
+- adult mouse brain
+- spatial transcriptomics
+- molecular information
+- neuroanatomical organization
+- isocortex
+- hippocampus
+- striatum
+- single-cell RNA profile
+- molecular atlas
+### Verify ###
+- **Species Mentioned:** "adult mouse brain" implies **Mus musculus**
+### Conclusion ###
+- The study focuses on the adult mouse brain, which corresponds to **Mus musculus**.
+### Result ###
+- ["Mus musculus"]

@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the terms "embryonic mouse brain," "neuroepithelium," "region-specific secondary organizers," and "neural progenitors" indicate the tissue involved, which is 'Brain' and 'Embryo'.
+### Verify ###
+The abstract mentions "single-cell transcriptomic atlas of the embryonic mouse brain" and "spatial organization of neural progenitors during the patterning of the nervous system," which clearly verifies that the tissues being studied are 'Brain' and 'Embryo'.
+### Conclusion ###
+Since the keywords and the context in the abstract both confirm the tissues, we can conclude that 'Brain' and 'Embryo' are the correct results.
+### Result ###
+['Brain', 'Embryo']

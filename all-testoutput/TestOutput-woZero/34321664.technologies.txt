@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, the terms "single-cell RNA sequencing" and "spatial transcriptomics" stand out as specific technologies mentioned. This suggests that 'scRNA' and 'Spatial Transcriptomics' may be proper results.
+### Verify ###
+- The phrase "single-cell RNA sequencing" directly verifies that 'scRNA' is indeed a proper result.
+- The phrase "spatial transcriptomics" directly verifies that 'Spatial Transcriptomics' is also a proper result.
+### Context ###
+No additional context is needed as the terms "single-cell RNA sequencing" and "spatial transcriptomics" clearly specify the technologies used without ambiguity.
+### Conclusion ###
+Consequently, we confirm 'scRNA' and 'Spatial Transcriptomics' as our final results based on the clear and direct mentions in the Abstract.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

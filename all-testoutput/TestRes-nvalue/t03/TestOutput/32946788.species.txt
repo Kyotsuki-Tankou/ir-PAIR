@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the term "humans" is explicitly mentioned, indicating that the study focuses on human subjects. Additionally, "HSCs" (Hematopoietic stem cells) and "embryo" are mentioned, but these do not directly correspond to species in the schema.
+### Verify ###
+- The abstract states: "Much less is known about mechanisms driving HSC development in humans." This clearly indicates that the study is focused on human subjects.
+- Other terms like "AGM region," "HSC," "embryo," and "endothelin" do not directly relate to species but are contextually relevant to the study's focus.
+### Context ###
+- The abstract emphasizes the study of human HSC development, distinguishing it from studies on model organisms.
+- The mention of "humans" directly aligns with one of the species listed in the schema, 'Homo sapiens.'
+### Conclusion ###
+Given the explicit mention of "humans" and the focus on human HSC development, it is clear that 'Homo sapiens' is the appropriate species to extract according to the schema.
+### Result ###
+['Homo sapiens']

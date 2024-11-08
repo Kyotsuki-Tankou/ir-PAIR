@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the primary focus is on "Arabidopsis leaves" and related plant tissues. The terms "upper and lower epidermal cells," "vascular cells," and "guard cells" are also mentioned, all of which are components of plant leaves.
+###Verify###
+The abstract explicitly mentions "Arabidopsis leaves" and the application of scStereo-seq in characterizing these leaves. This directly aligns with the 'Leaf' term in the schema.
+###Context###
+The context of the study is entirely focused on plant leaves, specifically Arabidopsis leaves, and the spatial transcriptome profiles of their cells. There is no mention of other tissues or organs that might be relevant to the schema.
+###Conclusion###
+Given the clear and specific focus on "Arabidopsis leaves" and the absence of any other tissue types mentioned, it is conclusive that 'Leaf' is the relevant tissue type from the schema.
+###Result###
+['Leaf']

@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the key technology mentioned is "scStereo-seq (single-cell spatial enhanced resolution omics sequencing)" which directly suggests 'Stereo-Seq' as a potential match from the schema.
+### Verify ###
+- The abstract states, "we present scStereo-seq" and "our study showcases the importance of physical locations of individual cells for exerting complex biological functions in plants," which confirms the use of 'Stereo-Seq' technology.
+### Conclusion ###
+Given the clear mention and focus on "scStereo-seq" in the abstract, 'Stereo-Seq' is a definitive match.
+### Result ###
+['Stereo-Seq']

@@ -1,0 +1,16 @@
+Let's think step by step.
+### Keywords ###
+From the input, the keywords that stand out are "embryonic aorta-gonad-mesonephros (AGM) region," "aorta," "endothelin 1," and "hematopoietic stem cells (HSCs)." These suggest that 'Aorta' and 'Embryo' might be relevant tissues.
+### Verify ###
+The abstract mentions:
+- "embryonic aorta-gonad-mesonephros (AGM) region"
+- "aorta"
+This directly verifies that 'Aorta' is a relevant tissue.
+- "embryonic"
+This suggests that 'Embryo' is also a relevant tissue, as it is mentioned in the context of the AGM region's development.
+### Context ###
+The mention of "embryonic aorta-gonad-mesonephros" indicates an early stage of development where the aorta and other tissues are forming. This context further supports the relevance of 'Embryo' as a tissue.
+### Conclusion ###
+Consequently, based on the explicit mention and context provided, we choose 'Aorta' and 'Embryo' as our final results.
+### Result ###
+['Aorta', 'Embryo']

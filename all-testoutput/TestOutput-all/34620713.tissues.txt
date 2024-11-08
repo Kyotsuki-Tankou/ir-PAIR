@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "In the skin" directly indicates that 'Skin' is a relevant tissue.
+###Verify###
+The phrases "tissue injury results in fibrosis in the form of scars composed of dense extracellular matrix deposited by fibroblasts" and "a stented wound model that recapitulates human tissue repair kinetics" further confirm that the study is focused on the skin tissue.
+###Conclusion###
+Since both the keywords and the context in the abstract consistently point to 'Skin', we can confidently conclude that 'Skin' is the correct tissue involved in this study.
+###Result###
+['Skin']

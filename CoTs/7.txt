@@ -1,0 +1,18 @@
+###schema###
+tissues:['Skin', 'Brain', 'Colon', 'Eymbro', 'Cortex', 'Gastrula', 'Bone', 'Embryo', 'Ileum', 'Spinal cord', 'Gland', 'Lymph', 'Liver', 'Basal cell', 'Plant part', 'Muscle', 'Thymus', 'Cervical', 'Leaf', 'Uterus', 'Skeleton', 'Bladder', 'Spleen', 'Epithelium', 'Lacrimal Gland', 'Lung', 'Overian', 'Bone marrow', 'Stress granules', 'Kidney', 'Neuron', 'Cerebella', 'Pancreas', 'Flower', 'Cell line', 'Pituitary', 'Blood vessel', 'Stomach', 'Blastema', 'Legs', 'Intestine', 'Head Neck', 'Blood', 'Breast', 'Prostate', 'Dorsal aorta', 'Synovial', 'Eye', 'Heart', 'Mucosa', 'Ovarian', 'Tumor', 'Ear'],
+###input###
+ Abstract
+Analysis of the pattern of proteins or messengerRNAs (mRNAs) in histological tissue sections is a cornerstone in biomedical research and diagnostics. This typically involves the visualization of a few proteins or expressed genes at a time. We have devised a strategy, which we call "spatial transcriptomics," that allows visualization and quantitative analysis of the transcriptome with spatial resolution in individual tissue sections. By positioning histological sections on arrayed reverse transcription primers with unique positional barcodes, we demonstrate high-quality RNA-sequencing data with maintained two-dimensional positional information from the mouse brain and human breast cancer. Spatial transcriptomics provides quantitative gene expression data and visualization of the distribution of mRNAs within tissue sections and enables novel types of bioinformatics analyses, valuable in research and diagnostics.Let's think step by step.
+### Keywords ###
+From the input, the keywords that stand out are "mouse brain" and "human breast cancer." These suggest that 'Brain' and 'Breast' might be relevant tissues.
+### Verify ###
+In the abstract, it is mentioned:
+- "from the mouse brain and human breast cancer"
+This directly verifies that 'Brain' and 'Breast' are indeed relevant tissues.
+### Context ###
+Since the abstract explicitly mentions "mouse brain" and "human breast cancer," there is no ambiguity or need for further context to verify these tissues.
+### Conclusion ###
+Consequently, based on the explicit mention in the abstract, we choose 'Brain' and 'Breast' as our final results. However, the provided result is ["Neuron"], which seems to be a specific cell type rather than a tissue type listed in the schema.
+### Result ###
+Given the schema and the explicit mention in the abstract, the correct results should be:
+['Brain', 'Breast']

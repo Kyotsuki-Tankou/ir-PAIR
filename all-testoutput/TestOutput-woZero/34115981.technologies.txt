@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "Seq-Scope" directly indicates the technology used.
+### Verify ###
+The abstract mentions "Seq-Scope, a spatial barcoding technology" and details its methodology and applications, which further confirm that the technology used in the study is 'Seq-Scope'.
+### Conclusion ###
+Since the keywords and the abstract both consistently point to 'Seq-Scope', we can confidently conclude that 'Seq-Scope' is the correct technology.
+### Result ###
+['Seq-Scope']

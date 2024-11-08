@@ -1,0 +1,8 @@
+###Keywords###
+The keywords from the input that correspond to the schema are "single-cell RNA sequencing" and "spatial transcriptomics."
+###Verify###
+The abstract mentions "using single-cell RNA sequencing and spatial transcriptomics" as the technologies used in the study, verifying that these are the correct technologies to extract according to the schema.
+###Conclusion###
+Since the keywords match the technologies mentioned in the abstract, we can conclude that "single-cell RNA sequencing" and "spatial transcriptomics" are the appropriate results.
+###Result###
+['single-cell RNA sequencing', 'spatial transcriptomics']

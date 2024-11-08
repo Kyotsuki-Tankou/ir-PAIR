@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the term "single-cell RNA-sequencing" directly suggests the technology used. Additionally, "single-cell RNA-seq" is mentioned in the keywords.
+### Verify ###
+The phrases "Single-cell RNA-sequencing in a murine endotoxemia model" and "single-cell RNA-seq" in the keywords explicitly mention the technology used, which aligns with 'scRNA' from the schema.
+### Conclusion ###
+Given the clear and repeated mention of "single-cell RNA-sequencing" and "single-cell RNA-seq," we can confidently conclude that 'scRNA' is the correct technology to be extracted.
+### Result ###
+['scRNA']

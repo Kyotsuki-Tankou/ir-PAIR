@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, keywords such as "Heart failure (HF)," "aptamer-based proteomics," "prospective HF incidence," "immunological," "complement," "coagulation," "natriuretic," "matrix remodeling pathways," "heart transplantation," and "coronary sinus samples" are prominent. The term "Heart failure (HF)" directly matches an item in the schema.
+### Verify ###
+The abstract explicitly mentions "Heart failure (HF)" as the primary focus of the study. This directly corresponds to the item 'Heart failure' in the schema.
+### Conclusion ###
+Given the clear and direct mention of "Heart failure (HF)" in the abstract, we can confidently conclude that 'Heart failure' is the relevant disease from the schema.
+### Result ###
+['Heart failure']

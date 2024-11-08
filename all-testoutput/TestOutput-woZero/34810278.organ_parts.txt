@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, terms like "upper airway," "lung tissue architecture," "cellular structure," "parenchyma tissue density," "alveolar rarefaction," "bronchial thickening," and "pulmonary injury" are prominent, indicating that 'Upper pulmonary branches' and 'Lung' may be relevant organ parts.
+### Verify ###
+The abstract mentions "profound pathological changes to upper airway, lung tissue architecture, and cellular structure," which directly verifies the focus on 'Upper pulmonary branches' and 'Lung.' Additionally, "pulmonary side ventricular chamber enlargement" suggests involvement of the 'Lung' and potentially 'Heart.'
+### Context ###
+The context consistently discusses the impact of vaping on the pulmonary system, specifically mentioning changes in the upper airway and lung tissue. There is no ambiguity in the focus on these organ parts.
+### Conclusion ###
+Based on the clear and consistent focus on the upper airway and lung tissue in the context of vaping-induced pulmonary injury, we confirm 'Upper pulmonary branches' and 'Lung' as the relevant organ parts.
+### Result ###
+['Upper pulmonary branches', 'Lung']

@@ -1,0 +1,26 @@
+### Keywords ###
+- suprachiasmatic nucleus (SCN)
+- ventral hypothalamus
+- single-cell RNA-sequencing
+- mouse SCN
+- circadian gene expression
+- neuronal subtypes
+- spatial distribution
+- three-dimensional reconstruction
+- standardized SCN atlas
+### Verify ###
+- suprachiasmatic nucleus (SCN): Mentioned as the focus of the study.
+- ventral hypothalamus: Mentioned as the location of the SCN.
+- single-cell RNA-sequencing: Used as a method to identify cell types.
+- mouse SCN: The subject of the study.
+- circadian gene expression: Central to the findings.
+- neuronal subtypes: Identified in the SCN.
+- spatial distribution: Described for the subtypes.
+- three-dimensional reconstruction: Used to create an atlas.
+- standardized SCN atlas: Created from the study.
+### Context ###
+The study focuses on the suprachiasmatic nucleus (SCN) in the mouse brain, specifically within the ventral hypothalamus. The use of single-cell RNA-sequencing allowed the identification of various neuronal subtypes within the SCN, each with distinct circadian gene expression patterns. The spatial distribution of these subtypes was mapped through a three-dimensional reconstruction, resulting in a standardized SCN atlas.
+### Conclusion ###
+The study primarily deals with the suprachiasmatic nucleus (SCN) and its neuronal subtypes within the mouse brain, particularly focusing on their circadian gene expression and spatial distribution.
+### Result ###
+["suprachiasmatic nucleus (SCN)", "ventral hypothalamus", "mouse SCN", "circadian gene expression", "neuronal subtypes", "spatial distribution", "three-dimensional reconstruction", "standardized SCN atlas"]

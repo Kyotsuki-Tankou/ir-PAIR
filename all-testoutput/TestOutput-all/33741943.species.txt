@@ -1,0 +1,8 @@
+### Keywords ###
+From the phrase "the chicken heart" in the Abstract, it indicates that 'Gallus gallus' may be the proper result.
+### Verify ###
+The Abstract specifically mentions "the development of the chicken heart" and "spatial transcriptomics with algorithms for data integration to study the development of the chicken heart," which further verifies that 'Gallus gallus' is indeed the species being studied.
+### Conclusion ###
+Consequently, we confirm 'Gallus gallus' as our final result.
+### Result ###
+['Gallus gallus']

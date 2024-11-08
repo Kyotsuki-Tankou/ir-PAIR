@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the keyword "mouse" directly indicates the species involved, which is 'Mus musculus'.
+### Verify ###
+The abstract mentions "young, adult and aging mice" and "marrow cavity inside the mouse," which further confirms that the species being studied is indeed 'Mus musculus'.
+### Conclusion ###
+Since both the keyword and the context in the abstract consistently point to 'Mus musculus', we can confidently conclude that 'Mus musculus' is the correct species.
+### Result ###
+['Mus musculus']

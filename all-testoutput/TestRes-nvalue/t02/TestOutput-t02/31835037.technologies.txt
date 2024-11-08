@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "Spatial transcriptomics," "single-cell RNA sequencing," and "in situ sequencing" stand out as the key technologies used in the study.
+### Verify ###
+- **Spatial transcriptomics**: The abstract mentions "Spatial transcriptomics identified unique gene profiles," confirming its use.
+- **single-cell RNA sequencing**: The abstract states "Human embryonic cardiac cell types identified by single-cell RNA sequencing," verifying its application.
+- **in situ sequencing**: The abstract mentions "In situ sequencing was then used to refine these results," confirming its use.
+### Context ###
+Since the verification step directly confirms the presence of these technologies without ambiguity, there is no need for additional context to clarify the technologies used.
+### Conclusion ###
+Consequently, we confirm that 'Spatial Transcriptomics,' 'scRNA,' and 'in situ sequencing' are the appropriate technologies based on the given input.
+### Result ###
+['Spatial Transcriptomics', 'scRNA', 'in situ sequencing']

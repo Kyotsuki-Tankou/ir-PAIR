@@ -1,0 +1,10 @@
+###Keywords###
+The keyword "mouse" from the abstract suggests that the study involves the species 'Mus musculus'.
+###Verify###
+The abstract explicitly mentions "young, adult and aging mice," which confirms the use of the mouse species.
+###Context###
+The abstract does not provide information about other species mentioned in the schema.
+###Conclusion###
+Given the specific mention of "mice" in the abstract, we can conclude that 'Mus musculus' is the correct species.
+###Result###
+['Mus musculus']

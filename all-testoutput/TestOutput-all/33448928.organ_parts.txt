@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "kidney" is prominently mentioned, indicating that 'Kidney' may be a proper result.
+### Verify ###
+The abstract specifically mentions "investigated the kidney" and "Single-cell RNA-sequencing in a murine endotoxemia model revealed the involvement of various cell populations in the kidney," which further verifies that 'Kidney' is indeed a relevant organ part in this context.
+### Context ###
+Given the detailed focus on the kidney and its role in the pathophysiology of sepsis, as well as the use of a murine endotoxemia model to study cellular and molecular events in the kidney, there is no need for additional context to confirm the relevance of 'Kidney'.
+### Conclusion ###
+Consequently, we confirm 'Kidney' as the final result based on the clear and consistent focus on the kidney throughout the abstract.
+### Result ###
+['Kidney']

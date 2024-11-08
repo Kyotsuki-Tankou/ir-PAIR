@@ -1,0 +1,8 @@
+###Keywords###
+The terms "high-definition spatial transcriptomics" and "histological tissue sections" in the abstract suggest that the technology described might involve capturing spatial information from tissues. This could potentially match 'Spatial Transcriptomics' from the schema.
+###Verify###
+The abstract specifically mentions "high-definition spatial transcriptomics, which captures RNA from histological tissue sections on a dense, spatially barcoded bead array," which is a direct match with the technology 'Spatial Transcriptomics' listed in the schema.
+###Conclusion###
+Given the direct mention and description of the technology in the abstract, 'Spatial Transcriptomics' is a proper match.
+###Result###
+['Spatial Transcriptomics']

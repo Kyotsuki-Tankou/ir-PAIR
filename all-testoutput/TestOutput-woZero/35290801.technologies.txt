@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "spatial transcriptomics" is explicitly mentioned, indicating that 'Spatial Transcriptomics' may be a proper result.
+### Verify ###
+- The abstract states: "Moreover, we paired Perturb-map and spatial transcriptomics for unbiased analysis of CRISPR-edited tumors," which directly verifies the presence of 'Spatial Transcriptomics'.
+### Context ###
+- No additional context is needed as the abstract clearly mentions the specific technology used in the study.
+### Conclusion ###
+Consequently, we confirm 'Spatial Transcriptomics' as our final result based on the explicit mention in the abstract.
+### Result ###
+['Spatial Transcriptomics']

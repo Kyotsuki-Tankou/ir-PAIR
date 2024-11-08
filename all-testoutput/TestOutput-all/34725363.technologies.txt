@@ -1,0 +1,15 @@
+### Keywords ###
+From the input, the technologies mentioned are "spatially resolved transcriptomics," "single-cell RNA-seq," and "single-nucleus RNA-seq." These terms suggest potential matches with the schema.
+### Verify ###
+- "spatially resolved transcriptomics" could be related to several technologies in the schema, but the most direct match is 'Spatial Transcriptomics'.
+- "single-cell RNA-seq" directly matches 'scRNA'.
+- "single-nucleus RNA-seq" directly matches 'snRNA'.
+### Context ###
+The context provided in the abstract clearly specifies the use of these technologies:
+- "Using a zebrafish model of melanoma, we identify a distinct 'interface' cell state where the tumor contacts neighboring tissues."
+- "Our results demonstrate the power of spatially resolved transcriptomics in uncovering mechanisms that allow tumors to adapt to new environments."
+This context confirms that the technologies mentioned are indeed being used in the study as described.
+### Conclusion ###
+Based on the verification and context, the technologies used in the study are 'Spatial Transcriptomics', 'scRNA', and 'snRNA'.
+### Result ###
+['Spatial Transcriptomics', 'scRNA', 'snRNA']

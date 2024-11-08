@@ -1,0 +1,10 @@
+###Keywords###
+From the input, terms like "small intestine," "enterocytes," "goblet and tuft cells," and "epithelial cell types" suggest a focus on intestinal development or function.
+###Verify###
+The Abstract specifically mentions "the small intestine" and "enterocytes" along with "zonated expression programs along the crypt-villus axis," which strongly indicates a focus on the development and function of the small intestine.
+###Context###
+Not required in this case as the Keywords and Verify steps align well and provide sufficient evidence.
+###Conclusion###
+Based on the clear references to the small intestine and its cellular components, we can conclude that 'Intestinal development' is the relevant disease or condition from the provided schema.
+###Result###
+['Intestinal development']

@@ -1,0 +1,6 @@
+["Mus musculus"]
+["Lung"]
+null
+["scRNA"]
+["Lung cancer"]
+ Abstract\nTumor-infiltrating myeloid cells (TIMs) comprise monocytes, macrophages, dendritic cells, and neutrophils, and have emerged as key regulators of cancer growth. These cells can diversify into a spectrum of states, which might promote or limit tumor outgrowth but remain poorly understood. Here, we used single-cell RNA sequencing (scRNA-seq) to map TIMs in non-small-cell lung cancer patients. We uncovered 25 TIM states, most of which were reproducibly found across patients. To facilitate translational research of these populations, we also profiled TIMs in mice. In comparing TIMs across species, we identified a near-complete congruence of population structures among dendritic cells and monocytes; conserved neutrophil subsets; and species differences among macrophages. By contrast, myeloid cell population structures in patients' blood showed limited overlap with those of TIMs. This study determines the lung TIM landscape and sets the stage for future investigations into the potential of TIMs as immunotherapy targets. \n Keywords:dendritic cell heterogeneity; macrophage heterogeneity; mouse-human comparison; myeloid cells; neutrophil heterogeneity; single-cell analysis; tumor immunology; tumor microenvironment.

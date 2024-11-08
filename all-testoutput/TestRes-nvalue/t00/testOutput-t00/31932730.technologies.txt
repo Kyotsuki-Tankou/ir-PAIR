@@ -1,0 +1,19 @@
+### Keywords ###
+- Single-cell RNA sequencing (scRNA-seq)
+- Spatial transcriptomics
+- Multimodal intersection analysis
+- Primary pancreatic tumors
+- Ductal cells, macrophages, dendritic cells, cancer cells
+- Inflammatory fibroblasts
+- Stress-response gene module
+### Verify ###
+- scRNA-seq
+- Spatial Transcriptomics
+### Context ###
+The input mentions combining a microarray-based spatial transcriptomics method with scRNA-seq. This implies the use of technologies related to spatial transcriptomics and single-cell RNA sequencing.
+### Conclusion ###
+The technologies used in the study are:
+- scRNA-seq (Single-cell RNA sequencing)
+- Spatial Transcriptomics (implied by the microarray-based method)
+### Result ###
+['scRNA-seq', 'Spatial Transcriptomics']

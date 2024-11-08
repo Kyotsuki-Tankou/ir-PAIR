@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "liver," "spatial proteogenomic atlas," "healthy and obese human and murine liver," "Kupffer cells," and "lipid-associated macrophages." These suggest a focus on the liver and its cellular components.
+### Verify ###
+The abstract mentions "a spatial proteogenomic atlas of the healthy and obese human and murine liver," which directly indicates a study focused on the liver. Phrases like "all hepatic cells," "Kupffer cells," and "lipid-associated macrophages" further verify that the study is centered around the liver tissue.
+### Context ###
+The context provided in the abstract consistently revolves around the liver, its cellular components, and the multi-omic approaches used to characterize it. There is no mention of any other organ or tissue, which solidifies the focus on the liver.
+### Conclusion ###
+Given the clear and consistent focus on the liver and its cellular architecture, "Liver tissue" is the most appropriate match from the provided schema.
+### Result ###
+["Liver tissue"]

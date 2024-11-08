@@ -1,0 +1,16 @@
+### Keywords ###
+- Single-cell RNA sequencing (scRNA-seq)
+- Spatial transcriptomics
+- Pancreatic tumors
+- Ductal cells
+- Macrophages
+- Dendritic cells
+- Cancer cells
+- Inflammatory fibroblasts
+- Stress-response gene module
+### Verify ###
+- Tissues mentioned: "primary pancreatic tumors"
+### Conclusion ###
+- The tissue type directly mentioned in the input is "Pancreas".
+### Result ###
+- ["Pancreas"]

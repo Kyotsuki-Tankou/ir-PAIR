@@ -1,0 +1,38 @@
+### Keywords ###
+- Cancer treatment
+- Antibodies
+- PD1
+- PDL1
+- T cells
+- Tumour immunity
+- Clonotypes
+- Single-cell sequencing
+- RNA
+- T cell receptors
+- Tumours
+- Normal adjacent tissue
+- Peripheral blood
+- Clonotypic expansion
+- Effector-like T cells
+- Anti-PDL1 therapy
+- Intratumoural T cells
+- Non-exhausted replacement cells
+- Cancer immunity cycle
+### Verify ###
+- **Cancer treatment**: Mentioned in the context of antibodies blocking PD1 and PDL1.
+- **Antibodies**: Specifically blocking PD1 and PDL1.
+- **PD1, PDL1**: Central to the study's focus.
+- **T cells, Tumour immunity**: Key components of the study.
+- **Clonotypes**: Mentioned in the context of T cells.
+- **Single-cell sequencing, RNA, T cell receptors**: Methods used in the study.
+- **Tumours, Normal adjacent tissue, Peripheral blood**: Sites where T cells were analyzed.
+- **Clonotypic expansion, Effector-like T cells**: Findings from the study.
+- **Anti-PDL1 therapy**: Therapy being studied.
+- **Intratumoural T cells, Non-exhausted replacement cells**: Findings related to T cell dynamics.
+- **Cancer immunity cycle**: Concept discussed in the context of clinical response.
+### Context ###
+The study focuses on understanding the mechanisms behind the success of antibodies that block PD1 and PDL1 in cancer treatment. It involves deep single-cell sequencing of RNA and T cell receptors in patients with different types of cancer to analyze T cell populations and their distribution in tumours, normal adjacent tissue, and peripheral blood. The findings suggest that clonotypic expansion of effector-like T cells is a key factor in patient response to anti-PDL1 therapy and that intratumoural T cells are replenished from outside the tumour, indicating ongoing cancer immunity cycle activity.
+### Conclusion ###
+The study primarily deals with various types of cancer and the immune response mechanisms, particularly focusing on T cells and their interaction with PD1 and PDL1.
+### Result ###
+- ['Cancer', 'Tumor metastasis', 'T cell depletion', 'Cancer immunity cycle', 'Anti-PDL1 therapy', 'Intratumoural T cells', 'Peripheral blood', 'Normal adjacent tissue', 'Clonotypic expansion', 'Effector-like T cells']

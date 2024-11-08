@@ -1,0 +1,8 @@
+###Keywords###
+The abstract discusses "gastruloids," which are aggregates of embryonic stem cells, and mentions "mammalian development after implantation." This indicates that 'Embryo development' may be a proper result.
+###Verify###
+The abstract explicitly mentions "mouse gastruloids with mouse embryos," "key features of mammalian development," and "axial organization," which are all related to embryonic development. This verifies that 'Embryo development' is indeed a relevant result.
+###Conclusion###
+Given the focus on the developmental processes and comparison with actual embryos, we confirm 'Embryo development' as the final result.
+###Result###
+['Embryo development']

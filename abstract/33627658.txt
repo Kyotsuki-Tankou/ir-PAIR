@@ -1,0 +1,6 @@
+["Homo sapiens", "Mus musculus"]
+["Cortex"]
+["Human cortex"]
+["sci-ATAC-seq", "sciMAP-ATAC-seq"]
+["Brain Cortex"]
+ Abstract\nHigh-throughput single-cell epigenomic assays can resolve cell type heterogeneity in complex tissues, however, spatial orientation is lost. Here, we present single-cell combinatorial indexing on Microbiopsies Assigned to Positions for the Assay for Transposase Accessible Chromatin, or sciMAP-ATAC, as a method for highly scalable, spatially resolved, single-cell profiling of chromatin states. sciMAP-ATAC produces data of equivalent quality to non-spatial sci-ATAC and retains the positional information of each cell within a 214 micron cubic region, with up to hundreds of tracked positions in a single experiment. We apply sciMAP-ATAC to assess cortical lamination in the adult mouse primary somatosensory cortex and in the human primary visual cortex, where we produce spatial trajectories and integrate our data with non-spatial single-nucleus RNA and other chromatin accessibility single-cell datasets. Finally, we characterize the spatially progressive nature of cerebral ischemic infarction in the mouse brain using a model of transient middle cerebral artery occlusion.

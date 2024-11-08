@@ -1,0 +1,12 @@
+###Keywords###
+From the abstract, the keywords that stand out are "cancer treatment," "PD1/PDL1 interaction," "T cells," "tumor immunity," "single-cell sequencing," "RNA sequencing," and "T cell receptors." These suggest a focus on the immunology of cancer and the role of T cells in tumor immunity.
+###Verify###
+The abstract specifically mentions:
+- "cancer treatment of antibodies that block the interaction of PD1 with its ligand PDL1"
+- "deep single-cell sequencing of RNA and T cell receptors"
+- "profiles of various populations of T cells and T cell receptors in tumours, normal adjacent tissue, and peripheral blood"
+These points verify that the study is investigating the T cell profiles within cancerous contexts, particularly focusing on the PD1/PDL1 interaction and T cell receptor expression.
+###Conclusion###
+Based on the keywords and verification, the disease or condition associated with the study is "Cancer," as the abstract clearly states the research is conducted on patients with different types of cancer.
+###Result###
+['Cancer']

@@ -1,0 +1,10 @@
+### Keywords ###
+From the Keywords "Stereo-seq; alveolarization; development; mouse lung; spatial transcriptome," the term "mouse lung" directly indicates the species used in the study.
+### Verify ###
+The presence of "mouse lung" in the Keywords explicitly verifies that the species involved in the study is "Mus musculus" (mouse).
+### Context ###
+Not required in this case as the verification directly supports the result without ambiguity.
+### Conclusion ###
+Consequently, we confirm "Mus musculus" as our final result based on the explicit mention in the Keywords.
+### Result ###
+['Mus musculus']

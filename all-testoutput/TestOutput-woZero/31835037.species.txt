@@ -1,0 +1,8 @@
+###Keywords###
+The abstract mentions "human embryonic cardiac cell types" and "human developing heart," indicating that the species involved is likely 'Homo sapiens'.
+###Verify###
+The abstract explicitly states, "Here, we present a molecular approach that reveals the comprehensive transcriptional landscape of cell types populating the embryonic heart at three developmental stages in humans," which directly verifies the use of 'Homo sapiens' as the species.
+###Conclusion###
+Since the term 'Homo sapiens' is both suggested by the keywords and clearly verified in the abstract, we can confidently conclude that 'Homo sapiens' is the appropriate species.
+###Result###
+['Homo sapiens']

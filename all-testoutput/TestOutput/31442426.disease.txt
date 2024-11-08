@@ -1,0 +1,12 @@
+###Keywords###
+The keywords provided are "APEX-Seq", "RNA localization", "proximity labeling", and "subcellular localization". These terms suggest that the research involves mapping the spatial organization of RNAs within cells and the use of a specific technique called APEX-seq.
+###Verify###
+The abstract mentions "APEX-seq can resolve the localization of RNAs within the cell" and "determine their enrichment or depletion near key RNA-binding proteins". This directly verifies the use of APEX-seq for RNA localization and the study of transcriptome organization.
+###Context###
+No additional context is needed as the abstract clearly outlines the research methods and findings, focusing on the use of APEX-seq for spatial transcriptomics.
+###Conclusion###
+Based on the explicit mention of APEX-seq and its application to RNA localization, we can conclude that the research involves specific cellular structures.
+###Result###
+Since the schema provided lists diseases and conditions, and the abstract does not mention any disease or condition explicitly related to the cellular processes being studied, the result is not directly related to the schema. However, the technique described in the abstract is applicable to various cellular processes, which could be associated with multiple diseases or conditions. Therefore, the result does not fit neatly into the schema provided.
+###Revised Result###
+null

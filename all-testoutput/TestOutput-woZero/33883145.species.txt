@@ -1,0 +1,8 @@
+###Keywords###
+From the abstract, the term "mouse tumor models" indicates that 'Mus musculus' may be a proper result.
+###Verify###
+From "profile mouse tumor models to capture spatially barcoded transcriptomes from tens of thousands of cells" in the Abstract, we can further verify that 'Mus musculus' is indeed mentioned and relevant.
+###Conclusion###
+Consequently, we choose 'Mus musculus' as our final result.
+###Result###
+['Mus musculus']

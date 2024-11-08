@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, there are no direct mentions of species names in the Abstract. However, the context of the study involves "the mouse embryo," which suggests that 'Mus musculus' might be the species used.
+### Verify ###
+The phrase "the mouse embryo" in the Abstract directly implies the use of the mouse model, which corresponds to 'Mus musculus' in the schema.
+### Context ###
+Since the phrase "the mouse embryo" is clear and unambiguous, there is no need for additional context to verify the species.
+### Conclusion ###
+Consequently, we confirm that 'Mus musculus' is the appropriate species based on the given information.
+### Result ###
+['Mus musculus']

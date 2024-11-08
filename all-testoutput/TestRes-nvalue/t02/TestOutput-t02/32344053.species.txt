@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the focus is on "Atopic dermatitis (AD)" in humans. The terms "human," "Atopic dermatitis," and "Mus musculus" (as a common model organism) are relevant.
+### Verify ###
+The abstract explicitly mentions "humans" as the species under study. There is no mention of any other species such as "Mus musculus" in the context of the actual study subjects.
+### Context ###
+Given the clear mention of "humans" and the focus on human skin disease (Atopic dermatitis), there is no ambiguity about the species involved in this study.
+### Conclusion ###
+Based on the information provided in the abstract, the species involved in the study is clearly "Homo sapiens."
+### Result ###
+["Homo sapiens"]

@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keywords "cutaneous squamous cell carcinoma (cSCC)" and "skin cancer" suggest that 'Squamous carcinoma' or 'Skin carcinoma cancer' might be relevant diseases.
+### Verify ###
+The abstract explicitly states:
+- "To define the cellular composition and architecture of cutaneous squamous cell carcinoma (cSCC)"
+This directly verifies the presence of 'Squamous carcinoma' in the context of the study.
+### Conclusion ###
+Consequently, we choose 'Squamous carcinoma' as our final result based on the explicit mention in the abstract.
+### Result ###
+['Squamous carcinoma']

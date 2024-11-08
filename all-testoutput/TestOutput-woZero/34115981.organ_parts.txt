@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords that stand out are "colon" and "liver," which suggest that these organ parts may be relevant results.
+### Verify ###
+In the abstract, phrases like "tissue zonation according to the portal-central (liver)" and "crypt-surface (colon)" directly verify that 'Liver' and 'Colon' are indeed relevant and proper results.
+### Context ###
+There is no need for additional context as the abstract clearly and consistently focuses on the liver and colon in the context of spatial transcriptome heterogeneity.
+### Conclusion ###
+Consequently, we confirm 'Liver' and 'Colon' as the final results based on the clear and direct references in the abstract.
+### Result ###
+['Liver', 'Colon']

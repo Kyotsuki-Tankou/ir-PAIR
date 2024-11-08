@@ -1,0 +1,13 @@
+### Keywords ###
+From the Keywords "atopic dermatitis; single-cell RNA sequencing; suction blistering," there is a clear indication of the species involved, specifically "humans."
+### Verify ###
+In the Abstract, the following phrases further verify the use of humans in the study:
+- "We sought to characterize AD on both transcriptomic and proteomic levels in humans."
+- "We used skin suction blistering, a painless and nonscarring procedure that can simultaneously sample skin cells and interstitial fluid."
+These statements explicitly mention "humans," confirming that the study was conducted on human subjects.
+### Context ###
+Given the direct references to "humans" in both the Keywords and the Abstract, there is no need for additional context to confirm the species used.
+### Conclusion ###
+Consequently, we confirm 'Homo sapiens' as the final result based on the clear and direct references in the abstract.
+### Result ###
+['Homo sapiens']

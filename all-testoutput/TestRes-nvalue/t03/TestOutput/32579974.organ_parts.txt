@@ -1,0 +1,10 @@
+### Keywords ###
+From the Abstract and Keywords, we have terms like "cutaneous squamous cell carcinoma (cSCC)", "normal skin", "tumor subpopulations", "fibrovascular niche", "T regulatory cell (Treg)", "CD8 T cells", "tumor stroma", and "skin cancer". These terms suggest a focus on skin and skin-related tissues.
+### Verify ###
+The Abstract mentions "cutaneous squamous cell carcinoma (cSCC)" and "normal skin", which directly indicate a focus on skin tissues. Additionally, terms like "fibrovascular niche" and "tumor stroma" are related to the skin tissue environment in the context of cancer.
+### Context ###
+Given the explicit mention of "cutaneous squamous cell carcinoma (cSCC)" and "normal skin", we can confidently associate these terms with skin tissues. The schema includes terms like "Skin", "Squamous Cell Carcinoma", and "Atopic dermatitis lesional skin", which are directly relevant to the context provided in the Abstract.
+### Conclusion ###
+Based on the direct mentions and the context of the study, we can conclude that "Skin" and "Squamous Cell Carcinoma" are the appropriate organ parts to be extracted.
+### Result ###
+['Skin', 'Squamous Cell Carcinoma']

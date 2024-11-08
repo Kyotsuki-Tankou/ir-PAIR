@@ -1,0 +1,8 @@
+### Keywords ###
+From the input, the term "human" is mentioned multiple times, indicating that the species involved in the study is likely 'Homo sapiens'.
+### Verify ###
+The phrases "human embryonic cardiac cell types," "human developing heart," and "human development" in the Abstract further confirm that the species studied is 'Homo sapiens'.
+### Conclusion ###
+Consequently, we confirm 'Homo sapiens' as our final result.
+### Result ###
+['Homo sapiens']

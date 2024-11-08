@@ -1,0 +1,10 @@
+### Keywords ###
+The Abstract mentions "mouse embryo" and "inner cell mass," suggesting that 'Embryo' might be a proper result.
+### Verify ###
+The phrases "post-implantation development of the mouse embryo" and "cells in different regions of the germ layers" in the Abstract confirm that 'Embryo' is a proper result.
+### Context ###
+Given the context of the study focusing on "post-implantation development" and "inner cell mass," it is clear that the research is centered around embryonic development. The specific focus on the "inner cell mass" and "germ layers" indicates a focus on embryonic tissues.
+### Conclusion ###
+Since the Abstract specifically discusses the mouse embryo and its developmental stages, we can conclude that 'Embryo' is the most relevant tissue type from the schema.
+### Result ###
+['Embryo']

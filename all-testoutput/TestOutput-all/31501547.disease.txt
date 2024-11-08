@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "primary breast cancer" and "mouse brain" are prominently mentioned, indicating that 'Breast cancer' and 'Brain' may be proper results.
+###Verify###
+The abstract states, "as demonstrated in mouse brain and primary breast cancer," which directly references these two conditions. This further verifies that 'Breast cancer' and 'Brain' are indeed relevant and proper results.
+###Context###
+Given the direct and clear mention of "mouse brain" and "primary breast cancer" in both the abstract and the result, there is no need for additional context to verify the keywords.
+###Conclusion###
+Consequently, we confirm 'Breast cancer' and 'Brain' as our final results based on the clear and consistent references in the abstract.
+###Result###
+['Breast cancer', 'Brain']

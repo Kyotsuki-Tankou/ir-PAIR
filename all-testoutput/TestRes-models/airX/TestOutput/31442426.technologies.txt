@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the keyword "APEX-seq" is mentioned, which is a technique used in the study. This indicates that 'APEX-seq' may be a proper result.
+### Verify ###
+The abstract states "We therefore developed an RNA proximity labeling technique, APEX-seq," which directly verifies that 'APEX-seq' is the technique used in the study.
+### Conclusion ###
+Given the clear mention of the technique in both the context and the specific methodology, we can confidently conclude that 'APEX-seq' is the appropriate technology to be extracted.
+### Result ###
+['APEX-seq']

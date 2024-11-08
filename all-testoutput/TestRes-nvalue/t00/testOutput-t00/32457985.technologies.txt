@@ -1,0 +1,18 @@
+### Keywords ###
+- RNA tomography sequencing
+- genome-wide
+- zebrafish, chicken, mouse, human embryos
+- anterior-posterior and dorsal-ventral transcriptional maps
+- interspecies comparative RNA sequencing analyses
+- functional assays
+- aortic microenvironment
+- hematopoietic stem cell generation
+- ligand-receptor couple ADM-RAMP2 and SVEP1
+### Verify ###
+- technologies mentioned: RNA tomography sequencing, RNA sequencing
+### Conclusion ###
+The technologies used in the study are "RNA tomography sequencing" and "RNA sequencing".
+### Result ###
+```json
+["RNA tomography sequencing", "RNA sequencing"]
+```

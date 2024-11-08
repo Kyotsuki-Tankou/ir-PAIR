@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, key terms include "single-cell analysis," "human organs," "human cell landscape (HCL)," and "tissues." These terms suggest a broad focus on various human tissues.
+###Verify###
+The abstract mentions "determine the cell-type composition of all major human organs" and "uncovered a single-cell hierarchy for many tissues." This indicates that multiple tissues are involved, but no specific tissue is singled out.
+###Context###
+The context of the abstract is about creating a comprehensive atlas of human cells, covering all major organs and tissues. This implies a wide range of tissues are involved, but none are explicitly named.
+###Conclusion###
+Given the broad and comprehensive nature of the study, it is challenging to pinpoint a specific tissue from the provided schema. The abstract does not focus on any single tissue but rather on a collective analysis of multiple tissues.
+###Result###
+null

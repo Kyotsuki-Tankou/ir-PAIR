@@ -1,0 +1,8 @@
+###Keywords###
+From "Skeletal muscle repair" and "mouse skeletal muscle" in the Abstract, it indicates that 'Muscle' may be a proper result.
+###Verify###
+The Abstract specifically mentions "Skeletal muscle repair" and "mouse skeletal muscle" multiple times, which further verifies that 'Muscle' is indeed the tissue being studied.
+###Conclusion###
+Consequently, we confirm 'Muscle' as our final result.
+###Result###
+['Muscle']

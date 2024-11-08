@@ -1,0 +1,10 @@
+### Keywords ###
+From the input, the keywords related to tissues are "left ventricles (LVs)", "LV dilation", "LV dysfunction", and "cardiomyocytes". These terms suggest that 'Heart' may be a proper result.
+### Verify ###
+The Abstract mentions "left ventricular noncompaction cardiomyopathy (LVNC)", "LV-specific dilation and dysfunction", and "cardiomyocyte-specific knockout (Prdm16cKO) mice". These phrases further verify that the study focuses on the heart, specifically the left ventricle.
+### Context ###
+The study involves "cardiomyocyte-specific ablation of Prdm16 in mice" and examines the effects on the left ventricle, which is a part of the heart. The terms "LV-specific dilation and dysfunction" and "LVNC" are directly related to the heart tissue.
+### Conclusion ###
+Given the repeated and specific references to the left ventricle and cardiomyocytes, we can conclude that 'Heart' is the relevant tissue being studied.
+### Result ###
+['Heart']

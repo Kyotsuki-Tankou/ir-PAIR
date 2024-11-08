@@ -1,0 +1,10 @@
+### Keywords ###
+From the provided keywords, "postnatal mouse brain development" and "single cell; spatial transcriptomics; stereo-seq" suggest that the species involved is likely 'Mus musculus' (mouse).
+### Verify ###
+The keywords explicitly mention "postnatal mouse brain development," which directly verifies that the species in question is 'Mus musculus'.
+### Context ###
+Since the keywords are clear and directly mention "mouse," there is no ambiguity or need for additional context to confirm the species.
+### Conclusion ###
+Based on the clear and direct mention of "mouse" in the keywords, we can confidently conclude that the species is 'Mus musculus'.
+### Result ###
+['Mus musculus']

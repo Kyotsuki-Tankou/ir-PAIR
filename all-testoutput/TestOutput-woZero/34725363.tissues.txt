@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the terms "tumor" and "microenvironment" are prominently mentioned. Additionally, "tumor boundary" and "interface cell state" suggest interactions between tumor and neighboring tissues. This indicates that 'Tumor' may be a proper result.
+### Verify ###
+The abstract states, "Using a zebrafish model of melanoma, we identify a distinct 'interface' cell state where the tumor contacts neighboring tissues," which directly references the presence and interaction of tumor cells. This verifies that 'Tumor' is indeed a relevant tissue in the context of the study.
+### Context ###
+The abstract also mentions "human patient samples" and "human melanoma," which further supports the relevance of 'Tumor' as a key tissue in the study. There is no conflicting information that would necessitate additional context.
+### Conclusion ###
+Consequently, we confirm 'Tumor' as our final result based on the clear and consistent references in the abstract.
+### Result ###
+['Tumor']

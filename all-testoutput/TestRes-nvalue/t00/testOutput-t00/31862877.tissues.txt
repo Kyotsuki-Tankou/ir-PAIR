@@ -1,0 +1,25 @@
+### Keywords ###
+- Heart failure (HF)
+- Circulating proteins
+- Aptamer-based proteomics
+- Immunological, complement, coagulation, natriuretic, matrix remodeling pathways
+- Coronary sinus samples
+- Transcriptomic tools
+- Cardiac origins
+- Specific cellular origins
+- Nt-proBNP, thrombospondin-2, interleukin-18 receptor, gelsolin, activated C5
+### Verify ###
+- Heart: Mentioned multiple times in context of heart failure and cardiac origins.
+- Blood: Mentioned in context of circulating proteins and coronary sinus samples.
+- Coronary sinus: Specific mention of coronary sinus samples.
+- Cardiac cells: Implied through discussion of cardiac origins of proteins.
+### Context ###
+- The study focuses on heart failure and the proteins associated with it.
+- Coronary sinus samples are used to identify the origin of these proteins.
+- The mention of specific proteins like Nt-proBNP, thrombospondin-2, etc., suggests a detailed look into cardiac and systemic factors.
+### Conclusion ###
+- The primary tissue types mentioned and relevant to the study are "Heart" and "Blood".
+- "Coronary sinus" is a specific part of the cardiovascular system, but it can be grouped under "Heart" for broader categorization.
+- "Cardiac cells" are implied but not explicitly mentioned; they can be considered under "Heart".
+### Result ###
+["Heart", "Blood"]

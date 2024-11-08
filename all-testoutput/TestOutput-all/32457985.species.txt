@@ -1,0 +1,12 @@
+### Keywords ###
+From the abstract, the terms "zebrafish, chicken, mouse, and human embryos" directly indicate the species involved in the study.
+### Verify ###
+The abstract mentions:
+- "performed genome-wide RNA tomography sequencing on zebrafish, chicken, mouse, and human embryos"
+This verifies that the species involved are 'Danio rerio' (zebrafish), 'Gallus gallus' (chicken), 'Mus musculus' (mouse), and 'Homo sapiens' (human).
+### Context ###
+The context clearly states the use of these four species for genome-wide RNA tomography sequencing, providing a strong basis for their inclusion without the need for further clarification.
+### Conclusion ###
+Based on the clear and direct mention of the species in the abstract, we can confidently conclude that the species involved are 'Danio rerio', 'Gallus gallus', 'Mus musculus', and 'Homo sapiens'.
+### Result ###
+['Danio rerio', 'Gallus gallus', 'Mus musculus', 'Homo sapiens']

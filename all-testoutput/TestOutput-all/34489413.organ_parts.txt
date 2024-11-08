@@ -1,0 +1,11 @@
+### Keywords ###
+From the input, the keywords related to organ parts are "mammalian neonatal heart," "regenerating cardiomyocytes," "adult mouse heart," and "human induced pluripotent stem cell-derived cardiomyocytes." These suggest potential matches with 'Heart' and 'Cardiomyocytes' from the schema.
+### Verify ###
+- "mammalian neonatal heart" and "adult mouse heart" directly align with 'Heart' from the schema.
+- "regenerating cardiomyocytes" and "human induced pluripotent stem cell-derived cardiomyocytes" suggest a focus on cardiomyocytes, which are a specific cell type within the heart tissue, but 'Cardiomyocytes' is not explicitly listed in the schema.
+### Context ###
+The abstract specifically discusses the regeneration and protection mechanisms in the heart, particularly focusing on cardiomyocytes. The context strongly supports the inclusion of 'Heart' as it is the primary organ discussed. While 'Cardiomyocytes' are crucial in the context, they are not listed in the schema, so we cannot include them.
+### Conclusion ###
+Based on the context and verification, the most accurate and relevant term from the schema that matches the input is 'Heart.'
+### Result ###
+['Heart']

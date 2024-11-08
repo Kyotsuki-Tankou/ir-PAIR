@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, keywords such as "multicellular organisms," "mouse embryo," "photo-isolation chemistry," "PIC," "transcriptome profiling," "subcellular," and "subnuclear microstructures" are prominent. However, none of these directly mention a specific disease.
+###Verify###
+Upon reviewing the abstract, there is no direct mention of any disease. The focus is on the methodological development of PIC for transcriptome profiling in spatially defined regions, particularly in the context of the mouse embryo.
+###Context###
+Given the focus on "mouse embryo" and the methodological nature of the study, it appears that the research is more about developmental biology and technological advancement rather than studying a specific disease.
+###Conclusion###
+The abstract does not provide any clear indication of a specific disease being studied. The primary focus is on the development and application of a new technique for spatial transcriptome analysis in mouse embryos.
+###Result###
+null

@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the terms "hippocampus" and "olfactory bulbs" are prominently mentioned. These directly correspond to the items "Hippocampus" and "Olfactory bulb" in the provided schema.
+### Verify ###
+The abstract specifically discusses "the structured layers of the hippocampus and olfactory bulbs" and mentions "AD mice," indicating that these organs are the primary focus of the study. This confirms the presence of "Hippocampus" and "Olfactory bulb" in the context of the research.
+### Conclusion ###
+Since both the keywords and the context within the abstract consistently point to "Hippocampus" and "Olfactory bulb," we can confidently conclude that these are the relevant organ parts.
+### Result ###
+['Hippocampus', 'Olfactory bulb']

@@ -1,0 +1,16 @@
+### Keywords ###
+- High-definition spatial transcriptomics
+- RNA
+- Histological tissue sections
+- Spatially barcoded bead array
+- Mouse brain
+- Primary breast cancer
+### Verify ###
+- Mouse brain
+- Primary breast cancer
+### Conclusion ###
+The input mentions specific organ parts that match the schema: "Mouse brain" and "Primary breast cancer".
+### Result ###
+```json
+["Mouse brain", "Primary breast cancer"]
+```

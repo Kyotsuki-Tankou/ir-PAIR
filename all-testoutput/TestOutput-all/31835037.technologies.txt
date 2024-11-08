@@ -1,0 +1,16 @@
+### Keywords ###
+From the Abstract, the keywords related to technologies are:
+- "single-cell RNA sequencing"
+- "spatial transcriptomics"
+- "in situ sequencing"
+### Verify ###
+1. **single-cell RNA sequencing**: The Abstract mentions "Human embryonic cardiac cell types identified by single-cell RNA sequencing," which directly verifies the use of 'scRNA' technology.
+2. **spatial transcriptomics**: The Abstract states "Spatial transcriptomics identified unique gene profiles," confirming the use of 'Spatial Transcriptomics' technology.
+3. **in situ sequencing**: The Abstract mentions "In situ sequencing was then used to refine these results," which verifies the use of 'in situ sequencing' technology. However, 'in situ sequencing' is not listed in the provided schema.
+### Context ###
+- The Abstract clearly mentions "single-cell RNA sequencing" and "spatial transcriptomics," which are directly listed in the schema.
+- "In situ sequencing" is mentioned but is not part of the schema, so it should not be included in the final result.
+### Conclusion ###
+Based on the clear mentions and verification, we can conclude that the technologies used in the study are 'scRNA' and 'Spatial Transcriptomics'.
+### Result ###
+['scRNA', 'Spatial Transcriptomics']

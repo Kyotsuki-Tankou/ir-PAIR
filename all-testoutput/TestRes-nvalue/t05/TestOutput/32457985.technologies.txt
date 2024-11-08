@@ -1,0 +1,10 @@
+### Keywords ###
+The term "genome-wide RNA tomography sequencing" in the abstract suggests the use of a technology that could correspond to 'RNA-seq' or 'Tomo-seq' from the schema.
+### Verify ###
+The abstract mentions "genome-wide RNA tomography sequencing on zebrafish, chicken, mouse, and human embryos," which verifies the use of a sequencing technology for genome-wide RNA analysis.
+### Context ###
+The context provided by the abstract indicates that the study involves a detailed spatial analysis of gene expression, which could imply the use of 'STARmap', 'Spatial Transcriptomics', or other similar spatial sequencing technologies. However, 'Tomo-seq' is also a possibility given the mention of "tomography."
+### Conclusion ###
+The abstract does not provide a definitive match to any single technology in the schema, but it does indicate the use of a genome-wide RNA sequencing technology. Given the mention of "tomography" in the context of RNA sequencing, 'Tomo-seq' seems to be the most likely match. However, without a direct mention of 'Tomo-seq' in the abstract, this conclusion is based on an interpretation of the context.
+### Result ###
+['Tomo-seq']

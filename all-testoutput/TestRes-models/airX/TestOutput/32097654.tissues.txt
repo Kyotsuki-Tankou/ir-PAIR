@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, the terms "digit tip" and "blastema" are mentioned, which suggest a focus on a specific part of the body involved in regeneration. Additionally, "mouse digit tip blastemas" indicates the use of mouse tissue in the study. The keywords here are "digit tip" and "blastema."
+### Verify ###
+The abstract specifically states:
+- "mouse digit tip blastemas"
+- "unamputated control digit tips"
+This directly verifies the presence of "digit tip" and "blastema" in the context of the study.
+### Context ###
+The abstract also mentions "single-cell RNA sequencing of over 38,000 cells from mouse digit tip blastemas" and "generate an atlas of the cell types participating in digit tip regeneration." This provides context that the study is focused on the cellular aspects of digit tip regeneration in mice.
+### Conclusion ###
+Given the context and the direct mention of "digit tip" and "blastema" in the study, it is appropriate to conclude that these are the relevant tissues based on the schema provided.
+### Result ###
+['digit tip', 'blastema']

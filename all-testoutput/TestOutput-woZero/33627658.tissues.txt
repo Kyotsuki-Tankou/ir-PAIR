@@ -1,0 +1,17 @@
+### Keywords ###
+From the abstract, the key terms related to tissues are "cortex," "adult mouse primary somatosensory cortex," "human primary visual cortex," and "mouse brain." These terms suggest a focus on cortical and brain tissues.
+### Verify ###
+The abstract specifically mentions:
+- "adult mouse primary somatosensory cortex"
+- "human primary visual cortex"
+- "mouse brain"
+These terms directly correspond to "Cortex" and "Brain" from the provided schema.
+### Context ###
+The study involves:
+- Assessing cortical lamination in the adult mouse primary somatosensory cortex and human primary visual cortex.
+- Characterizing cerebral ischemic infarction in the mouse brain.
+These contexts strongly align with "Cortex" and "Brain" as the primary tissues of interest.
+### Conclusion ###
+Based on the direct mentions and the context of the study, the most appropriate tissues from the schema are "Cortex" and "Brain."
+### Result ###
+["Cortex", "Brain"]

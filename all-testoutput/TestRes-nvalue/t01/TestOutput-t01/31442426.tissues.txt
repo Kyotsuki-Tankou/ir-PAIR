@@ -1,0 +1,8 @@
+###Keywords###
+From "stress granules" in the Abstract, indicates that 'Stress granules' may be a proper result.
+###Verify###
+From "Transcripts in these complexes localize to specific regions of the cell and can condense into non-membrane-bound structures such as stress granules" in the Abstract, we CAN further verify that 'Stress granules' may be a proper result.
+###Conclusion###
+Consequently, we choose 'Stress granules' as our final result.
+###Result###
+['Stress granules']

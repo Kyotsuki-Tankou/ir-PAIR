@@ -1,0 +1,13 @@
+### Keywords ###
+From the input, potential keywords related to diseases include "fibrosis," "skin injury," and "tissue repair."
+### Verify ###
+The abstract mentions:
+- "In the skin, tissue injury results in fibrosis"
+- "therapeutic goal of regenerative wound healing"
+- "study of cell populations in complex tissue"
+- "fibroblast fate during the physiologic response to skin injury"
+These phrases directly relate to "fibrosis," "skin injury," and "tissue repair."
+### Conclusion ###
+Based on the direct mentions in the abstract, we can confirm that "fibrosis," "skin injury," and "tissue repair" are relevant diseases related to the study.
+### Result ###
+['fibrosis', 'skin injury', 'tissue repair']

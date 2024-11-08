@@ -1,0 +1,12 @@
+###Keywords###
+From the abstract, the terms "early zebrafish development" and "early stages of embryogenesis" suggest that 'Embryo' and possibly 'Zebrafish' (though not directly listed in the schema) are relevant. Additionally, "vegetal pole" and "primordial germ cells" indicate specific stages and cell types within the embryo.
+###Verify###
+- "early zebrafish development" and "one-cell stage embryo" confirm the focus on 'Embryo'.
+- "xenopus species" indicates involvement of 'Xenopus', but since 'Xenopus' is not in the tissue schema, it is not relevant for this extraction.
+###Context###
+- The study focuses on early developmental stages, specifically the embryo.
+- The mention of "xenopus species" is for comparative purposes and does not change the primary tissue of interest.
+###Conclusion###
+The primary tissue of interest based on the context and keywords is 'Embryo'.
+###Result###
+['Embryo']

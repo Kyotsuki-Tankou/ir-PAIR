@@ -1,0 +1,8 @@
+###Keywords###
+From the "Abstract," the keyword that directly indicates the species is "mouse embryo."
+###Verify###
+The abstract mentions "post-implantation development of the mouse embryo" and "cells in different regions of the germ layers acquire location-specific cell fates during gastrulation." This clearly indicates that the species being studied is the mouse.
+###Conclusion###
+Given the explicit mention of "mouse embryo" and the context of studying germ layers and cell fates in this species, it is clear that the species being referred to is "Mus musculus."
+###Result###
+['Mus musculus']

@@ -1,0 +1,6 @@
+["Arabidopsis thaliana"]
+["Leaf"]
+["Cauline leaf"]
+["Stereo-Seq"]
+["Plants"]
+ Abstract\nUnderstanding the complex functions of plant leaves requires a thorough characterization of discrete cell features. Although single-cell gene expression profiling technologies have been developed, their application in characterizing cell subtypes has not been achieved yet. Here, we present scStereo-seq (single-cell spatial enhanced resolution omics sequencing) that enabled us to show the bona fide single-cell spatial transcriptome profiles of Arabidopsis leaves. Subtle but significant transcriptomic differences between upper and lower epidermal cells have been successfully distinguished. Furthermore, we discovered cell-type-specific gene expression gradients from the main vein to the leaf edge, which led to the finding of distinct spatial developmental trajectories of vascular cells and guard cells. Our study showcases the importance of physical locations of individual cells for exerting complex biological functions in plants and demonstrates that scStereo-seq is a powerful tool to integrate single-cell location and transcriptome information for plant biology study. \n Keywords:Arabidopsis leaves; single-cell Stereo-seq; single-cell spatial transcriptome; spatial developmental trajectory.

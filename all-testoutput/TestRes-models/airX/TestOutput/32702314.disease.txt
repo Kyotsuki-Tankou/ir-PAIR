@@ -1,0 +1,8 @@
+### Keywords ###
+The term "Alzheimer's disease" is mentioned in the Keywords, suggesting that 'Alzheimer disease' may be a proper result.
+### Verify ###
+The abstract mentions "Although complex inflammatory-like alterations are observed around the amyloid plaques of Alzheimer's disease (AD)," which directly verifies that 'Alzheimer disease' is indeed the disease being studied.
+### Conclusion ###
+Consequently, we confirm 'Alzheimer disease' as our final result.
+### Result ###
+['Alzheimer disease']

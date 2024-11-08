@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the keywords that stand out are "intestinal epithelium," "small intestine," "colon," "mice," and "DDX5." These keywords suggest that the study is focused on the intestine, particularly in mice, and involves the protein DDX5.
+### Verify ###
+The abstract mentions "control and epithelial cell-specific Ddx5 knockout mice (DDX5ΔIEC)" and "intestinal tuft cell populations," which directly indicate that the species being studied is mice, specifically "Mus musculus."
+### Context ###
+Given the detailed focus on mice and the specific mention of "DDX5ΔIEC mice," there is no need for additional context to verify the species type.
+### Conclusion ###
+Consequently, we confirm that 'Mus musculus' is the appropriate species based on the provided abstract.
+### Result ###
+['Mus musculus']

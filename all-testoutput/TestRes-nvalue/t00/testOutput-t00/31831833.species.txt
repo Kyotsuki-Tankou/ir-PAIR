@@ -1,0 +1,22 @@
+### Keywords ###
+- Synovial biopsies
+- Rheumatoid arthritis (RA)
+- Spondyloarthritis (SpA)
+- Spatial Transcriptomics (ST)
+- Differential gene expression analysis (DEA)
+- Immune cell type identification
+- Xcell analysis
+- Immunohistochemistry (IHC)
+- Mononuclear cell infiltrates
+- Adaptive immune response
+- T-B cell interactions
+- Tissue repair
+- Central memory T cells
+- Effector memory T cells
+- Chronic inflammatory diseases
+### Verify ###
+- Species mentioned: Homo sapiens (implied by the context of RA and SpA patients)
+### Conclusion ###
+- The study focuses on human subjects (Homo sapiens) as indicated by the context of rheumatoid arthritis and spondyloarthritis patients.
+### Result ###
+- ['Homo sapiens']

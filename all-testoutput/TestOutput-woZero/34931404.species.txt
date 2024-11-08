@@ -1,0 +1,10 @@
+### Keywords ###
+From the abstract, the term "GAN mice" and "GAN mouse-derived tumor" are prominent, indicating that 'Mus musculus' may be the proper result.
+### Verify ###
+The abstract mentions "GAN mice" and "GAN mouse-derived tumor," which directly verifies that the study is focused on 'Mus musculus'.
+### Context ###
+The abstract consistently discusses the use of GAN mice and their derived tumors, with no ambiguity or need for additional context to confirm the species.
+### Conclusion ###
+Consequently, we confirm 'Mus musculus' as the final result based on the clear and consistent focus on mice in the abstract.
+### Result ###
+['Mus musculus']

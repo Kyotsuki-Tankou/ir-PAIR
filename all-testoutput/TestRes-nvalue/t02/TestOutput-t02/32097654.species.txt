@@ -1,0 +1,8 @@
+### Keywords ###
+From the abstract, the keywords "mouse digit tip blastemas" and "unamputated control digit tips" indicate the species involved. The term "mouse" directly corresponds to a species in the schema.
+### Verify ###
+The phrase "over 38,000 cells from mouse digit tip blastemas" explicitly mentions "mouse," which confirms the species used in the study.
+### Conclusion ###
+The explicit mention of "mouse" in the abstract clearly indicates that the species involved in the study is 'Mus musculus'.
+### Result ###
+['Mus musculus']

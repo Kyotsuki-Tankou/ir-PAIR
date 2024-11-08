@@ -1,0 +1,8 @@
+### Keywords ###
+The keywords from the abstract that stand out are "heart failure," "circulating proteins," and "cardiac factors," which suggest that 'Heart' may be a proper result.
+### Verify ###
+The abstract mentions "heart failure" and "cardiac factors," which directly verify that 'Heart' is indeed a relevant tissue type in this context.
+### Conclusion ###
+Consequently, we choose 'Heart' as our final result.
+### Result ###
+['Heart']

@@ -1,0 +1,12 @@
+### Keywords
+- blastema
+- digit tip regeneration
+- fibroblast heterogeneity
+- mest
+- single-cell RNA-seq
+### Verify
+- single-cell RNA-seq
+### Conclusion
+- The technology used in the study is "single-cell RNA-seq".
+### Result
+- ["single-cell RNA-seq"]

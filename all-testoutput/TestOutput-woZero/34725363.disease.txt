@@ -1,0 +1,8 @@
+###Keywords###
+From the Abstract, the terms "melanoma" and "human melanoma" indicate that 'Melanoma' may be a proper result.
+###Verify###
+The Abstract mentions "a zebrafish model of melanoma" and "a cilia-enriched interface is conserved in human patient samples, suggesting it is a conserved feature of human melanoma," which further verifies that 'Melanoma' is indeed a proper result.
+###Conclusion###
+Consequently, we confirm 'Melanoma' as our final result.
+###Result###
+['Melanoma']

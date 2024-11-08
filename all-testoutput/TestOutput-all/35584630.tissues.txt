@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the primary focus is on "human brain metastases" and "CD8+ T cells" within the brain tumor microenvironment. The relevant tissue from the schema that directly matches this context is 'Brain'.
+###Verify###
+The abstract explicitly mentions "human brain metastases" multiple times, which strongly indicates that 'Brain' is the relevant tissue being studied.
+###Context###
+The context of the study revolves around the analysis of brain metastases and the behavior of CD8+ T cells within these metastases. There is no mention of other tissues, which reinforces that 'Brain' is the central focus.
+###Conclusion###
+Given the clear and repeated mention of "brain metastases" and the specific analysis of CD8+ T cells within the brain tumor microenvironment, it is conclusive that 'Brain' is the relevant tissue from the schema.
+###Result###
+['Brain']

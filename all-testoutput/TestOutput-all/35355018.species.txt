@@ -1,0 +1,16 @@
+###Keywords###
+- "human distal airways"
+- "terminal and respiratory bronchioles (TRBs)"
+- "human lung development"
+- "non-human primate model of lung injury"
+- "human organoids and tissue specimens"
+###Verify###
+- The abstract explicitly mentions "human distal airways" and "human lung development," indicating the study is focused on Homo sapiens.
+- "non-human primate model of lung injury" suggests the use of a primate model, likely Macaca fascicularis, but the primary focus remains on human tissues.
+###Context###
+- The study's primary emphasis is on human tissues and human lung development, with additional validation using a non-human primate model.
+- The detailed analysis of human-specific cell types and their dynamics further supports the primary focus on Homo sapiens.
+###Conclusion###
+Given the clear and consistent emphasis on human tissues and development, "Homo sapiens" is the most relevant match from the provided schema. While "Macaca fascicularis" is mentioned, it is secondary to the primary focus on human samples.
+###Result###
+["Homo sapiens"]

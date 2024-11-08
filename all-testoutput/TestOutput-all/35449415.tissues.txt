@@ -1,0 +1,8 @@
+###Keywords###
+From the phrases "infected lymph nodes" and "mouse tumor model" in the Abstract, it indicates that 'Lymph' and 'Tumor' may be proper results.
+###Verify###
+The Abstract specifically mentions "a study of infected lymph nodes and of a mouse tumor model," which further verifies that 'Lymph' and 'Tumor' are indeed the tissues being studied.
+###Conclusion###
+Consequently, we confirm 'Lymph' and 'Tumor' as our final results.
+###Result###
+['Lymph', 'Tumor']

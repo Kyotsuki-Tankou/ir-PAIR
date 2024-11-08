@@ -1,0 +1,10 @@
+###Keywords###
+From the Keywords, "Stereo-seq" is directly mentioned, indicating it may be a relevant technology used in the study.
+###Verify###
+Since there is no abstract available, we cannot verify the context in which "Stereo-seq" is used. However, the presence of "spatial transcriptome" alongside "Stereo-seq" suggests that this technology is likely related to spatial transcriptomics, which aligns with the known application of Stereo-seq.
+###Context###
+Given the absence of an abstract, we rely on the keywords. "Stereo-seq" is a technology known for its application in spatial transcriptomics, and its mention alongside "spatial transcriptome" supports its relevance.
+###Conclusion###
+Based on the keywords and the known application of Stereo-seq, we can conclude that "Stereo-seq" is a proper result.
+###Result###
+["Stereo-seq"]

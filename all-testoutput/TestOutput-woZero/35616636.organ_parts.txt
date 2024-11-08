@@ -1,0 +1,10 @@
+###Keywords###
+From the abstract, the terms "limb regeneration," "blastema," "skeletal regeneration," "digit regeneration," and "mouse" are prominent. These suggest a focus on specific anatomical parts involved in regeneration, particularly in a mouse model.
+###Verify###
+The abstract mentions "De novo limb regeneration after amputation is restricted in mammals to the distal digit tip" and "To investigate skeletal regeneration, we made use of spatial transcriptomics to characterize the transcriptional profile specifically within the blastema." These statements directly point to "digit regeneration" and "skeletal muscle (quadriceps)" as relevant organ parts.
+###Context###
+While "digit regeneration" is explicitly mentioned, the context of skeletal regeneration and the use of a mouse model suggests that "skeletal muscle (quadriceps)" could also be relevant, as it pertains to the broader context of skeletal tissue and muscle involved in limb regeneration.
+###Conclusion###
+Given the explicit mention of "digit regeneration" and the broader context of skeletal regeneration, both "digit regeneration" and "skeletal muscle (quadriceps)" are appropriate matches from the provided schema.
+###Result###
+["digit regeneration", "skeletal muscle (quadriceps)"]

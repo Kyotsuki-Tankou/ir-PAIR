@@ -1,0 +1,10 @@
+### Keywords
+From the keywords provided ("CRISPR screen", "MIBI", "intra-tumoral heterogeneity", "multi-omics", "scRNA-seq", "skin cancer", "spatial transcriptomics", "squamous cell carcinoma", "tumor immunology", "tumor microenvironment"), we can infer that 'Skin' and 'Tumor' are likely to be relevant to the schema.
+### Verify
+The abstract explicitly mentions "cutaneous squamous cell carcinoma (cSCC)" and "matched normal skin," which indicates 'Skin' is involved. It also discusses the cellular composition and architecture of the tumor, pointing to 'Tumor'.
+### Context
+The research focuses on defining the cellular composition and architecture of a specific type of skin cancer (cutaneous squamous cell carcinoma), which implies that both 'Skin' and 'Tumor' are directly related to the study.
+### Conclusion
+Based on the explicit mention of 'Skin' and 'Tumor' in the abstract and the context provided, we can conclude that both are part of the schema.
+### Result
+["Skin", "Tumor"]

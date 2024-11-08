@@ -1,0 +1,9 @@
+###Keywords###
+From the input, the term "mouse model" and "mice" are prominently mentioned, indicating that 'Mus musculus' is the species used in the study.
+###Verify###
+- The abstract states: "Here, we describe the creation of a mouse model of DMD caused by deletion of exon 51 of the dystrophin gene," and "we performed single-nucleus transcriptomics of skeletal muscle of mice with dystrophin exon 51 deletion."
+- These statements clearly verify that 'Mus musculus' (mouse) is the species employed in the study.
+###Conclusion###
+Given the clear and repeated mention of "mouse" and "mice" in the abstract, we can confidently conclude that 'Mus musculus' is the appropriate species to be extracted according to the schema.
+###Result###
+['Mus musculus']

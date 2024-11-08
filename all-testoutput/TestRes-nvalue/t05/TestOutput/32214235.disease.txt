@@ -1,0 +1,10 @@
+### Keywords ###
+The keywords from the abstract that stand out are "single-cell mRNA sequencing," "human organs," and "human cell landscape (HCL)." These suggest a focus on normal human cellular organization rather than a specific disease.
+### Verify ###
+The abstract mentions the use of single-cell mRNA sequencing to determine the cell-type composition of all major human organs, indicating a broad study of normal human biology rather than a focus on any particular disease.
+### Context ###
+The context provided by the abstract is that this is a foundational study aiming to create a comprehensive single-cell atlas for humans, which is more about understanding normal biology than studying diseases.
+### Conclusion ###
+Based on the context and focus of the study as described in the abstract, the most appropriate term from the schema is "Normal," as it reflects the study's aim to understand normal human cellular organization.
+### Result ###
+["Normal"]

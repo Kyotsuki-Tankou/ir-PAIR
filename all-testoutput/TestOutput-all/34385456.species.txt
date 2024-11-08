@@ -1,0 +1,8 @@
+###Keywords###
+From the input, the focus is on "human bladder cancer," which suggests that 'Homo sapiens' might be a proper result.
+###Verify###
+The input text explicitly mentions "human bladder cancer," which directly confirms that 'Homo sapiens' is indeed a correct result based on the provided schema.
+###Conclusion###
+Since both the keywords and the verification point to 'Homo sapiens', we can conclude that it is the correct result.
+###Result###
+['Homo sapiens']
